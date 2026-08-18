@@ -1,0 +1,51 @@
+# Agendador do Radar de Shows — roda nos servidores do GitHub, de graca.
+# Coloque este arquivo em: .github/workflows/radar.yml
+name: Radar de Shows
+
+on:
+  schedule:
+    # Horarios em UTC. Brasilia = UTC-3.
+    - cron: "0 11 * * *"   # 08:00 em Brasilia
+    - cron: "0 21 * * *"   # 18:00 em Brasilia
+  workflow_dispatch:        # permite rodar na mao pelo botao "Run workflow"
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o codigo
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install httpx
+
+      - name: Validar o motor de filtros
+        run: python test_filtros.py
+
+      - name: Rodar o radar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RADAR_DIAS: "3"
+          RADAR_SCORE_MIN: "10"
+          RADAR_UFS: ""            # vazio = Brasil inteiro. Ex: "SP,MG,GO"
+          RADAR_DATA_DIR: "data"
+          RADAR_UA: "radar-shows/1.0 (monitoramento de editais culturais)"
+        run: python main.py
+
+      - name: Salvar o resultado no repositorio
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add -f data/oportunidades.json data/radar.sqlite3 || true
+          git commit -m "radar: atualizacao $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "nada mudou"
+          git pull --rebase --autostash || true
+          git push || echo "push falhou"
