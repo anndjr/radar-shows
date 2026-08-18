@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Radar de Shows</title>
+<meta name="theme-color" content="#17233B">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+/* ══════════════════════════════════════════════════════════════
+   CONFIGURAÇÃO — a única linha que você precisa editar está no
+   final do arquivo, na constante CONFIG.dataUrl
+   ══════════════════════════════════════════════════════════════ */
+
+:root{
+  --dust:#E8DCC4;        /* poeira de arena / papel curtido de sol */
+  --dust-deep:#D8C8A6;
+  --dust-line:#C0AC85;
+  --ink:#17233B;         /* azul-tinta de carimbo oficial */
+  --ink-soft:#59637C;
+  --stamp:#B3241F;       /* vermelho de carimbo — urgência */
+  --verde:#1F5F3F;       /* verde bandeira — prazo folgado */
+  --sun:#D9911A;         /* âmbar — atenção */
+  --paper:#F2EADA;
+
+  --r:3px;
+  --pad:16px;
+}
+
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0}
+body{
+  background:var(--dust);
+  color:var(--ink);
+  font-family:'Barlow',system-ui,sans-serif;
+  font-size:15px;line-height:1.45;
+  padding-bottom:48px;
+  background-image:radial-gradient(circle at 12% 8%, rgba(255,255,255,.5), transparent 45%);
+}
+a{color:inherit}
+button{font-family:inherit;cursor:pointer}
+:focus-visible{outline:2.5px solid var(--stamp);outline-offset:2px}
+
+/* ───────── masthead ───────── */
+header{
+  background:var(--ink);color:var(--paper);
+  padding:calc(env(safe-area-inset-top) + 18px) var(--pad) 14px;
+  border-bottom:5px solid var(--stamp);
+}
+.wordmark{
+  font-family:'Anton',sans-serif;font-size:34px;line-height:.92;
+  letter-spacing:.01em;text-transform:uppercase;margin:0;
+}
+.wordmark span{color:var(--sun)}
+.tagline{
+  font-family:'Barlow Condensed',sans-serif;font-weight:600;
+  text-transform:uppercase;letter-spacing:.16em;font-size:11.5px;
+  color:#A8B2C9;margin-top:5px;
+}
+.tally{
+  display:flex;gap:22px;margin-top:14px;
+  border-top:1px solid #2E3C58;padding-top:11px;
+}
+.tally div{line-height:1}
+.tally b{
+  font-family:'Anton',sans-serif;font-size:23px;display:block;
+}
+.tally small{
+  font-family:'Barlow Condensed',sans-serif;font-weight:600;
+  text-transform:uppercase;letter-spacing:.1em;font-size:10px;color:#8E99B4;
+}
+.tally .t-open b{color:var(--sun)}
+
+/* ───────── banner de estado ───────── */
+.banner{
+  background:var(--dust-deep);border-bottom:1px solid var(--dust-line);
+  padding:9px var(--pad);font-size:12.5px;color:#5A4E33;
+  display:flex;gap:8px;align-items:flex-start;
+}
+.banner b{font-weight:600}
+.banner.hide{display:none}
+
+/* ───────── carimbo: o que fecha primeiro ───────── */
+.urgente{
+  margin:var(--pad);padding:18px 16px 16px;
+  background:var(--paper);
+  border:2.5px solid var(--ink);
+  box-shadow:5px 5px 0 var(--ink);
+  position:relative;overflow:hidden;
+}
+.urgente::after{
+  content:"";position:absolute;inset:5px;border:1px solid var(--dust-line);
+  pointer-events:none;
+}
+.urgente .eyebrow{
+  font-family:'Barlow Condensed',sans-serif;font-weight:700;
+  text-transform:uppercase;letter-spacing:.2em;font-size:10.5px;
+  color:var(--stamp);
+}
+.urgente .countdown{
+  font-family:'Anton',sans-serif;font-size:52px;line-height:.86;
+  margin:6px 0 2px;text-transform:uppercase;
+}
+.urgente .countdown em{font-style:normal;font-size:20px;letter-spacing:.02em}
+.urgente h2{
+  font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:19px;
+  margin:10px 0 2px;line-height:1.18;
+}
+.urgente .place{
+  font-family:'IBM Plex Mono',monospace;font-size:11.5px;font-weight:600;
+  text-transform:uppercase;letter-spacing:.06em;color:var(--ink-soft);
+}
+.urgente p{margin:9px 0 0;font-size:13.5px;color:#333C52}
+.stamp{
+  position:absolute;top:12px;right:-6px;transform:rotate(9deg);
+  border:2.5px solid var(--stamp);color:var(--stamp);
+  font-family:'Barlow Condensed',sans-serif;font-weight:700;
+  text-transform:uppercase;letter-spacing:.13em;font-size:10.5px;
+  padding:4px 12px 3px;opacity:.85;
+}
+@media (prefers-reduced-motion:no-preference){
+  .stamp{animation:thud .5s cubic-bezier(.2,1.5,.4,1) both}
+  @keyframes thud{from{transform:rotate(9deg) scale(2.4);opacity:0}to{transform:rotate(9deg) scale(1);opacity:.85}}
+}
+
+/* ───────── filtros ───────── */
+.controls{padding:2px var(--pad) 0}
+.chips{display:flex;gap:7px;overflow-x:auto;padding:10px 0 12px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{
+  flex:0 0 auto;background:transparent;border:1.5px solid var(--ink);
+  color:var(--ink);border-radius:var(--r);
+  font-family:'Barlow Condensed',sans-serif;font-weight:600;
+  text-transform:uppercase;letter-spacing:.09em;font-size:12px;
+  padding:7px 12px 6px;
+}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.chip.star[aria-pressed="true"]{background:var(--sun);border-color:#A86D0C;color:#2A1D02}
+.row{display:flex;gap:8px;padding-bottom:12px}
+.row input,.row select{
+  flex:1;min-width:0;background:var(--paper);
+  border:1.5px solid var(--dust-line);border-radius:var(--r);
+  padding:9px 10px;font-family:inherit;font-size:14px;color:var(--ink);
+}
+.row select{flex:0 0 96px}
+
+/* ───────── seções ───────── */
+.section-head{
+  display:flex;align-items:baseline;gap:9px;
+  padding:16px var(--pad) 7px;border-top:1px solid var(--dust-line);
+  margin-top:6px;
+}
+.section-head h3{
+  font-family:'Anton',sans-serif;font-size:16px;text-transform:uppercase;
+  letter-spacing:.03em;margin:0;
+}
+.section-head span{
+  font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--ink-soft);
+}
+.section-note{
+  padding:0 var(--pad) 6px;font-size:12.5px;color:var(--ink-soft);max-width:44ch;
+}
+
+/* ───────── cards ───────── */
+.card{
+  background:var(--paper);margin:0 var(--pad) 10px;
+  border:1px solid var(--dust-line);border-left:5px solid var(--ink-soft);
+  border-radius:var(--r);padding:13px 14px;
+  display:block;width:calc(100% - 2*var(--pad));text-align:left;
+}
+.card.c-cred{border-left-color:var(--verde)}
+.card.c-fom{border-left-color:#2D5FA8}
+.card.c-eve{border-left-color:var(--sun)}
+.card.c-inex{border-left-color:#8A8578}
+.card-top{display:flex;justify-content:space-between;gap:10px;align-items:baseline}
+.kind{
+  font-family:'Barlow Condensed',sans-serif;font-weight:700;
+  text-transform:uppercase;letter-spacing:.13em;font-size:10.5px;
+}
+.c-cred .kind{color:var(--verde)}
+.c-fom .kind{color:#2D5FA8}
+.c-eve .kind{color:#9A6404}
+.c-inex .kind{color:#6E6960}
+.when{
+  font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:11px;
+  white-space:nowrap;padding:2px 6px;border-radius:2px;
+}
+.w-hot{background:var(--stamp);color:#fff}
+.w-warn{background:#F6DFAE;color:#6B4405}
+.w-ok{background:#D5E5D9;color:var(--verde)}
+.w-past{background:#DED9CD;color:#6E6960}
+.card h4{
+  font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:17px;
+  margin:7px 0 1px;line-height:1.2;
+}
+.org{
+  font-size:12px;color:var(--ink-soft);margin:0;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+}
+.obj{margin:8px 0 0;font-size:13.5px;color:#333C52}
+.card:not(.open) .obj{
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.meta{
+  display:flex;flex-wrap:wrap;gap:5px 14px;margin-top:10px;
+  font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--ink-soft);
+  align-items:center;
+}
+.meta .val{color:var(--ink);font-weight:600}
+.meta .star{color:#A86D0C;font-weight:600}
+.card .go{
+  display:inline-block;margin-top:11px;background:var(--ink);color:var(--paper);
+  text-decoration:none;padding:8px 14px 7px;border-radius:var(--r);
+  font-family:'Barlow Condensed',sans-serif;font-weight:700;
+  text-transform:uppercase;letter-spacing:.12em;font-size:11.5px;
+}
+.hint{
+  font-family:'IBM Plex Mono',monospace;font-size:10px;color:#9A9280;
+  margin-top:8px;text-transform:uppercase;letter-spacing:.07em;
+}
+
+/* ───────── vazio ───────── */
+.empty{
+  margin:var(--pad);padding:24px 18px;border:2px dashed var(--dust-line);
+  border-radius:var(--r);text-align:center;
+}
+.empty b{font-family:'Anton',sans-serif;font-size:17px;text-transform:uppercase;display:block}
+.empty p{margin:8px 0 0;font-size:13.5px;color:var(--ink-soft)}
+footer{
+  padding:22px var(--pad) 8px;text-align:center;
+  font-family:'IBM Plex Mono',monospace;font-size:10.5px;
+  color:#9A9280;letter-spacing:.05em;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1 class="wordmark">Radar<br><span>de Shows</span></h1>
+  <div class="tagline">Contratação pública · sertanejo &amp; agro</div>
+  <div class="tally">
+    <div class="t-open"><b id="nOpen">—</b><small>abertos</small></div>
+    <div><b id="nHist">—</b><small>histórico</small></div>
+    <div><b id="nUpd">—</b><small>atualizado</small></div>
+  </div>
+</header>
+
+<div class="banner" id="banner"></div>
+
+<div id="urgente"></div>
+
+<div class="controls">
+  <div class="chips" id="chips"></div>
+  <div class="row">
+    <input id="q" type="search" placeholder="Buscar cidade, órgão, objeto…" aria-label="Buscar">
+    <select id="uf" aria-label="Filtrar por estado"><option value="">UF</option></select>
+  </div>
+</div>
+
+<div id="lista"></div>
+
+<footer>Radar de Shows · toque no card para ver o objeto completo</footer>
+
+<script>
+/* ════════════════════════════════════════════════════════════════════
+   ⬇⬇⬇  EDITE APENAS ESTA LINHA  ⬇⬇⬇
+   Cole aqui o endereço do seu arquivo oportunidades.json.
+   Enquanto estiver vazio, o app mostra dados de exemplo.
+   ════════════════════════════════════════════════════════════════════ */
+const CONFIG = {
+  dataUrl: ""
+};
+/* ════════════════════════════════════════════════════════════════════ */
+
+const CATS = {
+  INEXIGIBILIDADE_ART74:{rot:"Inexigibilidade", cls:"c-inex", ord:4, aberto:false},
+  CREDENCIAMENTO_ART79: {rot:"Credenciamento",  cls:"c-cred", ord:0, aberto:true},
+  FOMENTO_CULTURAL:     {rot:"Fomento",         cls:"c-fom",  ord:1, aberto:true},
+  EVENTO_MUNICIPAL:     {rot:"Evento municipal",cls:"c-eve",  ord:2, aberto:true},
+  DISPENSA:             {rot:"Dispensa",        cls:"c-inex", ord:3, aberto:true},
+  OUTRO_ARTISTICO:      {rot:"Outro artístico", cls:"",       ord:5, aberto:true},
+  OFICINA_AULA:         {rot:"Oficina / aula",  cls:"",       ord:6, aberto:true}
+};
+
+/* ── dados de exemplo: prazos calculados a partir de hoje ─────────── */
+const hoje = new Date(); hoje.setHours(0,0,0,0);
+const em = d => { const x=new Date(hoje); x.setDate(x.getDate()+d); return x.toISOString().slice(0,10); };
+
+const EXEMPLO = [
+ {categoria:"CREDENCIAMENTO_ART79",score:52,genero_alvo:true,municipio:"Uberaba",uf:"MG",
+  orgao:"Prefeitura Municipal de Uberaba — Secretaria de Cultura",
+  objeto:"Credenciamento de artistas, bandas e grupos musicais locais e regionais para apresentações artísticas na programação do Circuito Cultural 2026 e nas festividades de aniversário do município. Inscrições em fluxo contínuo até a data limite.",
+  valor_estimado:45000,modalidade:"Credenciamento",data_limite:em(3),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"FOMENTO_CULTURAL",score:36,genero_alvo:false,municipio:"Goiânia",uf:"GO",
+  orgao:"Secretaria de Estado de Cultura de Goiás",
+  objeto:"Edital de fomento à música — PNAB / Política Nacional Aldir Blanc. Apoio a projetos de circulação de shows e produção fonográfica, com faixas de R$ 25.000 a R$ 80.000 por projeto contemplado.",
+  valor_estimado:80000,modalidade:"Chamamento Público",data_limite:em(6),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"CREDENCIAMENTO_ART79",score:48,genero_alvo:true,municipio:"Campo Grande",uf:"MS",
+  orgao:"Fundação Municipal de Cultura de Campo Grande",
+  objeto:"Credenciamento de músicos e duplas sertanejas para apresentações em praças públicas, feiras do produtor e eventos do calendário oficial. Cachês por faixa de porte de produção.",
+  valor_estimado:18000,modalidade:"Credenciamento",data_limite:em(9),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"EVENTO_MUNICIPAL",score:41,genero_alvo:true,municipio:"Barretos",uf:"SP",
+  orgao:"Prefeitura Municipal de Barretos",
+  objeto:"Contratação de atrações musicais regionais para abertura dos palcos secundários da Festa do Peão de Boiadeiro, incluindo shows acústicos sertanejos na programação de tarde.",
+  valor_estimado:210000,modalidade:"Concurso",data_limite:em(12),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"FOMENTO_CULTURAL",score:31,genero_alvo:false,municipio:"Curitiba",uf:"PR",
+  orgao:"Fundação Cultural de Curitiba",
+  objeto:"Lei Paulo Gustavo — chamamento público para seleção de projetos culturais nas áreas de música, com apoio a produção de show ao vivo e registro audiovisual.",
+  valor_estimado:60000,modalidade:"Chamamento Público",data_limite:em(17),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"EVENTO_MUNICIPAL",score:44,genero_alvo:true,municipio:"Rio Verde",uf:"GO",
+  orgao:"Prefeitura Municipal de Rio Verde",
+  objeto:"Contratação de banda musical e atrações para a Exposição Agropecuária de Rio Verde, com apresentação de música ao vivo em três noites de arena.",
+  valor_estimado:340000,modalidade:"Dispensa de Licitação",data_limite:em(21),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"CREDENCIAMENTO_ART79",score:38,genero_alvo:false,municipio:"Recife",uf:"PE",
+  orgao:"Prefeitura do Recife — Secretaria de Cultura",
+  objeto:"Credenciamento artístico para composição de banco de atrações da programação de festas populares, incluindo forró e piseiro.",
+  valor_estimado:12000,modalidade:"Credenciamento",data_limite:em(28),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"OUTRO_ARTISTICO",score:24,genero_alvo:false,municipio:"Florianópolis",uf:"SC",
+  orgao:"Fundação Cultural de Florianópolis",
+  objeto:"Serviços de apresentação musical para eventos institucionais e datas comemorativas ao longo do exercício de 2026.",
+  valor_estimado:34000,modalidade:"Credenciamento",data_limite:em(34),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"INEXIGIBILIDADE_ART74",score:70,genero_alvo:true,municipio:"Presidente Prudente",uf:"SP",
+  orgao:"Prefeitura Municipal de Presidente Prudente",
+  objeto:"Inexigibilidade de licitação para contratação de show musical de dupla sertaneja de renome nacional para o aniversário da cidade, com fundamento no art. 74, II da Lei 14.133/2021, mediante carta de exclusividade do empresário.",
+  valor_estimado:480000,modalidade:"Inexigibilidade",data_limite:"",data_publicacao:em(-2),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"INEXIGIBILIDADE_ART74",score:62,genero_alvo:true,municipio:"Sinop",uf:"MT",
+  orgao:"Prefeitura Municipal de Sinop",
+  objeto:"Contratação direta por inexigibilidade de atração musical sertaneja para a Expofeira, cachê artístico conforme proposta de empresário exclusivo.",
+  valor_estimado:295000,modalidade:"Inexigibilidade",data_limite:"",data_publicacao:em(-4),link:"https://pncp.gov.br/app/editais"},
+ {categoria:"INEXIGIBILIDADE_ART74",score:54,genero_alvo:false,municipio:"Petrolina",uf:"PE",
+  orgao:"Prefeitura Municipal de Petrolina",
+  objeto:"Inexigibilidade para apresentação artística na festa do padroeiro, com cachê artístico e carta de exclusividade.",
+  valor_estimado:130000,modalidade:"Inexigibilidade",data_limite:"",data_publicacao:em(-6),link:"https://pncp.gov.br/app/editais"}
+];
+
+/* ── estado ──────────────────────────────────────────────────────── */
+let dados = [], filtroCat = "", soAlvo = false, busca = "", filtroUf = "", abertos = new Set();
+const $ = s => document.querySelector(s);
+
+const dias = iso => { if(!iso) return null;
+  const d=new Date(iso+(iso.length===10?"T00:00:00":"")); if(isNaN(d)) return null;
+  return Math.round((d-hoje)/864e5); };
+
+const brl = v => v==null ? "valor n/d"
+  : v.toLocaleString("pt-BR",{style:"currency",currency:"BRL",maximumFractionDigits:0});
+
+function selo(d){
+  if(d===null) return {t:"sem prazo", c:"w-past"};
+  if(d<0)      return {t:"encerrado", c:"w-past"};
+  if(d===0)    return {t:"fecha hoje", c:"w-hot"};
+  if(d<=5)     return {t:`fecha em ${d}d`, c:"w-hot"};
+  if(d<=14)    return {t:`fecha em ${d}d`, c:"w-warn"};
+  return {t:`fecha em ${d}d`, c:"w-ok"};
+}
+
+/* ── render ──────────────────────────────────────────────────────── */
+function render(){
+  const meta = c => CATS[c] || {rot:c, cls:"", ord:8, aberto:true};
+  const q = busca.trim().toLowerCase();
+
+  const visivel = dados.filter(o=>{
+    if(filtroCat && o.categoria!==filtroCat) return false;
+    if(soAlvo && !o.genero_alvo) return false;
+    if(filtroUf && o.uf!==filtroUf) return false;
+    if(q && !`${o.municipio} ${o.uf} ${o.orgao} ${o.objeto}`.toLowerCase().includes(q)) return false;
+    return true;
+  });
+
+  const acionavel = o => meta(o.categoria).aberto && (dias(o.data_limite)??-1) >= 0;
+  const abertosL = visivel.filter(acionavel)
+      .sort((a,b)=> (dias(a.data_limite)-dias(b.data_limite)) || (b.score-a.score));
+  const histL = visivel.filter(o=>!acionavel(o))
+      .sort((a,b)=> meta(a.categoria).ord-meta(b.categoria).ord || b.score-a.score);
+
+  $("#nOpen").textContent = abertosL.length;
+  $("#nHist").textContent = histL.length;
+
+  /* carimbo do mais urgente */
+  const u = abertosL[0], box = $("#urgente");
+  if(u){
+    const d = dias(u.data_limite);
+    box.innerHTML = `<div class="urgente">
+      <div class="stamp">prazo</div>
+      <div class="eyebrow">Fecha primeiro</div>
+      <div class="countdown">${d===0?"HOJE":d}${d===0?"":`<em> ${d===1?"dia":"dias"}</em>`}</div>
+      <h2>${esc(meta(u.categoria).rot)} · ${esc(u.municipio)}/${esc(u.uf)}</h2>
+      <div class="place">${esc(u.orgao||"").slice(0,58)}</div>
+      <p>${esc(u.objeto).slice(0,150)}…</p>
+      <a class="go" href="${esc(u.link||"#")}" target="_blank" rel="noopener">Abrir edital →</a>
+    </div>`;
+  } else box.innerHTML = "";
+
+  /* listas */
+  let html = "";
+  if(abertosL.length){
+    html += sec("Ainda dá pra entrar", abertosL.length,
+      "Ordenado por quem fecha primeiro. Aqui você ainda pode se inscrever ou apresentar proposta.")
+      + abertosL.map(card).join("");
+  }
+  if(histL.length){
+    html += sec("Histórico de mercado", histL.length,
+      "Contratações já decididas ou sem prazo aberto. Não dá pra entrar, mas mostra quem contrata, quanto paga e em que época.")
+      + histL.map(card).join("");
+  }
+  if(!abertosL.length && !histL.length){
+    html = `<div class="empty"><b>Nada com esses filtros</b>
+      <p>Tire um filtro, limpe a busca, ou aumente a janela de dias quando rodar o radar.</p></div>`;
+  }
+  $("#lista").innerHTML = html;
+
+  document.querySelectorAll(".card").forEach(el=>{
+    el.onclick = e =>{
+      if(e.target.closest("a")) return;
+      const k = el.dataset.k;
+      abertos.has(k) ? abertos.delete(k) : abertos.add(k);
+      el.classList.toggle("open");
+    };
+  });
+}
+
+const sec = (t,n,nota) =>
+  `<div class="section-head"><h3>${t}</h3><span>${n}</span></div>
+   <div class="section-note">${nota}</div>`;
+
+function card(o){
+  const m = CATS[o.categoria] || {rot:o.categoria, cls:""};
+  const d = dias(o.data_limite), s = selo(d);
+  const k = o.uid || `${o.municipio}-${o.score}-${(o.objeto||"").slice(0,24)}`;
+  return `<button class="card ${m.cls} ${abertos.has(k)?"open":""}" data-k="${esc(k)}">
+    <div class="card-top">
+      <span class="kind">${esc(m.rot)}</span>
+      <span class="when ${s.c}">${s.t}</span>
+    </div>
+    <h4>${esc(o.municipio)} / ${esc(o.uf)}</h4>
+    <p class="org">${esc(o.orgao||"órgão não informado")}</p>
+    <p class="obj">${esc(o.objeto||"")}</p>
+    <div class="meta">
+      <span class="val">${brl(o.valor_estimado)}</span>
+      <span>score ${o.score??"—"}</span>
+      ${o.genero_alvo?'<span class="star">★ sertanejo/agro</span>':""}
+    </div>
+    ${o.link||o.link_origem
+      ? `<a class="go" href="${esc(o.link||o.link_origem)}" target="_blank" rel="noopener">Abrir edital →</a>`
+      : ""}
+    <div class="hint">${abertos.has(k)?"toque para recolher":"toque para ler tudo"}</div>
+  </button>`;
+}
+
+function esc(s){ return String(s??"").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+/* ── filtros ─────────────────────────────────────────────────────── */
+function montaFiltros(){
+  const usadas = [...new Set(dados.map(o=>o.categoria))]
+    .sort((a,b)=>(CATS[a]?.ord??8)-(CATS[b]?.ord??8));
+  const c = $("#chips");
+  c.innerHTML = `<button class="chip" data-c="" aria-pressed="true">Todos</button>` +
+    usadas.map(k=>`<button class="chip" data-c="${esc(k)}" aria-pressed="false">${esc(CATS[k]?.rot||k)}</button>`).join("") +
+    `<button class="chip star" id="chipStar" aria-pressed="false">★ Sertanejo</button>`;
+
+  c.querySelectorAll(".chip[data-c]").forEach(b=> b.onclick = ()=>{
+    filtroCat = b.dataset.c;
+    c.querySelectorAll(".chip[data-c]").forEach(x=>x.setAttribute("aria-pressed", x===b));
+    render();
+  });
+  $("#chipStar").onclick = e =>{
+    soAlvo = !soAlvo; e.currentTarget.setAttribute("aria-pressed", soAlvo); render();
+  };
+
+  const sel = $("#uf");
+  sel.innerHTML = `<option value="">UF</option>` +
+    [...new Set(dados.map(o=>o.uf).filter(Boolean))].sort()
+      .map(u=>`<option value="${esc(u)}">${esc(u)}</option>`).join("");
+  sel.onchange = ()=>{ filtroUf = sel.value; render(); };
+  $("#q").oninput = e =>{ busca = e.target.value; render(); };
+}
+
+/* ── carregamento ────────────────────────────────────────────────── */
+function banner(txt, mostra){
+  const b = $("#banner");
+  b.innerHTML = txt; b.classList.toggle("hide", !mostra);
+}
+
+async function carregar(){
+  $("#nUpd").textContent = new Date().toLocaleTimeString("pt-BR",{hour:"2-digit",minute:"2-digit"});
+  if(!CONFIG.dataUrl){
+    dados = EXEMPLO;
+    banner(`<b>Dados de exemplo.</b> Para ver oportunidades reais, cole o endereço do seu <code>oportunidades.json</code> na constante <code>CONFIG.dataUrl</code>, no fim do arquivo.`, true);
+  } else {
+    try{
+      const r = await fetch(CONFIG.dataUrl, {cache:"no-store"});
+      if(!r.ok) throw new Error("HTTP "+r.status);
+      const j = await r.json();
+      dados = Array.isArray(j) ? j : (j.oportunidades || []);
+      if(!dados.length){
+        banner(`<b>Radar rodou e não achou nada novo.</b> Aumente a janela de dias ou baixe o score mínimo.`, true);
+      } else {
+        banner("", false);
+        if(j.gerado_em) $("#nUpd").textContent =
+          new Date(j.gerado_em).toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit"});
+      }
+    }catch(e){
+      dados = EXEMPLO;
+      banner(`<b>Não consegui ler o arquivo de dados.</b> Confira se o endereço em <code>CONFIG.dataUrl</code> está certo e se o arquivo é público. Mostrando exemplo. (${esc(e.message)})`, true);
+    }
+  }
+  montaFiltros(); render();
+}
+carregar();
+</script>
+</body>
+</html>
