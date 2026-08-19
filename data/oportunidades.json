@@ -1,0 +1,4421 @@
+{
+  "gerado_em": "2026-08-19T00:19:31",
+  "total_brutos": 717,
+  "total_aprovados": 167,
+  "total_novos": 133,
+  "oportunidades": [
+    {
+      "fonte": "pncp",
+      "id_externo": "77008068000141-1-000080/2026",
+      "titulo": "Inexigibilidade 10/2026",
+      "objeto": "Contratação de atrações artísticas para apresentação no 5º Fut Arraial do Distrito do Campinho, compreendendo a realização de show musical com a artista regional Bárbara Ferrari e apresentação de show Gaúcho do Grupo Amantes do Laço, visando promover entretenimento, valorização da cultura regional e fomentar a participação da comunidade durante a realização do evento, com recursos oriundos do Convênio nº 417/2026, firmado junto à Secretaria de Estado do Turismo – SETU, conforme Protocolo nº 25.887.039-5.",
+      "orgao": "MUNICIPIO DE IBAITI",
+      "cnpj_orgao": "77008068000141",
+      "municipio": "Ibaiti",
+      "uf": "PR",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 30000.0,
+      "data_publicacao": "2026-08-17T08:44:39",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/77008068000141/1/000080/2026",
+      "link_origem": "",
+      "score": 76,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\barraia\\w*\\b|\\bquermesse\\b|\\bmicareta\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "3f1c3a07617fbddf"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "19229921000159-1-000079/2026",
+      "titulo": "Inexigibilidade 16/2026",
+      "objeto": "Contratação de show artístico gospel da Banda Som e Louvor, por intermédio da empresa FESTA DE CRENTE PROMOÇÕES ARTÍSTICAS LTDA – ME, inscrita no CNPJ nº 18.768.1860001-99, detentora da representação exclusiva da Banda Som e Louvor, para apresentação em comemoração ao Dia do Evangélico",
+      "orgao": "MUNICIPIO DE CAPELINHA",
+      "cnpj_orgao": "19229921000159",
+      "municipio": "Capelinha",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 220000.0,
+      "data_publicacao": "2026-08-17T07:31:32",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/19229921000159/1/000079/2026",
+      "link_origem": "https://pmcapelinha.mg.gov.br/portal/",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b",
+          "\\bshow(s)?\\b.{0,40}\\b(sertanej|forro|pagode|gospel|axe|piseiro|arrocha)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "8f496e794ae4ecdf"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "92871466000180-1-000689/2026",
+      "titulo": "Inexigibilidade 58 | Processo 733/2026",
+      "objeto": "Despesa visando contratacao da Banda Barbarella  representado por Fabio Spohr  inscrito no CPF sob o n  963.612.470 15  no dia 08 de novembro de 2026  show com 2 horas de duracao  no Parque Historico Municipal Jorge Kuhn  dentro da programacao do 7  Encontro de Cervejeiros e 2  Festival de Hamburguer de Picada Cafe. Justificativa da despesa  O Encontro de Cervejeiros e Festival de Hamburguer de Picada Cafe e um evento promovido com a finalidade de fortalecer o turismo  incentivar o desenvolvimento economico  valorizar os empreendedores locais e ampliar as opcoes de cultura  lazer e entretenimento oferecidas a comunidade e aos visitantes. O Encontro de Cervejeiros reune cervejarias artesanais  proporcionando ao publico a oportunidade de conhecer e apreciar diferentes estilos de cerveja produzidos na regiao  fomentando a cultura cervejeira  o empreendedorismo e a divulgacao da producao artesanal. Paralelamente  o Festival de Hamburguer reune estabelecimentos gastronomicos especializados  oferecendo diversidade de produtos e promovendo a gastronomia como importante atrativo turistico e cultural. A integracao entre cervejarias  gastronomia e atracoes culturais cria um ambiente de convivencia  lazer e valorizacao da economia criativa  estimulando o fluxo de visitantes  a ocupacao da rede de hospedagem  o comercio local e os diversos setores ligados ao turismo. O evento tambem contribui para a divulgacao das potencialidades de Picada Cafe  fortalecendo sua identidade como destino turistico e ampliando sua visibilidade na regiao. Alem do carater gastronomico e turistico  a programacao contempla apresentacoes artisticas e musicais que desempenham papel fundamental na experiencia do publico  promovendo integracao social  permanencia dos visitantes no evento e maior atratividade da programacao. Dessa forma  o 7  Encontro de Cervejeiros e 2  Festival de Hamburguer de Picada Cafe consolida se como um importante instrumento de incentivo a cultura  ao turismo  ao empreendedorismo",
+      "orgao": "MUNICIPIO DE PICADA CAFE",
+      "cnpj_orgao": "92871466000180",
+      "municipio": "Picada Café",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 10000.0,
+      "data_publicacao": "2026-08-17T08:07:35",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/92871466000180/1/000689/2026",
+      "link_origem": " ",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "da8cb053719095bb"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "18270447000146-1-000077/2026",
+      "titulo": "Inexigibilidade 14/2026",
+      "objeto": "contratação do artistacantor ‘COMANDO 07” para apresentação de show musical no evento “103 ANOS DO MUNICÍPIO DE MANGA” a ser realizado no dia 05 de setembro de 2026, no Parque Uirapuru.",
+      "orgao": "MUNICIPIO DE MANGA",
+      "cnpj_orgao": "18270447000146",
+      "municipio": "Manga",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 15000.0,
+      "data_publicacao": "2026-08-17T08:49:38",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/18270447000146/1/000077/2026",
+      "link_origem": "www.manga.mg.gov.br",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d268e4641a372909"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "18428888000123-1-000166/2026",
+      "titulo": "Inexigibilidade 032/2026",
+      "objeto": "[LICITANET] - CONTRATAÇÃO DE SHOW ARTÍSTICO COM O CANTOR THACIO CANDIDO SILVA, PARA REALIZAÇÃO DAS FESTIVIDADES ALUSIVAS AO ANIVERSÁRIO DO MUNICÍPIO DE CONQUISTA/MG, A SER A REALIZADA NO PARQUE DE EXPOSIÇÕES JOÃO ARAÚJO SOUZA, NO DIA 29 DE AGOSTO DE 2026, COM DURAÇÃO APROXIMADA DE 01H 20MIN (UMA HORA E VINTE MINUTOS",
+      "orgao": "MUNICIPIO DE CONQUISTA",
+      "cnpj_orgao": "18428888000123",
+      "municipio": "Conquista",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 55000.0,
+      "data_publicacao": "2026-08-17T08:56:11",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/18428888000123/1/000166/2026",
+      "link_origem": "https://licitanet.com.br/sessao/197931",
+      "score": 44,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b7b70846e93df5d4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "76105527000142-1-000161/2026",
+      "titulo": "Inexigibilidade 82/2026",
+      "objeto": "Contratação da cantora Lorena Drevniak para realização de apresentação musical ao vivo, durante a Festa do Agricultor 2026, a ser realizada em 23 de agosto de 2026, no Centro de Eventos do Município de Balsa Nova.",
+      "orgao": "MUNICIPIO DE BALSA NOVA",
+      "cnpj_orgao": "76105527000142",
+      "municipio": "Balsa Nova",
+      "uf": "PR",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 1600.0,
+      "data_publicacao": "2026-08-17T08:30:03",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/76105527000142/1/000161/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "aa5b492e76889727"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "19229921000159-1-000080/2026",
+      "titulo": "Inexigibilidade 15/2026",
+      "objeto": "Contratação da empresa Summer Produções Ltda., inscrita no CNPJ nº 55.779.2070001-06, representante exclusiva do cantor Juninho Cassimiro, para realização de apresentação artística com duração aproximada de 90 noventa minutos durante a festividade Sede Santos, a ser realizada no dia 28 de agosto de 2026, no Parque de Exposições de CapelinhaMG.",
+      "orgao": "MUNICIPIO DE CAPELINHA",
+      "cnpj_orgao": "19229921000159",
+      "municipio": "Capelinha",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 120000.0,
+      "data_publicacao": "2026-08-17T07:35:26",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/19229921000159/1/000080/2026",
+      "link_origem": "https://pmcapelinha.mg.gov.br/portal/",
+      "score": 28,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "319cf0bb2acf4f01"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "16416125000137-1-000024/2026",
+      "titulo": "Inexigibilidade 100298021/2026",
+      "objeto": "HOMOLOGAÇÃO INEXIGIBILIDADE Nº 016-2026 DETERMINO a\ncontratação de Show Artístico da banda “DISCOPRAISE” para a Festividade AVIVA EM\nFEIRA DA MATA 2026 no dia 10 de outubro de 2026, o show terá duração 90 (noventa)\nminutos, através empresa CRIATIVE MUSIC LTDA",
+      "orgao": "MUNICIPIO DE FEIRA DA MATA",
+      "cnpj_orgao": "16416125000137",
+      "municipio": "Feira da Mata",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 1º, § 2º As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser editada por ministro de Estado.",
+      "valor_estimado": 80000.0,
+      "data_publicacao": "2026-08-17T08:42:59",
+      "data_abertura": "2026-08-17T00:00:00",
+      "data_limite": "2026-08-17T00:00:00",
+      "link": "https://pncp.gov.br/app/editais/16416125000137/1/000024/2026",
+      "link_origem": "",
+      "score": 28,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "141b5927018df570"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13120225000123-1-000144/2026",
+      "titulo": "Inexigibilidade 54/2026-PM/2026",
+      "objeto": "SERVIÇOS DE SHOW ARTÍSTICO DE “PAULO NUNES\", DURANTE O EVENTO ALUSIVO AO “SÃO JOÃO DE CANINDÉ 2026 - ARRAIA DOS CÂNIONS”, QUE ACONTECERÁ ESPECIFICAMENTE NO DIA 21/06/2026, NO MUNICÍPIO DE CANINDÉ DE SÃO FRANCISCO/SE",
+      "orgao": "MUNICIPIO DE CANINDE DE SAO FRANCISCO",
+      "cnpj_orgao": "13120225000123",
+      "municipio": "Canindé de São Francisco",
+      "uf": "SE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 50000.0,
+      "data_publicacao": "2026-08-17T08:52:42",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13120225000123/1/000144/2026",
+      "link_origem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]1duB8iJDFnVRMF9ocZ4V_sRqg2E2uxinaWb_w6lDMZRQSnD9vbC8O/eOhbCaIam5mDQLhWC0j0/uix6/DpmIzAUsbHqGmCW_nlgWxXdEv5Q=",
+      "score": 28,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\barraia\\w*\\b|\\bquermesse\\b|\\bmicareta\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "befdcebeca3045df"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08032567000151-1-002137/2026",
+      "titulo": "Inexigibilidade 2024/2026",
+      "objeto": "Contratação de Mestre Calú e o Presépio Mamulengo Flor de Jasmim para uma Apresentação artística, no FPMP, em Gravatá, no dia 01/08/2026, no(a) Festival Pernambuco Meu País 2026",
+      "orgao": "FUNDACAO DO PATRIMONIO HISTORICO E ARTISTICO PERNAMBUCO",
+      "cnpj_orgao": "08032567000151",
+      "municipio": "Recife",
+      "uf": "PE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 7000.0,
+      "data_publicacao": "2026-08-16T09:47:15",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08032567000151/1/002137/2026",
+      "link_origem": "www.peintegrado.pe.gov.br/Portal/Pages/Inexigibilidades.aspx?ncdmodulo=19&sdsprocesso=2024.2026.AC.IN.1989.FUNDARPE&nCdProcesso=167819&nCdSituacao=8",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c094defd3e8fffd1"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "46522967000134-1-000179/2026",
+      "titulo": "Inexigibilidade 059/2026",
+      "objeto": "CONTRATAÇÃO DE ARTISTAS PARA APRESENTAÇÃO NO FESTIVAL DO CHOCOLATE 2026.",
+      "orgao": "MUNICIPIO DE RIBEIRAO PIRES",
+      "cnpj_orgao": "46522967000134",
+      "municipio": "Ribeirão Pires",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 644000.0,
+      "data_publicacao": "2026-08-17T08:01:25",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/46522967000134/1/000179/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c4b796b2c9d8e4e4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "87612883000179-1-000053/2026",
+      "titulo": "Inexigibilidade PRI 9/2026",
+      "objeto": "Contratação de empresa especializada para realização de apresentação musical com o Grupo Pachola, visando compor a programação oficial da Semana Farroupilha no Município de Vicente Dutra/RS.,",
+      "orgao": "MUNICIPIO DE VICENTE DUTRA",
+      "cnpj_orgao": "87612883000179",
+      "municipio": "Vicente Dutra",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 7000.0,
+      "data_publicacao": "2026-08-17T08:28:33",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/87612883000179/1/000053/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2226ec44467f8b30"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "76105527000142-1-000160/2026",
+      "titulo": "Inexigibilidade 81/2026",
+      "objeto": "Contratação do Grupo Trancaço para realização de apresentação musical ao vivo, durante a Festa do Agricultor 2026, a ser realizada em 23 de agosto de 2026, no Centro de Eventos do Município de Balsa Nova",
+      "orgao": "MUNICIPIO DE BALSA NOVA",
+      "cnpj_orgao": "76105527000142",
+      "municipio": "Balsa Nova",
+      "uf": "PR",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 2500.0,
+      "data_publicacao": "2026-08-17T08:29:55",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/76105527000142/1/000160/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "eacb0e656ab4d6e1"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "76205806000188-1-000184/2026",
+      "titulo": "Inexigibilidade 38/2026",
+      "objeto": "Contratação da artista solo Camila Mayumi Noro (nome artístico: Camila Noro) - CPF 122.602.599-44, para a realização de espetáculo musical, a fim de compor a programação da 53ª Festa Nacional do Porco no Rolete, a ser realizado no Clube Caça e Pesca de Toledo, no dia 13 de setembro de 2026. A artista foi habilitada e deferida nos termos do Edital de Chamamento Público nº 02/2026.",
+      "orgao": "MUNICIPIO DE TOLEDO",
+      "cnpj_orgao": "76205806000188",
+      "municipio": "Toledo",
+      "uf": "PR",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 2200.0,
+      "data_publicacao": "2026-08-17T08:36:19",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/76205806000188/1/000184/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bespetaculo (musical|artistico)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "aca811122aa231c2"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01612832000121-1-000059/2026",
+      "titulo": "Inexigibilidade 020/2026",
+      "objeto": "Contratação de serviços artísticos destinados à apresentação da Cantora \"Taty Girl\", no\r\ndia 06/09/2026, a partir das 23h00min, alusão ao 46o Festival da lndependência no\r\nMunicípio de Alto Alegre do Pindaré/MA.",
+      "orgao": "MUNICIPIO DE ALTO ALEGRE DO PINDARE",
+      "cnpj_orgao": "01612832000121",
+      "municipio": "Alto Alegre do Pindaré",
+      "uf": "MA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 400000.0,
+      "data_publicacao": "2026-08-17T08:48:47",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01612832000121/1/000059/2026",
+      "link_origem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]HWoJ5URMDweW2e5f7u4FNzBdBGyOw4yfYav5AdxBrUXasC3BWflTud0xIgkOCpOSqNhBXAS71IilOaKBuzlY5VZxtnVfL95e80gk5x50MBw=",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "16ca84b12239e9b9"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13128780009905-1-000022/2026",
+      "titulo": "Inexigibilidade 24/2026",
+      "objeto": "CONTRATAÇÃO DO ARTISTA PLÁSTICO RUY ANDRADE PARA CRIAÇÃO, CONFECÇÃO E FORNECIMENTO DE LETREIRO TURÍSTICO EM ESCULTURA ARTÍSTICA DE GRANDE PORTE, DESTINADO À IMPLANTAÇÃO DE ESPAÇO INSTAGRAMÁVEL NA ORLA DE ATALAIA, COM O NOME “ARACAJU”, EM SUBSTITUIÇÃO AO ATUAL LETREIRO, VISANDO À PROMOÇÃO TURÍSTICA, À VALORIZAÇÃO CULTURAL E AO FORTALECIMENTO DA IDENTIDADE VISUAL DO MUNICÍPIO DE ARACAJU, OBSERVADAS AS CONDIÇÕES, ESPECIFICAÇÕES TÉCNICAS E DEMAIS DISPOSIÇÕES ESTABELECIDAS NO TERMO DE REFERÊNCIA.",
+      "orgao": "MUNICIPIO DE ARACAJU",
+      "cnpj_orgao": "13128780009905",
+      "municipio": "Aracaju",
+      "uf": "SE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 90000.0,
+      "data_publicacao": "2026-08-17T08:49:36",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13128780009905/1/000022/2026",
+      "link_origem": "https://aracajucompras.se.gov.br/publico/WKF.aspx?code=SETUR-IN0024/2026&validation=55729",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "be320e39385da230"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "27167451000174-1-000111/2026",
+      "titulo": "Inexigibilidade 000052/2026",
+      "objeto": "Contratação de - SERGINHO SAMBANEJO E BANDA -, para a realização de 01 (uma)apresentação artística musical durante a XXII FITAC - Festa Itaguaçuense das Culturas, no Município de Itaguaçu/ES, no dia 05 de setembro de 2026,",
+      "orgao": "MUNICIPIO DE ITAGUACU",
+      "cnpj_orgao": "27167451000174",
+      "municipio": "Itaguaçu",
+      "uf": "ES",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 10000.0,
+      "data_publicacao": "2026-08-17T08:51:49",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/27167451000174/1/000111/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "244da0820d0e7019"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01740422000166-1-000079/2026",
+      "titulo": "Inexigibilidade 26227/2026",
+      "objeto": "Agentes Culturais contemplados no edital de chamamento público Nº004/2026 PNAB Referente ao processo Administrativo Nº12127/2026. Lista de classificados conforme edital 03 INSTITUTO SOLIDARIO ADRIANA SANTOS CNPJ: 42.653.347/0001-83",
+      "orgao": "MUNICIPIO DE PLANALTINA",
+      "cnpj_orgao": "01740422000166",
+      "municipio": "Planaltina",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 15583.33,
+      "data_publicacao": "2026-08-17T07:34:16",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01740422000166/1/000079/2026",
+      "link_origem": "www.sigep.com.br",
+      "score": 21,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "830c970b63b9b7fd"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "51311711000118-1-000118/2026",
+      "titulo": "Inexigibilidade 26228/2026",
+      "objeto": "Agentes Culturais contemplados no edital de chamamento público Nº004/2026 PNAB Referente ao processo Administrativo Nº12127/2026. Lista de classificados conforme edital 03 INSTITUTO DESPORTIVO SOCIO CULTURAL LAPIDAR CNPJ: 07.212.679/0001-21.",
+      "orgao": "FMC - FUNDO MUNICIPAL DE CULTURA DE PLANALTINA",
+      "cnpj_orgao": "51311711000118",
+      "municipio": "Planaltina",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 15583.33,
+      "data_publicacao": "2026-08-17T07:51:46",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/51311711000118/1/000118/2026",
+      "link_origem": "www.sigep.com.br",
+      "score": 21,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "155c826c4f62779b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "51311711000118-1-000119/2026",
+      "titulo": "Inexigibilidade 26229/2026",
+      "objeto": "Agentes Culturais contemplados no edital de chamamento público Nº004/2026 PNAB Referente ao processo Administrativo Nº12127/2026. Lista de classificados conforme edital 03 INSTITUTO CULTURAL CACTUS CNPJ: 60.800.357/0001-86.",
+      "orgao": "FMC - FUNDO MUNICIPAL DE CULTURA DE PLANALTINA",
+      "cnpj_orgao": "51311711000118",
+      "municipio": "Planaltina",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 15583.33,
+      "data_publicacao": "2026-08-17T08:14:44",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/51311711000118/1/000119/2026",
+      "link_origem": "www.sigep.com.br",
+      "score": 21,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0863529af53e0583"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "14969199000175-1-000117/2026",
+      "titulo": "Inexigibilidade 108913/2026",
+      "objeto": "SOLICITA A CONVOCAÇÃO DO CREDENCIADO N 04 DO CHAMAMENTO PÚBLICO N 03-2025, AFIM DE FORNECEREM SHOWS ARTÍSTICOS, PARA ATENDER AS NECESSIDADES DO PROJETO CONVIVER IDOSO SAUDÁVEL NAS DATAS DE: 22-07 E 16-08 NOS TERMOS DA CERTIDÃO EMITIDA NO AMBITO DO PROCESSO N 2025028805 , PERFAZENDO UM TOTAL DE 02 (DOIS) SHOWS. R$ 2.313,12 FONTE: 129-000 CONTA: 61308-8",
+      "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL",
+      "cnpj_orgao": "14969199000175",
+      "municipio": "Mineiros",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 2313.12,
+      "data_publicacao": "2026-08-17T08:34:41",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/14969199000175/1/000117/2026",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "94df1e0c4a984832"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "51311711000118-1-000120/2026",
+      "titulo": "Inexigibilidade 26231/2026",
+      "objeto": "Agentes Culturais contemplados no edital de chamamento público Nº004/2026 PNAB Referente ao processo Administrativo Nº12127/2026. Lista de classificados conforme edital 03 ASSOCIACAO DESPORTIVA CULTURAL ARRIBA SAIA DE PLANALTINA GOIAS CNPJ: 55.367.001/0001-60.",
+      "orgao": "FMC - FUNDO MUNICIPAL DE CULTURA DE PLANALTINA",
+      "cnpj_orgao": "51311711000118",
+      "municipio": "Planaltina",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 15583.33,
+      "data_publicacao": "2026-08-17T08:35:46",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/51311711000118/1/000120/2026",
+      "link_origem": "www.sigep.com.br",
+      "score": 21,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "898f4edb21161ede"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "51311711000118-1-000121/2026",
+      "titulo": "Inexigibilidade 26230/2026",
+      "objeto": "Agentes Culturais contemplados no edital de chamamento público Nº004/2026 PNAB Referente ao processo Administrativo Nº12127/2026. Lista de classificados conforme edital 03 GRUPO CULTURAL DE DANÇA DE RUA GABRIELLY GONÇALVES BARBOSA CPF: 054.468.941-03.",
+      "orgao": "FMC - FUNDO MUNICIPAL DE CULTURA DE PLANALTINA",
+      "cnpj_orgao": "51311711000118",
+      "municipio": "Planaltina",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 15583.33,
+      "data_publicacao": "2026-08-17T08:59:20",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/51311711000118/1/000121/2026",
+      "link_origem": "www.sigep.com.br",
+      "score": 21,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "fa8b6733ad0523da"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "88254891000153-1-000230/2026",
+      "titulo": "Inexigibilidade PRI 82/2026",
+      "objeto": "INEXIGIBILIDADE DE LICITAÇÃO - Contratação de 6 sessões de contação de histórias com a contadora Carmem Lima para a 37ª Feira do Livro",
+      "orgao": "MUNICIPIO DE DOIS IRMAOS",
+      "cnpj_orgao": "88254891000153",
+      "municipio": "Dois Irmãos",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 3000.0,
+      "data_publicacao": "2026-08-17T08:27:58",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/88254891000153/1/000230/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "018f0ce2b99ee5a5"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "04219343000100-1-001907/2026",
+      "titulo": "Inexigibilidade 10/2026",
+      "objeto": "PRESTAÇÃO DE SERVIÇOS-PESSOA JURÍDICA",
+      "orgao": "MUNICIPIO DE SANTA MARGARIDA DO SUL",
+      "cnpj_orgao": "04219343000100",
+      "municipio": "Santa Margarida do Sul",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 25500.0,
+      "data_publicacao": "2026-08-17T08:28:49",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/04219343000100/1/001907/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "7c2406b93da72898"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "46638714000120-1-000306/2026",
+      "titulo": "Inexigibilidade 3625/2026",
+      "objeto": "Contratação por inexigibilidade de licitação, segundo os termos do artigo 74 inciso II da Lei 14.133/2021, de empresa para a realização de evento  Palestra Show associada a workshop vivencial: com metologia própria e exclusiva (Método Diê)",
+      "orgao": "MUNICIPIO DE TREMEMBE",
+      "cnpj_orgao": "46638714000120",
+      "municipio": "Tremembé",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 0.0,
+      "data_publicacao": "2026-08-17T08:33:13",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/46638714000120/1/000306/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "ea8e7e79916c3969"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "88254891000153-1-000231/2026",
+      "titulo": "Inexigibilidade PRI 81/2026",
+      "objeto": "INEXIGIBILIDADE DE LICITAÇÃO - Contratação de 6 sessões de contação de histórias com a contadora de histórias Bárbara Catarina para a 37ª Feira do Livro de Dois Irmãos",
+      "orgao": "MUNICIPIO DE DOIS IRMAOS",
+      "cnpj_orgao": "88254891000153",
+      "municipio": "Dois Irmãos",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 3350.0,
+      "data_publicacao": "2026-08-17T08:34:33",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/88254891000153/1/000231/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "44a62b8bbd1ffd62"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "29115474000160-1-000549/2026",
+      "titulo": "Inexigibilidade 545/2026",
+      "objeto": "Contratação do artista FREDSON VITOR PEREIRA NEVES para atender ao evento “Festa Agostina”, que será realizado no Mirante da Lagoa, no dia 15 de agosto de 2026 às 23:00 horas.",
+      "orgao": "MUNICIPIO DE MACAE",
+      "cnpj_orgao": "29115474000160",
+      "municipio": "Macaé",
+      "uf": "RJ",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 6000.0,
+      "data_publicacao": "2026-08-17T08:34:47",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/29115474000160/1/000549/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5a75514081a4e941"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "88254891000153-1-000233/2026",
+      "titulo": "Inexigibilidade PRI 71/2026",
+      "objeto": "INEXIGIBILIDADE DE LICITAÇÃO - Contratação de espetáculo para a 37º Feira do Livro de Dois Irmãos - Show da banda Calamares na abertura da feira",
+      "orgao": "MUNICIPIO DE DOIS IRMAOS",
+      "cnpj_orgao": "88254891000153",
+      "municipio": "Dois Irmãos",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 11900.0,
+      "data_publicacao": "2026-08-17T08:38:32",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/88254891000153/1/000233/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "27e2a5dbd1ecbce0"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "75476556000158-1-000128/2026",
+      "titulo": "Inexigibilidade PRI 57/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAÇÃO DE ESPETÁCULOS TEATRAIS EDUCATIVOS EM ALUSÃO AO AGOSTO LILÁS, SETEMBRO VERDE E DIA INTERNACIONAL DA PESSOA IDOSA.",
+      "orgao": "MUNICIPIO DE PARAISO DO NORTE",
+      "cnpj_orgao": "75476556000158",
+      "municipio": "Paraíso do Norte",
+      "uf": "PR",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 34000.0,
+      "data_publicacao": "2026-08-17T08:44:28",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/75476556000158/1/000128/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "faa368bf7072c56e"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "76205806000188-1-000185/2026",
+      "titulo": "Inexigibilidade 39/2026",
+      "objeto": "Contratação de 2 (dois) artistas solo, para a realização de espetáculo musical, a fim de compor a programação da 53ª Festa Nacional do Porco no Rolete, a ser realizada no Clube Caça e Pesca de Toledo, nos dias 12 e 13 de setembro de 2026. Os artistas foram habilitados e deferidos nos termos do Edital de Chamamento Público nº 06/2026.",
+      "orgao": "MUNICIPIO DE TOLEDO",
+      "cnpj_orgao": "76205806000188",
+      "municipio": "Toledo",
+      "uf": "PR",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 4400.0,
+      "data_publicacao": "2026-08-17T08:50:34",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/76205806000188/1/000185/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bespetaculo (musical|artistico)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "f1e3c4800c3e1d01"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "08365900000144-1-000053/2026",
+      "titulo": "Edital de Chamamento Público nº 4/2026",
+      "objeto": "Credenciamento de artistas locais e regionais, por meio de Chamamento Público, para futura contratação de apresentações musicais do gênero forró (artistas solo, bandas ou grupos musicais), destinadas à programação oficial do evento Monte Alegre Vila São João 2026, a ser realizado no período de 12 a 28 de junho de 2026, no município de Monte Alegre/RN. As apresentações ocorrerão nos palcos principais instalados no Largo da Igreja Católica, na Praça Pedro Alves e no Ginásio Osmundo Farias, bem como nas comunidades Lagoa do Mato, Comum e Sobrado, conforme programação cultural definida pela Secretaria Municipal de Cultura, Turismo e Eventos de Monte Alegre/RN. Os artistas credenciados e posteriormente convocados executarão as apresentações artísticas nas datas, locais e horários previamente estabelecidos pela Administração Pública, observadas as condições previstas no edital de credenciamento e nos instrumentos contratuais correspondentes.",
+      "orgao": "MUNICIPIO DE MONTE ALEGRE",
+      "cnpj_orgao": "08365900000144",
+      "municipio": "Monte Alegre",
+      "uf": "RN",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-08T09:57:43.093258",
+      "data_abertura": "",
+      "data_limite": "2027-05-07T16:00",
+      "link": "https://pncp.gov.br/compras/08365900000144/2026/53",
+      "link_origem": "",
+      "score": 75,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "37c3266be6141200"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18317685000160-1-000124/2025",
+      "titulo": "Edital de Chamamento Público nº 003/2025",
+      "objeto": "Credenciamento de artistas da área musical, com sede no Município de Barão de Cocais/MG ou em localidades situadas em uma distância de até 70 quilômetros da sede do município (abrangendo os municípios de Santa Bárbara, Catas Altas, Caeté, Nova União, Bom Jesus do Amparo, São Gonçalo do Rio Abaixo, Itabira e João Monlevade), visando futuras e eventuais contratações para apresentações em eventos promovidos ou apoiados pela Prefeitura Municipal de Barão de Cocais, sendo aceitas inscrições de artistas que atuem nos seguintes gêneros musicais: MPB; Música Instrumental; Eletrônica; Blues; Jazz; Afro; Afro-Pop; Pop-Rock; Salsa; Black Music; HipHop; Axé, Funk, Samba, Pagode; Gospel; Marchinhas de Carnaval; Cantata de Natal; Forró (Tradicional, Universitário e Eletrônico); Reggae; Arrocha e Sertanejo.",
+      "orgao": "MUNICIPIO DE BARAO DE COCAIS",
+      "cnpj_orgao": "18317685000160",
+      "municipio": "Barão de Cocais",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-09-30T17:17:02.771341768",
+      "data_abertura": "",
+      "data_limite": "2026-10-02T23:59:59",
+      "link": "https://pncp.gov.br/compras/18317685000160/2025/124",
+      "link_origem": "",
+      "score": 43,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e588037ef89b1ec1"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "22681423000157-1-000075/2026",
+      "titulo": "Edital de Chamamento Público nº 003/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS LOCAIS/REGIONAIS PARA APRESENTAÇÃO DE SHOWS MUSICAIS NAS FESTIVIDADES E EVENTOS TRADICIONAIS DO MUNICÍPIO DE FRANCISCO SÁ/MG, CONFORME DEMANDA DA SECRETARIA MUNICIPAL DE CULTURA E TURISMO.",
+      "orgao": "MUNICIPIO DE FRANCISCO SA",
+      "cnpj_orgao": "22681423000157",
+      "municipio": "Francisco Sá",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-07T11:28:16.067932333",
+      "data_abertura": "",
+      "data_limite": "2027-07-14T07:00",
+      "link": "https://pncp.gov.br/compras/22681423000157/2026/75",
+      "link_origem": "",
+      "score": 61,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "598670d2d004528d"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13743281000114-1-000030/2026",
+      "titulo": "Edital de Chamamento Público nº 32/2026",
+      "objeto": "Credenciamento de artistas locais para prestação de serviços artísticos de cantores, grupos, bandas musicais, fanfarras, apresentação teatral, apresentação de dança, grafitagem, coral, DJ e locutor em eventos culturais promovidos ou apoiados pela gestão municipal, para atender as demandas do Município de Salinas da Margarida/BA, conforme o termo de referência. ",
+      "orgao": "MUNICIPIO DE SALINAS DA MARGARIDA",
+      "cnpj_orgao": "13743281000114",
+      "municipio": "Salinas da Margarida",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-03-26T14:21:50.352596",
+      "data_abertura": "",
+      "data_limite": "2027-03-30T17:00",
+      "link": "https://pncp.gov.br/compras/13743281000114/2026/30",
+      "link_origem": "",
+      "score": 61,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "48907711f2fed8b3"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "23718034000111-1-000012/2026",
+      "titulo": "Edital de Chamamento Público nº 2025.12.05.01CP/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS, GRUPOS E BANDAS MUSICAIS, PESSOAS FÍSICAS OU JURÍDICAS, PARA FUTURAS CONTRATAÇÕES DE SERVIÇOS ARTÍSTICOS DE APRESENTAÇÕES MUSICAIS EM EVENTOS PROMOVIDOS, APOIADOS OU PATROCINADOS PELO MUNICÍPIO DE JIJOCA DE JERICOACOARA/CE.",
+      "orgao": "MUNICIPIO DE JIJOCA DE JERICOACOARA",
+      "cnpj_orgao": "23718034000111",
+      "municipio": "Jijoca de Jericoacoara",
+      "uf": "CE",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-12-24T13:42:38.863052",
+      "data_abertura": "",
+      "data_limite": "2026-12-23T09:00",
+      "link": "https://pncp.gov.br/compras/23718034000111/2026/12",
+      "link_origem": "",
+      "score": 57,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "beda4a83c50f7f7e"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13810544000160-1-000088/2026",
+      "titulo": "Edital de Chamamento Público nº 008/2026",
+      "objeto": "Constitui objeto do presente Chamamento Público o credenciamento de artistas locais e regionais, pessoas físicas e pessoas jurídicas, aptos à prestação de serviços artísticos e culturais, mediante apresentações musicais ao vivo, para atendimento das demandas decorrentes da programação oficial de eventos institucionais, culturais, turísticos, comemorativos e demais atividades promovidas, apoiadas ou fomentadas pelo Município de Lajedinho/BA, observadas a conveniência e a oportunidade administrativas, sem garantia de contratação, tudo em conformidade com as condições, critérios e exigências estabelecidos neste Edital e seus anexos.",
+      "orgao": "MUNICIPIO DE LAJEDINHO",
+      "cnpj_orgao": "13810544000160",
+      "municipio": "Lajedinho",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-10T15:10:51.259423249",
+      "data_abertura": "",
+      "data_limite": "2027-07-09T08:00",
+      "link": "https://pncp.gov.br/compras/13810544000160/2026/88",
+      "link_origem": "",
+      "score": 57,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0383598c65d860b1"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "17754144000136-1-000008/2026",
+      "titulo": "Edital de Chamamento Público nº 02/2026",
+      "objeto": "Credenciamento de artistas, bandas ou grupos musicais amadores, de renome local, regional e estadual, para apresentações musicais; comunicadores profissionais e influenciadores digitais, para prestação de serviços em eventos culturais realizados pela Prefeitura Municipal de Gouveia/MG, conforme condições, especificações e requisitos estabelecidos no Termo de Referência.",
+      "orgao": "MUNICIPIO DE GOUVEA",
+      "cnpj_orgao": "17754144000136",
+      "municipio": "Gouveia",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-30T16:05:52.171070975",
+      "data_abertura": "",
+      "data_limite": "2027-04-30T23:59:59",
+      "link": "https://pncp.gov.br/compras/17754144000136/2026/8",
+      "link_origem": "",
+      "score": 49,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "bded8d42f81c4025"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01618704000195-1-000135/2026",
+      "titulo": "Edital de Chamamento Público nº 7/2026",
+      "objeto": "Credenciamento de músicos, cantores, bandas e/ou grupos musicais, de renome local ou regional para apresentações musicais neste Município, pelo período de 01 (um) ano, conforme eventos previstos no calendário de 2026 e 2027",
+      "orgao": "MUNICIPIO DE CASINHAS",
+      "cnpj_orgao": "01618704000195",
+      "municipio": "Casinhas",
+      "uf": "PE",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-07T10:01:11.889139592",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T13:00",
+      "link": "https://pncp.gov.br/compras/01618704000195/2026/135",
+      "link_origem": "",
+      "score": 45,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "24fe608407a713b5"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18299511000111-1-000030/2026",
+      "titulo": "Edital de Chamamento Público nº 010/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS, CANTORES, DUPLAS, BANDAS, GRUPOS MUSICAIS, DJS, LOCUTORES/APRESENTADORES, MESTRES DE CERIMÔNIA E COMPANHIAS OU GRUPOS TEATRAIS, PARA REALIZAÇÃO DE APRESENTAÇÕES MUSICAIS E ESPETÁCULOS TEATRAIS ADULTOS E/OU INFANTIS, DESTINA-DOS AOS EVENTOS PROMOVIDOS E APOIADOS PELO MUNICÍPIO DE PASSABÉM/MG.",
+      "orgao": "MUNICIPIO DE PASSABEM",
+      "cnpj_orgao": "18299511000111",
+      "municipio": "Passabém",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-13T10:02:27.430531988",
+      "data_abertura": "",
+      "data_limite": "2027-08-12T23:59:59",
+      "link": "https://pncp.gov.br/compras/18299511000111/2026/30",
+      "link_origem": "",
+      "score": 45,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "187bf872fda7fa00"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "02295772000123-1-000075/2026",
+      "titulo": "Edital de Chamamento Público nº (17100) | 16-0/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS REGIONAIS PARA PRESTAÇÃO DE SERVIÇOS ARTÍSTICOS CONFORME NECESSIDADE DA PREFEITURA MUNICIPAL DE GOIÁS, PARA O CALENDÁRIO CULTURAL DO ANO DE 2026.",
+      "orgao": "MUNICIPIO DE GOIAS",
+      "cnpj_orgao": "02295772000123",
+      "municipio": "Goiás",
+      "uf": "GO",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-02-04T15:28:51.997867",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T17:00",
+      "link": "https://pncp.gov.br/compras/02295772000123/2026/75",
+      "link_origem": "",
+      "score": 45,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e6aff2b2893c10ff"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "45739083000173-1-000936/2025",
+      "titulo": "Edital de Chamamento Público nº 1/2025",
+      "objeto": "CREDENCIAMENTO DE MÚSICOS, BANDAS, GRUPOS MUSICAIS E DISC JOCKEY (DJ) para realização de shows musicais em eventos diversos no Município de Espírito Santo do Pinhal – SP",
+      "orgao": "MUNICIPIO DE ESPIRITO SANTO DO PINHAL",
+      "cnpj_orgao": "45739083000173",
+      "municipio": "Espírito Santo do Pinhal",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-08-15T10:02:33.809158",
+      "data_abertura": "",
+      "data_limite": "2026-08-18T23:59",
+      "link": "https://pncp.gov.br/compras/45739083000173/2025/936",
+      "link_origem": "",
+      "score": 45,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "158878ef4e6c541c"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13650403000128-1-000367/2026",
+      "titulo": "Edital de Chamamento Público nº 011/2026",
+      "objeto": "CREDENCIAMENTO DE PARECERISTAS CULTURAIS, para a prestação de serviços técnicos especializados de avaliação técnica e de mérito de projetos artísticos e culturais vinculados ao Fundo Municipal de Cultura (FMC), aos editais da Política Nacional Aldir Blanc (PNAB) e aos demais instrumentos de fomento cultural promovidos pela Secretaria Municipal de Cultura e Turismo.",
+      "orgao": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "cnpj_orgao": "13650403000128",
+      "municipio": "Teixeira de Freitas",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-14T11:01:34.452682941",
+      "data_abertura": "",
+      "data_limite": "2028-08-14T23:59",
+      "link": "https://pncp.gov.br/compras/13650403000128/2026/367",
+      "link_origem": "",
+      "score": 45,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)",
+          "\\bmecenato\\b|\\brouanet\\b|\\bproac\\b|\\bfundo (municipal|estadual) de cultura\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "eb1b77f788514328"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "06158455000116-1-000179/2025",
+      "titulo": "Edital de Chamamento Público nº 50/2025",
+      "objeto": "Constitui objeto do presente Edital de Chamamento Público o CREDENCIAMENTO de artistas e/ou grupos artísticos culturais (pessoa físicas e/ou jurídicas), locais de diversos segmentos, para fins de futura e eventual contratação visando apresentações artísticas, para atendimento das necessidades e demanda da Fundação Cultural na realização de ações culturais realizadas ou apoiadas pelo município de Imperatriz com o objetivo de democratizar, diversificar e descentralizar a cultura no município.",
+      "orgao": "MUNICIPIO DE IMPERATRIZ",
+      "cnpj_orgao": "06158455000116",
+      "municipio": "Imperatriz",
+      "uf": "MA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-12-08T17:20:03.050155",
+      "data_abertura": "",
+      "data_limite": "2026-12-08T16:21",
+      "link": "https://pncp.gov.br/compras/06158455000116/2025/179",
+      "link_origem": "",
+      "score": 45,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "1ff511aaad345bf3"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "23245806000145-1-000010/2026",
+      "titulo": "Edital de Chamamento Público nº 10/2026",
+      "objeto": "CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE MÚSICOS, BANDAS, GRUPOS MUSICAIS, ARTISTAS, PALESTRANTES, OFICINEIROS E OUTROS, COM RECONHECIMENTO LOCAL E REGIONAL, PARA FUTURAS CONTRATAÇÕES QUE FARÃO PARTE DA GRADE DE APRESENTAÇÕES DOS EVENTOS COMO: CARNAVAL, ABERTURA DA TEMPORADA DE MONTANHA, PASSA QUATRO CANTA, FESTIVAL PASSA QUATRO GASTRONOMIA, ANIVERSÁRIO DE PASSA QUATRO, DIA DAS CRIANÇAS, NATAL ILUMINADO E FESTIVIDADES EM GERAL NÃO PREVISTAS, QUE SERÃO PROMOVIDAS PELA SECRETARIA MUNICIPAL DE CULTURA E TURISMO DE PASSA QUATRO, DURANTE OS ANOS DE 2026, 2027 E 2028. ***** VALOR TOTAL ESTIMADO DA COMPRA - 1.041.650,00 *****",
+      "orgao": "MUNICIPIO DE PASSA QUATRO",
+      "cnpj_orgao": "23245806000145",
+      "municipio": "Passa Quatro",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-01T09:36:32.821422",
+      "data_abertura": "",
+      "data_limite": "2027-04-02T09:33:59",
+      "link": "https://pncp.gov.br/compras/23245806000145/2026/10",
+      "link_origem": "",
+      "score": 41,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b",
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "ff88e6a133d10be8"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18338285000130-1-000074/2026",
+      "titulo": "Edital de Chamamento Público nº 74/2026",
+      "objeto": "Contratação de artistas, grupos musicais, culturais e profissionais de entretenimento para realização de apresentações em eventos, festividades municipais e ações da Secretaria Municipal de Saúde, visando promover cultura, lazer, integração social, humanização e proporcionar momentos de entretenimento à população.",
+      "orgao": "MUNICIPIO DE SANTANA DO GARAMBEU",
+      "cnpj_orgao": "18338285000130",
+      "municipio": "Santana do Garambéu",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-17T10:47:55.733490366",
+      "data_abertura": "",
+      "data_limite": "2027-07-20T09:00",
+      "link": "https://pncp.gov.br/compras/18338285000130/2026/74",
+      "link_origem": "",
+      "score": 37,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6f78f9881198513a"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "04262432000121-1-000128/2026",
+      "titulo": "Credenciamento .009/2026",
+      "objeto": "Credenciamento de pessoas físicas e/ou jurídicas, representantes de grupos musicais, artistas solo, bandas, DJs – locais e regionais, visando a formação de cadastro de reserva para eventual contratação de apresentações artísticas destinadas à programação dos eventos promovidos pela Secretaria Municipal de Cultura e Turismo do Município de Coari-AM, incluindo Festival cultural - 2026, 94° Aniversário do município de Coari, Réveillon 2027.",
+      "orgao": "MUNICIPIO DE COARI",
+      "cnpj_orgao": "04262432000121",
+      "municipio": "Coari",
+      "uf": "AM",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 1273416.0,
+      "data_publicacao": "2026-08-17T17:16:08",
+      "data_abertura": "2026-07-19T23:59:00",
+      "data_limite": "2026-07-29T23:59:00",
+      "link": "https://pncp.gov.br/app/editais/04262432000121/1/000128/2026",
+      "link_origem": "http://www.licitacoari.com.br",
+      "score": 36,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [
+          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b",
+          "\\bfestival (de |da |do )?(musica|cultura|inverno|verao|sertanejo)"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "20f76a2442ec7219"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18303206000156-1-000042/2026",
+      "titulo": "Edital de Chamamento Público nº 0005/2026",
+      "objeto": "Credenciamento de pessoas físicas e jurídicas para prestação de serviços de apresentações artísticas, compreendendo DJs, artistas solo, duplas, trios, bandas e shows musicais, destinados aos eventos promovidos ou apoiados pelo Município de Materlândia/MG.",
+      "orgao": "MUNICIPIO DE MATERLANDIA",
+      "cnpj_orgao": "18303206000156",
+      "municipio": "Materlândia",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-10T15:01:58.991529737",
+      "data_abertura": "",
+      "data_limite": "2027-08-10T23:59:59",
+      "link": "https://pncp.gov.br/compras/18303206000156/2026/42",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "ca40672ecbef6b85"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "07385503000171-1-000041/2026",
+      "titulo": "Edital de Chamamento Público nº 001/2026 - SMA/2026",
+      "objeto": "Credenciamento a eventual contratação de artistas ou grupos artísticos (sanfoneiro ou grupo) para apresentações musicais a serem realizadas junto à Secretaria Municipal de Assistência Social de Altaneira/CE",
+      "orgao": "MUNICIPIO DE ALTANEIRA",
+      "cnpj_orgao": "07385503000171",
+      "municipio": "Altaneira",
+      "uf": "CE",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-19T11:03:00.061259358",
+      "data_abertura": "",
+      "data_limite": "2027-05-20T09:00",
+      "link": "https://pncp.gov.br/compras/07385503000171/2026/41",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "7ed5918e7981f166"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "88254891000153-1-000207/2026",
+      "titulo": "Edital de Chamamento Público nº CPC 8/2026",
+      "objeto": "Chamamento Público para seleção de projetos culturais, visando à celebração de Termo de Execução Cultural com recursos da Política Nacional Aldir Blanc de Fomento à Cultura - PNAB (Lei Federal nº 14.399/2022).",
+      "orgao": "MUNICIPIO DE DOIS IRMAOS",
+      "cnpj_orgao": "88254891000153",
+      "municipio": "Dois Irmãos",
+      "uf": "RS",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-27T07:48:06.702826",
+      "data_abertura": "",
+      "data_limite": "2026-09-09T18:00",
+      "link": "https://pncp.gov.br/compras/88254891000153/2026/207",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6c9e139e026adf4e"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "98661366000106-1-000417/2026",
+      "titulo": "Edital de Chamamento Público nº CPC 6/2026",
+      "objeto": "CHAMAMENTO PÚBLICO 006/2026 PARA SELEÇÃO DE PROJETOS CULTURAIS PARA APOIO DIRETO COM TERMO DE EXECUÇÃO ATRAVÉS DO CICLO 2  DA POLITICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA/PNAB. PROCESSO ADMINISTRATIVO 412/2026",
+      "orgao": "MUNICIPIO DE VERA CRUZ",
+      "cnpj_orgao": "98661366000106",
+      "municipio": "Vera Cruz",
+      "uf": "RS",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-31T13:17:00.862585686",
+      "data_abertura": "",
+      "data_limite": "2026-08-21T17:00",
+      "link": "https://pncp.gov.br/compras/98661366000106/2026/417",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0a772471b6fcd5fa"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01130277000100-1-000072/2026",
+      "titulo": "Edital de Chamamento Público nº (9643) | 1-A/2026",
+      "objeto": "EXECUÇÃO DE AÇÕES CULTURAIS (APOIO DIRETO A PROJETOS) SELEÇÃO DE PROJETOS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI Nº 14.399/202",
+      "orgao": "MUNICIPIO DE DAVINOPOLIS",
+      "cnpj_orgao": "01130277000100",
+      "municipio": "Davinópolis",
+      "uf": "GO",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-06-22T11:44:13.902567",
+      "data_abertura": "",
+      "data_limite": "2026-08-29T17:00",
+      "link": "https://pncp.gov.br/compras/01130277000100/2026/72",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e8cb0fc47d14e6d7"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "14221741000107-1-000064/2026",
+      "titulo": "Edital de Chamamento Público nº 010/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS, BANDAS, GRUPOS MUSICAIS, GRUPOS DE DANÇA E FANFARRAS NOS VARIADOS ESTILOS PARA POSSÍVEIS E FUTURAS CONTRATAÇÕES, COM VISTAS A REALIZAREM APRESENTAÇÕES PÚBLICAS, DURANTE OS EVENTOS REALIZADOS PELO MUNICIPIO DE CORRENTINA-BA.",
+      "orgao": "MUNICIPIO DE CORRENTINA",
+      "cnpj_orgao": "14221741000107",
+      "municipio": "Correntina",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-20T14:40:01.576722714",
+      "data_abertura": "",
+      "data_limite": "2027-05-13T08:00",
+      "link": "https://pncp.gov.br/compras/14221741000107/2026/64",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d0cf3a9d603e1a2c"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13701651000150-1-000042/2026",
+      "titulo": "Edital de Chamamento Público nº 6/2026",
+      "objeto": "CREDENCIAMENTO ARTISTAS, BANDAS, GRUPOS MUSICAIS E ARTÍSTICOS, NOS VARIADOS ESTILOS PARA POSSÍVEIS E FUTURAS CONTRATAÇÕES, COM VISTAS A REALIZAREM APRESENTAÇÕES PÚBLICAS, DURANTE OS EVENTOS E PROJETOS PROMOVIDOS OU APOIADOS PELA PREFEITURA MUNICIPAL DE IPIAÚ, de acordo com a conveniência e necessidade da Secretaria Municipal de Cultura, Esporte, Lazer e Turismo De Ipiaú",
+      "orgao": "MUNICIPIO DE IPIAU",
+      "cnpj_orgao": "13701651000150",
+      "municipio": "Ipiaú",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-06-16T15:45:45.162142404",
+      "data_abertura": "",
+      "data_limite": "2027-06-12T23:59:59",
+      "link": "https://pncp.gov.br/compras/13701651000150/2026/42",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "88807e919a55ae2a"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "11049806000190-1-000049/2026",
+      "titulo": "Edital de Chamamento Público nº 004/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS INDIVIDUAIS, GRUPOS CULTURAIS, GRUPOS MUSICAIS E GRUPOS DIVERSOS, INTERESSADOS EM COMPOR A PROGRAMAÇÃO ARTÍSTICA DA PREFEITURA E DOS SEUS EQUIPAMENTOS CULTURAIS, COMPREENDENDO O PERÍODO DE 01 (UM) ANO, CONFORME CALENDÁRIO ANUAL.",
+      "orgao": "MUNICIPIO DE CHA GRANDE",
+      "cnpj_orgao": "11049806000190",
+      "municipio": "Chã Grande",
+      "uf": "PE",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-05T15:21:51.466029014",
+      "data_abertura": "",
+      "data_limite": "2027-05-06T08:00",
+      "link": "https://pncp.gov.br/compras/11049806000190/2026/49",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "aab06633da68183a"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "22516405000110-1-000057/2026",
+      "titulo": "Edital de Chamamento Público nº 002/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS LOCAIS, COM FINALIDADE DE PROMOVER APRESENTAÇÕES NOS EVENTOS REALIZADOS NA SEDE, DISTRITOS, COMUNIDADES E POVOADOS DO MUNICÍPIO DE MINAS NOVAS/MG.",
+      "orgao": "MUNICIPIO DE MINAS NOVAS",
+      "cnpj_orgao": "22516405000110",
+      "municipio": "Minas Novas",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-16T08:57:30.968654901",
+      "data_abertura": "",
+      "data_limite": "2027-04-16T23:59:59",
+      "link": "https://pncp.gov.br/compras/22516405000110/2026/57",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "75fd62c427f7476c"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "10166817000198-1-000004/2026",
+      "titulo": "Edital de Chamamento Público nº 001/2026",
+      "objeto": "Credenciamento de artistas, pessoas físicas ou jurídicas, para realização de apresentações musicais em eventos promovidos ou apoiados pelo Município de Nazaré da Mata – PE, mediante pagamento de cachê, conforme demanda da Secretaria Municipal de Turismo.",
+      "orgao": "MUNICIPIO DE NAZARE DA MATA",
+      "cnpj_orgao": "10166817000198",
+      "municipio": "Nazaré da Mata",
+      "uf": "PE",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-02-13T16:22:31.499565479",
+      "data_abertura": "",
+      "data_limite": "2027-01-21T08:00",
+      "link": "https://pncp.gov.br/compras/10166817000198/2026/4",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "888205ff78c8ba40"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18659334000137-1-000023/2026",
+      "titulo": "Edital de Chamamento Público nº PRI 1/2026",
+      "objeto": "CREDENCIAMENTO PARA CONTRATAÇÃO DE BANDAS E ARTISTAS DA TERRA, PARA APRESENTAÇÃO DE SHOWS QUE ATENDAM AO CALENDÁRIO MUNICIPAL DE EVENTOS DE 2022, DECRETO 6.200 DE 12 ABRIL DE 2022, PARA O ANO DE 2026.",
+      "orgao": "MUNICIPIO DE CAMPO BELO",
+      "cnpj_orgao": "18659334000137",
+      "municipio": "Campo Belo",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-01-23T16:30:12.412151",
+      "data_abertura": "",
+      "data_limite": "2027-01-26T18:00",
+      "link": "https://pncp.gov.br/compras/18659334000137/2026/23",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "75249c7d5433c2aa"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "17754110000141-1-000042/2026",
+      "titulo": "Edital de Chamamento Público nº 07/2026",
+      "objeto": "CREDENCIAMENTO, DE ARTISTAS, BANDAS, GRUPOS MUSICAIS E LOCUTOR PROFISSIONAL, PARA REALIZAÇÃO DE APRESENTAÇÕES MUSICAIS, ENTRETENIMENTO E SERVIÇOS DE LOCUÇÃO EM EVENTOS REALIZADOS NA SEDE, DISTRITO OU COMUNIDADES RURAIS, NOS QUANTITATIVOS INDICADOS PELO GESTOR DA CULTURA E TURISMO, ATENDENDO ÀS DEMANDAS CULTURAIS DO MUNICÍPIO DE SENADOR MODESTINO GONÇALVESMG.",
+      "orgao": "MUNICIPIO DE SENADOR MODESTINO GONCALVES",
+      "cnpj_orgao": "17754110000141",
+      "municipio": "Senador Modestino Gonçalves",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-05T09:04:23.072634410",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T23:59:59",
+      "link": "https://pncp.gov.br/compras/17754110000141/2026/42",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "37d3be41b74fccc6"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "16885485000188-1-000024/2026",
+      "titulo": "Edital de Chamamento Público nº 11/2026",
+      "objeto": "Credenciamento para contratação de artistas nas categorias cantor solo, banda, dupla e artista voz e violão para apresentação musical em eventos periódicos no Município de Francisco Dumont",
+      "orgao": "MUNICIPIO DE FRANCISCO DUMONT",
+      "cnpj_orgao": "16885485000188",
+      "municipio": "Francisco Dumont",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-24T15:53:51.465465773",
+      "data_abertura": "",
+      "data_limite": "2027-04-24T17:00",
+      "link": "https://pncp.gov.br/compras/16885485000188/2026/24",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "95bf0c333750ab98"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13650403000128-1-000169/2026",
+      "titulo": "Edital de Chamamento Público nº CD-008/2026",
+      "objeto": "CREDENCIAMENTO PARA CONTRATAÇÃO DE ARTISTAS LOCAIS E REGIONAIS\r\nNAS SEGUINTES CATEGORIAS: SOLO (VOZ E VIOLÃO OU TECLADO), DJ, EM\r\nDUPLA, EM TRIO, GRUPOS CULTURAIS, BANDAS EM QUAISQUER RITMOS E\r\nESTILOS MUSICAIS, COM O OBJETIVO DE COMPOR A GRADE DE PEQUENOS E\r\nMÉDIOS EVENTOS PROMOVIDOS PELA PREFEITURA MUNICIPAL DE TEIXEIRA DE\r\nFREITAS-BA, CUJAS ESPECIFICAÇÕES TÉCNICAS, QUANTIDADES E DEMAIS\r\nCONDIÇÕES ENCONTRAM-SE DETALHADOS NESTE INSTRUMENTO, A FIM DE\r\nATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E\r\nDEMAIS SECRETARIAS",
+      "orgao": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "cnpj_orgao": "13650403000128",
+      "municipio": "Teixeira de Freitas",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-15T22:03:38.065639",
+      "data_abertura": "",
+      "data_limite": "2027-04-28T17:30",
+      "link": "https://pncp.gov.br/compras/13650403000128/2026/169",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d762ee0122e35f21"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18279059000126-1-000030/2026",
+      "titulo": "Edital de Chamamento Público nº 0002/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTASBANDAS LOCAIS E REGIONAIS PARA APRESENTAÇÃO DE SHOWS EM EVENTOS PERIÓDICOS A SEREM REALIZADOS PELO MUNICÍPIO, PARA ATENDER A SECRETARIA MUNICIPAL DE COMUNICAÇÃO E EVENTOS, CONFORME ESPECIFICADO NO ANEXO I DO EDITAL.",
+      "orgao": "MUNICIPIO DE VARZEA DA PALMA",
+      "cnpj_orgao": "18279059000126",
+      "municipio": "Várzea da Palma",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-03-13T10:09:27.319711",
+      "data_abertura": "",
+      "data_limite": "2027-03-12T23:59:59",
+      "link": "https://pncp.gov.br/compras/18279059000126/2026/30",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "8faf8074a107c833"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18303180000146-1-000015/2026",
+      "titulo": "Edital de Chamamento Público nº 003/2026",
+      "objeto": "CREDENCIAMENTO, DE ARTISTAS, BANDAS, GRUPOS MUSICAIS E LOCUTOR PROFISSIONAL, PARA REALIZAÇÃO DE APRESENTAÇÕES MUSICAIS, ENTRETENIMENTO E SERVIÇOS DE LOCUÇÃO EM EVENTOS REALIZADOS NA SEDE, DISTRITO OU COMUNIDADES RURAIS, NOS QUANTITATIVOS INDICADOS PELO GESTOR DA CULTURA E TURISMO, ATENDENDO ÀS DEMANDAS CULTURAIS DO MUNICÍPIO DE CONGONHAS DO NORTEMG",
+      "orgao": "MUNICIPIO DE CONGONHAS DO NORTE",
+      "cnpj_orgao": "18303180000146",
+      "municipio": "Congonhas do Norte",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-03-16T15:43:29.372518264",
+      "data_abertura": "",
+      "data_limite": "2027-03-17T23:59:59",
+      "link": "https://pncp.gov.br/compras/18303180000146/2026/15",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4239395b0b179758"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "03107539000132-1-000025/2026",
+      "titulo": "Edital de Chamamento Público nº CRE 8/2026",
+      "objeto": "Credenciamento de artistas pessoa física ou jurídica, para prestação de serviços artísticos e culturais, a fim de atender a programação cultural do município de Porto Murtinho/MS.",
+      "orgao": "MUNICIPIO DE PORTO MURTINHO",
+      "cnpj_orgao": "03107539000132",
+      "municipio": "Porto Murtinho",
+      "uf": "MS",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-02-10T19:18:56.367110",
+      "data_abertura": "",
+      "data_limite": "2027-02-10T08:00",
+      "link": "https://pncp.gov.br/compras/03107539000132/2026/25",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4eab0858bed261af"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "11040904000167-1-000240/2025",
+      "titulo": "Edital de Chamamento Público nº 008/2025",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS LOCAIS E/OU REGIONAIS PARA PRODUÇÃO MUSICAL, ARTÍSTICA E CULTURAL QUE INTEGRE A PROGRAMAÇÃO DE EVENTOS DO MUNICÍPIO DE OURICURI/PE, OBEDECENDO ÀS CONDIÇÕES ESTATUÍDAS NESTE EDITAL E SEUS ANEXOS",
+      "orgao": "MUNICIPIO DE OURICURI",
+      "cnpj_orgao": "11040904000167",
+      "municipio": "Ouricuri",
+      "uf": "PE",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-12-02T15:29:15.193273338",
+      "data_abertura": "",
+      "data_limite": "2026-12-02T23:59",
+      "link": "https://pncp.gov.br/compras/11040904000167/2025/240",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "224a8bedfebca622"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18128256000144-1-000090/2025",
+      "titulo": "Edital de Chamamento Público nº 003/2025",
+      "objeto": "Credenciamento de artistas locais e regionais para eventos municipais de médio e grande porte e baile da melhor idade.",
+      "orgao": "MUNICIPIO DE RODEIRO",
+      "cnpj_orgao": "18128256000144",
+      "municipio": "Rodeiro",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-12-01T09:31:25.171634906",
+      "data_abertura": "",
+      "data_limite": "2026-12-02T23:59:59",
+      "link": "https://pncp.gov.br/compras/18128256000144/2025/90",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "dd71f6d4cae08e7c"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "25223009000192-1-000151/2025",
+      "titulo": "Edital de Chamamento Público nº 129/2025",
+      "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE ARTISTAS DE RENOME LOCAL E/OU REGIONAL PARA APRESENTAÇÕES MUSICAIS DURANTE O CALENDÁRIO DAS TRADICIONAIS FESTAS DO MUNICÍPIO DE LONTRA/MG, PARA O PERÍODO DE UM ANO, A CONTAR DA PUBLICAÇÃO DO PRESENTE EDITAL",
+      "orgao": "MUNICIPIO DE LONTRA",
+      "cnpj_orgao": "25223009000192",
+      "municipio": "Lontra",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-11-13T08:35:42.867531382",
+      "data_abertura": "",
+      "data_limite": "2026-11-30T09:00",
+      "link": "https://pncp.gov.br/compras/25223009000192/2025/151",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b3fef2b3adad9b40"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13650403000128-1-000715/2025",
+      "titulo": "Edital de Chamamento Público nº CD-009/2025",
+      "objeto": "Credenciamento para contratação de artistas locais e regionais nas seguintes categorias: solo (voz e violão ou teclado), em dupla, trio, bandas em quaisquer ritmos e estilos musicais, com o objetivo de compor a grade de pequenos e médios eventos promovidos pela Prefeitura, cujas especificações técnicas, quantidades e demais condições encontram-se detalhados neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "orgao": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "cnpj_orgao": "13650403000128",
+      "municipio": "Teixeira de Freitas",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-10-24T20:11:02.827739049",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T23:59",
+      "link": "https://pncp.gov.br/compras/13650403000128/2025/715",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "19f1d1860f26d7cf"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18307447000173-1-000097/2025",
+      "titulo": "Edital de Chamamento Público nº 009/2025",
+      "objeto": "CREDENCIAMENTO, DE ARTISTAS LOCAIS E REGIONAIS PARA REALIZAÇÃO DE APRESENTAÇÕES ARTÍSTICAS NA SEDE, DISTRITO OU DAS COMUNIDADES RURAIS, NOS QUANTITATIVOS INDICADOS PELO GESTOR DA CULTURA E TURISMO ATENDENDO ÀS DEMANDAS CULTURAIS DO MUNICÍPIO DE PAULISTAS/MG.CREDENCIAMENTO, DE ARTISTAS LOCAIS E REGIONAIS PARA REALIZAÇÃO DE APRESENTAÇÕES ARTÍSTICAS NA SEDE, DISTRITO OU DAS COMUNIDADES RURAIS, NOS QUANTITATIVOS INDICADOS PELO GESTOR DA CULTURA E TURISMO ATENDENDO ÀS DEMANDAS CULTURAIS DO MUNICÍPIO DE PAULISTAS/MG.",
+      "orgao": "MUNICIPIO DE PAULISTAS",
+      "cnpj_orgao": "18307447000173",
+      "municipio": "Paulistas",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-10-06T15:37:48.021681",
+      "data_abertura": "",
+      "data_limite": "2026-10-10T23:59:59",
+      "link": "https://pncp.gov.br/compras/18307447000173/2025/97",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4e55a16b10b700a1"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "83102541000158-1-000179/2025",
+      "titulo": "Edital de Chamamento Público nº CRE 24/2025",
+      "objeto": "Credenciamento para a prestação de serviços artísticos, incluindo artistas, grupos e bandas musicais locais e regionais, visando a eventual contratação para atendimento aos eventos tradicionais e culturais do Município de Porto União (SC), conforme especificações detalhadas no Edital e no Termo de Referência, em conformidade com os anexos deste Edital.",
+      "orgao": "MUNICIPIO DE PORTO UNIAO",
+      "cnpj_orgao": "83102541000158",
+      "municipio": "Porto União",
+      "uf": "SC",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-09-29T09:54:00.581340",
+      "data_abertura": "",
+      "data_limite": "2026-10-23T00:00",
+      "link": "https://pncp.gov.br/compras/83102541000158/2025/179",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "24e8135f781191ce"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18306670000104-1-000015/2025",
+      "titulo": "Edital de Chamamento Público nº 003/2025",
+      "objeto": "Credenciamento Eletrônico para Apresentação de Artistas Locais e Regionais a fim de atender as necessidades da Secretaria Municipal de Cultura de São Roque de Minas/MG.",
+      "orgao": "MUNICIPIO DE SAO ROQUE DE MINAS",
+      "cnpj_orgao": "18306670000104",
+      "municipio": "São Roque de Minas",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-06-09T11:12:36.355907637",
+      "data_abertura": "",
+      "data_limite": "2030-06-05T23:59:59",
+      "link": "https://pncp.gov.br/compras/18306670000104/2025/15",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c00c314fd233e919"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "39217831000155-1-000026/2026",
+      "titulo": "Edital de Chamamento Público nº 004/2026",
+      "objeto": "[Portal de Compras Públicas] - CREDENCIAMENTO DE ARTISTAS LOCAIS PARA PARTICIPAÇÃO NOS\r\nEVENTOS E FESTIVIDADES PREVISTOS NO CALENDÁRIO ANUAL DE EVENTOS\r\nDO MUNICÍPIO DE VARRE-SAI/RJ",
+      "orgao": "MUNICIPIO DE VARRE-SAI",
+      "cnpj_orgao": "39217831000155",
+      "municipio": "Varre-Sai",
+      "uf": "RJ",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-06T08:35:11.940564801",
+      "data_abertura": "",
+      "data_limite": "2027-04-16T17:00",
+      "link": "https://pncp.gov.br/compras/39217831000155/2026/26",
+      "link_origem": "",
+      "score": 28,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "9d83a7a0c4923724"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13913371000106-1-000039/2026",
+      "titulo": "Edital nº 006/2026/2026",
+      "objeto": "O presente edital tem por objeto o credenciamento de pessoa jurídica e/ou pessoa física para eventual contratação de serviços artísticos e bandas musicais em diferentes estilos, visando compor a grade de apresentações de eventos culturais, turísticos e esportivos promovidos e/ou apoiados pela Prefeitura Municipal de Mirangaba-Bahia. O recebimento da documentação se dará a partir do dia 27/04/2026, contemplando os critérios técnicos específicos, os pré-requisitos e os valores fixados para a realização da prestação dos serviços.",
+      "orgao": "MUNICIPIO DE MIRANGABA",
+      "cnpj_orgao": "13913371000106",
+      "municipio": "Mirangaba",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-06-10T08:17:11.447295739",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T08:00",
+      "link": "https://pncp.gov.br/compras/13913371000106/2026/39",
+      "link_origem": "",
+      "score": 28,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "039f886e44b6c3df"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13230982000150-1-000071/2026",
+      "titulo": "Edital de Chamamento Público nº 002/2026",
+      "objeto": "CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE PESSOAS FÍSICAS E JURÍDICAS COM COMPROVADO CONHECIMENTO E ATUAÇÃO NAS ÁREAS ARTÍSTICAS E CULTURAL, PARA EXERCEREM ATIVIDADE DE ANÁLISE E EMISSÃO DE PARECERES TÉCNICO DE PROJETOS CULTURAIS, CONFORME  POLÍTICA NACIONAL ALDIR BLANC CICLO 2 DE FOMENTO Á CULTURA (LEI FEDERAL Nº 14.399/2022), ATENDENDO AS NECESSIDADES DO DEPARTAMENTO DE CULTURA DA PREFEITURA MUNICIPAL DE CAPIM GROSSO- BAHIA.",
+      "orgao": "MUNICIPIO DE CAPIM GROSSO",
+      "cnpj_orgao": "13230982000150",
+      "municipio": "Capim Grosso",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-23T15:57:54.697237",
+      "data_abertura": "",
+      "data_limite": "2027-04-22T08:00",
+      "link": "https://pncp.gov.br/compras/13230982000150/2026/71",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "01323798580ad836"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "29138302000102-1-000196/2026",
+      "titulo": "Edital de Chamamento Público nº CRE 8/2026",
+      "objeto": "SELEÇÃO DE PARECERISTAS PARA PRESTAÇÃO DE SERVIÇO DE ANÁLISE TÉCNICA E AVALIAÇÃO DE MÉRITO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI FEDERAL Nº 14.399/2022), EM CONFORMIDADE COM A LEI FEDERAL Nº 14.903/2024 (MARCO REGULATÓRIO DO FOMENTO À CULTURA), DECRETOS FEDERAIS Nº 11.740/2023 E Nº 11.453/2023, E DEMAIS NORMAS APLICÁVEIS.",
+      "orgao": "MUNICIPIO DE ITAGUAI",
+      "cnpj_orgao": "29138302000102",
+      "municipio": "Itaguaí",
+      "uf": "RJ",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-04T11:58:13.225113",
+      "data_abertura": "",
+      "data_limite": "2026-08-21T17:00",
+      "link": "https://pncp.gov.br/compras/29138302000102/2026/196",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4461254b2e3092bf"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "90836693000140-1-000650/2026",
+      "titulo": "Edital de Chamamento Público nº CRE 113/2026",
+      "objeto": "SELEÇÃO DE PROJETOS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI Nº 14.399/2022).",
+      "orgao": "MUNICIPIO DE CAPAO DA CANOA",
+      "cnpj_orgao": "90836693000140",
+      "municipio": "Capão da Canoa",
+      "uf": "RS",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-31T14:51:25.768817659",
+      "data_abertura": "",
+      "data_limite": "2026-08-18T23:59",
+      "link": "https://pncp.gov.br/compras/90836693000140/2026/650",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "17b87ff3bbb94d60"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "19875020000134-1-000071/2026",
+      "titulo": "Edital de Chamamento Público nº 03/2026",
+      "objeto": "Credenciamento de pessoas físicas e Microempreendedores Individuais (MEI) com\ncomprovado reconhecimento e atuação nas áreas artística e cultural, para exercerem as\natividades de avaliação técnica e de mérito cultural, emissão de parecer, análise de\nrecursos e seleção de projetos e/ou propostas culturais que pleiteiam recursos da Política\nNacional Aldir Blanc de Fomento à Cultura (PNAB), Lei Federal nº 14.399/2022, e da\nPolítica Nacional Cultura Viva (PNCV), Lei nº 13.018/2014, no âmbito do Município de\nTimóteo/MG, nos termos da Lei Federal nº 14.133/2021 e seus regulamentos.",
+      "orgao": "MUNICIPIO DE TIMOTEO",
+      "cnpj_orgao": "19875020000134",
+      "municipio": "Timóteo",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-21T14:58:26.721627475",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T23:59:59",
+      "link": "https://pncp.gov.br/compras/19875020000134/2026/71",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "dac2e303e7504f76"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "21611579000107-1-000006/2026",
+      "titulo": "Edital de Chamamento Público nº 1 | Processo 33/2026",
+      "objeto": "Selecao e credenciamento de pareceristas  com comprovado reconhecimento e atuacao nas areas artistica e cultural para exercerem as atividades de avaliacao tecnica e de merito cultural  emissao de parecer  analise de recursos e selecao referentes aos projetos e ou propostas culturais que pleiteiam recursos da Politica Nacional Aldir Blanc de Fomento Cultural e da Politica Nacional de Cultura Viva no municipio de Itabira MG.",
+      "orgao": "FUNDACAO CULTURAL CARLOS DRUMMOND DE ANDRADE",
+      "cnpj_orgao": "21611579000107",
+      "municipio": "Itabira",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-03-25T11:54:32.844237052",
+      "data_abertura": "",
+      "data_limite": "2027-03-25T08:00",
+      "link": "https://pncp.gov.br/compras/21611579000107/2026/6",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "07139498c680c118"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18188243000160-1-000026/2026",
+      "titulo": "Edital de Chamamento Público nº 3/2026",
+      "objeto": "Credenciamento, de artistas locais e regionais para atender aos eventos culturais e esportivos promovidos pelo Município de Carmo de Minas durante os exercícios de 2026/2027",
+      "orgao": "MUNICIPIO DE CARMO DE MINAS",
+      "cnpj_orgao": "18188243000160",
+      "municipio": "Carmo de Minas",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-03-04T13:32:31.269773",
+      "data_abertura": "",
+      "data_limite": "2027-03-09T23:59:59",
+      "link": "https://pncp.gov.br/compras/18188243000160/2026/26",
+      "link_origem": "",
+      "score": 25,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c4b347430ebf1eb7"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "27792373000107-1-000089/2026",
+      "titulo": "Edital de Chamamento Público nº 002/2026",
+      "objeto": "[LICITANET] - Contratação de artistas e profissionais locais e regionais de arte, cultura em todas as suas manifestações e linguagens para composição da grade de apresentações e eventos e ações promovidas pela Prefeitura Municipal de Arraial do Cabo e realizados das Secretaria de Turismo, Secretaria do Ambiente & Saneamento, Secretaria de Desenvolvimento Social, trabalho, Renda & Direitos Humanos, Secretaria de Cultura e Economia Criativa, Secretaria de Educação, Ciência, Tecnologia e Esporte e lazer.",
+      "orgao": "MUNICIPIO DE ARRAIAL DO CABO",
+      "cnpj_orgao": "27792373000107",
+      "municipio": "Arraial do Cabo",
+      "uf": "RJ",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-06-08T11:35:09.170874",
+      "data_abertura": "",
+      "data_limite": "2027-06-08T00:00",
+      "link": "https://pncp.gov.br/compras/27792373000107/2026/89",
+      "link_origem": "",
+      "score": 25,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [
+          "\\barraia\\w*\\b|\\bquermesse\\b|\\bmicareta\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d4fdae8df69c772c"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13915640000173-1-000001/2027",
+      "titulo": "Edital de Chamamento Público nº 003/2026/2027",
+      "objeto": "Seleção de Pessoa Jurídica e/ou Pessoa Física, através de Credenciamento para contratação de artistas, bandas e grupos municipais denominados artistas locais amadores, para apresentação e manifestações culturais e artísticas durante os festejos municipais de Curaçá",
+      "orgao": "MUNICIPIO DE CURACA",
+      "cnpj_orgao": "13915640000173",
+      "municipio": "Curaçá",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-15T22:16:54.222674",
+      "data_abertura": "",
+      "data_limite": "2027-04-16T08:00",
+      "link": "https://pncp.gov.br/compras/13915640000173/2027/1",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "1cf1e4b1848ef02c"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "17097791000112-1-000038/2026",
+      "titulo": "Edital de Chamamento Público nº 22/2026",
+      "objeto": "ABERTURA DE CREDENCIAMENTO PARA CONTRATACAO DE PRESTACAO DE SERVICOS DE ARTISTAS DA TERRA PARA APRESENTACAO DE SHOWS ARTISTICOS NOS EVENTOS DA PREFEITURA DE MONTALVANIA.",
+      "orgao": "MUNICIPIO DE MONTALVANIA",
+      "cnpj_orgao": "17097791000112",
+      "municipio": "Montalvânia",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-09T14:25:26.886629",
+      "data_abertura": "",
+      "data_limite": "2029-03-31T17:00",
+      "link": "https://pncp.gov.br/compras/17097791000112/2026/38",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b48f0610aec12587"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "27165570000198-1-000030/2026",
+      "titulo": "Edital de Chamamento Público nº 000002/2026",
+      "objeto": "[Portal de Compras Públicas] - CREDENCIAMNETO DOS SERVIÇOS DE APRESENTAÇÃO MUSICAL A SEREM PRESTADOS NO CENTRO DE CONVIVÊNCIA, FREI ALAÔR DOS SANTOS.",
+      "orgao": "MUNICIPIO DE CONCEICAO DO CASTELO",
+      "cnpj_orgao": "27165570000198",
+      "municipio": "Conceição do Castelo",
+      "uf": "ES",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-03-16T09:08:23.675593079",
+      "data_abertura": "",
+      "data_limite": "2027-03-16T23:59",
+      "link": "https://pncp.gov.br/compras/27165570000198/2026/30",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "fd5b6b26d8b6120b"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "19229921000159-1-000132/2025",
+      "titulo": "Edital de Chamamento Público nº 0009/2025",
+      "objeto": "CREDENCIAMENTO DE PROFISSIONAIS OU EMPRESA DO SETOR ARTÍSTICO, PARA EVENTUAIS E FUTURAS CONTRATAÇÕES DE SHOW ARTÍSTICOS LOCAIS E REGIONAIS, VISANDO ANTENDER ÀS DEMANDAS DA SECRETARIA MUNICIPAL DE ESPORTE, LAZER, CULTURA TURISMO E MEIO AMBIENTE",
+      "orgao": "MUNICIPIO DE CAPELINHA",
+      "cnpj_orgao": "19229921000159",
+      "municipio": "Capelinha",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-12-22T13:29:04.634948",
+      "data_abertura": "",
+      "data_limite": "2026-12-20T23:59:59",
+      "link": "https://pncp.gov.br/compras/19229921000159/2025/132",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "9d2378d3b1ffbb26"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "29131075000193-1-000003/2027",
+      "titulo": "Edital de Chamamento Público nº 5/2027",
+      "objeto": "Credenciamento de interessados em prestar serviços de apresentações artísticas e culturais (artistas, grupos, coletivos e profissionais da cultura), para constituir um Banco Municipal de Artistas Credenciados, aptos a atender às demandas culturais do Município de Maricá, conforme a conveniência e oportunidade da Administração Pública, visando compor a programação oficial de eventos.",
+      "orgao": "MUNICIPIO DE MARICA",
+      "cnpj_orgao": "29131075000193",
+      "municipio": "Maricá",
+      "uf": "RJ",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-12T16:22:06.532138",
+      "data_abertura": "",
+      "data_limite": "2027-08-17T17:00",
+      "link": "https://pncp.gov.br/compras/29131075000193/2027/3",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5c6db16adcf322fe"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18303206000156-1-000038/2025",
+      "titulo": "Edital de Chamamento Público nº 0004/2025",
+      "objeto": "Credenciamento de pessoas físicas e/ou jurídicas, atuantes como músicos, DJs e locutores de eventos, para fins de prestação de serviços artísticos em apresentações musicais, culturais, festivas ou institucionais, no âmbito de eventos promovidos, realizados ou apoiados pela Prefeitura Municipal de Materlândia/MG.\n",
+      "orgao": "MUNICIPIO DE MATERLANDIA",
+      "cnpj_orgao": "18303206000156",
+      "municipio": "Materlândia",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-08-20T10:34:00.900422",
+      "data_abertura": "",
+      "data_limite": "2026-08-20T23:59:59",
+      "link": "https://pncp.gov.br/compras/18303206000156/2025/38",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "8f794b4d105e5042"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13908702000110-1-000075/2026",
+      "titulo": "Edital de Chamamento Público nº CRE007/2026",
+      "objeto": "CREDENCIAMENTO DOS SERVIÇOS DE ARTISTAS, GRUPOS E BANDAS MUSICAIS, LOCAIS E REGIONAIS, VISANDO EVENTUAL CONTRATAÇÃO, A FIM DE ATENDER AOS EVENTOS TRADICIONAIS E CULTURAIS DESTE MUNICÍPIO DE CAMPO FORMOSO - BA.",
+      "orgao": "MUNICIPIO DE CAMPO FORMOSO",
+      "cnpj_orgao": "13908702000110",
+      "municipio": "Campo Formoso",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-28T17:07:53.450609",
+      "data_abertura": "",
+      "data_limite": "2027-05-28T23:59:59",
+      "link": "https://pncp.gov.br/compras/13908702000110/2026/75",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "a58c37e2bc92cb24"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01612479000180-1-000025/2026",
+      "titulo": "Edital de Chamamento Público nº 004/2026",
+      "objeto": "CREDENCIAMENTO DE SHOWS ARTÍSTICOS, CULTURAIS E DE ENTRETENIMENTO, COMPREENDEN-DO BANDAS DE PEQUENO, MÉDIO E GRANDE PORTE, SHOWS MUSICAIS, DJ, ARTISTAS CIRCEN-SES, GRUPOS TEATRAIS, GRUPOS DE DANÇA, BLOCOS CARNAVALESCOS E SHOWS INFANTIS, DESTINADOS À REALIZAÇÃO DE EVENTOS PROMOVIDOS PELO MUNICÍPIO",
+      "orgao": "MUNICIPIO DE PAI PEDRO",
+      "cnpj_orgao": "01612479000180",
+      "municipio": "Pai Pedro",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-30T10:51:39.856717354",
+      "data_abertura": "",
+      "data_limite": "2027-07-31T23:59",
+      "link": "https://pncp.gov.br/compras/01612479000180/2026/25",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "466651c6ed4ea089"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "46585956000101-1-000035/2026",
+      "titulo": "Edital de Chamamento Público nº 002/2026",
+      "objeto": "APRESENTAÇÕES MUSICAIS PARA DIVERSOS EVENTOS NO MUNICIPIO. CREDENCIAMENTO Nº 002/2026 - PROCESSO ADMINISTRATIVO Nº 117/2026 - EDITAL Nº 061/2026",
+      "orgao": "MUNICIPIO DE CANANEIA",
+      "cnpj_orgao": "46585956000101",
+      "municipio": "Cananéia",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-23T16:29:56.880579",
+      "data_abertura": "",
+      "data_limite": "2031-07-27T16:00",
+      "link": "https://pncp.gov.br/compras/46585956000101/2026/35",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "db0dc3227fef2de1"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "45279635000108-1-000209/2026",
+      "titulo": "Edital de Chamamento Público nº CRE 3/2026",
+      "objeto": "CREDENCIAMENTO DE PROPOSTAS DE\nAPRESENTAÇÕES ARTÍSTICAS PARA COMPOR A PROGRAMAÇÃO DOS EVENTOS DA\nSECRETARIA DE CULTURA.",
+      "orgao": "MUNICIPIO DE ATIBAIA",
+      "cnpj_orgao": "45279635000108",
+      "municipio": "Atibaia",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-01T14:17:57.427471",
+      "data_abertura": "",
+      "data_limite": "2027-04-01T23:59",
+      "link": "https://pncp.gov.br/compras/45279635000108/2026/209",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "86eecba325108ef6"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "76208479000118-1-000157/2026",
+      "titulo": "Edital de Chamamento Público nº 93 | Processo 9545/2026",
+      "objeto": "Credenciamento de artistas e cantores locais para participar dos eventos municipais.",
+      "orgao": "MUNICIPIO DE ASSIS CHATEAUBRIAND",
+      "cnpj_orgao": "76208479000118",
+      "municipio": "Assis Chateaubriand",
+      "uf": "PR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-17T10:46:41.255648353",
+      "data_abertura": "",
+      "data_limite": "2026-09-08T08:00",
+      "link": "https://pncp.gov.br/compras/76208479000118/2026/157",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0b9d8277c15f3133"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13647854000106-1-000033/2026",
+      "titulo": "Edital de Chamamento Público nº 02/2026",
+      "objeto": "Chamamento Público é o credenciamento de artistas, grupos e coletivos culturais para compor a programação dos eventos realizados pela SECELT no exercício de 2026, nas seguintes categorias:\r\nMúsico solo; Dança; Cantor solo com instrumento; Bandas; Artes Cênicas;\r\nQuadrilhas Juninas.\r\n",
+      "orgao": "MUNICIPIO DE OLINDINA",
+      "cnpj_orgao": "13647854000106",
+      "municipio": "Olindina",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-28T17:10:18.249278019",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T16:30",
+      "link": "https://pncp.gov.br/compras/13647854000106/2026/33",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b752154124ac9ed0"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "46643482000107-1-000010/2026",
+      "titulo": "Edital de Chamamento Público nº 004/2026",
+      "objeto": "Chamamento Público para Credenciamento de artistas de âmbito municipal e regional destinados à realização de eventos promovidos por esta Municipalidade, conforme Termo de Referência e demais anexos do Edital.",
+      "orgao": "MUNICIPIO DE MONTEIRO LOBATO",
+      "cnpj_orgao": "46643482000107",
+      "municipio": "Monteiro Lobato",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-02-04T10:53:44.205100414",
+      "data_abertura": "",
+      "data_limite": "2027-01-29T17:00",
+      "link": "https://pncp.gov.br/compras/46643482000107/2026/10",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "1d1b009c9606c572"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "16899700000108-1-000002/2026",
+      "titulo": "Edital de Chamamento Público nº 1/2026",
+      "objeto": "CONTRATAÇÃO DE LOCUTOR PROFISSIONAL E ARTISTAS DE RENOME LOCAL E/OU REGIONAL, PARA APRESENTAÇÕES MUSICAIS DURANTE O CALENDÁRIO DAS TRADICIONAIS FESTAS E EVENTOS DO MUNICÍPIO DE IBIAÍ/MG, PARA O PERÍODO DE UM ANO, A CONTAR DA PUBLICAÇÃO DO PRESENTE EDITAL",
+      "orgao": "MUNICIPIO DE IBIAI",
+      "cnpj_orgao": "16899700000108",
+      "municipio": "Ibiaí",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-01-12T14:16:45.912993976",
+      "data_abertura": "",
+      "data_limite": "2027-01-25T08:00",
+      "link": "https://pncp.gov.br/compras/16899700000108/2026/2",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "55b20a9a7dc47720"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "23515695000140-1-000141/2025",
+      "titulo": "Edital de Chamamento Público nº 134/2025",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS, BANDAS, DJS E GRUPOS CULTURAIS",
+      "orgao": "MUNICIPIO DE PRESIDENTE BERNARDES",
+      "cnpj_orgao": "23515695000140",
+      "municipio": "Presidente Bernardes",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-11-04T10:33:16.577360790",
+      "data_abertura": "",
+      "data_limite": "2026-11-25T09:00",
+      "link": "https://pncp.gov.br/compras/23515695000140/2025/141",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "14976baa3579df48"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18431312000115-1-000001/2025",
+      "titulo": "Edital de Chamamento Público nº 1/2025",
+      "objeto": "Prestação de serviços artísticos (arte circense, cultura popular, dança, literatura, música, teatro e locução)",
+      "orgao": "MUNICIPIO DE UBERLANDIA",
+      "cnpj_orgao": "18431312000115",
+      "municipio": "Uberlândia",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2024-04-23T16:56:29.462190",
+      "data_abertura": "",
+      "data_limite": "2028-08-01T17:00",
+      "link": "https://pncp.gov.br/compras/18431312000115/2025/1",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "bde62b4728d68832"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "76977768000181-1-000061/2025",
+      "titulo": "Edital de Chamamento Público nº PRI 9/2025",
+      "objeto": "Chamamento Público para credenciamento de artistas, profissionais e fazedores de cultura, para efetuarem apresentações e atividades artísticos culturais nas ações, festivais e eventos promovidos pelo município através da Fundação Cultural.",
+      "orgao": "MUNICIPIO DE PARANAVAI",
+      "cnpj_orgao": "76977768000181",
+      "municipio": "Paranavaí",
+      "uf": "PR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-03-28T08:52:16.300641384",
+      "data_abertura": "",
+      "data_limite": "2035-04-02T09:00",
+      "link": "https://pncp.gov.br/compras/76977768000181/2025/61",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "3745163d4aff323f"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "44229821000170-1-000048/2026",
+      "titulo": "Edital de Chamamento Público nº 9/2026",
+      "objeto": "[LICITANET] - Chamamento público destinado ao Credenciamento de artistas e profissionais de arte e cultura, pessoas físicas e jurídicas, para formação de cadastro contínuo, visando à futura e eventual contratação, sob demanda, para prestação de serviços de natureza artística, cultural e técnica, destinados à realização de apresentações, oficinas, intervenções culturais, ações formativas, atividades de difusão cultural e demais ações promovidas ou apoiadas pela Secretaria Municipal de Cultura e Turismo do Município de Jardinópolis.",
+      "orgao": "MUNICIPIO DE JARDINOPOLIS",
+      "cnpj_orgao": "44229821000170",
+      "municipio": "Jardinópolis",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-03T10:39:09.231966",
+      "data_abertura": "",
+      "data_limite": "2030-12-31T00:00",
+      "link": "https://pncp.gov.br/compras/44229821000170/2026/48",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0311a76c23f42f11"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "76977768000181-1-000040/2023",
+      "titulo": "Edital nº PRI 19/2023",
+      "objeto": "Chamamento público para credenciamento de artistas, profissionais e fazedores de arte e cultura, para efetuarem apresentações e atividades artísticos culturais nas ações, festivais e eventos promovidos pelo município através da Fundação Cultural.",
+      "orgao": "MUNICIPIO DE PARANAVAI",
+      "cnpj_orgao": "76977768000181",
+      "municipio": "Paranavaí",
+      "uf": "PR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2023-10-20T09:04:18.963711",
+      "data_abertura": "",
+      "data_limite": "2028-10-16T17:00",
+      "link": "https://pncp.gov.br/compras/76977768000181/2023/40",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e74b958a9af6629e"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13908702000110-1-000082/2026",
+      "titulo": "Edital de Chamamento Público nº CRE008/2026",
+      "objeto": "Contratação de serviços artístico-culturais, por meio de grupos formais e/ou informais — inclusive grupos representados por pessoa física, por meio de declaração formal de representação de seus integrantes, bem como pessoas jurídicas, microempreendedores individuais (MEIs) com atuação cultural comprovada, com o propósito de fomentar a cultura local e valorizar os talentos artísticos do município, residentes ou sediados no município de Campo Formoso – BA, com a finalidade de realizar ações artísticas e culturais voltadas à promoção, valorização e difusão da cultura local.",
+      "orgao": "MUNICIPIO DE CAMPO FORMOSO",
+      "cnpj_orgao": "13908702000110",
+      "municipio": "Campo Formoso",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-06-10T18:35:48.065123",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T08:00",
+      "link": "https://pncp.gov.br/compras/13908702000110/2026/82",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0a72006495fcb03c"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "87890992000158-1-000911/2026",
+      "titulo": "Credenciamento CPC 13/2026",
+      "objeto": "Chamamento público para Premiações por Trajetória de Pontos e Pontões de Cultura de Gravataí",
+      "orgao": "MUNICIPIO DE GRAVATAI",
+      "cnpj_orgao": "87890992000158",
+      "municipio": "Gravataí",
+      "uf": "RS",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 145420.0,
+      "data_publicacao": "2026-08-17T17:18:40",
+      "data_abertura": "2026-08-17T18:00:00",
+      "data_limite": "2026-09-03T23:59:00",
+      "link": "https://pncp.gov.br/app/editais/87890992000158/1/000911/2026",
+      "link_origem": "",
+      "score": 18,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)",
+          "\\bpremiac(ao|oes)\\b.{0,40}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "f344550a7b6ee059"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "87890992000158-1-000911/2026",
+      "titulo": "Edital de Chamamento Público nº CPC 13/2026",
+      "objeto": "Chamamento público para Premiações por Trajetória de Pontos e Pontões de Cultura de Gravataí",
+      "orgao": "MUNICIPIO DE GRAVATAI",
+      "cnpj_orgao": "87890992000158",
+      "municipio": "Gravataí",
+      "uf": "RS",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-17T17:18:40.046461181",
+      "data_abertura": "",
+      "data_limite": "2026-09-03T23:59",
+      "link": "https://pncp.gov.br/compras/87890992000158/2026/911",
+      "link_origem": "",
+      "score": 18,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)",
+          "\\bpremiac(ao|oes)\\b.{0,40}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "bcacf0e2b7b18315"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "10091585000156-1-000019/2026",
+      "titulo": "Edital de Chamamento Público nº 003/2026",
+      "objeto": "Credenciamento de pessoas físicas ou jurídicas para a realização de apresentações artísticas de artistas, bandas, grupos e agremiações tradicionais representativos da cultura brasileira, visando atender aos eventos culturais promovidos pela Prefeitura Municipal de São Caetano/PE",
+      "orgao": "MUNICIPIO DE SAO CAITANO",
+      "cnpj_orgao": "10091585000156",
+      "municipio": "São Caitano",
+      "uf": "PE",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-15T08:55:40.116796100",
+      "data_abertura": "",
+      "data_limite": "2027-05-15T09:30",
+      "link": "https://pncp.gov.br/compras/10091585000156/2026/19",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "84d24fea96c096aa"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "27165547000101-1-000042/2026",
+      "titulo": "Edital de Chamamento Público nº 000002-2026/2026",
+      "objeto": "Credenciamento de pessoas jurídicas residentes ou localizadas no Município de Viana ES demais municípios do Espirito Santo, com vistas a apresentações Musicais, Danças folclóricas e manifestações culturais, teatro, artes visuais, etc, para atender aos eventos culturais promovidos e apoiados pela Prefeitura Municipal de Viana",
+      "orgao": "MUNICIPIO DE VIANA",
+      "cnpj_orgao": "27165547000101",
+      "municipio": "Viana",
+      "uf": "ES",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-15T09:39:19.357549633",
+      "data_abertura": "",
+      "data_limite": "2026-08-18T23:59:59",
+      "link": "https://pncp.gov.br/compras/27165547000101/2026/42",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "cb3a7dda7187d840"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "80622319000198-1-000007/2026",
+      "titulo": "Edital de Chamamento Público nº PRI 3/2026",
+      "objeto": "Prestação de serviços de dupla/conjunto musical, afim de realizar sonorização e animação de evento com repertório adequado nas festividades de pequeno porte do Município de Serra Alta/SC.",
+      "orgao": "MUNICIPIO DE SERRA ALTA",
+      "cnpj_orgao": "80622319000198",
+      "municipio": "Serra Alta",
+      "uf": "SC",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-02-04T17:03:56.266065",
+      "data_abertura": "",
+      "data_limite": "2027-02-09T17:00",
+      "link": "https://pncp.gov.br/compras/80622319000198/2026/7",
+      "link_origem": "",
+      "score": 13,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "a20a819e8df64eb3"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "76208479000118-1-000157/2026",
+      "titulo": "Credenciamento 93 | Processo 9545/2026",
+      "objeto": "Credenciamento de artistas e cantores locais para participar dos eventos municipais.",
+      "orgao": "MUNICIPIO DE ASSIS CHATEAUBRIAND",
+      "cnpj_orgao": "76208479000118",
+      "municipio": "Assis Chateaubriand",
+      "uf": "PR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, II Credenciamento: na hipótese de contratação com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação.",
+      "valor_estimado": 1012475.0,
+      "data_publicacao": "2026-08-17T10:46:41",
+      "data_abertura": "2026-08-24T08:00:00",
+      "data_limite": "2026-09-08T08:00:00",
+      "link": "https://pncp.gov.br/app/editais/76208479000118/1/000157/2026",
+      "link_origem": " ",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "1ebf0668c24ea9ac"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "05105283000150-1-000097/2026",
+      "titulo": "Credenciamento 7/2026",
+      "objeto": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOAS FÍSICAS E/OU JURÍDICAS PARA A PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE APOIO À REALIZAÇÃO DE EVENTOS INSTITUCIONAIS, EDUCACIONAIS, PEDAGÓGICOS, CULTURAIS, ESPORTIVOS E CÍVICOS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DE CAMETÁ/PA, DESTINADOS À FORMAÇÃO DE CADASTRO DE PRESTADORES PARA ATENDIMENTO, SOB DEMANDA, DAS CATEGORIAS DE CERIMONIAL E PROTOCOLO; COBERTURA AUDIOVISUAL; MÚSICA E APRESENTAÇÕES ARTÍSTICAS; RECREAÇÃO E ATIVIDADES PEDAGÓGICAS; DECORAÇÃO E AMBIENTAÇÃO; APOIO OPERACIONAL; E CULTURA E TRADIÇÕES POPULARES, CONFORME ESPECIFICAÇÕES CONSTANTES NO TERMO DE REFERÊNCIA E DEMAIS ANEXOS DO EDITAL.",
+      "orgao": "MUNICIPIO DE CAMETA",
+      "cnpj_orgao": "05105283000150",
+      "municipio": "Cametá",
+      "uf": "PA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 162400.0,
+      "data_publicacao": "2026-08-18T11:58:54",
+      "data_abertura": "2026-08-18T12:00:00",
+      "data_limite": "2026-12-31T18:00:00",
+      "link": "https://pncp.gov.br/app/editais/05105283000150/1/000097/2026",
+      "link_origem": "https://www.portaldecompraspublicas.com.br/processos/PA/Prefeitura-Municipal-de-Cameta-919/CRED-7-2026-2026-504614",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "48f43917c5241c3e"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "28531762000133-1-000028/2026",
+      "titulo": "Edital de Chamamento Público nº 003/2026",
+      "objeto": "[LICITANET] - Credenciamento de pessoas físicas e jurídicas para prestação de serviço de artistas, bandas, grupos musicais nos variados estilos, apresentações de teatro, circo e outras manifestações culturais com vistas a realizarem apresentações públicas, em eventos realizados e apoiados pela Prefeitura Municipal de Araruama, compreendendo assim todo o território do município de Araruama/RJ.",
+      "orgao": "MUNICIPIO DE ARARUAMA",
+      "cnpj_orgao": "28531762000133",
+      "municipio": "Araruama",
+      "uf": "RJ",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-22T12:08:14.446622",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T00:00",
+      "link": "https://pncp.gov.br/compras/28531762000133/2026/28",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d18d3118d529d3ea"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18668368000198-1-000186/2026",
+      "titulo": "Edital de Chamamento Público nº 002/2026",
+      "objeto": "CREDENCIAMENTO ELETRÔNICO PARA RECEBIMENTO DE PROPOSTAS DE PESSOAS FÍSICAS E JURÍDICAS INTERESSADAS NA PRESTAÇÃO DE SERVIÇOS ARTÍSTICOS E CULTURAIS, ABRANGENDO ARTISTAS, GRUPOS, BANDAS, PROFISSIONAIS E DEMAIS AGENTES CULTURAIS DE RENOME LOCAL E/OU REGIONAL, COM VISTAS À FORMAÇÃO DE CADASTRO PARA EVENTUAL CONTRATAÇÃO, CONFORME A DEMANDA, VISANDO COMPOR A PROGRAMAÇÃO ARTÍSTICA DOS EVENTOS, PROJETOS, AÇÕES E DEMAIS ATIVIDADES CULTURAIS PROMOVIDAS, REALIZADAS OU APOIADAS PELO MUNICÍPIO DE JURUAIA/MG, OBSERVADAS AS CONDIÇÕES, CRITÉRIOS E ESPECIFICAÇÕES ESTABELECIDOS NO RESPECTIVO EDITAL E SEUS ANEXOS",
+      "orgao": "MUNICIPIO DE JURUAIA",
+      "cnpj_orgao": "18668368000198",
+      "municipio": "Juruaia",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-07-10T10:55:40.415571689",
+      "data_abertura": "",
+      "data_limite": "2027-08-03T23:59:59",
+      "link": "https://pncp.gov.br/compras/18668368000198/2026/186",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "7fe6a2734f3a019f"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "11097359000145-1-000016/2026",
+      "titulo": "Edital de Chamamento Público nº 2/2026",
+      "objeto": "Credenciamento de pessoas físicas, pessoas jurídicas, artistas individuais, grupos culturais, grupos musicais e demais coletivos interessados em compor a programação dos eventos, ações e projetos da Prefeitura Municipal de João Alfredo/PE e de suas secretarias",
+      "orgao": "MUNICIPIO DE JOAO ALFREDO",
+      "cnpj_orgao": "11097359000145",
+      "municipio": "João Alfredo",
+      "uf": "PE",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-29T12:57:25.947309356",
+      "data_abertura": "",
+      "data_limite": "2027-06-01T13:00",
+      "link": "https://pncp.gov.br/compras/11097359000145/2026/16",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "064889806f76bf8f"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "78486198000152-1-000159/2026",
+      "titulo": "Edital de Chamamento Público nº PRI 42/2026",
+      "objeto": "Credenciamento de bandas para prestação de serviços de animação musical e equipe de sonorização em eventos realizados pelo Departamento de Cultura, setor público e pelo grupo de idosos inscritos no programa municipal da terceira idade desta municipalidade, em conformidade com os prazos, procedimentos e demais condições descritas neste estudo.",
+      "orgao": "MUNICIPIO DE TUNAPOLIS",
+      "cnpj_orgao": "78486198000152",
+      "municipio": "Tunápolis",
+      "uf": "SC",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-06T14:00:17.432714",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T00:00",
+      "link": "https://pncp.gov.br/compras/78486198000152/2026/159",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "3187b156fe3096c8"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18675983000121-1-000052/2026",
+      "titulo": "Edital de Chamamento Público nº PRI 3/2026",
+      "objeto": "CREDENCIAMENTO DE INTERESSADOS PARA APRESENTAÇÃO MUSICAL E ARTÍSTICA EM EVENTOS PROMOVIDOS PELA SECRETARIA DE COMUNICAÇÃO SOCIAL, LAZER E TURISMO.",
+      "orgao": "MUNICIPIO DE POUSO ALEGRE",
+      "cnpj_orgao": "18675983000121",
+      "municipio": "Pouso Alegre",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-24T12:58:51.793845",
+      "data_abertura": "",
+      "data_limite": "2026-12-15T17:00",
+      "link": "https://pncp.gov.br/compras/18675983000121/2026/52",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "765b973bdb269040"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18243287000146-1-000020/2026",
+      "titulo": "Edital de Chamamento Público nº 4/2026",
+      "objeto": "Credenciamento de Pessoas Físicas ou Jurídicas para Apresentações Artísticas Musicais, Locução e Serviços de Sonorização, para Apresentações nos Eventos do Município",
+      "orgao": "MUNICIPIO DE CARMO DO RIO CLARO",
+      "cnpj_orgao": "18243287000146",
+      "municipio": "Carmo do Rio Claro",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-02-11T10:52:48.517820440",
+      "data_abertura": "",
+      "data_limite": "2031-02-09T16:59",
+      "link": "https://pncp.gov.br/compras/18243287000146/2026/20",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "49e5465caa7b0759"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13702238000100-1-000030/2026",
+      "titulo": "Edital nº 007/2026/2026",
+      "objeto": "CREDENCIAMENTO DE PESSOAS FÍSICAS E/OU JURÍDICAS, COM VISTAS A APRESENTAÇÕES MUSICAIS E CULTURAIS, PARA ATENDER AOS EVENTOS PROMOVIDOS PELA ADMINISTRAÇÃO MUNICIPAL, DE ACORDO COM A PROGRAMAÇÃO CULTURAL DO MUNICÍPIO",
+      "orgao": "MUNICIPIO DE BARRA DO MENDES",
+      "cnpj_orgao": "13702238000100",
+      "municipio": "Barra do Mendes",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-18T15:04:19.125981828",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T17:00",
+      "link": "https://pncp.gov.br/compras/13702238000100/2026/30",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "bb6de359db3f73f7"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "05105283000150-1-000097/2026",
+      "titulo": "Edital de Chamamento Público nº 7/2026",
+      "objeto": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOAS FÍSICAS E/OU JURÍDICAS PARA A PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE APOIO À REALIZAÇÃO DE EVENTOS INSTITUCIONAIS, EDUCACIONAIS, PEDAGÓGICOS, CULTURAIS, ESPORTIVOS E CÍVICOS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO DE CAMETÁ/PA, DESTINADOS À FORMAÇÃO DE CADASTRO DE PRESTADORES PARA ATENDIMENTO, SOB DEMANDA, DAS CATEGORIAS DE CERIMONIAL E PROTOCOLO; COBERTURA AUDIOVISUAL; MÚSICA E APRESENTAÇÕES ARTÍSTICAS; RECREAÇÃO E ATIVIDADES PEDAGÓGICAS; DECORAÇÃO E AMBIENTAÇÃO; APOIO OPERACIONAL; E CULTURA E TRADIÇÕES POPULARES, CONFORME ESPECIFICAÇÕES CONSTANTES NO TERMO DE REFERÊNCIA E DEMAIS ANEXOS DO EDITAL.",
+      "orgao": "MUNICIPIO DE CAMETA",
+      "cnpj_orgao": "05105283000150",
+      "municipio": "Cametá",
+      "uf": "PA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-18T11:58:54.316531",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T18:00",
+      "link": "https://pncp.gov.br/compras/05105283000150/2026/97",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "7d8a3b65b40b868a"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13230982000150-1-000096/2026",
+      "titulo": "Edital de Chamamento Público nº 005/2026",
+      "objeto": "CREDENCIAMENTO DE PESSOAS FÍSICAS E JURÍDICAS PARA PRESTAÇÃO DE SERVIÇO DE ARTISTAS, BANDAS, GRUPOS MUSICAIS NOS VARIADOS ESTILOS, APRESENTAÇÕES DE TEATRO, CIRCO E OUTRAS MANIFESTAÇÕES CULTURAIS COM VISTAS A REALIZAREM APRESENTAÇÕES PÚBLICAS, DURANTE OS EVENTOS E PROJETOS PROMOVIDOS OU APOIADOS PELAS SECRETARIAS DO MUNICÍPIO DE CAPIM GROSSO- BAHIA.",
+      "orgao": "MUNICIPIO DE CAPIM GROSSO",
+      "cnpj_orgao": "13230982000150",
+      "municipio": "Capim Grosso",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-27T17:27:09.213558",
+      "data_abertura": "",
+      "data_limite": "2027-05-27T08:00",
+      "link": "https://pncp.gov.br/compras/13230982000150/2026/96",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "393a17813dcb7dc3"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13786520000113-1-000023/2026",
+      "titulo": "Edital de Chamamento Público nº Cred006/2026/2026",
+      "objeto": "credenciamento de interessados para a prestação de serviços artísticos e culturais para atender ao calendário anual de eventos municipais elaborado pela Secretaria Municipal de Cultura, mediante pagamento de cachê, conforme demanda, visando estimular a geração de renda, a difusão de produções artísticas e o estímulo criativo cultural, conforme calendário Cultural Municipal, desenvolvidas ao longo do ano corrente e outros eventos especiais que surgirem internamente",
+      "orgao": "MUNICIPIO DE MEDEIROS NETO",
+      "cnpj_orgao": "13786520000113",
+      "municipio": "Medeiros Neto",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-06-02T15:27:22.763713976",
+      "data_abertura": "",
+      "data_limite": "2027-05-21T12:00",
+      "link": "https://pncp.gov.br/compras/13786520000113/2026/23",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "68966d43a71c4abc"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "14006977000120-1-000056/2026",
+      "titulo": "Edital de Chamamento Público nº 004/2026",
+      "objeto": "Credenciamento de interessados para a prestação de serviços artísticos e culturais para atender ao calendário anual de eventos municipais elaborado pela Secretaria Municipal de Cultura e turismo, mediante pagamento de cachê, conforme demanda, visando estimular a geração de renda, a difusão de produções artísticas e o estímulo criativo cultural, conforme calendário Cultural Municipal, desenvolvidas ao longo do ano corrente e outros eventos especiais que surgirem internamente.",
+      "orgao": "MUNICIPIO DE CRUZ DAS ALMAS",
+      "cnpj_orgao": "14006977000120",
+      "municipio": "Cruz das Almas",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-12T10:22:09.541589614",
+      "data_abertura": "",
+      "data_limite": "2027-05-13T17:00",
+      "link": "https://pncp.gov.br/compras/14006977000120/2026/56",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d6d2d5b9c2e99521"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "10293074000117-1-000004/2026",
+      "titulo": "Edital de Chamamento Público nº 1/2026",
+      "objeto": "Credenciamento de pessoas físicas, pessoas jurídicas, artistas individuais, grupos culturais, grupos musicais e demais coletivos interessados em compor a programação dos eventos, ações e projetos da Prefeitura Municipal de Bom Jardim e de suas secretarias",
+      "orgao": "MUNICIPIO DO BOM JARDIM",
+      "cnpj_orgao": "10293074000117",
+      "municipio": "Bom Jardim",
+      "uf": "PE",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-01-14T16:33:28.839611",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T13:00",
+      "link": "https://pncp.gov.br/compras/10293074000117/2026/4",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2f1e2cf1741e116c"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "17754110000141-1-000040/2025",
+      "titulo": "Edital de Chamamento Público nº 000013/2025",
+      "objeto": "CREDENCIAMENTO ELETRÔNICO TEM POR OBJETO O CREDENCIAMENTO DE BANDAS E ARTISTAS SEM RECONHECIMENTO NACIONAL OU CONSAGRAÇÃO DO PÚBLICO, EM ATENDIMENTO A SECRETARIA MUNICIPAL DE CULTURA E TURISMO DO MUNICÍPIO DE SENADOR MODESTINO GONÇALVES/MG",
+      "orgao": "MUNICIPIO DE SENADOR MODESTINO GONCALVES",
+      "cnpj_orgao": "17754110000141",
+      "municipio": "Senador Modestino Gonçalves",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-08-26T08:53:29.163481",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T23:59:59",
+      "link": "https://pncp.gov.br/compras/17754110000141/2025/40",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "444fab7dd438247f"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18291385000159-1-000013/2026",
+      "titulo": "Edital de Chamamento Público nº 002/2026",
+      "objeto": "CREDENCIAMENTO DE CANTORES E BANDAS LOCAIS E REGIONAIS, PARA A REALIZAÇÃO DE APRESENTAÇÕES MUSICAIS AO VIVO EM EVENTOS INTEGRANTES DO CALENDÁRIO CULTURAL OFICIAL DO MUNICÍPIO DE NOVA SERRANA-MG, PROMOVIDOS OU APOIADOS PELA SECRETARIA MUNICIPAL DE CULTURA E TURISMO",
+      "orgao": "MUNICIPIO DE NOVA SERRANA",
+      "cnpj_orgao": "18291385000159",
+      "municipio": "Nova Serrana",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-01-28T13:51:17.345225",
+      "data_abertura": "",
+      "data_limite": "2027-01-28T23:59:59",
+      "link": "https://pncp.gov.br/compras/18291385000159/2026/13",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6e57c913febac162"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "55356653000108-1-000103/2026",
+      "titulo": "Edital de Chamamento Público nº 003/2026",
+      "objeto": "O objeto do presente procedimento é credenciamento de pessoas físicas, pessoas jurídicas, grupos, coletivos e agentes culturais interessados na prestação de serviços artísticos, culturais, formativos e de mediação cultural ao Município de Presidente Prudente/SP, para\nfutura contratação sob demanda pela Secretaria Municipal de Cultura, conforme categorias, unidades de contratação, valores referenciais, condições de execução, requisitos mínimos e critérios objetivos de convocação estabelecidos neste Edital e seus anexos.",
+      "orgao": "MUNICIPIO DE PRESIDENTE PRUDENTE",
+      "cnpj_orgao": "55356653000108",
+      "municipio": "Presidente Prudente",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-12T15:30:39.643530038",
+      "data_abertura": "",
+      "data_limite": "2027-05-13T23:59:59",
+      "link": "https://pncp.gov.br/compras/55356653000108/2026/103",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "f14b7a202953a0e3"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01067925000112-1-000023/2026",
+      "titulo": "Edital de Chamamento Público nº (1563) | 10-0/2026",
+      "objeto": "Chamamento público para fins de credenciamento de pessoas físicas e jurídicas, com atuação artística de nível regional, para futura contratação de apresentações artísticas musicais e serviços de comunicação de palco e eventos, em atendimento às demandas culturais, institucionais, comemorativas, comunitárias e demais programações promovidas ou apoiadas pelo Município de Nova Roma, conforme condições, especificações e exigências estabelecidas no instrumento convocatorio.",
+      "orgao": "MUNICIPIO DE NOVA ROMA",
+      "cnpj_orgao": "01067925000112",
+      "municipio": "Nova Roma",
+      "uf": "GO",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-04-27T09:40:44.204991",
+      "data_abertura": "",
+      "data_limite": "2027-04-27T23:59",
+      "link": "https://pncp.gov.br/compras/01067925000112/2026/23",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c795e6b6ed974dc5"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "21611579000107-1-000044/2025",
+      "titulo": "Edital de Chamamento Público nº 24 | Processo 97/2025",
+      "objeto": "O presente chamamento publico tem como objeto o credenciamento para a eventual contratacao de servicos artisticos culturais  PESSOAS FISICAS OU JURIDICAS interessadas na prestacao de servicos  shows  espetaculos  oficinas  palestras  encontros culturais e exibicoes e oficinas de artistas e grupos ligados as festividades  dentre outros   a fim de atender a Agenda de Eventos da FCCDA  contemplando os criterios tecnicos especificos  os pre requisitos e os valores fixados para a realizacao da prestacao dos servicos.As quantidades de atividades contratadas serao estabelecidas Mediante a necessidade  disponibilidade orcamentaria e projeto curatorial para atender as demandas da Agenda Cultural  da Realizacao do Carnaval de Itabira  do Circuito de Festivais e da Difusao da Obra Drummondiana da FCCDA.",
+      "orgao": "FUNDACAO CULTURAL CARLOS DRUMMOND DE ANDRADE",
+      "cnpj_orgao": "21611579000107",
+      "municipio": "Itabira",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-09-16T14:54:59.009373",
+      "data_abertura": "",
+      "data_limite": "2026-08-29T17:00",
+      "link": "https://pncp.gov.br/compras/21611579000107/2025/44",
+      "link_origem": "",
+      "score": 10,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b",
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+        ],
+        "C": [],
+        "NEG": [
+          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
+        ]
+      },
+      "trecho": "",
+      "uid": "abe1f18cd0a5209e"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13675491000112-1-000405/2026",
+      "titulo": "Edital nº 008-2026PE/2026",
+      "objeto": "Registro de preços para futura e eventual aquisição de equipamentos de informática, mobiliário e ferramentas tecnológicas de produção de conteúdo, visando ao fortalecimento, formação, estruturação, modernização e democratização dos meios de produção, registro, difusão cultural e atendimento aos Agentes Culturais, no âmbito da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), conforme especificações, quantitativos e condições estabelecidas no Termo de Referência",
+      "orgao": "MUNICIPIO DE PARAMIRIM",
+      "cnpj_orgao": "13675491000112",
+      "municipio": "Paramirim",
+      "uf": "BA",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-11T08:07:12.902951558",
+      "data_abertura": "",
+      "data_limite": "2026-08-25T08:00",
+      "link": "https://pncp.gov.br/compras/13675491000112/2026/405",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "FOMENTO_CULTURAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "63c63894ce0e27bd"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01616319000109-1-000165/2026",
+      "titulo": "Edital nº 44424/2026",
+      "objeto": "CONCORRENCIA ELETRÔNICA N° 019/2026\nCONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA EXECUÇÃO DE OBRA DE REFORMA DO BLOCO CULTURAL DO CENTRO DE ESPORTES UNIFICADOS ? CEU DAS ARTES - BAIRRO VALPARAISO I ETAPA C, QUADRA 15 AREA ESPECIAL, CONFORME PLANO DE AÇÃO N. 30882120250002-024594 ? POLITICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA (PNAB) ? MINISTÉRIO DA CULTURA, CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE EDITAL E SEUS ANEXOS.",
+      "orgao": "MUNICIPIO DE VALPARAISO DE GOIAS",
+      "cnpj_orgao": "01616319000109",
+      "municipio": "Valparaíso de Goiás",
+      "uf": "GO",
+      "modalidade": "Concorrência - Eletrônica",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-17T15:37:59.601282730",
+      "data_abertura": "",
+      "data_limite": "2026-09-01T09:00",
+      "link": "https://pncp.gov.br/compras/01616319000109/2026/165",
+      "link_origem": "",
+      "score": 17,
+      "categoria": "FOMENTO_CULTURAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": [
+          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
+        ]
+      },
+      "trecho": "",
+      "uid": "f7eb2e5f2c32ce4f"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01616319000109-1-000110/2026",
+      "titulo": "Edital nº 44211/2026",
+      "objeto": "ADESÃO Nº 022/2026\nADESÃO A ATA DE REGISTRO DE PREÇOS DATADA DE 11/05/2026 EM DECORRÊNCIA PREGÃO PRESENCIAL/SRP Nº 004/2026 - PROCESSO ADMINISTRATIVO Nº 1032/2026 DA PREFEITURA MUNICIPAL DE BRITANIA/GO, NA CONDIÇÃO DE ?CARONA?, PARA EVENTUAL PRESTAÇÃO DE SERVIÇOS DE SONORIZAÇÃO, ILUMINAÇÃO, SHOW PIROTÉCNICO, PALCOS, ARQUIBANCADAS, CAMAROTES, BRETES, ARENA E CURRAIS, DIRETOR DE RODEIO, JUIZ PROFISSIONAL, MÉDICO VETERINÁRIO, ENTRE OUTROS EM ATENDIMENTO ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE CULTURA E ESPORTE DE VALPARAÍSO DE GOIÁS.",
+      "orgao": "MUNICIPIO DE VALPARAISO DE GOIAS",
+      "cnpj_orgao": "01616319000109",
+      "municipio": "Valparaíso de Goiás",
+      "uf": "GO",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-06-17T14:32:17.244970069",
+      "data_abertura": "",
+      "data_limite": "2027-05-11T00:00",
+      "link": "https://pncp.gov.br/compras/01616319000109/2026/110",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (pirotecnico|de fogos)"
+        ],
+        "B": [
+          "\\brodeio(s)?\\b"
+        ],
+        "C": [],
+        "NEG": [
+          "\\bfogos de artificio\\b|\\bpirotecnic\\w*\\b"
+        ]
+      },
+      "trecho": "",
+      "uid": "bf985c4104d68fc0"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "07158578000110-1-000108/2026",
+      "titulo": "Aviso de Contratação Direta nº 34/2026",
+      "objeto": "Contratação, por meio de Dispensa de Licitação Eletrônica, de empresa especializada na prestação de serviços de hotelaria, compreendendo a hospedagem de artistas, músicos, técnicos, produtores e demais integrantes das equipes das atrações musicais que se apresentarão durante as festividades em comemoração ao 23º Aniversário de Emancipação Político-Administrativa do Município de Figueirão/MS, visando atender às necessidades do Gabinete Municipal e garantir acomodações adequadas, seguras e confortáveis aos profissionais responsáveis pela execução das apresentações artísticas.",
+      "orgao": "MUNICIPIO DE FIGUEIRAO",
+      "cnpj_orgao": "07158578000110",
+      "municipio": "Figueirão",
+      "uf": "MS",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-18T11:01:35.103494567",
+      "data_abertura": "",
+      "data_limite": "2026-08-25T15:00",
+      "link": "https://pncp.gov.br/compras/07158578000110/2026/108",
+      "link_origem": "",
+      "score": 32,
+      "categoria": "DISPENSA",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
+        ],
+        "B": [
+          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "31369339ac1064ef"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "44880060000111-1-000161/2026",
+      "titulo": "Aviso de Contratação Direta nº 56/2026",
+      "objeto": "Ref. Contratação de empresa especializada para prestação de serviços de apresentação artística de banda profissional com espetáculo temático \"Tributo às Mulheres do Rock\", durante a programação oficial do Dracena Moto Festival 2026, a ser realizado na Estância MS Eventos, no dia 18 de Setembro 2026 no Município de Dracena/SP.",
+      "orgao": "MUNICIPIO DE DRACENA",
+      "cnpj_orgao": "44880060000111",
+      "municipio": "Dracena",
+      "uf": "SP",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-14T14:27:47.246530825",
+      "data_abertura": "",
+      "data_limite": "2026-08-20T08:59",
+      "link": "https://pncp.gov.br/compras/44880060000111/2026/161",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b970245083a363ec"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "37622164000160-1-000173/2026",
+      "titulo": "Aviso de Contratação Direta nº 133/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE APRESENTAÇÃO DE SHOW ARTÍSTICO/MUSICAL DESTINADO À CONFRATERNIZAÇÃO EM COMEMORAÇÃO AO DIA DAS MÃES NO DIA 29 DE MAIO DE 2026, A SER R",
+      "orgao": "MUNICIPIO DE UIRAPURU",
+      "cnpj_orgao": "37622164000160",
+      "municipio": "Uirapuru",
+      "uf": "GO",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-05-29T10:32:27.127124856",
+      "data_abertura": "",
+      "data_limite": "2029-05-29T09:00",
+      "link": "https://pncp.gov.br/compras/37622164000160/2026/173",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c668fb4cb91d3d1b"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "08418353000118-1-000037/2026",
+      "titulo": "Aviso de Contratação Direta nº (20581) | 3-A/2026",
+      "objeto": "Contratação de empresa para apresentação artística para atender a realização das programações voltadas para o público do serviço de convivência e fortalecimento de vínculo – SCFV executado pelo Centro de Referência de Assistência Social – CRAS.",
+      "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL - FMAS",
+      "cnpj_orgao": "08418353000118",
+      "municipio": "Buriti de Goiás",
+      "uf": "GO",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-18T09:16:17.029284688",
+      "data_abertura": "",
+      "data_limite": "2026-08-21T08:00",
+      "link": "https://pncp.gov.br/compras/08418353000118/2026/37",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0f2208611a09bdb3"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13846902000195-1-000101/2026",
+      "titulo": "Edital nº 026/2026",
+      "objeto": "REGISTRO DE PREÇO PARA FUTURA E EVENTUAL AQUISIÇÃO DE FARDAMENTOS, CALÇADOS, ADEREÇOS, BANDEIRAS E ACESSÓRIOS PERSONALIZADOS, DESTINADOS AOS INTEGRANTES DA BAMUTA – BANDA MUSICAL DE TABOQUINHAS E DA FAITA – FANFARRA DE ITACARÉ",
+      "orgao": "MUNICIPIO DE ITACARE",
+      "cnpj_orgao": "13846902000195",
+      "municipio": "Itacaré",
+      "uf": "BA",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-17T17:59:32.270963357",
+      "data_abertura": "",
+      "data_limite": "2026-08-31T11:00",
+      "link": "https://pncp.gov.br/compras/13846902000195/2026/101",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "46f3c6b093e401e7"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "76206481000158-1-000112/2026",
+      "titulo": "Edital nº 32/2026",
+      "objeto": "REGISTRO DE PREÇO para contratação DE BANDA E JURADOS para realização do IV FESCAM – Festival da Canção de Medianeira, compreendendo banda para acompanhamento musical ao vivo, equipe artística, equipe técnica, sistema de sonorização, comissão julgadora especializada e demais recursos humanos, técnicos, operacionais e logísticos necessários à realização dos ensaios, etapas eliminatórias e final do evento, conforme condições e exigências estabelecidas neste instrumento.",
+      "orgao": "MUNICIPIO DE MEDIANEIRA",
+      "cnpj_orgao": "76206481000158",
+      "municipio": "Medianeira",
+      "uf": "PR",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-14T16:11:14.854836502",
+      "data_abertura": "",
+      "data_limite": "2026-08-31T08:30",
+      "link": "https://pncp.gov.br/compras/76206481000158/2026/112",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0f7a9d51d6d507e8"
+    }
+  ]
+}
