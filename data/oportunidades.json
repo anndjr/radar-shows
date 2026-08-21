@@ -1,7 +1,74 @@
 {
-  "gerado_em": "2026-08-21T11:19:14",
-  "total_brutos": 464,
-  "total_aprovados": 212,
-  "total_novos": 0,
-  "oportunidades": []
+  "gerado_em": "2026-08-21T21:28:43",
+  "total_brutos": 375,
+  "total_aprovados": 181,
+  "total_novos": 2,
+  "oportunidades": [
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13858303000191-1-000051/2026",
+      "titulo": "Edital nº 009/2026/2026",
+      "objeto": " A presente licitação tem por objeto credenciamento de cantores/músicos – \r\n“artistas da terra”, para realização de \r\napresentações \r\nartísticas \r\nem eventos \r\ncomemorativos do município Iguaí/BA, nas quantidades, qualidades e condições \r\ndescritas em edital, conforme especificações do folheto descritivo, que integra: ",
+      "orgao": "MUNICIPIO DE IGUAI",
+      "cnpj_orgao": "13858303000191",
+      "municipio": "Iguaí",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-21T14:30:01.705655987",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T08:00",
+      "link": "https://pncp.gov.br/compras/13858303000191/2026/51",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "cd0cac4ee6399caa"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18241356000182-1-000059/2026",
+      "titulo": "Edital nº 045/2026",
+      "objeto": "Contratação de empresa especializada para organização, produção, coordenação e execução da Festa do Peão de Pratápolis/MG, com fornecimento de infraestrutura, equipamentos, mão de obra, serviços especializados, atrações artísticas e demais itens necessári",
+      "orgao": "MUNICIPIO DE PRATAPOLIS",
+      "cnpj_orgao": "18241356000182",
+      "municipio": "Pratápolis",
+      "uf": "MG",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-21T15:58:15.082543578",
+      "data_abertura": "",
+      "data_limite": "2026-09-04T13:00",
+      "link": "https://pncp.gov.br/compras/18241356000182/2026/59",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
+        ],
+        "B": [
+          "\\bfesta do peao(de boiadeiro)?\\b"
+        ],
+        "C": [],
+        "NEG": [
+          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
+        ]
+      },
+      "trecho": "",
+      "uid": "5357cab320b12ac9"
+    }
+  ]
 }
