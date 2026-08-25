@@ -1,40 +1,328 @@
 {
-  "gerado_em": "2026-08-25T11:21:03",
-  "total_brutos": 417,
-  "total_aprovados": 194,
-  "total_novos": 1,
+  "gerado_em": "2026-08-25T21:29:59",
+  "total_brutos": 854,
+  "total_aprovados": 221,
+  "total_novos": 10,
   "oportunidades": [
     {
-      "fonte": "pncp_search",
-      "id_externo": "18008870000172-1-000224/2026",
-      "titulo": "Edital nº 059/2026",
-      "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇOS ESPECIALIZADOS DE PRODUÇÃO E EXECUÇÃO DE 02 (DUAS) APRESENTAÇÕES MUSICAIS, SENDO 01 (UMA) APRESENTAÇÃO DE CHORINHO E 01 (UM) SHOW DE MÚSICA CATÓLICA, PARA INTEGRAR A PROGRAMAÇÃO OFICIAL DAS COMEMORAÇÕES DOS 125 ANOS DE EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA DO MUNICÍPIO DE CAXAMBU/MG, CONFORME TERMO DE REFERÊNCIA, PARTE INTEGRANTE DO PRESENTE EDITAL",
-      "orgao": "MUNICIPIO DE CAXAMBU",
-      "cnpj_orgao": "18008870000172",
-      "municipio": "Caxambu",
-      "uf": "MG",
-      "modalidade": "Pregão - Eletrônico",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-08-25T07:49:28.586653877",
+      "fonte": "pncp",
+      "id_externo": "88861448000140-1-000479/2026",
+      "titulo": "Inexigibilidade 102 | Processo 4975/2026",
+      "objeto": "Contratacao de APRESENTACAO ARTISTICA MUSICAL DO CANTOR MANO LIMA  para integrar a programacao oficial da Semana Farroupilha 2026  promovida pela Secretaria Municipal de Cultura  Turismo  Desporto e Lazer do Municipio de Piratini RS  a realizar se no dia 15 de setembro de 2026  as 23 h  no Centro de Eventos Erni Pereira Alves  com duracao aproximada de 1 hora",
+      "orgao": "MUNICIPIO DE PIRATINI",
+      "cnpj_orgao": "88861448000140",
+      "municipio": "Piratini",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 28000.0,
+      "data_publicacao": "2026-08-22T20:09:59",
       "data_abertura": "",
-      "data_limite": "2026-09-09T09:00",
-      "link": "https://pncp.gov.br/compras/18008870000172/2026/224",
-      "link_origem": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/88861448000140/1/000479/2026",
+      "link_origem": " ",
       "score": 24,
-      "categoria": "OUTRO_ARTISTICO",
+      "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
           "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+          "\\bempresario exclusivo\\b"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "01912e433ce08e68"
+      "uid": "f976148eba212d6a"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "18094854000140-1-000069/2026",
+      "titulo": "Inexigibilidade 00006726/2026",
+      "objeto": "Contratação de empresa artística de conhecimento nacional (WANESSA CAMARGO), para a celebração da XL Festa da Banana do Município de Santa Bárbara do Tugúrio, conforme Programa Nacional de Apoio a Cultura e especificação em anexo.",
+      "orgao": "MUNICIPIO DE SANTA BARBARA DO TUGURIO",
+      "cnpj_orgao": "18094854000140",
+      "municipio": "Santa Bárbara do Tugúrio",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 180000.0,
+      "data_publicacao": "2026-08-22T17:15:54",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/18094854000140/1/000069/2026",
+      "link_origem": "licitacao@santabarbaradotugurio.mg.gov.br",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "55094640cc272e97"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "88861448000140-1-000481/2026",
+      "titulo": "Inexigibilidade 103 | Processo 4977/2026",
+      "objeto": "CONTRATACAO DO APRESENTADOR ENTREVISTADOR DENER ESPINDOLA DE AVILA  para realizar o servico de cobertura e transmissao via radio da SEMANA FARROUPILHA 2026 DE PIRATINI  que acontecera dos dias 12 a 20 de setembro do corrente ano no Centro de Eventos Erni Pereira Alves",
+      "orgao": "MUNICIPIO DE PIRATINI",
+      "cnpj_orgao": "88861448000140",
+      "municipio": "Piratini",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 2700.0,
+      "data_publicacao": "2026-08-22T22:26:05",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/88861448000140/1/000481/2026",
+      "link_origem": " ",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e818455fe30455c5"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "03238862000145-1-000076/2026",
+      "titulo": "Credenciamento CRE 8/2026",
+      "objeto": "SELEÇÃO PÚBLICA QUE VISA RECONHECER E PREMIAR AGENTES CULTURAIS E GRUPOS CULTURAIS RESIDENTES E DOMICILIADOS EM VILA RICA QUE TENHA CONTRIBUÍDO SIGNIFICATIVAMENTE PARA O DESENVOLVIMENTO ARTÍSTICO E CULTURAL COM A CULTURA LOCAL, POR MEIO DE RECURSO DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA (PNAB).",
+      "orgao": "MUNICIPIO DE VILA RICA",
+      "cnpj_orgao": "03238862000145",
+      "municipio": "Vila Rica",
+      "uf": "MT",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, II Credenciamento: na hipótese de contratação com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação.",
+      "valor_estimado": 12000.0,
+      "data_publicacao": "2026-08-24T09:17:18",
+      "data_abertura": "2026-08-17T08:00:00",
+      "data_limite": "2026-09-02T08:30:00",
+      "link": "https://pncp.gov.br/app/editais/03238862000145/1/000076/2026",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "f7fb7d34e5e97fa1"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "75476556000158-1-000135/2026",
+      "titulo": "Credenciamento PRI 60/2026",
+      "objeto": "Credenciamento para contratação de atrações artísticas locais, pessoa física e/ou jurídica, destinadas às Feiras Gastronômicas e demais eventos, com o objetivo de fortalecer e fomentar o comércio local e a geração de renda para os empreendedores e artistas do Município",
+      "orgao": "MUNICIPIO DE PARAISO DO NORTE",
+      "cnpj_orgao": "75476556000158",
+      "municipio": "Paraíso do Norte",
+      "uf": "PR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 224000.0,
+      "data_publicacao": "2026-08-24T15:52:41",
+      "data_abertura": "2026-08-21T08:00:00",
+      "data_limite": "2030-08-21T08:00:00",
+      "link": "https://pncp.gov.br/app/editais/75476556000158/1/000135/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "55c86d39064043d1"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "16725392000196-1-000104/2026",
+      "titulo": "Credenciamento 25 | Processo 113/2026",
+      "objeto": "Credenciamento para eventual contratacao de pessoas fisicas e ou juridicas  especializadas na prestacao de servicos artisticos de bandas  cantores  DJs  grupos teatrais  shows infantis e demais atracoes culturais  visando a realizacao de apresentacoes em eventos e festividades promovidos pela Secretaria Municipal de Cultura  Turismo  Esporte e Lazer do Municipio de Alvinopolis MG",
+      "orgao": "MUNICIPIO DE ALVINOPOLIS",
+      "cnpj_orgao": "16725392000196",
+      "municipio": "Alvinópolis",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 880163.25,
+      "data_publicacao": "2026-08-24T13:41:43",
+      "data_abertura": "2026-09-01T13:00:00",
+      "data_limite": "2027-09-01T13:00:00",
+      "link": "https://pncp.gov.br/app/editais/16725392000196/1/000104/2026",
+      "link_origem": " ",
+      "score": 16,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c3cd8b2caa6a7384"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "16725392000196-1-000105/2026",
+      "titulo": "Credenciamento 06/2026",
+      "objeto": "Credenciamento para eventual contratação de pessoas físicas e/ou jurídicas, especializadas na prestação de serviços artísticos de bandas, cantores, DJs, grupos teatrais, shows infantis e demais atrações culturais, visando à realização de apresentações em eventos e festividades promovidos pela Secretaria Municipal de Cultura, Turismo, Esporte e Lazer do Município de Alvinópolis/MG.",
+      "orgao": "MUNICIPIO DE ALVINOPOLIS",
+      "cnpj_orgao": "16725392000196",
+      "municipio": "Alvinópolis",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 880163.25,
+      "data_publicacao": "2026-08-24T15:22:18",
+      "data_abertura": "2026-09-01T00:00:00",
+      "data_limite": "2027-09-01T23:59:59",
+      "link": "https://pncp.gov.br/app/editais/16725392000196/1/000105/2026",
+      "link_origem": "https://app2.ammlicita.org.br/pesquisa/111400",
+      "score": 16,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "270e1d9a24a42e82"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "46435921000188-1-000136/2026",
+      "titulo": "Edital de Chamamento Público nº 04/2026",
+      "objeto": "CREDENCIAMENTO ELETRÔNICO DE PESSOAS FÍSICAS E JURÍDICAS PARA PRESTAÇÃO DE SERVIÇOS DE APRESENTAÇÕES MUSICAIS REGIONAIS, VISANDO ATENDER ÀS DEMANDAS DOS EVENTOS CULTURAIS, TURÍSTICOS, RECREATIVOS, INSTITUCIONAIS E COMEMORATIVOS PROMOVIDOS PELO MUNICÍPIO DE DIVINOLÂNDIA/SP",
+      "orgao": "MUNICIPIO DE DIVINOLANDIA",
+      "cnpj_orgao": "46435921000188",
+      "municipio": "Divinolândia",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-25T13:13:57.709012",
+      "data_abertura": "",
+      "data_limite": "2027-09-10T23:59",
+      "link": "https://pncp.gov.br/compras/46435921000188/2026/136",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4ec84968b5adbacc"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "00360305000104-1-000646/2026",
+      "titulo": "Dispensa 785/2026",
+      "objeto": "CONTRATAÇÃO DE APRESENTAÇÃO MUSICAL AO VIVO COM SONORIZAÇÃO, A SER REALIZADA POR DARA ALENCAR, PARA PÚBLICO DE 300 EMPREGADOS DA VICE-PRESIDÊNCIA DE RISCOS (VICOR), NO CONTEXTO DO EVENTO VICOR DE PORTAS ABERTAS.\nPERÍODO: 03/09/2026\nVALOR: R$ 2.800,00",
+      "orgao": "CAIXA ECONOMICA FEDERAL",
+      "cnpj_orgao": "00360305000104",
+      "municipio": "Brasília",
+      "uf": "DF",
+      "modalidade": "Dispensa",
+      "amparo_legal": "Lei 13.303/2016, Art. 29, II Dispensa de Licitação: para outros serviços e compras de valor até R$ 50.000,00 (cinquenta mil reais) e para alienações, nos casos previstos nesta Lei, desde que não se refiram a parcelas de um mesmo serviço, compra ou alienação de maior vulto que possa ser realizado de uma só vez",
+      "valor_estimado": 2800.0,
+      "data_publicacao": "2026-08-22T02:30:07",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/00360305000104/1/000646/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "DISPENSA",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "92b6ce405274f8ad"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "44855443000130-1-000121/2026",
+      "titulo": "Edital nº 137/2026",
+      "objeto": "Contratação de empresa especializada para prestação de serviços de segurança, gradil, Apresentação artística/musical/canto para Interpretação de Samba Enredo, pipoqueiro e aquisição de materiais; Cetim, EVA com gliter, grampeador manual, grampo para grampeador, compensado naval, tubo em aço, eletrodo, cascatas, cordões 1.100 leds, pisca pisca, mangueira de led, bola de vinil, fio paralelo, cabo PP 2x1,5, cabo PP 2x2,5, arame galvanizado e abraçadeira de nylon, destinados à realização de eventos.",
+      "orgao": "MUNICIPIO DE MARTINOPOLIS",
+      "cnpj_orgao": "44855443000130",
+      "municipio": "Martinópolis",
+      "uf": "SP",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-25T10:09:13.715753722",
+      "data_abertura": "",
+      "data_limite": "2026-09-16T07:45",
+      "link": "https://pncp.gov.br/compras/44855443000130/2026/121",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d7e690db5b82aba6"
     }
   ]
 }
