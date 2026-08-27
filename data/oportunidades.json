@@ -1,7 +1,136 @@
 {
-  "gerado_em": "2026-08-26T11:30:26",
-  "total_brutos": 0,
-  "total_aprovados": 0,
-  "total_novos": 0,
-  "oportunidades": []
+  "gerado_em": "2026-08-27T00:35:41",
+  "total_brutos": 409,
+  "total_aprovados": 145,
+  "total_novos": 4,
+  "oportunidades": [
+    {
+      "fonte": "pncp_search",
+      "id_externo": "45122603000102-1-000545/2026",
+      "titulo": "Edital de Chamamento Público nº 4/2026",
+      "objeto": "EDITAL DE CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO N.º 004/2026 -Credenciamento de artistas e profissionais das áreas de arte e cultura, pessoas físicas e jurídicas, para eventual contratação destinada à realização de apresentações e participações artísticas em ações culturais, festas, eventos e demais atividades realizadas ou apoiadas pela Prefeitura Municipal de Catanduva, nas linguagens artísticas previstas no Edital.",
+      "orgao": "MUNICIPIO DE CATANDUVA",
+      "cnpj_orgao": "45122603000102",
+      "municipio": "Catanduva",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-26T16:43:42.154923785",
+      "data_abertura": "",
+      "data_limite": "2026-09-16T23:59",
+      "link": "https://pncp.gov.br/compras/45122603000102/2026/545",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "9e787d86a5284c57"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01593132000137-1-000078/2026",
+      "titulo": "Edital nº PE 35/2026",
+      "objeto": "Contratação de empresa para o fornecimento futuro e eventual de instrumentos musicais e livros, com recursos da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB).",
+      "orgao": "MUNICIPIO DE JUPIA",
+      "cnpj_orgao": "01593132000137",
+      "municipio": "Jupiá",
+      "uf": "SC",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-26T14:46:59.817753338",
+      "data_abertura": "",
+      "data_limite": "2026-09-09T08:00",
+      "link": "https://pncp.gov.br/compras/01593132000137/2026/78",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "FOMENTO_CULTURAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "3aaae28f8817a17d"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "83027045000187-1-000215/2026",
+      "titulo": "Edital nº PCE 45/2026",
+      "objeto": "Registro de Preços para futura e eventual aquisição de sistema de sonorização, pipoqueira, máquina de algodão-doce e carrinho para transporte manual de cargas, destinados ao atendimento das demandas da Secretaria de Educação, Secretaria de Administração, Fundo Municipal de Saúde e Fundo Municipal de Assistência Social do Município de Guarujá do Sul/SC, proporcionando infraestrutura e equipamentos adequados para a realização de eventos educacionais, culturais, cívicos, esportivos, formaturas, palestras, apresentações artísticas, reuniões, cerimônias, atividades recreativas e demais ações promovidas pela rede municipal de ensino e demais secretarias.",
+      "orgao": "MUNICIPIO DE GUARUJA DO SUL",
+      "cnpj_orgao": "83027045000187",
+      "municipio": "Guarujá do Sul",
+      "uf": "SC",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-26T16:46:58.557318219",
+      "data_abertura": "",
+      "data_limite": "2026-09-10T08:15",
+      "link": "https://pncp.gov.br/compras/83027045000187/2026/215",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "80508512eae2d8cd"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18334284000118-1-000027/2026",
+      "titulo": "Aviso de Contratação Direta nº 005/2026",
+      "objeto": "Contratação de serviços especializados de suporte às atrações artísticas e atividades culturais, compreendendo disponibilização e abastecimento de camarins, hospedagem, transporte de equipes e serviços de organização e apresentação, conforme demanda da Secretaria Municipal de Cultura, Esporte, Lazer e Turismo.",
+      "orgao": "MUNICIPIO DE CORREGO NOVO",
+      "cnpj_orgao": "18334284000118",
+      "municipio": "Córrego Novo",
+      "uf": "MG",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-08-25T22:22:23.958328",
+      "data_abertura": "",
+      "data_limite": "2026-08-28T08:00",
+      "link": "https://pncp.gov.br/compras/18334284000118/2026/27",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "ca399446738bf9fb"
+    }
+  ]
 }
