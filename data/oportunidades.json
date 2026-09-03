@@ -1,72 +1,40 @@
 {
-  "gerado_em": "2026-09-02T23:06:37",
-  "total_brutos": 400,
-  "total_aprovados": 162,
-  "total_novos": 2,
+  "gerado_em": "2026-09-03T14:50:31",
+  "total_brutos": 695,
+  "total_aprovados": 210,
+  "total_novos": 1,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "20716627000150-1-000071/2026",
-      "titulo": "Edital de Chamamento Público nº 50/2026",
-      "objeto": "CREDENCIAMENTO DE PESSOAS JURÍDICAS PARA APRESENTAÇÃO DE SHOWS MUSICAIS(BANDAS, DUPLAS OU CANTORES) DE RENOME REGIONAL OU RENOME LOCAL (TECLADO E VOZ, FORRÓ, PISEIRO E DEMAIS), PARA ATENDER OS EVENTOS MUNICIPAIS NOS DISTRITOS E COMUNIDADES RURAIS DO MUNICÍPIO DE GRÃO MOGOL/MG, COMO PREVISTO NO DECRETO MUNICIPAL 337/2024, NOS MOLDES PREVISTOS NA LEI 14.133/2021 E SUAS ALTERAÇÕES.",
-      "orgao": "MUNICIPIO DE GRAO MOGOL",
-      "cnpj_orgao": "20716627000150",
-      "municipio": "Grão Mogol",
-      "uf": "MG",
+      "id_externo": "83102343000194-1-000220/2026",
+      "titulo": "Edital de Chamamento Público nº 11/2026",
+      "objeto": "[Portal de Compras Públicas] - CREDENCIAMENTO DE ARTISTAS, GRUPOS ARTÍSTICOS, PROFISSIONAIS DA CULTURA, OFICINEIROS, RECREADORES, INTÉRPRETES DE LIBRAS E DEMAIS AGENTES CULTURAIS, PARA ATENDIMENTO DA PROGRAMAÇÃO DOS EVENTOS E ATIVIDADES ARTÍSTICAS, CULTURAIS,\nTURÍSTICAS, EDUCATIVAS E INSTITUCIONAIS PROMOVIDAS OU APOIADAS PELOS ENTES PARTICIPANTES DO MUNICÍPIO DE BRUSQUE/SC.",
+      "orgao": "MUNICIPIO DE BRUSQUE",
+      "cnpj_orgao": "83102343000194",
+      "municipio": "Brusque",
+      "uf": "SC",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-02T16:50:45.546429465",
+      "data_publicacao": "2026-09-03T11:33:42.845813",
       "data_abertura": "",
-      "data_limite": "2027-06-12T11:30",
-      "link": "https://pncp.gov.br/compras/20716627000150/2026/71",
+      "data_limite": "2027-09-10T08:00",
+      "link": "https://pncp.gov.br/compras/83102343000194/2026/220",
       "link_origem": "",
-      "score": 42,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": true,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "6f8ff9c103bd5c33"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "76970391000139-1-000025/2026",
-      "titulo": "Edital nº 13/2026",
-      "objeto": "CREDENCIAMENTO DE PESSOAS FÍSICAS PARA REALIZAÇÃO DE SHOWS MUSICAIS AO VIVO, destinados ao atendimento das necessidades da Secretaria Municipal de Educação, Cultura, Esporte e Lazer do Município de Paranapoema – PR.",
-      "orgao": "MUNICIPIO DE PARANAPOEMA",
-      "cnpj_orgao": "76970391000139",
-      "municipio": "Paranapoema",
-      "uf": "PR",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-02T13:49:30.559694796",
-      "data_abertura": "",
-      "data_limite": "2027-08-31T16:30",
-      "link": "https://pncp.gov.br/compras/76970391000139/2026/25",
-      "link_origem": "",
-      "score": 12,
+      "score": 24,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "284bbbba60c69acd"
+      "uid": "5575390d4e0dc60d"
     }
   ]
 }
