@@ -1,40 +1,106 @@
 {
-  "gerado_em": "2026-09-03T14:50:31",
-  "total_brutos": 695,
-  "total_aprovados": 210,
-  "total_novos": 1,
+  "gerado_em": "2026-09-03T23:04:42",
+  "total_brutos": 339,
+  "total_aprovados": 136,
+  "total_novos": 3,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "83102343000194-1-000220/2026",
-      "titulo": "Edital de Chamamento Público nº 11/2026",
-      "objeto": "[Portal de Compras Públicas] - CREDENCIAMENTO DE ARTISTAS, GRUPOS ARTÍSTICOS, PROFISSIONAIS DA CULTURA, OFICINEIROS, RECREADORES, INTÉRPRETES DE LIBRAS E DEMAIS AGENTES CULTURAIS, PARA ATENDIMENTO DA PROGRAMAÇÃO DOS EVENTOS E ATIVIDADES ARTÍSTICAS, CULTURAIS,\nTURÍSTICAS, EDUCATIVAS E INSTITUCIONAIS PROMOVIDAS OU APOIADAS PELOS ENTES PARTICIPANTES DO MUNICÍPIO DE BRUSQUE/SC.",
-      "orgao": "MUNICIPIO DE BRUSQUE",
-      "cnpj_orgao": "83102343000194",
-      "municipio": "Brusque",
-      "uf": "SC",
+      "id_externo": "18314609000109-1-000059/2026",
+      "titulo": "Edital de Chamamento Público nº 067/2026",
+      "objeto": "Credenciamento de profissionais especializados para prestação de serviços técnicos de análise de mérito cultural, avaliação técnica, classificação, seleção e emissão de pareceres relativos aos projetos culturais inscritos nos editais de chamamento público promovidos pela Secretaria Municipal de Esporte, Cultura e Turismo do Município de Ribeirão\tdas\tNeves/MG,\tvinculados\tà\texecução\tda\tPolítica\tNacional\tAldir\tBlanc\tde Fomento à Cultura – PNAB, instituída pela Lei nº 14.399/2022, da Política Nacional de Cultura\tViva\t–\t\tPNCV,\t prevista\tna\tLei\t\tnº\t13.018/2014,\tbem\tcomo\t\tobservadas\tas disposições\tda\t\tLei\tnº\t14.903/2024\t\te\tdemais\tnormativas\t\taplicáveis,\tmediante procedimento de credenciamento fundamentado no art. 74, inciso IV, da Lei Federal nº 14.133/2021.",
+      "orgao": "MUNICIPIO DE RIBEIRAO DAS NEVES",
+      "cnpj_orgao": "18314609000109",
+      "municipio": "Ribeirão das Neves",
+      "uf": "MG",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-03T11:33:42.845813",
+      "data_publicacao": "2026-09-03T12:07:03.588054",
       "data_abertura": "",
-      "data_limite": "2027-09-10T08:00",
-      "link": "https://pncp.gov.br/compras/83102343000194/2026/220",
+      "data_limite": "2026-09-16T23:59:59",
+      "link": "https://pncp.gov.br/compras/18314609000109/2026/59",
       "link_origem": "",
-      "score": 24,
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "deb5679a2048ddf0"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "46634127000163-1-001974/2026",
+      "titulo": "Edital de Chamamento Público nº 11/2026",
+      "objeto": "Seleção de projetos para firmar termo de execução cultural com recursos da política nacional Aldir Blanc de fomento à cultura – PNAB (lei nº 14.399/2022) -  Proc. Administrativo 2.654/2026",
+      "orgao": "MUNICIPIO DE ITATINGA",
+      "cnpj_orgao": "46634127000163",
+      "municipio": "Itatinga",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-03T11:53:45.445380",
+      "data_abertura": "",
+      "data_limite": "2026-10-02T23:59",
+      "link": "https://pncp.gov.br/compras/46634127000163/2026/1974",
+      "link_origem": "",
+      "score": 27,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c972e31dfeb8f3d9"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "76995448000154-1-000141/2026",
+      "titulo": "Edital nº 53/2026",
+      "objeto": "Contratação de pessoa jurídica especializada para a realização de 24 (vinte e quatro) apresentações itinerantes de banda musical natalina, com duração mínima de 60 minutos cada, durante a programação do Natal de Pato Branco de 2026, incluindo músicos, maestro, coordenador musical, instrumentos, transporte, figurinos, maquiagem, caracterização temática e demais insumos necessários à execução, em atendimento à Secretaria Municipal de Educação e Cultura..",
+      "orgao": "MUNICIPIO DE PATO BRANCO",
+      "cnpj_orgao": "76995448000154",
+      "municipio": "Pato Branco",
+      "uf": "PR",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-03T19:50:05.954740682",
+      "data_abertura": "",
+      "data_limite": "2026-09-21T08:59",
+      "link": "https://pncp.gov.br/compras/76995448000154/2026/141",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
         "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "5575390d4e0dc60d"
+      "uid": "7c27bc13b6140c0c"
     }
   ]
 }
