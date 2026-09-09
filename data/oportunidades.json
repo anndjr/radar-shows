@@ -1,7 +1,72 @@
 {
-  "gerado_em": "2026-09-09T15:05:09",
-  "total_brutos": 0,
-  "total_aprovados": 0,
-  "total_novos": 0,
-  "oportunidades": []
+  "gerado_em": "2026-09-09T23:05:26",
+  "total_brutos": 285,
+  "total_aprovados": 85,
+  "total_novos": 2,
+  "oportunidades": [
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13646005000138-1-000139/2026",
+      "titulo": "Edital de Chamamento Público nº CHP 004/2026",
+      "objeto": "CHAMAMENTO PÚBLICO PARA SELEÇÃO DE PROJETO CULTURAL DESTINADO A REALIZAÇÃO DO EVENTO “CELEBRANDO A DIVERSIDADE”, VOLTADO À VALORIZAÇÃO, A VISIBILIDADE E AO PROTAGONISMO DA POPULAÇÃO LGBTQIAAPN+ NO MUNICÍPIO DE ALAGOINHAS/BAHIA, MEDIANTE CONCESSÃO DE APOIO FINANCEIRO COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC – PNAB",
+      "orgao": "MUNICIPIO DE ALAGOINHAS",
+      "cnpj_orgao": "13646005000138",
+      "municipio": "Alagoinhas",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-09T09:05:02.712593997",
+      "data_abertura": "",
+      "data_limite": "2026-09-15T13:00",
+      "link": "https://pncp.gov.br/compras/13646005000138/2026/139",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "7ec42c404f310820"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "17095043000109-1-000040/2026",
+      "titulo": "Edital nº PE 25/2026",
+      "objeto": "(SECULT) Registro de preços para futura e eventual contratação de empresa produtora artística visando gerenciamento, formalização, contratação e execução de apresentações artísticas locais e regionais em eventos artísticos realizado, promovidos ou apoiados pela Prefeitura Municipal de Barbacena.",
+      "orgao": "MUNICIPIO DE BARBACENA",
+      "cnpj_orgao": "17095043000109",
+      "municipio": "Barbacena",
+      "uf": "MG",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-09T14:57:33.610155981",
+      "data_abertura": "",
+      "data_limite": "2026-09-28T08:00",
+      "link": "https://pncp.gov.br/compras/17095043000109/2026/40",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "04e3b32696c5aafb"
+    }
+  ]
 }
