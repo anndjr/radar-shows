@@ -1,25 +1,92 @@
 {
-  "gerado_em": "2026-09-09T23:05:26",
-  "total_brutos": 285,
-  "total_aprovados": 85,
-  "total_novos": 2,
+  "gerado_em": "2026-09-10T14:43:24",
+  "total_brutos": 733,
+  "total_aprovados": 249,
+  "total_novos": 4,
   "oportunidades": [
     {
+      "fonte": "pncp",
+      "id_externo": "24651200000172-1-000135/2026",
+      "titulo": "Credenciamento 49/2026",
+      "objeto": "Credenciamento, sem exclusividade, visando a contratação de serviços artísticos e técnicos para eventos, em atendimento ao Município de Chapadão do Sul/MS.",
+      "orgao": "MUNICIPIO DE CHAPADAO DO SUL",
+      "cnpj_orgao": "24651200000172",
+      "municipio": "Chapadão do Sul",
+      "uf": "MS",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 673000.0,
+      "data_publicacao": "2026-09-08T15:08:01",
+      "data_abertura": "2026-09-16T00:01:00",
+      "data_limite": "2026-09-16T23:59:00",
+      "link": "https://pncp.gov.br/app/editais/24651200000172/1/000135/2026",
+      "link_origem": "https://pncp.gov.br/pncp-api/v1/orgaos/04680541000169/compras/2026/2",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "fb129e6bf6d42511"
+    },
+    {
       "fonte": "pncp_search",
+      "id_externo": "01609942000134-1-000038/2026",
+      "titulo": "Edital de Chamamento Público nº 25/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS, DJS, DUPLAS E BANDAS PARA REALIZAÇÃO DE APRESENTAÇÕES ARTÍSTICAS EM EVENTOS CULTURAIS, INSTITUCIONAIS, FESTIVOS E COMEMORATIVOS PROMOVIDOS OU APOIADOS PELO MUNICÍPIO DE URUANA DE MINAS/MG.",
+      "orgao": "MUNICIPIO DE URUANA DE MINAS",
+      "cnpj_orgao": "01609942000134",
+      "municipio": "Uruana de Minas",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-10T09:17:49.805852425",
+      "data_abertura": "",
+      "data_limite": "2027-09-09T17:00",
+      "link": "https://pncp.gov.br/compras/01609942000134/2026/38",
+      "link_origem": "",
+      "score": 37,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6606c556514aba6b"
+    },
+    {
+      "fonte": "pncp",
       "id_externo": "13646005000138-1-000139/2026",
-      "titulo": "Edital de Chamamento Público nº CHP 004/2026",
+      "titulo": "Credenciamento CHP 004/2026",
       "objeto": "CHAMAMENTO PÚBLICO PARA SELEÇÃO DE PROJETO CULTURAL DESTINADO A REALIZAÇÃO DO EVENTO “CELEBRANDO A DIVERSIDADE”, VOLTADO À VALORIZAÇÃO, A VISIBILIDADE E AO PROTAGONISMO DA POPULAÇÃO LGBTQIAAPN+ NO MUNICÍPIO DE ALAGOINHAS/BAHIA, MEDIANTE CONCESSÃO DE APOIO FINANCEIRO COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC – PNAB",
       "orgao": "MUNICIPIO DE ALAGOINHAS",
       "cnpj_orgao": "13646005000138",
       "municipio": "Alagoinhas",
       "uf": "BA",
       "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-09T09:05:02.712593997",
-      "data_abertura": "",
-      "data_limite": "2026-09-15T13:00",
-      "link": "https://pncp.gov.br/compras/13646005000138/2026/139",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 30000.0,
+      "data_publicacao": "2026-09-09T09:05:02",
+      "data_abertura": "2026-09-09T08:00:00",
+      "data_limite": "2026-09-15T13:00:00",
+      "link": "https://pncp.gov.br/app/editais/13646005000138/1/000139/2026",
       "link_origem": "",
       "score": 27,
       "categoria": "CREDENCIAMENTO_ART79",
@@ -35,24 +102,24 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "7ec42c404f310820"
+      "uid": "83367698513806b1"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "17095043000109-1-000040/2026",
-      "titulo": "Edital nº PE 25/2026",
-      "objeto": "(SECULT) Registro de preços para futura e eventual contratação de empresa produtora artística visando gerenciamento, formalização, contratação e execução de apresentações artísticas locais e regionais em eventos artísticos realizado, promovidos ou apoiados pela Prefeitura Municipal de Barbacena.",
-      "orgao": "MUNICIPIO DE BARBACENA",
-      "cnpj_orgao": "17095043000109",
-      "municipio": "Barbacena",
-      "uf": "MG",
-      "modalidade": "Pregão - Eletrônico",
+      "id_externo": "44919918000104-1-000175/2026",
+      "titulo": "Aviso de Contratação Direta nº 286/2026",
+      "objeto": "Contratação de empresa especializada para prestação integrada de serviços de produção de evento, compreendendo apresentação artística temática inspirada no universo Frozen para o momento da chegada do Papai Noel, na Praça da Igreja Matriz de Lucélia/SP, em 12 de dezembro de 2026, conforme Termo de Referencia.",
+      "orgao": "MUNICIPIO DE LUCELIA",
+      "cnpj_orgao": "44919918000104",
+      "municipio": "Lucélia",
+      "uf": "SP",
+      "modalidade": "Dispensa",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-09T14:57:33.610155981",
+      "data_publicacao": "2026-09-09T11:20:26.354243789",
       "data_abertura": "",
-      "data_limite": "2026-09-28T08:00",
-      "link": "https://pncp.gov.br/compras/17095043000109/2026/40",
+      "data_limite": "2026-09-15T08:00",
+      "link": "https://pncp.gov.br/compras/44919918000104/2026/175",
       "link_origem": "",
       "score": 12,
       "categoria": "OUTRO_ARTISTICO",
@@ -66,7 +133,7 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "04e3b32696c5aafb"
+      "uid": "84f50f04e10f74d1"
     }
   ]
 }
