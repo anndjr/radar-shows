@@ -1,43 +1,39 @@
 {
-  "gerado_em": "2026-09-10T23:00:35",
-  "total_brutos": 448,
-  "total_aprovados": 213,
+  "gerado_em": "2026-09-11T14:45:31",
+  "total_brutos": 684,
+  "total_aprovados": 204,
   "total_novos": 1,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "89363642000169-1-001223/2026",
-      "titulo": "Edital de Chamamento Público nº 11 | Processo 1384/2026",
-      "objeto": "Credenciamento de ARTISTAS  BANDAS e GRUPOS MUSICAIS LOCAIS  constituidos como pessoas juridicas  visando eventual contratacao de APRESENTACOES ARTISTICAS MUSICAIS  para atender as demandas dos eventos institucionais promovidos pelo Municipio de Encruzilhada do Sul.",
-      "orgao": "MUNICIPIO DE ENCRUZILHADA DO SUL",
-      "cnpj_orgao": "89363642000169",
-      "municipio": "Encruzilhada do Sul",
-      "uf": "RS",
+      "id_externo": "95422986000102-1-000212/2025",
+      "titulo": "Edital de Chamamento Público nº CRE 7/2025",
+      "objeto": "Credenciamento e seleção de propostas e eventual contratação para apresentações artísticas em festivais, espetáculos e demais eventos que podem ser promovidos ou apoiados pela Secretaria Municipal de Cultura do Município de Fazenda Rio Grande",
+      "orgao": "MUNICIPIO DE FAZENDA RIO GRANDE",
+      "cnpj_orgao": "95422986000102",
+      "municipio": "Fazenda Rio Grande",
+      "uf": "PR",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-10T13:45:06.432573285",
+      "data_publicacao": "2025-11-12T08:30:57.051199",
       "data_abertura": "",
-      "data_limite": "2027-09-14T08:00",
-      "link": "https://pncp.gov.br/compras/89363642000169/2026/1223",
+      "data_limite": "2026-09-27T23:59",
+      "link": "https://pncp.gov.br/compras/95422986000102/2025/212",
       "link_origem": "",
-      "score": 45,
+      "score": 12,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
         ],
         "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
+        "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "a096a630b274d81a"
+      "uid": "bb6874028e44c03e"
     }
   ]
 }
