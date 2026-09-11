@@ -1,39 +1,108 @@
 {
-  "gerado_em": "2026-09-11T14:45:31",
-  "total_brutos": 684,
-  "total_aprovados": 204,
-  "total_novos": 1,
+  "gerado_em": "2026-09-11T23:05:35",
+  "total_brutos": 238,
+  "total_aprovados": 122,
+  "total_novos": 3,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "95422986000102-1-000212/2025",
-      "titulo": "Edital de Chamamento Público nº CRE 7/2025",
-      "objeto": "Credenciamento e seleção de propostas e eventual contratação para apresentações artísticas em festivais, espetáculos e demais eventos que podem ser promovidos ou apoiados pela Secretaria Municipal de Cultura do Município de Fazenda Rio Grande",
-      "orgao": "MUNICIPIO DE FAZENDA RIO GRANDE",
-      "cnpj_orgao": "95422986000102",
-      "municipio": "Fazenda Rio Grande",
-      "uf": "PR",
+      "id_externo": "83102541000158-1-000136/2026",
+      "titulo": "Edital de Chamamento Público nº CRE 2/2026",
+      "objeto": "Credenciamento de pessoas jurídicas para prestação de serviços artísticos, conforme especificações detalhadas no Edital e no Termo de Referência, em conformidade com os anexos deste Edital.",
+      "orgao": "MUNICIPIO DE PORTO UNIAO",
+      "cnpj_orgao": "83102541000158",
+      "municipio": "Porto União",
+      "uf": "SC",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2025-11-12T08:30:57.051199",
+      "data_publicacao": "2026-09-11T13:36:53.079991012",
       "data_abertura": "",
-      "data_limite": "2026-09-27T23:59",
-      "link": "https://pncp.gov.br/compras/95422986000102/2025/212",
+      "data_limite": "2026-09-14T00:00",
+      "link": "https://pncp.gov.br/compras/83102541000158/2026/136",
       "link_origem": "",
       "score": 12,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "bb6874028e44c03e"
+      "uid": "1f89ec4dc55dfa19"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "80882095000153-1-000084/2026",
+      "titulo": "Edital nº 36/2026",
+      "objeto": "Contratação de empresa especializada na produção, organização e execução de eventos para realização de 03 (três) Shows de Rodeio Country, com duração mínima de 02 (duas) horas cada apresentação, incluindo montarias em touros, estrutura e operação necessária ao rodeio, shows pirotécnicos e piro musical indoor, transporte adequado, planejamento, equipe técnica, profissionais habilitados, responsabilidade técnica e demais complementos necessários à perfeita execução do objeto, com experiência comprovada na realização de eventos similares, garantindo qualidade técnica, segurança e profissionalismo, conforme especificações técnicas mínimas, semelhantes e quantitativas descritas no Anexo I constantes do edital de licitação",
+      "orgao": "MUNICIPIO DE SANTA TEREZA DO OESTE",
+      "cnpj_orgao": "80882095000153",
+      "municipio": "Santa Tereza do Oeste",
+      "uf": "PR",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-11T16:06:52.085316202",
+      "data_abertura": "",
+      "data_limite": "2026-09-24T08:30",
+      "link": "https://pncp.gov.br/compras/80882095000153/2026/84",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bshow(s)? (pirotecnico|de fogos)"
+        ],
+        "B": [
+          "\\brodeio(s)?\\b"
+        ],
+        "C": [],
+        "NEG": [
+          "\\bfogos de artificio\\b|\\bpirotecnic\\w*\\b"
+        ]
+      },
+      "trecho": "",
+      "uid": "628131a2c605079c"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "78103884000105-1-000145/2026",
+      "titulo": "Edital nº PCE 41/2026",
+      "objeto": "Contratação de empresa especializada para a realização de shows e espetáculo artístico em Carreta Palco, com fornecimento de toda a infraestrutura necessária, incluindo palco móvel, sistema de sono-rização, iluminação cênica, cenografia, figurinos, roteiro artístico, equipamentos, montagem e des-montagem, operação técnica e demais serviços correlatos, destinados à realização da Abertura Oficial das Festividades Natalinas e da Chegada do Papai Noel do Município de Nova Prata do Iguaçu/PR, a ser realizada previamente no dia 21 de novembro de 2026.",
+      "orgao": "MUNICIPIO DE NOVA PRATA DO IGUACU",
+      "cnpj_orgao": "78103884000105",
+      "municipio": "Nova Prata do Iguaçu",
+      "uf": "PR",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-11T14:35:53.865106576",
+      "data_abertura": "",
+      "data_limite": "2026-10-02T08:30",
+      "link": "https://pncp.gov.br/compras/78103884000105/2026/145",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bespetaculo (musical|artistico)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "11d5d4b92077d372"
     }
   ]
 }
