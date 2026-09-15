@@ -1,41 +1,7 @@
 {
-  "gerado_em": "2026-09-14T23:46:22",
-  "total_brutos": 403,
-  "total_aprovados": 175,
-  "total_novos": 1,
-  "oportunidades": [
-    {
-      "fonte": "pncp_search",
-      "id_externo": "18316182000170-1-000072/2026",
-      "titulo": "Edital de Chamamento Público nº 002/2026",
-      "objeto": "Chamamento Público para Credenciamento de BANDAS, ARTISTAS MUSICAIS E DJ, não detentores de consagração critica a nível Estadual ou Nacional para apresentação nos diversos estilos musicais em eventos promovidos e/ou apoiados pela Prefeitura Municipal de Barra Longa/MG",
-      "orgao": "MUNICIPIO DE BARRA LONGA",
-      "cnpj_orgao": "18316182000170",
-      "municipio": "Barra Longa",
-      "uf": "MG",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-14T14:18:24.395584143",
-      "data_abertura": "",
-      "data_limite": "2027-09-13T23:59:59",
-      "link": "https://pncp.gov.br/compras/18316182000170/2026/72",
-      "link_origem": "",
-      "score": 21,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
-        ],
-        "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "8de08686138c8004"
-    }
-  ]
+  "gerado_em": "2026-09-15T15:24:32",
+  "total_brutos": 307,
+  "total_aprovados": 131,
+  "total_novos": 0,
+  "oportunidades": []
 }
