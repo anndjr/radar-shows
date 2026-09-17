@@ -1,74 +1,273 @@
 {
-  "gerado_em": "2026-09-16T23:36:50",
-  "total_brutos": 388,
-  "total_aprovados": 191,
-  "total_novos": 2,
+  "gerado_em": "2026-09-17T15:25:48",
+  "total_brutos": 408,
+  "total_aprovados": 199,
+  "total_novos": 8,
   "oportunidades": [
     {
-      "fonte": "pncp_search",
-      "id_externo": "46658543000100-1-000143/2026",
-      "titulo": "Edital de Chamamento Público nº (5667) | 26-0/2026",
-      "objeto": "Chamamento Público Nº 006/2026 para Seleção de Projetos para firmar Termo de execução Cultural com Recursos da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB (Lei nº 14.399/2022) – Ciclo 2, para II) Seleção de Projeto Cultural para realização da Virada Cultural no Município de Alvorada do Norte – GO, a ser realizada no dia 23 de outubro de 2026. Conforme base na Lei/Decretos Correlatos: Lei nº 14.903/2024, Decreto nº 11.740/2023 e Decreto nº 11.453/2023; e IN Minc nº 10/2023 (IN PNAB de Ações Afirmativas e Acessibilidade).",
-      "orgao": "FUNDO MUNICIPAL DE EDUCACAO DE ALVORADA DO NORTE - FME",
-      "cnpj_orgao": "46658543000100",
-      "municipio": "Alvorada do Norte",
-      "uf": "GO",
-      "modalidade": "Credenciamento",
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3305505/2026-09-15/ed153b3b39b158aa95c2e42b04719a782c1a4765.txt",
+      "titulo": "DOM Saquarema/RJ 2026-09-15",
+      "objeto": "Secretária Municipal de Desenvolvimento \nSocial.\n\nEXTRATO DO CONTRATO \nN° 048/2026\n\nProcesso Administrativo nº 4.318/2026.\nModalidade: Inexigibilidade de Licita-\nção, art. 74, inciso II, da Lei Federal nº \n14.133/2021.\nContratante: Município de Saquarema. \nContratada: LS Jack Produções LTDA, \nCNPJ nº 03.586.822/0001-94. \nObjeto: Contratação do show musical \ncom a Banda LS Jack, para o Saquarema \nBeer Fest 2026, que irá realizar-se no dia \n14 de março de 2026, às 23h59min, na \nPraça do Coração, Centro, Saquarema/\nRJ, com duração mínima de 90 minutos. \nValor Total do Contrato: R$ 55.130,00.\nDotação Orçamentária:\nPT 23.695.0036.1.066;\nND 3.3.90.39.36.00;\nFonte 1704.\nSaquarema, 12 de março de 2026 125/2026\n\nProcesso Administrativo nº 11.690/2026\nModalidade: Inexigibilidade de Licita-\nção, art. 74, inciso II, da Lei Federal nº \n\n\n\n   \n\n08\n\nAno VIII ● Nº 1993\nTerça-feira, 15 de setembro de 2026\n\n14.133/2021.\nContratante: Município de Saquarema. \nContratada: M&P Ferreira Produções \nLTDA, CNPJ nº 08.111.952/0001-94. \nObjeto: Contratação do show musical da \nBanda Bonde do Forró, para o Arraiá da \nVila 2026, que irá realizar-se no dia 1º de \nagosto de 2026, às 22h, no antigo Campo \nde Aviação, Centro, Saquarema/RJ, com \nduração mínima de 80 minutos.\nValor Total do Contrato: R$ 171.000,00.\nDotação Orçamentária:\nPT 23.695.0036.1.066;\nND 3.3.90.39.36.00;\nFonte 1704.\nSaquarema, 28 de julho de 2026",
+      "orgao": "Saquarema",
+      "cnpj_orgao": "",
+      "municipio": "Saquarema",
+      "uf": "RJ",
+      "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-16T19:23:46.706821",
+      "data_publicacao": "2026-09-15",
       "data_abertura": "",
-      "data_limite": "2026-09-29T16:30",
-      "link": "https://pncp.gov.br/compras/46658543000100/2026/143",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3305505/2026-09-15/ed153b3b39b158aa95c2e42b04719a782c1a4765.pdf",
       "link_origem": "",
-      "score": 27,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
+      "score": 58,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": true,
       "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bshow(s)?\\b.{0,40}\\b(sertanej|forro|pagode|gospel|axe|piseiro|arrocha)",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
         ],
+        "B": [
+          "\\barraia\\w*\\b|\\bquermesse\\b|\\bmicareta\\b"
+        ],
+        "C": [],
         "NEG": []
       },
-      "trecho": "",
-      "uid": "269bee641e6a0f23"
+      "trecho": "Secretária Municipal de Desenvolvimento \nSocial.\n\nEXTRATO DO CONTRATO \nN° 048/2026\n\nProcesso Administrativo nº 4.318/2026.\nModalidade: Inexigibilidade de Licita-\nção, art. 74, inciso II, da Lei Federal nº \n14.133/2021.\nContratante: Município de Saquarema. \nContratada: LS Jack Produções LTDA, \nCNPJ nº 03.586.822/0001-94. \nObjeto: Contratação do show musical \ncom a Banda LS Jack, para o Saquarema \nBeer Fest 2026, que irá realizar-se no dia \n14 de março de 2026, às 23h59min, na \nPraça do Coração, Centro, Saquarema/\nRJ, com duração mínima de 90 minutos. \nValor Total do Contrato: R$ 55.130,00.\nDotação Orçamentária:\nPT 23.695.0036.1.066;\nND 3.3.90.39.36.00;\nFonte 1704.\nSaquarema, 12 de março de 2026 125/2026\n\nProcesso Administrativo nº 11.690/2026\nModalidade: Inexigibilidade de Licita-\nção, art. 74, inciso II, da Lei Federal nº \n\n\n\n   \n\n08\n\nAno VIII ● Nº 1993\nTerça-feira, 15 de setembro de 2026\n\n14.133/2021.\nContratante: Município de Saquarema. \nContratada: M&P Ferreira Produções \nLTDA, CNPJ nº 08.111.952/0001-94. \nObjeto: Contratação do show musical da \nBanda Bonde do Forró, para o Arraiá da \nVila 2026, que irá realizar-se no dia 1º de \nagosto de 2026, às 22h, no antigo Campo \nde Aviação, Centro, Saquarema/RJ, com \nduração mínima de 80 minutos.\nValor Total do Contrato: R$ 171.000,00.\nDotação Orçamentária:\nPT 23.695.0036.1.066;\nND 3.3.90.39.36.00;\nFonte 1704.\nSaquarema, 28 de julho de 2026",
+      "uid": "80e89036f05df804"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2913705/2026-09-15/85e5a3657ef75396a39292be50ee3c3db5a4edcb.txt",
+      "titulo": "DOM Inhambupe/BA 2026-09-15",
+      "objeto": "das atribuições que me foram conferidas, em especial ao disposto no artigo 72, inc. \nVIII, da Nova Lei de Licitações, AUTORIZO e HOMOLOGO a INEXIGIBILIDADE DE \nLICITAÇÃO.  \n \nAutorizo em consequência, a proceder-se à contratação, conforme abaixo descrito: \n \n\nObjeto a ser contratado:  Contratação do cantor Eric Carvalho para apresentação de \nshow musical no dia 19/09/2026, na Semana da Cultura \nEvangélica 2026, Canta Inhambupe. \n\nEmpresa:  A BASE PRODUCOES LTDA, inscrita no CNPJ sob o nº \n50.387.791/0001-22 \n\nPrazo de Execução e \nVigência: \n\n01 (um) dia. \n15/09/2026 até 15/11/2026. \n\nValor Total:  R$ 100.000,00 (cem mil reais).  \nFundamento Legal: art. 74, inc. II da Lei nº 14.133/2021.  \n\n  Cavalcanti Reis Simões.  \n \n \nCONTRATADA: A BASE PRODUCOES LTDA, inscrita no CNPJ sob o nº 50.387.791/0001-22, \nsediada na R Bernadete de J Brito0 160, Itinga, Lauro de Freitas - Bahia, doravante designado \nCONTRATADA, neste ato representado por Jessica Oliveira Silva Pereira. \n \n \n\nOBJETO: Contratação do cantor Eric Carvalho para apresentação de show musical no dia \n19/09/2026, na Semana da Cultura Evangélica 2026, Canta Inhambupe. \n \n \nVALOR DO CONTRATO: R$ 100.000,00 (cem mil reais) \nDATA DO CONTRATO: 15/09/2026.  \nVIGÊNCIA DO CONTRATO: 02 (dois) meses. \n \nDOTAÇÃO ORÇAMENTÁRIA \n \nÓrgão: 1100 - Secretaria Municipal de Cultura \nUnidade: 1101 - Secretaria Municipal de Cultura \nAção:  2085 - Promoção",
+      "orgao": "Inhambupe",
+      "cnpj_orgao": "",
+      "municipio": "Inhambupe",
+      "uf": "BA",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-15",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2913705/2026-09-15/85e5a3657ef75396a39292be50ee3c3db5a4edcb.pdf",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "das atribuições que me foram conferidas, em especial ao disposto no artigo 72, inc. \nVIII, da Nova Lei de Licitações, AUTORIZO e HOMOLOGO a INEXIGIBILIDADE DE \nLICITAÇÃO.  \n \nAutorizo em consequência, a proceder-se à contratação, conforme abaixo descrito: \n \n\nObjeto a ser contratado:  Contratação do cantor Eric Carvalho para apresentação de \nshow musical no dia 19/09/2026, na Semana da Cultura \nEvangélica 2026, Canta Inhambupe. \n\nEmpresa:  A BASE PRODUCOES LTDA, inscrita no CNPJ sob o nº \n50.387.791/0001-22 \n\nPrazo de Execução e \nVigência: \n\n01 (um) dia. \n15/09/2026 até 15/11/2026. \n\nValor Total:  R$ 100.000,00 (cem mil reais).  \nFundamento Legal: art. 74, inc. II da Lei nº 14.133/2021.  \n\n  Cavalcanti Reis Simões.  \n \n \nCONTRATADA: A BASE PRODUCOES LTDA, inscrita no CNPJ sob o nº 50.387.791/0001-22, \nsediada na R Bernadete de J Brito0 160, Itinga, Lauro de Freitas - Bahia, doravante designado \nCONTRATADA, neste ato representado por Jessica Oliveira Silva Pereira. \n \n \n\nOBJETO: Contratação do cantor Eric Carvalho para apresentação de show musical no dia \n19/09/2026, na Semana da Cultura Evangélica 2026, Canta Inhambupe. \n \n \nVALOR DO CONTRATO: R$ 100.000,00 (cem mil reais) \nDATA DO CONTRATO: 15/09/2026.  \nVIGÊNCIA DO CONTRATO: 02 (dois) meses. \n \nDOTAÇÃO ORÇAMENTÁRIA \n \nÓrgão: 1100 - Secretaria Municipal de Cultura \nUnidade: 1101 - Secretaria Municipal de Cultura \nAção:  2085 - Promoção",
+      "uid": "b7254d25610121b6"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3170800/2026-09-16/ab8bac4a74a8dde2398a1335263dd179c896ddca.txt",
+      "titulo": "DOM Várzea da Palma/MG 2026-09-16",
+      "objeto": "CONTRATO\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA/MG\n\nEXTRATO DO CONTRATO Nº 179/2026\n\nEXTRATO DE CONTRATO firmado entre a PREFEITURA\nMUNICIPAL DE VÁRZEA DA PALMA e NOVOS TEMPOS\nPRODUCOES ARTISTICAS LTDA. CONTRATO nº 179; OBJETO:\nCONTRATAÇÃO DA EMPRESA NOVOS TEMPOS PRODUÇÕES\nARTÍSTICAS LTDA REPRESENTANTE DO ARTISTA NANDO\nMORENO, PARA APRESENTAÇÃO DE SHOW MUSICAL NO DIA\n27/09/2026, DURANTE AS FESTIVIDADES DA FESTA DO\nPESCADOR DE GUAICUÍ 2026, VISANDO ATENDER ÀS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE\nCOMUNICAÇÃO E EVENTOS.; LICITACAO: Inexigibilidade 18 / 2026\nValor Global:R$ 200.000,00 Vigência:15/09/2026 Até:27/09/2026.\n\nEXTRATO DE ADITIVO\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA/MG\n\nEXTRATO DO 1º TERMO MUNICIPAL DE VÁRZEA DA PALMA\nRESULTADO FINAL\n\nObjeto: CONTRATAÇÃO DA EMPRESA NOVOS TEMPOS PRODUÇÕES ARTÍSTICAS LTDA REPRESENTANTE DO ARTISTA NANDO\nMORENO, PARA APRESENTAÇÃO DE SHOW MUSICAL NO DIA 27/09/2026, DURANTE AS FESTIVIDADES DA FESTA DO\nPESCADOR DE GUAICUÍ 2026, VISANDO ATENDER ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE COMUNICAÇÃO E\nEVENTOS.\n\n200.000,00NOVOS TEMPOS PRODUCOES ARTISTICAS LTDAFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\nNOVOS TEMPOS PRODUCOES ARTISTICAS LTDA 200.000,00\n\nSHOW MUSICAL DO CANTOR NANDO MORENO\nA SER REALIZADO NO DIA 27/09/2026, COM\nDURAÇÃO MÍNIMA DE 2H00MIN, E INÍCIO\nPREVISTO ÀS 23H30MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ",
+      "orgao": "Várzea da Palma",
+      "cnpj_orgao": "",
+      "municipio": "Várzea da Palma",
+      "uf": "MG",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-16",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3170800/2026-09-16/ab8bac4a74a8dde2398a1335263dd179c896ddca.pdf",
+      "link_origem": "",
+      "score": 28,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "CONTRATO\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA/MG\n\nEXTRATO DO CONTRATO Nº 179/2026\n\nEXTRATO DE CONTRATO firmado entre a PREFEITURA\nMUNICIPAL DE VÁRZEA DA PALMA e NOVOS TEMPOS\nPRODUCOES ARTISTICAS LTDA. CONTRATO nº 179; OBJETO:\nCONTRATAÇÃO DA EMPRESA NOVOS TEMPOS PRODUÇÕES\nARTÍSTICAS LTDA REPRESENTANTE DO ARTISTA NANDO\nMORENO, PARA APRESENTAÇÃO DE SHOW MUSICAL NO DIA\n27/09/2026, DURANTE AS FESTIVIDADES DA FESTA DO\nPESCADOR DE GUAICUÍ 2026, VISANDO ATENDER ÀS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE\nCOMUNICAÇÃO E EVENTOS.; LICITACAO: Inexigibilidade 18 / 2026\nValor Global:R$ 200.000,00 Vigência:15/09/2026 Até:27/09/2026.\n\nEXTRATO DE ADITIVO\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA/MG\n\nEXTRATO DO 1º TERMO MUNICIPAL DE VÁRZEA DA PALMA\nRESULTADO FINAL\n\nObjeto: CONTRATAÇÃO DA EMPRESA NOVOS TEMPOS PRODUÇÕES ARTÍSTICAS LTDA REPRESENTANTE DO ARTISTA NANDO\nMORENO, PARA APRESENTAÇÃO DE SHOW MUSICAL NO DIA 27/09/2026, DURANTE AS FESTIVIDADES DA FESTA DO\nPESCADOR DE GUAICUÍ 2026, VISANDO ATENDER ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE COMUNICAÇÃO E\nEVENTOS.\n\n200.000,00NOVOS TEMPOS PRODUCOES ARTISTICAS LTDAFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\nNOVOS TEMPOS PRODUCOES ARTISTICAS LTDA 200.000,00\n\nSHOW MUSICAL DO CANTOR NANDO MORENO\nA SER REALIZADO NO DIA 27/09/2026, COM\nDURAÇÃO MÍNIMA DE 2H00MIN, E INÍCIO\nPREVISTO ÀS 23H30MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ",
+      "uid": "8132106d13abc1d7"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2906006/2026-09-15/7ebc7cad9ed168b28cedbacc19edb0bd0d3cea1e.txt",
+      "titulo": "DOM Campo Formoso/BA 2026-09-15",
+      "objeto": "74 3645 1523 / Fax. 3645 1524\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 097/2026\nPROCESSO ADMINISTRATIVO N° 588/2026.\nCONTRATO Nº 359/2026 \nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA – THALY PRODUÇÕES LTDA\nCNPJ nº 26.104.191/0001-25\nOBJETO  - CONTRATAÇÃO  DE  ARTISTA  (TAIRONE  E  BANDA),  EM  SHOW  MUSICAL  PARA\nAPRESENTAÇÃO NOS “FESTEJOS DA COMUNIDADE DE TUIUTIBA”,  QUE REALIZAR-SE-Á NO\nPOVOADO DE TUIUTIBA, MUNICÍPIO DE CAMPO FORMOSO - BA, NO DIA 26 DE SETEMBRO DE\n2026.\nVALOR  – R$ 340.000,00 (Trezentos e quarenta mil reais)\nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria de Turismo, Cultura, Esporte e Lazer\nAtividade - 2.134 – Promoção de 3645 1523 / Fax. 3645 1524\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 102/2026\nPROCESSO ADMINISTRATIVO N° 621/2026.\nCONTRATO Nº 372/2026 \nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA – DESTAQUE PRODUÇÕES MUSICAIS LTDA\nCNPJ n° 31.240.707/0001-07\nOBJETO  -  CONTRATAÇÃO  DE  ARTISTA  (OS  CLONES)  EM  SHOW  MUSICAL  PARA\nAPRESENTAÇÃO NOS “FESTEJOS DA COMUNIDADE DE TUIUTIBA”,  QUE REALIZAR-SE-Á NO\nPOVOADO DE TUIUTIBA, MUNICÍPIO DE CAMPO FORMOSO - BA, NO DIA 27 DE SETEMBRO DE\n2026.\nVALOR  – R$ 95.000,00 (Noventa e cinco mil reais)\nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria de Turismo, Cultura, Esporte e Lazer\nAtividade - 2.134 – Promoção de Festejos 74 3645 1523 / Fax. 3645 1524\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 103/2026\nPROCESSO ADMINISTRATIVO N° 622/2026.\nCONTRATO Nº 374/2026 \nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA - ADAILTON ARAÚJO SANTOS\nCNPJ  nº 29.223.051/0001-64\nOBJETO - CONTRATAÇÃO DE ARTISTA (DORY CASA NOVA E BANDA), EM SHOW MUSICAL PARA\nAPRESENTAÇÃO NOS “FESTEJOS DA COMUNIDADE DE LIMOEIRO”, QUE REALIZAR-SE-Á NO\nPOVOADO DE LIMOEIRO, MUNICÍPIO DE CAMPO FORMOSO - BA, NO DIA 19 DE SETEMBRO DE\n2026.\nVALOR  – R$ 35.000,00 (Trinta e cinco mil reais)\nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria de Turismo, Cultura, Esporte e Lazer\nAtividade - 2.134 – Promoção de Festejos",
+      "orgao": "Campo Formoso",
+      "cnpj_orgao": "",
+      "municipio": "Campo Formoso",
+      "uf": "BA",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-15",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2906006/2026-09-15/7ebc7cad9ed168b28cedbacc19edb0bd0d3cea1e.pdf",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "74 3645 1523 / Fax. 3645 1524\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 097/2026\nPROCESSO ADMINISTRATIVO N° 588/2026.\nCONTRATO Nº 359/2026 \nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA – THALY PRODUÇÕES LTDA\nCNPJ nº 26.104.191/0001-25\nOBJETO  - CONTRATAÇÃO  DE  ARTISTA  (TAIRONE  E  BANDA),  EM  SHOW  MUSICAL  PARA\nAPRESENTAÇÃO NOS “FESTEJOS DA COMUNIDADE DE TUIUTIBA”,  QUE REALIZAR-SE-Á NO\nPOVOADO DE TUIUTIBA, MUNICÍPIO DE CAMPO FORMOSO - BA, NO DIA 26 DE SETEMBRO DE\n2026.\nVALOR  – R$ 340.000,00 (Trezentos e quarenta mil reais)\nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria de Turismo, Cultura, Esporte e Lazer\nAtividade - 2.134 – Promoção de 3645 1523 / Fax. 3645 1524\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 102/2026\nPROCESSO ADMINISTRATIVO N° 621/2026.\nCONTRATO Nº 372/2026 \nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA – DESTAQUE PRODUÇÕES MUSICAIS LTDA\nCNPJ n° 31.240.707/0001-07\nOBJETO  -  CONTRATAÇÃO  DE  ARTISTA  (OS  CLONES)  EM  SHOW  MUSICAL  PARA\nAPRESENTAÇÃO NOS “FESTEJOS DA COMUNIDADE DE TUIUTIBA”,  QUE REALIZAR-SE-Á NO\nPOVOADO DE TUIUTIBA, MUNICÍPIO DE CAMPO FORMOSO - BA, NO DIA 27 DE SETEMBRO DE\n2026.\nVALOR  – R$ 95.000,00 (Noventa e cinco mil reais)\nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria de Turismo, Cultura, Esporte e Lazer\nAtividade - 2.134 – Promoção de Festejos 74 3645 1523 / Fax. 3645 1524\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 103/2026\nPROCESSO ADMINISTRATIVO N° 622/2026.\nCONTRATO Nº 374/2026 \nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA - ADAILTON ARAÚJO SANTOS\nCNPJ  nº 29.223.051/0001-64\nOBJETO - CONTRATAÇÃO DE ARTISTA (DORY CASA NOVA E BANDA), EM SHOW MUSICAL PARA\nAPRESENTAÇÃO NOS “FESTEJOS DA COMUNIDADE DE LIMOEIRO”, QUE REALIZAR-SE-Á NO\nPOVOADO DE LIMOEIRO, MUNICÍPIO DE CAMPO FORMOSO - BA, NO DIA 19 DE SETEMBRO DE\n2026.\nVALOR  – R$ 35.000,00 (Trinta e cinco mil reais)\nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria de Turismo, Cultura, Esporte e Lazer\nAtividade - 2.134 – Promoção de Festejos",
+      "uid": "3e2089e5cb49e5aa"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "46658543000100-1-000142/2026",
-      "titulo": "Edital de Chamamento Público nº (5666) | 25-0/2026",
-      "objeto": "Chamamento Público Nº 005/2026 para Seleção de Projetos para firmar Termo de execução Cultural com Recursos da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB (Lei nº 14.399/2022) – Ciclo 2, para I) Seleção de Projeto(s) Cultural(is) para receberem apoio financeiro nas categorias descritas no Anexo I do Edital. Conforme base na Lei/Decretos Correlatos: Lei nº 14.903/2024, Decreto nº 11.740/2023 e Decreto nº 11.453/2023; e IN Minc nº 10/2023 (IN PNAB de Ações Afirmativas e Acessibilidade).",
-      "orgao": "FUNDO MUNICIPAL DE EDUCACAO DE ALVORADA DO NORTE - FME",
-      "cnpj_orgao": "46658543000100",
-      "municipio": "Alvorada do Norte",
-      "uf": "GO",
+      "id_externo": "11294386000108-1-000143/2026",
+      "titulo": "Edital de Chamamento Público nº 004/2026",
+      "objeto": "Chamamento público para Credenciamento de artistas, com vistas a apresentações nas linguagens artísticas de Música, atrações musicais, cultura popular, agremiações culturais, Artes Cênicas (teatro, dança, circo e performance), para eventual prestação de serviços a fim de atender à programação artística e o calendário de Projetos Especiais e eventos do Município do Ipojuca.",
+      "orgao": "MUNICIPIO DE IPOJUCA",
+      "cnpj_orgao": "11294386000108",
+      "municipio": "Ipojuca",
+      "uf": "PE",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-16T18:52:53.610455209",
+      "data_publicacao": "2026-09-17T10:57:58.423544342",
       "data_abertura": "",
-      "data_limite": "2026-09-29T16:30",
-      "link": "https://pncp.gov.br/compras/46658543000100/2026/142",
+      "data_limite": "2027-05-28T10:07",
+      "link": "https://pncp.gov.br/compras/11294386000108/2026/143",
       "link_origem": "",
-      "score": 27,
+      "score": 33,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
-        "A": [],
+        "A": [
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
         "B": [],
         "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
         ],
         "NEG": []
       },
       "trecho": "",
-      "uid": "23132baaeb9951fb"
+      "uid": "1fee847460fdcc86"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3120607/2026-09-16/d86b2df5edc255eaebb43dde7e89e1cfe001ac2a.txt",
+      "titulo": "DOM Crucilândia/MG 2026-09-16",
+      "objeto": "Crucilândia/MG - e-mail: \nlicitacao@prefeituradecrucilandia.mg.gov.br- Elizângela Cristina Lara Diniz - Prefeita Municipal. \n\n \nPREFEITURA MUNICIPAL DE CRUCILÂNDIA/MG torna público o credenciamento do Sr. GIULIANO DO CARMO \nGERALDO, inscrito no CNPJ: nº 68.448.456/0001-52, referente ao PAL nº 118/2025, Credenciamento n.º 15/2025. \nOBJETO: CREDENCIAMENTO DE ARTISTAS E BANDAS LOCAIS E REGIONAIS PARA APRESENTAÇÃO EM EVENTOS \nESPORTIVOS, COMEMORAÇÕES DE DATAS FESTIVAS, EVENTOS DO CALENDÁRIO MUNICIPAL DE CULTURA, ENTRE \nOUTROS EVENTOS QUE POSSAM SURGIR ATRAVÉS DE DEMANDAS ESPORÁDICAS.  Maiores informações: (31) 3157-\n5019 - S. Licitação, Av. Ernesto Antunes da Cunha, 67, Centro, Crucilândia/MG - e-mail: e-mail: \nlicitacao@prefeituradecrucilandia.mg.gov.br- Elizângela Cristina Lara Diniz - Prefeita Municipal. \n\n \nPREFEITURA MUNICIPAL DE CRUCILÂNDIA/MG torna público o credenciamento do Sr. ROBSON MARTINS DE \nOLIVEIRA inscrita no CPF: 125.764.166-24, referente ao PAL nº 52/2026, Credenciamento n.º 08/2026. OBJETO: \nCREDENCIAMENTO DE ARTISTAS LOCAIS E REGIONAIS, PESSOAS FÍSICAS OU JURÍDICAS, PARA A REALIZAÇÃO DE \nAPRESENTAÇÕES CULTURAIS, MUSICAIS, ARTÍSTICAS E DEMAIS MANIFESTAÇÕES CULTURAIS, VISANDO ATENDER \nÀS DEMANDAS DOS EVENTOS PROMOVIDOS PELO MUNICÍPIO.  Maiores informações: (31) 3157-5019 - S. Licitação, \nAv. Ernesto Antunes da Cunha, 67, Centro, Crucilândia/MG - e-mail: licitacao@prefeituradecrucilandia",
+      "orgao": "Crucilândia",
+      "cnpj_orgao": "",
+      "municipio": "Crucilândia",
+      "uf": "MG",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-16",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3120607/2026-09-16/d86b2df5edc255eaebb43dde7e89e1cfe001ac2a.pdf",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "Crucilândia/MG - e-mail: \nlicitacao@prefeituradecrucilandia.mg.gov.br- Elizângela Cristina Lara Diniz - Prefeita Municipal. \n\n \nPREFEITURA MUNICIPAL DE CRUCILÂNDIA/MG torna público o credenciamento do Sr. GIULIANO DO CARMO \nGERALDO, inscrito no CNPJ: nº 68.448.456/0001-52, referente ao PAL nº 118/2025, Credenciamento n.º 15/2025. \nOBJETO: CREDENCIAMENTO DE ARTISTAS E BANDAS LOCAIS E REGIONAIS PARA APRESENTAÇÃO EM EVENTOS \nESPORTIVOS, COMEMORAÇÕES DE DATAS FESTIVAS, EVENTOS DO CALENDÁRIO MUNICIPAL DE CULTURA, ENTRE \nOUTROS EVENTOS QUE POSSAM SURGIR ATRAVÉS DE DEMANDAS ESPORÁDICAS.  Maiores informações: (31) 3157-\n5019 - S. Licitação, Av. Ernesto Antunes da Cunha, 67, Centro, Crucilândia/MG - e-mail: e-mail: \nlicitacao@prefeituradecrucilandia.mg.gov.br- Elizângela Cristina Lara Diniz - Prefeita Municipal. \n\n \nPREFEITURA MUNICIPAL DE CRUCILÂNDIA/MG torna público o credenciamento do Sr. ROBSON MARTINS DE \nOLIVEIRA inscrita no CPF: 125.764.166-24, referente ao PAL nº 52/2026, Credenciamento n.º 08/2026. OBJETO: \nCREDENCIAMENTO DE ARTISTAS LOCAIS E REGIONAIS, PESSOAS FÍSICAS OU JURÍDICAS, PARA A REALIZAÇÃO DE \nAPRESENTAÇÕES CULTURAIS, MUSICAIS, ARTÍSTICAS E DEMAIS MANIFESTAÇÕES CULTURAIS, VISANDO ATENDER \nÀS DEMANDAS DOS EVENTOS PROMOVIDOS PELO MUNICÍPIO.  Maiores informações: (31) 3157-5019 - S. Licitação, \nAv. Ernesto Antunes da Cunha, 67, Centro, Crucilândia/MG - e-mail: licitacao@prefeituradecrucilandia",
+      "uid": "f0121639cef00bd7"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2913705/2026-09-16/b99c2cc7d254a7b8da38f84a6d923ae1b8640fda.txt",
+      "titulo": "DOM Inhambupe/BA 2026-09-16",
+      "objeto": "Chamamento Público para Credenciamento nº 01/2026 – \nSECULT, Processo Administrativo nº 08/2026, torna pública a presente CONVOCAÇÃO \ndo artista abaixo identificado para assinatura do respectivo instrumento contratual, nos \ntermos da Lei Federal nº 14.133/2021.  \n\nCONSIDERANDO que o Edital de Credenciamento nº 01/2026 – SECULT tem por objeto \no credenciamento de artistas, grupos culturais e profissionais do setor artístico para \nfuturas contratações destinadas às programações culturais promovidas ou apoiadas pelo \nMunicípio de Inhambupe;  \n\nCONSIDERANDO que o credenciamento visa assegurar a valorização da cultura local, a \ntransparência, a impessoalidade, a rotatividade entre credenciados e a adequação",
+      "orgao": "Inhambupe",
+      "cnpj_orgao": "",
+      "municipio": "Inhambupe",
+      "uf": "BA",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-16",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2913705/2026-09-16/b99c2cc7d254a7b8da38f84a6d923ae1b8640fda.pdf",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "Chamamento Público para Credenciamento nº 01/2026 – \nSECULT, Processo Administrativo nº 08/2026, torna pública a presente CONVOCAÇÃO \ndo artista abaixo identificado para assinatura do respectivo instrumento contratual, nos \ntermos da Lei Federal nº 14.133/2021.  \n\nCONSIDERANDO que o Edital de Credenciamento nº 01/2026 – SECULT tem por objeto \no credenciamento de artistas, grupos culturais e profissionais do setor artístico para \nfuturas contratações destinadas às programações culturais promovidas ou apoiadas pelo \nMunicípio de Inhambupe;  \n\nCONSIDERANDO que o credenciamento visa assegurar a valorização da cultura local, a \ntransparência, a impessoalidade, a rotatividade entre credenciados e a adequação",
+      "uid": "3278b9a93cc46f2c"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/5003256/2026-09-16/1843e18dd36d941e492168158174ab117e649caa.txt",
+      "titulo": "DOM Costa Rica/MS 2026-09-16",
+      "objeto": "cultural alusivo ao Dia da Consciência Negra, \n\ncontemplando programação diversificada voltada à valorização da cultura afro-brasileira, \n\nà promoção da identidade cultural e à integração da comunidade. \n\nA programação proposta pela AFRORICA compreenderá, entre outras atividades, \n\napresentações culturais de matriz afro-brasileira, roda de samba, show musical e \n\ndegustação de feijoada, proporcionando à população espaço de convivência, \n\nmanifestação artística, valorização cultural e celebração da contribuição da população \n\nnegra para a formação social e cultural brasileira. \n\n2. DA JUSTIFICATIVA \n\nO Dia da Consciência Negra constitui importante momento de reflexão e valorização da \n\nhistória, da transmitidas entre gerações. \n\nA proposta da AFRORICA busca reunir diferentes manifestações culturais em uma \n\nprogramação acessível à comunidade, utilizando a música, a dança, a gastronomia e \n\noutras expressões culturais como instrumentos de valorização da diversidade e de \n\nintegração social. \n\nAs apresentações da cultura afro, a roda de samba, o show musical e a degustação \n\nde feijoada pretendem proporcionar ao público uma experiência cultural diversificada, \n\nvalorizando manifestações que possuem significativa presença na história e na cultura \n\nbrasileira. \n\nAlém do caráter comemorativo, o evento pretende contribuir para a valorização da \n\ncultura afro-brasileira e para o reconhecimento da diversidade de Interesse apresentada pela ASSOCIAÇÃO DE \n\nAFRODESCENDENTES DE COSTA RICA – AFRORICA, tendo por objeto a realização de \n\nevento cultural em comemoração ao Dia da Consciência Negra, no Município de Costa Rica/MS, \n\ncompreendendo, conforme proposta apresentada, atividades culturais, apresentações da cultura \n\nafro-brasileira, roda de samba, show musical, degustação de feijoada e demais ações previstas no \n\nrespectivo Plano de Trabalho. \n\nO presente acolhimento não implica aprovação definitiva da proposta, autorização de repasse \n\nde recursos públicos ou celebração da parceria, ficando o prosseguimento do feito \n\ncondicionado à regular instrução processual, ao atendimento dos requisitos legais",
+      "orgao": "Costa Rica",
+      "cnpj_orgao": "",
+      "municipio": "Costa Rica",
+      "uf": "MS",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-16",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/5003256/2026-09-16/1843e18dd36d941e492168158174ab117e649caa.pdf",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "cultural alusivo ao Dia da Consciência Negra, \n\ncontemplando programação diversificada voltada à valorização da cultura afro-brasileira, \n\nà promoção da identidade cultural e à integração da comunidade. \n\nA programação proposta pela AFRORICA compreenderá, entre outras atividades, \n\napresentações culturais de matriz afro-brasileira, roda de samba, show musical e \n\ndegustação de feijoada, proporcionando à população espaço de convivência, \n\nmanifestação artística, valorização cultural e celebração da contribuição da população \n\nnegra para a formação social e cultural brasileira. \n\n2. DA JUSTIFICATIVA \n\nO Dia da Consciência Negra constitui importante momento de reflexão e valorização da \n\nhistória, da transmitidas entre gerações. \n\nA proposta da AFRORICA busca reunir diferentes manifestações culturais em uma \n\nprogramação acessível à comunidade, utilizando a música, a dança, a gastronomia e \n\noutras expressões culturais como instrumentos de valorização da diversidade e de \n\nintegração social. \n\nAs apresentações da cultura afro, a roda de samba, o show musical e a degustação \n\nde feijoada pretendem proporcionar ao público uma experiência cultural diversificada, \n\nvalorizando manifestações que possuem significativa presença na história e na cultura \n\nbrasileira. \n\nAlém do caráter comemorativo, o evento pretende contribuir para a valorização da \n\ncultura afro-brasileira e para o reconhecimento da diversidade de Interesse apresentada pela ASSOCIAÇÃO DE \n\nAFRODESCENDENTES DE COSTA RICA – AFRORICA, tendo por objeto a realização de \n\nevento cultural em comemoração ao Dia da Consciência Negra, no Município de Costa Rica/MS, \n\ncompreendendo, conforme proposta apresentada, atividades culturais, apresentações da cultura \n\nafro-brasileira, roda de samba, show musical, degustação de feijoada e demais ações previstas no \n\nrespectivo Plano de Trabalho. \n\nO presente acolhimento não implica aprovação definitiva da proposta, autorização de repasse \n\nde recursos públicos ou celebração da parceria, ficando o prosseguimento do feito \n\ncondicionado à regular instrução processual, ao atendimento dos requisitos legais",
+      "uid": "029ed1a3ed7fa80b"
     }
   ]
 }
