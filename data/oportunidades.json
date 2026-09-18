@@ -1,165 +1,199 @@
 {
-  "gerado_em": "2026-09-17T23:28:45",
-  "total_brutos": 376,
-  "total_aprovados": 181,
-  "total_novos": 5,
+  "gerado_em": "2026-09-18T14:43:45",
+  "total_brutos": 600,
+  "total_aprovados": 130,
+  "total_novos": 12,
   "oportunidades": [
     {
-      "fonte": "pncp_search",
-      "id_externo": "19391945000100-1-000174/2026",
-      "titulo": "Edital de Chamamento Público nº 07/2026",
-      "objeto": "Credenciamento de artistas do município de Santa Bárbara e demais municípios da região do Entre Serras (Barão de Cocais, Catas Altas e Caeté) para realização de apresentações musicais, mediante pagamento de cachê, conforme demanda da Secretaria Municipal de Cultura e Desenvolvimento do Turismo (SMCDT) e demais Secretarias da Administração Municipal, visando estimular a geração de renda, a difusão de produções artísticas, o estímulo criativo cultural e proporcionar espaços aos artistas locais, conforme as Agendas Culturais desenvolvidas ao longo do ano e demandas que surgirem internamente nos eventos promovidos no município de Santa Bárbara",
-      "orgao": "MUNICIPIO DE SANTA BARBARA",
-      "cnpj_orgao": "19391945000100",
-      "municipio": "Santa Bárbara",
+      "fonte": "pncp",
+      "id_externo": "24852618000148-1-000023/2026",
+      "titulo": "Inexigibilidade (9285) | 7-0/2026",
+      "objeto": "CONTRATAÇÃO DE ARTISTA CONSAGRADO DO SEGMENTO MUSICAL SERTANEJO, PARANÁ, DE RENOME NACIONAL, PARA REALIZAÇÃO DE APRESENTAÇÃO ARTÍSTICA DE NATUREZA MUSICAL, INTEGRANTE DA PROGRAMAÇÃO OFICIAL DA XXII FESTA DO PEÃO DE EDEALINA – 2026, COM APRESENTAÇÃO PREVISTA PARA O DIA 26 DE SETEMBRO DE 2026, NO MUNICÍPIO DE EDEALINA, ESTADO DE GOIÁS.",
+      "orgao": "MUNICIPIO DE EDEALINA",
+      "cnpj_orgao": "24852618000148",
+      "municipio": "Edealina",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 350000.0,
+      "data_publicacao": "2026-09-15T08:21:49",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/24852618000148/1/000023/2026",
+      "link_origem": "",
+      "score": 70,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)",
+          "\\bempresario exclusivo\\b",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [
+          "\\bfesta do peao(de boiadeiro)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e54b05e750e1535c"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3170800/2026-09-17/df43d946ce0be3ecb603c343ca76c454c2ac285f.txt",
+      "titulo": "DOM Várzea da Palma/MG 2026-09-17",
+      "objeto": "779 MARIA CLARA\nFONSECA RAMOS. CONTRATO nº 183; OBJETO: CONTRATAÇÃO\nDA BANDA BALANÇA PANÇA PARA APRESENTAÇÃO DE SHOW\nMUSICAL NO DIA 26/09/2026, DURANTE AS FESTIVIDADES DA\nFESTA DO PESCADOR DE GUAICUÍ 2026, VISANDO ATENDER ÀS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE\nCOMUNICAÇÃO E EVENTOS.; LICITACAO: Inexigibilidade 19 / 2026\nValor Global:R$ 15.000,00 Vigência:17/09/2026 Até:26/09/2026.\n\n\n\nPágina 1 de 1\n\nProcesso: 178 - 19 / 2026 Modalidade: Inexigibilidade\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA\nRESULTADO FINAL\n\nObjeto: CONTRATAÇÃO DA BANDA BALANÇA PANÇA PARA APRESENTAÇÃO DE SHOW MUSICAL NO DIA 26/09/2026, DURANTE AS\nFESTIVIDADES DA FESTA DO PESCADOR DE GUAICUÍ 2026, VISANDO ATENDER ÀS NECESSIDADES TotalItem Unidade Marca\n\nHOMOLOGADO\n53.246.779 MARIA CLARA FONSECA RAMOS 15.000,00\n\nSHOW MUSICAL DA BANDA BALANÇA PANÇA A\nSER REALIZADO NO DIA 26/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H30MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n15.000,0015.000,00001,00001 SHOW\n\nQuinta-feira, 17 de Setembro de 2026 Edição Nº 540 - Extra Página 6\n\n7\n\n\n\nPágina 1 de 1\n\nProcesso: 179 - 20 / 2026 Modalidade: Inexigibilidade\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA\nRESULTADO FINAL\n\nObjeto: CONTRATAÇÃO DO ARTISTA RAFFAEL ROCHA PARA APRESENTAÇÃO DE SHOW MUSICAL NO DIA 26/09/2026, DURANTE AS\nFESTIVIDADES DA FESTA DO PESCADOR DE GUAICUÍ 2026 2026, VISANDO ATENDER ÀS NECESSIDADES DA SECRETARIA\nMUNICIPAL DE COMUNICAÇÃO E EVENTOS.\n\n60.000,00RR PRODUCOES ARTISTICAS LTDAFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\nRR PRODUCOES ARTISTICAS LTDA 60.000,00\n\nSHOW MUSICAL DO CANTOR RAFFAEL ROCHA\nA SER REALIZADO NO DIA 26/09/2026, COM\nDURAÇÃO MÍNIMA DE 2H30MIN, E INÍCIO\nPREVISTO ÀS 22H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n60.000,0060.000,00001,00001 SHOW\n\nQuinta-feira, 17 de Setembro de 2026 Edição Nº 540 - Extra Página 7\n\n7\n\n\n\t\t2026-09-17T12:52:47-0300\n\tMUNICIPIO DE VARZEA DA PALMA:18279059000126\n\n\n\n\n",
+      "orgao": "Várzea da Palma",
+      "cnpj_orgao": "",
+      "municipio": "Várzea da Palma",
       "uf": "MG",
-      "modalidade": "Credenciamento",
+      "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-17T16:03:45.032595229",
+      "data_publicacao": "2026-09-17",
       "data_abertura": "",
-      "data_limite": "2026-12-02T23:59:59",
-      "link": "https://pncp.gov.br/compras/19391945000100/2026/174",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3170800/2026-09-17/df43d946ce0be3ecb603c343ca76c454c2ac285f.pdf",
       "link_origem": "",
-      "score": 45,
-      "categoria": "CREDENCIAMENTO_ART79",
+      "score": 40,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "779 MARIA CLARA\nFONSECA RAMOS. CONTRATO nº 183; OBJETO: CONTRATAÇÃO\nDA BANDA BALANÇA PANÇA PARA APRESENTAÇÃO DE SHOW\nMUSICAL NO DIA 26/09/2026, DURANTE AS FESTIVIDADES DA\nFESTA DO PESCADOR DE GUAICUÍ 2026, VISANDO ATENDER ÀS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE\nCOMUNICAÇÃO E EVENTOS.; LICITACAO: Inexigibilidade 19 / 2026\nValor Global:R$ 15.000,00 Vigência:17/09/2026 Até:26/09/2026.\n\n\n\nPágina 1 de 1\n\nProcesso: 178 - 19 / 2026 Modalidade: Inexigibilidade\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA\nRESULTADO FINAL\n\nObjeto: CONTRATAÇÃO DA BANDA BALANÇA PANÇA PARA APRESENTAÇÃO DE SHOW MUSICAL NO DIA 26/09/2026, DURANTE AS\nFESTIVIDADES DA FESTA DO PESCADOR DE GUAICUÍ 2026, VISANDO ATENDER ÀS NECESSIDADES TotalItem Unidade Marca\n\nHOMOLOGADO\n53.246.779 MARIA CLARA FONSECA RAMOS 15.000,00\n\nSHOW MUSICAL DA BANDA BALANÇA PANÇA A\nSER REALIZADO NO DIA 26/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H30MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n15.000,0015.000,00001,00001 SHOW\n\nQuinta-feira, 17 de Setembro de 2026 Edição Nº 540 - Extra Página 6\n\n7\n\n\n\nPágina 1 de 1\n\nProcesso: 179 - 20 / 2026 Modalidade: Inexigibilidade\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA\nRESULTADO FINAL\n\nObjeto: CONTRATAÇÃO DO ARTISTA RAFFAEL ROCHA PARA APRESENTAÇÃO DE SHOW MUSICAL NO DIA 26/09/2026, DURANTE AS\nFESTIVIDADES DA FESTA DO PESCADOR DE GUAICUÍ 2026 2026, VISANDO ATENDER ÀS NECESSIDADES DA SECRETARIA\nMUNICIPAL DE COMUNICAÇÃO E EVENTOS.\n\n60.000,00RR PRODUCOES ARTISTICAS LTDAFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\nRR PRODUCOES ARTISTICAS LTDA 60.000,00\n\nSHOW MUSICAL DO CANTOR RAFFAEL ROCHA\nA SER REALIZADO NO DIA 26/09/2026, COM\nDURAÇÃO MÍNIMA DE 2H30MIN, E INÍCIO\nPREVISTO ÀS 22H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n60.000,0060.000,00001,00001 SHOW\n\nQuinta-feira, 17 de Setembro de 2026 Edição Nº 540 - Extra Página 7\n\n7\n\n\n\t\t2026-09-17T12:52:47-0300\n\tMUNICIPIO DE VARZEA DA PALMA:18279059000126\n\n\n\n\n",
+      "uid": "1e596b30826327c3"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "45371820000128-1-000246/2026",
+      "titulo": "Inexigibilidade 047/2026",
+      "objeto": "CONTRATAÇÃO DA ARTISTA VALESCA POPOZUDA PARA REALIZAÇÃO DE APRESENTAÇÃO MUSICAL NA 20ª PARADA LGBT+, A SER REALIZADA NO DIA 20 DE SETEMBRO DE 2026.",
+      "orgao": "MUNICIPIO DE SERTAOZINHO",
+      "cnpj_orgao": "45371820000128",
+      "municipio": "Sertãozinho",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 45000.0,
+      "data_publicacao": "2026-09-15T08:49:44",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/45371820000128/1/000246/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
           "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
         ],
         "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
+        "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "43b57a02dd8aa111"
+      "uid": "b6071af88fe75299"
     },
     {
-      "fonte": "pncp_search",
-      "id_externo": "29138336000105-1-000044/2026",
-      "titulo": "Edital de Chamamento Público nº 002/2026 SMCT - Pareceristas/2026",
-      "objeto": "[Portal de Compras Públicas] - O Credenciamento de Pareceristas, profissionais do setor cultural e artístico, na condição de pessoa física ou Microempreendedor Individual (MEI) com finalidade cultural e comprovada experiência e conhecimento na análise de projetos culturais da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB – Ciclo 2, para composição do Banco de Pareceristas da Secretaria Municipal de Cultura e Turismo - SMCT de São João de Meriti.\n\nOs profissionais credenciados poderão ser convocados para a prestação de serviços de análise técnica das propostas culturais e, quando previsto na convocação, da documentação de habilitação dos proponentes dos editais da PNAB, conforme demanda da Administração e observados os critérios objetivos de distribuição estabelecidos neste edital.\n\nO presente edital terá vigência de 12 (doze) meses, contados da data de sua publicação e permanecerá aberto à inscrição de novos interessados durante todo esse período com data de corte de acordo com o Anexo 1 – Cronograma do Edital e conforme as necessidades do Órgão.",
-      "orgao": "MUNICIPIO DE SAO JOAO DE MERITI",
-      "cnpj_orgao": "29138336000105",
-      "municipio": "São João de Meriti",
-      "uf": "RJ",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-17T14:43:46.669593",
-      "data_abertura": "",
-      "data_limite": "2026-09-21T17:00",
-      "link": "https://pncp.gov.br/compras/29138336000105/2026/44",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "c4b57028c8aa13b9"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "07598634000137-1-000137/2026",
-      "titulo": "Edital de Chamamento Público nº 122/2026",
-      "objeto": "[LICITANET] - SELEÇÃO DE PROJETOS PARA CULTURA E INFÂNCIAS; OBRAS ARTÍSTICAS PARA CIRCULAÇÃO; EVENTOS ARTÍSTICO-CULTURAIS; CAPOEIRA E CULTURA POPULAR DO MUNICÍPIO DE SOBRAL PARA RECEBEREM APOIO FINANCEIRO COM RECURSOS DA LEI Nº 14.399/2022 - POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA (PNAB)",
-      "orgao": "MUNICIPIO DE SOBRAL",
-      "cnpj_orgao": "07598634000137",
-      "municipio": "Sobral",
+      "fonte": "pncp",
+      "id_externo": "07663941000154-1-000085/2025",
+      "titulo": "Inexigibilidade 007/2025-INE/2025",
+      "objeto": "CONTRATAÇÃO DO(A) ARTISTA/BANDA “LIMÃO COM MEL”, PARA REALIZAÇÃO DE SHOW ARTÍSTICO EM EVENTO CULTURAL ALUSIVO AO \"ITAREMA FOLIA\", A SER REALIZADO DIA 03 DE MARÇO DE 2025, NO CENTRO DE EVENTOS DO MUNICÍPIO DE ITAREMA, CEARÁ",
+      "orgao": "MUNICIPIO DE ITAREMA",
+      "cnpj_orgao": "07663941000154",
+      "municipio": "Itarema",
       "uf": "CE",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-17T14:22:25.743429459",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 234000.0,
+      "data_publicacao": "2026-09-15T08:51:00",
       "data_abertura": "",
-      "data_limite": "2026-10-02T00:00",
-      "link": "https://pncp.gov.br/compras/07598634000137/2026/137",
-      "link_origem": "",
-      "score": 26,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": [
-          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
-        ]
-      },
-      "trecho": "",
-      "uid": "78920e2f52256597"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "01612492000139-1-000005/2025",
-      "titulo": "Edital de Chamamento Público nº 02/2025",
-      "objeto": "PROCEDIMENTO AUXILIAR DE CREDENCIAMENTO DE ARTISTAS MUSICAIS, LOCAIS E REGIONAIS, PARA ATENDIMENTO DE DEMANDAS DO MUNICÍPIO DE CÔNEGO MARINHO – MG.",
-      "orgao": "MUNICIPIO DE CONEGO MARINHO",
-      "cnpj_orgao": "01612492000139",
-      "municipio": "Cônego Marinho",
-      "uf": "MG",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-17T15:06:49.951520758",
-      "data_abertura": "",
-      "data_limite": "2027-08-30T23:59",
-      "link": "https://pncp.gov.br/compras/01612492000139/2025/5",
-      "link_origem": "",
-      "score": 21,
-      "categoria": "CREDENCIAMENTO_ART79",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/07663941000154/1/000085/2025",
+      "link_origem": "http://precodereferencia.m2atecnologia.com.br/c/F4SuiiovQnqmqzvaSifuyA.TMxsofHqGmdb/",
+      "score": 28,
+      "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
         ],
-        "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
         ],
+        "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "dc79b40b1c1d4dec"
+      "uid": "889bc31598998656"
     },
     {
-      "fonte": "pncp_search",
-      "id_externo": "07297627000103-1-000013/2026",
-      "titulo": "Aviso de Contratação Direta nº 910/2026",
-      "objeto": "DISPENSA DE LICITAÇÃO DE CONTRATAÇÃO DE PESSOA JURÍDICA ESPECIALIZADA PARA A REALIZAÇÃO DE APRESENTAÇÃO ARTÍSTICA COMPLETA SHOW INFANTIL , DESTINADA À PROGRAMAÇÃO COMEMORATIVA DO DIA DAS CRIANÇAS, INCLUINDO ESPETÁCULO TEMÁTICO COM ELEMENTOS ARTÍSTICOS, LÚDICOS E RECREATIVOS ADEQUADOS AO PÚBLICO INFANTIL.",
-      "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL",
-      "cnpj_orgao": "07297627000103",
-      "municipio": "Bom Jesus de Goiás",
-      "uf": "GO",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-17T15:31:17.721122566",
+      "fonte": "pncp",
+      "id_externo": "46523015000135-1-000388/2026",
+      "titulo": "Inexigibilidade 00056/2026",
+      "objeto": "CONTRATAÇÃO DA EMPRESA ALPHA MUSIC EVENTOS E PRODUÇÕES LTDA -ME, PARA APRESENTAÇÃO DO SHOW ARTISTICO DA CANTORA SORAYA MORAES NO EVENTO SEMANA DA CULTURA CRISTÃ.",
+      "orgao": "MUNICIPIO DE BARUERI",
+      "cnpj_orgao": "46523015000135",
+      "municipio": "Barueri",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 89000.0,
+      "data_publicacao": "2026-09-15T08:18:38",
       "data_abertura": "",
-      "data_limite": "2026-09-21T17:00",
-      "link": "https://pncp.gov.br/compras/07297627000103/2026/13",
-      "link_origem": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/46523015000135/1/000388/2026",
+      "link_origem": "https://compras.barueri.sp.gov.br/Default.aspx",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "3a32c8f2274473e4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "46482832000192-1-000624/2026",
+      "titulo": "Inexigibilidade 109 | Processo 16640/2026",
+      "objeto": "CONTRATACAO DE EMPRESA PARA A REALIZACAO DA APRESENTACAO ARTISTICA DE WELITON TARELHO  DE ACORDO COM A PROGRAMACAO DO SEGUNDO SEMESTRE DE 2026  ORIGINADA DO CREDENCIAMENTO DE PROPOSTAS DE ARTISTAS E FAZEDORES DE CULTURA PARA COMPOR PROGRAMACAO CULTURAL EM SAO SEBASTIAO  POR MEIO DO EDITAL DE CHAMAMENTO PUBLICO FUNDASS N  014 2024  PROCESSO ADMINISTRATIVO DIGITAL N  119 2024 .",
+      "orgao": "MUNICIPIO DE SAO SEBASTIAO",
+      "cnpj_orgao": "46482832000192",
+      "municipio": "São Sebastião",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 1400.0,
+      "data_publicacao": "2026-09-15T07:51:37",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/46482832000192/1/000624/2026",
+      "link_origem": " ",
       "score": 12,
-      "categoria": "DISPENSA",
+      "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
@@ -170,7 +204,202 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "48a5cce264baa3a7"
+      "uid": "a09f7d0598b75ed2"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "30035964000136-1-000004/2026",
+      "titulo": "Inexigibilidade 05 - SME/2026",
+      "objeto": "Contratação de companhia teatral para a produção e execução do Cortejo da Liberdade, com a participação de alunos da Rede Municipal de Ensino, durante o desfile que será realizado em 30 de setembro de 2026, no município de Mossoró/RN.",
+      "orgao": "SECRETARIA MUNICIPAL DE EDUCACAO",
+      "cnpj_orgao": "30035964000136",
+      "municipio": "Mossoró",
+      "uf": "RN",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 216000.0,
+      "data_publicacao": "2026-09-15T08:31:55",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/30035964000136/1/000004/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "407bb0f45944951a"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "14045546000173-1-000257/2026",
+      "titulo": "Inexigibilidade RS11137312026/2026",
+      "objeto": "Produção Artística em Geral",
+      "orgao": "UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA",
+      "cnpj_orgao": "14045546000173",
+      "municipio": "Feira de Santana",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 4200.0,
+      "data_publicacao": "2026-09-15T09:07:55",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/14045546000173/1/000257/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "1935cb445fd7bf36"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "04380507000179-1-000140/2026",
+      "titulo": "Edital de Chamamento Público nº 6/2026",
+      "objeto": "Chamamento Público para credenciamento de artistas/músicos solo ou em dupla, bandas/grupos e DJs, locais e regionais, para prestação eventual de serviços de apresentações artísticas e musicais, destinados aos eventos promovidos ou apoiados pelo Município de Ouro Preto do Oeste/RO, por intermédio da Secretaria Municipal de Cultura, Esporte e Turismo – SEMCET.",
+      "orgao": "MUNICIPIO DE OURO PRETO DO OESTE",
+      "cnpj_orgao": "04380507000179",
+      "municipio": "Ouro Preto do Oeste",
+      "uf": "RO",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-18T10:22:41.671214616",
+      "data_abertura": "",
+      "data_limite": "2026-10-22T08:00",
+      "link": "https://pncp.gov.br/compras/04380507000179/2026/140",
+      "link_origem": "",
+      "score": 45,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4e04b382efc19497"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "20622890000180-1-000081/2026",
+      "titulo": "Credenciamento 000005/2026",
+      "objeto": "OBJETO: seleção de 06 (seis) profissionais visando a composição de Banco de Pareceristas que atuarão na análise de projetos culturais inscritos nos editais  de chamamento públicos vinculados à Política Nacional Aldir Blanc (PNAB). ",
+      "orgao": "MUNICIPIO DE GOVERNADOR VALADARES",
+      "cnpj_orgao": "20622890000180",
+      "municipio": "Governador Valadares",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 46668.0,
+      "data_publicacao": "2026-09-15T16:45:59",
+      "data_abertura": "2026-09-25T09:00:00",
+      "data_limite": "2026-09-25T09:00:00",
+      "link": "https://pncp.gov.br/app/editais/20622890000180/1/000081/2026",
+      "link_origem": "",
+      "score": 18,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4bc4afca9b3686b1"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3170800/2026-09-17/8e521a9d16414ba93ea0195470b705e392198ba9.txt",
+      "titulo": "DOM Várzea da Palma/MG 2026-09-17",
+      "objeto": "Desenvolvimento Econômico, Agricultura e\n\nMeio Ambiente\n\nEXTRATOS\n\nEXTRATO DE CONTRATO\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA/MG\n\nEXTRATO DO CONTRATO Nº 181/2026\n\nEXTRATO DE CONTRATO firmado entre a PREFEITURA\nMUNICIPAL DE VÁRZEA DA PALMA e RR PRODUCOES\nARTISTICAS LTDA. CONTRATO nº 181; OBJETO: CONTRATAÇÃO\nDO ARTISTA RAFFAEL ROCHA PARA APRESENTAÇÃO DE\nSHOW MUSICAL NO DIA 26/09/2026,  DURANTE AS\nFESTIVIDADES DA FESTA DO PESCADOR DE GUAICUÍ 2026,\nVISANDO ATENDER ÀS NECESSIDADES DA SECRETARIA\nMUNICIPAL DE COMUNICAÇÃO E EVENTOS.; LICITACAO:\nInexig ib i l idade 20 /  2026 Valor  Global :R$ 60.000,00\nVigência:17/09/2026 Até:26/09/2026.\n\nEXTRATO DE ADITIVO\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA/MG\n\nEXTRATO",
+      "orgao": "Várzea da Palma",
+      "cnpj_orgao": "",
+      "municipio": "Várzea da Palma",
+      "uf": "MG",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-17",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3170800/2026-09-17/8e521a9d16414ba93ea0195470b705e392198ba9.pdf",
+      "link_origem": "",
+      "score": 40,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "Desenvolvimento Econômico, Agricultura e\n\nMeio Ambiente\n\nEXTRATOS\n\nEXTRATO DE CONTRATO\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA/MG\n\nEXTRATO DO CONTRATO Nº 181/2026\n\nEXTRATO DE CONTRATO firmado entre a PREFEITURA\nMUNICIPAL DE VÁRZEA DA PALMA e RR PRODUCOES\nARTISTICAS LTDA. CONTRATO nº 181; OBJETO: CONTRATAÇÃO\nDO ARTISTA RAFFAEL ROCHA PARA APRESENTAÇÃO DE\nSHOW MUSICAL NO DIA 26/09/2026,  DURANTE AS\nFESTIVIDADES DA FESTA DO PESCADOR DE GUAICUÍ 2026,\nVISANDO ATENDER ÀS NECESSIDADES DA SECRETARIA\nMUNICIPAL DE COMUNICAÇÃO E EVENTOS.; LICITACAO:\nInexig ib i l idade 20 /  2026 Valor  Global :R$ 60.000,00\nVigência:17/09/2026 Até:26/09/2026.\n\nEXTRATO DE ADITIVO\n\nPREFEITURA MUNICIPAL DE VÁRZEA DA PALMA/MG\n\nEXTRATO",
+      "uid": "7885c87aae9350ce"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2913903/2026-09-17/2c6f058e75349d67fc0c952f21f8242d20367669.txt",
+      "titulo": "DOM Ipiaú/BA 2026-09-17",
+      "objeto": "89,3 Ok\nCLASSIFICADA\n\n(ampla concorrência)\n\nAdriano Jesus do\nAmor Divino\n\nEncontro de Guitarristas\nIpiaú em Ritmo Blues\n\n43,7 35,0 78,7 Ok\nSUPLENTE\n\n(ampla concorrência)\n\nMÚSICA 3 - GRUPO\nNOME DO \n\nPROPONENTE\nNOME DA \nPROPOSTA\n\nPRO-\nPOSTA\n\nPORT-\nFÓLIO\n\nTOTAL\nDEMAIS\nANEXOS\n\nSITUAÇÃO DA\nPROPOSTA\n\nDeivson Machado\nFerreira\n\nProjeto “Som que Conta”\nShow musical com Deivson\n\nMachado Na Virada\nCultural de Ipiaú - Bahia\n\n45,8 40,0 85,8 Ok\nCLASSIFICADA\n\n(cota étnico-racial)\n\nCarolina Santos\nSouza do Amor\n\nDivino\n\nOs sucessos dos anos 80 da\nBanda Joedson na Voz de\n\nCarol  Souza e Adriano Ryos\n49,0 36,0 85,0 Ok\n\nCLASSIFICADA\n(ampla concorrência)\n\nAdriano Jesus do\nAmor Divino – \n\nHomenagem a João Araújo:\nSua",
+      "orgao": "Ipiaú",
+      "cnpj_orgao": "",
+      "municipio": "Ipiaú",
+      "uf": "BA",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-17",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2913903/2026-09-17/2c6f058e75349d67fc0c952f21f8242d20367669.pdf",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "89,3 Ok\nCLASSIFICADA\n\n(ampla concorrência)\n\nAdriano Jesus do\nAmor Divino\n\nEncontro de Guitarristas\nIpiaú em Ritmo Blues\n\n43,7 35,0 78,7 Ok\nSUPLENTE\n\n(ampla concorrência)\n\nMÚSICA 3 - GRUPO\nNOME DO \n\nPROPONENTE\nNOME DA \nPROPOSTA\n\nPRO-\nPOSTA\n\nPORT-\nFÓLIO\n\nTOTAL\nDEMAIS\nANEXOS\n\nSITUAÇÃO DA\nPROPOSTA\n\nDeivson Machado\nFerreira\n\nProjeto “Som que Conta”\nShow musical com Deivson\n\nMachado Na Virada\nCultural de Ipiaú - Bahia\n\n45,8 40,0 85,8 Ok\nCLASSIFICADA\n\n(cota étnico-racial)\n\nCarolina Santos\nSouza do Amor\n\nDivino\n\nOs sucessos dos anos 80 da\nBanda Joedson na Voz de\n\nCarol  Souza e Adriano Ryos\n49,0 36,0 85,0 Ok\n\nCLASSIFICADA\n(ampla concorrência)\n\nAdriano Jesus do\nAmor Divino – \n\nHomenagem a João Araújo:\nSua",
+      "uid": "7880886e2becf80d"
     }
   ]
 }
