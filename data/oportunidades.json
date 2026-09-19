@@ -1,109 +1,40 @@
 {
-  "gerado_em": "2026-09-18T23:08:29",
-  "total_brutos": 321,
-  "total_aprovados": 151,
-  "total_novos": 3,
+  "gerado_em": "2026-09-19T14:06:41",
+  "total_brutos": 298,
+  "total_aprovados": 116,
+  "total_novos": 1,
   "oportunidades": [
     {
       "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2702009/2026-09-18/ac1e21dcc8f88aa3788f336e7170762b.txt",
-      "titulo": "DOM Coité do Nóia/AL 2026-09-18",
-      "objeto": "fundamentada no Art. 74, inciso II, da Lei 14.133/21, que objetiva: \n\nContratação de show artístico de Wellington Teixeira \"WT\", \n\nrepresentada pela empresa WELLINGTON TEIXEIRA DA SILVA \n\n(WTC PRODUCOES), inscrita no CNPJ/MF sob nº \n\n44.712.591/0001–03, artista consagrado pela opinião pública da \n\nregião, para realização de apresentação artística (show musical) nas \n\nfestividades de Emancipação Política do Município de Coité do \n\nNóia/AL, com duração de 2 (duas) horas, a ser realizado em 21 de \n\nsetembro de 2026, na Praça Municipal; ADJUDICO o seu objeto e \n\nRATIFICO o correspondente procedimento em favor de: \n\nWELLINGTON TEIXEIRA DA SILVA - R$ 30.000,00. \n\nCoité do Nóia - AL, 17 de setembro de 2026 CONTRATO \n\n \n\nPROCESSO: Inexigibilidade nº IN00018/2026. OBJETO: \n\nContratação de show artístico de Wellington Teixeira \"WT\", \n\nrepresentada pela empresa WELLINGTON TEIXEIRA DA SILVA \n\n(WTC PRODUCOES), inscrita no CNPJ/MF sob nº \n\n44.712.591/0001–03, artista consagrado pela opinião pública da \n\nregião, para realização de apresentação artística (show musical) nas \n\nfestividades de Emancipação Política do Município de Coité do \n\nNóia/AL, com duração de 2 (duas) horas, a ser realizado em 21 de \n\nsetembro de 2026, na Praça Municipal. NOTIFICAÇÃO: \n\nConvocamos a seguinte empresa para no prazo de 05 (cinco) dias \n\nconsecutivos, considerados da data desta publicação, comparecer \n\njunto ao Setor de Contratação LICITAÇÃO \n\n \n\nPROCESSO: Exposição de Motivos nº IN00018/2026. OBJETO: \n\nContratação de show artístico de Wellington Teixeira \"WT\", \n\nrepresentada pela empresa WELLINGTON TEIXEIRA DA SILVA \n\n(WTC PRODUCOES), inscrita no CNPJ/MF sob nº \n\n44.712.591/0001–03, artista consagrado pela opinião pública da \n\nregião, para realização de apresentação artística (show musical) nas \n\nfestividades de Emancipação Política do Município de Coité do \n\nNóia/AL, com duração de 2 (duas) horas, a ser realizado em 21 de \n\nsetembro de 2026, na Praça Municipal. FUNDAMENTO LEGAL: \n\nArt. 74, inciso II, da Lei 14.133/21. AUTORIZAÇÃO: Secretaria de \n\nCultura e Promoções. RATIFICAÇÃO: Prefeito, em 17/09/2026.  \n\n \n\nPublicado por: ",
-      "orgao": "Coité do Nóia",
+      "id_externo": "https://data.queridodiario.ok.org.br/5005400/2026-09-18/f1e2de1ffdaf84bcdf8672c054b0f138e406c42a.txt",
+      "titulo": "DOM Maracaju/MS 2026-09-18",
+      "objeto": "TERMO DE CREDENCIAMENTO Nº 92/2026\n-  PROCESSO ADMINISTRATIVO Nº 7.440/2025 -\n\nCREDENCIAMENTO Nº 003/2026\n\nEXTRATO DO TERMO DE CREDENCIAMENTO Nº 92/2026\nProcesso Administrativo - Autos nº 7.440/2025\nCREDENCIAMENTO Nº 003/2026\n\nPARTES\nCredenciante: MUNICÍPIO DE MARACAJU-MS\nCredenciado: VALDERY BRITO\n\nOBJETO: Este Termo tem como objetivo o credenciamento de\nartistas solo, dupla e/ou banda musical para realização de shows\nem eventos no município de Maracaju/MS.\n\nREG. DE EXEC: O objeto do presente Termo será realizado por\nexecução indireta, sob o regime de empreitada por preço\nunitário.\n\nPREÇOS DOS SERVIÇOS: Dá-se a este termo os seguintes\nvalores unitários por cada serviço prestado pelo credenciado:",
+      "orgao": "Maracaju",
       "cnpj_orgao": "",
-      "municipio": "Coité do Nóia",
-      "uf": "AL",
+      "municipio": "Maracaju",
+      "uf": "MS",
       "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
       "data_publicacao": "2026-09-18",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-09-18/176a91558905045c4f47bbe30e9926f8c0229cb5.pdf",
-      "link_origem": "",
-      "score": 52,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
-        ],
-        "B": [
-          "\\bfestividade(s)?\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "fundamentada no Art. 74, inciso II, da Lei 14.133/21, que objetiva: \n\nContratação de show artístico de Wellington Teixeira \"WT\", \n\nrepresentada pela empresa WELLINGTON TEIXEIRA DA SILVA \n\n(WTC PRODUCOES), inscrita no CNPJ/MF sob nº \n\n44.712.591/0001–03, artista consagrado pela opinião pública da \n\nregião, para realização de apresentação artística (show musical) nas \n\nfestividades de Emancipação Política do Município de Coité do \n\nNóia/AL, com duração de 2 (duas) horas, a ser realizado em 21 de \n\nsetembro de 2026, na Praça Municipal; ADJUDICO o seu objeto e \n\nRATIFICO o correspondente procedimento em favor de: \n\nWELLINGTON TEIXEIRA DA SILVA - R$ 30.000,00. \n\nCoité do Nóia - AL, 17 de setembro de 2026 CONTRATO \n\n \n\nPROCESSO: Inexigibilidade nº IN00018/2026. OBJETO: \n\nContratação de show artístico de Wellington Teixeira \"WT\", \n\nrepresentada pela empresa WELLINGTON TEIXEIRA DA SILVA \n\n(WTC PRODUCOES), inscrita no CNPJ/MF sob nº \n\n44.712.591/0001–03, artista consagrado pela opinião pública da \n\nregião, para realização de apresentação artística (show musical) nas \n\nfestividades de Emancipação Política do Município de Coité do \n\nNóia/AL, com duração de 2 (duas) horas, a ser realizado em 21 de \n\nsetembro de 2026, na Praça Municipal. NOTIFICAÇÃO: \n\nConvocamos a seguinte empresa para no prazo de 05 (cinco) dias \n\nconsecutivos, considerados da data desta publicação, comparecer \n\njunto ao Setor de Contratação LICITAÇÃO \n\n \n\nPROCESSO: Exposição de Motivos nº IN00018/2026. OBJETO: \n\nContratação de show artístico de Wellington Teixeira \"WT\", \n\nrepresentada pela empresa WELLINGTON TEIXEIRA DA SILVA \n\n(WTC PRODUCOES), inscrita no CNPJ/MF sob nº \n\n44.712.591/0001–03, artista consagrado pela opinião pública da \n\nregião, para realização de apresentação artística (show musical) nas \n\nfestividades de Emancipação Política do Município de Coité do \n\nNóia/AL, com duração de 2 (duas) horas, a ser realizado em 21 de \n\nsetembro de 2026, na Praça Municipal. FUNDAMENTO LEGAL: \n\nArt. 74, inciso II, da Lei 14.133/21. AUTORIZAÇÃO: Secretaria de \n\nCultura e Promoções. RATIFICAÇÃO: Prefeito, em 17/09/2026.  \n\n \n\nPublicado por: ",
-      "uid": "2d02555aedc5e64d"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "07954605000160-1-000956/2026",
-      "titulo": "Edital de Chamamento Público nº 005/2026/2026",
-      "objeto": "CREDENCIAMENTO DE BANDAS E DJS PARA APRESENTACOES MUSICAIS NOS DIVERSOS POLOS DO CICLO CARNAVALESCO DE 2027",
-      "orgao": "MUNICIPIO DE FORTALEZA",
-      "cnpj_orgao": "07954605000160",
-      "municipio": "Fortaleza",
-      "uf": "CE",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-18T12:56:38.300159306",
-      "data_abertura": "",
-      "data_limite": "2026-10-14T23:59",
-      "link": "https://pncp.gov.br/compras/07954605000160/2026/956",
+      "link": "https://data.queridodiario.ok.org.br/5005400/2026-09-18/f1e2de1ffdaf84bcdf8672c054b0f138e406c42a.pdf",
       "link_origem": "",
       "score": 24,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b",
           "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
-      "trecho": "",
-      "uid": "0b12eb8ba5e74ddc"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "17380667000160-1-000011/2026",
-      "titulo": "Aviso de Contratação Direta nº DE 8/2026",
-      "objeto": "Dispensa de Licitação Eletrônica visando a Contratação de empresa especializada para prestação de serviços de consultoria e assessoria técnica cultural destinados à execução da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB 2026 no Município de Correia Pinto/SC, compreendendo planejamento e orientação técnica à equipe da Fundação Municipal de Esporte e Cultura – FMEC, elaboração de 01 (um) edital de fomento cultural e respectivos instrumentos, orientação aos agentes culturais, disponibilização de pareceristas externos especializados, avaliação de mérito cultural dos projetos inscritos, emissão de pareceres técnicos, elaboração de relatório consolidado das avaliações e apoio técnico durante as etapas de seleção e divulgação dos resultados, conforme as condições, quantidades e exigências estabelecidas Aviso de Contratação Direta e seus anexos, em conformidade com o artigo 75, inciso II da Lei 14.133/21. Processo Dispensa de Licitação Sistema Eletrônico Interno e-CIGA nº 08/2026 – FMEC.",
-      "orgao": "FUNDACAO MUNICIPAL DE ESPORTES E CULTURA DE CORREIA PINTO",
-      "cnpj_orgao": "17380667000160",
-      "municipio": "Correia Pinto",
-      "uf": "SC",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-18T14:32:13.219259631",
-      "data_abertura": "",
-      "data_limite": "2026-09-25T08:59",
-      "link": "https://pncp.gov.br/compras/17380667000160/2026/11",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "FOMENTO_CULTURAL",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "d0723f30527a9b3c"
+      "trecho": "TERMO DE CREDENCIAMENTO Nº 92/2026\n-  PROCESSO ADMINISTRATIVO Nº 7.440/2025 -\n\nCREDENCIAMENTO Nº 003/2026\n\nEXTRATO DO TERMO DE CREDENCIAMENTO Nº 92/2026\nProcesso Administrativo - Autos nº 7.440/2025\nCREDENCIAMENTO Nº 003/2026\n\nPARTES\nCredenciante: MUNICÍPIO DE MARACAJU-MS\nCredenciado: VALDERY BRITO\n\nOBJETO: Este Termo tem como objetivo o credenciamento de\nartistas solo, dupla e/ou banda musical para realização de shows\nem eventos no município de Maracaju/MS.\n\nREG. DE EXEC: O objeto do presente Termo será realizado por\nexecução indireta, sob o regime de empreitada por preço\nunitário.\n\nPREÇOS DOS SERVIÇOS: Dá-se a este termo os seguintes\nvalores unitários por cada serviço prestado pelo credenciado:",
+      "uid": "c8006211d4473c40"
     }
   ]
 }
