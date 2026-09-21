@@ -1,7 +1,105 @@
 {
-  "gerado_em": "2026-09-20T23:03:49",
-  "total_brutos": 717,
-  "total_aprovados": 240,
-  "total_novos": 0,
-  "oportunidades": []
+  "gerado_em": "2026-09-21T16:46:05",
+  "total_brutos": 476,
+  "total_aprovados": 232,
+  "total_novos": 3,
+  "oportunidades": [
+    {
+      "fonte": "pncp_search",
+      "id_externo": "08309239000150-1-000111/2026",
+      "titulo": "Edital de Chamamento Público nº 5/2026",
+      "objeto": "Credenciamento de interessados para prestação de serviços de apresentação musical de Trio de Sanfoneiro, composto por 01 (um) sanfoneiro/cantor, 01 (um) zabumbeiro e 01 (um) triangulista, com a finalidade de proporcionar momentos de lazer, integração, convivência social e valorização da cultura popular aos participantes do Grupo de Idosos do Serviço de Convivência e Fortalecimento de Vínculos – SCFV, em eventos e atividades promovidos pela Secretaria Municipal de Assistência Social. PCRA: 1739/2026.",
+      "orgao": "MUNICIPIO DE JANDAIRA",
+      "cnpj_orgao": "08309239000150",
+      "municipio": "Jandaíra",
+      "uf": "RN",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-21T08:47:22.704563370",
+      "data_abertura": "",
+      "data_limite": "2027-09-20T23:59",
+      "link": "https://pncp.gov.br/compras/08309239000150/2026/111",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2aac67092b55daf3"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "83024257000100-1-000441/2026",
+      "titulo": "Edital de Chamamento Público nº PRI 85/2026",
+      "objeto": "Contratação de prestadores de serviços artísticos/culturais de espetáculos teatrais, nos termos do Edital de Credenciamento nº 05/2025 - PMC.",
+      "orgao": "MUNICIPIO DE CONCORDIA",
+      "cnpj_orgao": "83024257000100",
+      "municipio": "Concórdia",
+      "uf": "SC",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-21T11:40:44.915707763",
+      "data_abertura": "",
+      "data_limite": "2026-09-21T15:00:02",
+      "link": "https://pncp.gov.br/compras/83024257000100/2026/441",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6a8b85de7b5caa2e"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13607346000102-1-000117/2026",
+      "titulo": "Edital de Chamamento Público nº 009/2026",
+      "objeto": "CREDENCIAMENTO DE PARECERISTAS PARA ANÁLISE DE PROJETOS CULTURAIS INSCRITOS EM PROCESSOS SELETIVOS DA POLÍTICA NACIONAL ALDIR BLANC EM ANGUERA/BAHIA, conforme Termo de Referência anexo",
+      "orgao": "MUNICIPIO DE ANGUERA",
+      "cnpj_orgao": "13607346000102",
+      "municipio": "Anguera",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-21T11:48:18.861548639",
+      "data_abertura": "",
+      "data_limite": "2026-10-02T23:59",
+      "link": "https://pncp.gov.br/compras/13607346000102/2026/117",
+      "link_origem": "",
+      "score": 18,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4bfd8927c2ddfb60"
+    }
+  ]
 }
