@@ -1,35 +1,132 @@
 {
-  "gerado_em": "2026-09-21T23:56:14",
-  "total_brutos": 410,
-  "total_aprovados": 187,
-  "total_novos": 5,
+  "gerado_em": "2026-09-22T15:20:44",
+  "total_brutos": 300,
+  "total_aprovados": 177,
+  "total_novos": 4,
   "oportunidades": [
     {
       "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2702009/2026-09-21/5d38c373004ca709bc912fb60b25109a.txt",
-      "titulo": "DOM Coité do Nóia/AL 2026-09-21",
-      "objeto": "DE ADMINISTRAÇÃO E \n\nFINANÇAS \n\nEXTRATO DE CONTRATO \n\n \n\nOBJETO: Contratação de show artístico de Wellington Teixeira \n\n\"WT\", representada pela empresa WELLINGTON TEIXEIRA DA \n\nSILVA (WTC PRODUCOES), inscrita no CNPJ/MF sob nº \n\n44.712.591/0001–03, artista consagrado pela opinião pública da \n\nregião, para realização de apresentação artística (show musical) nas \n\nfestividades de Emancipação Política do Município de Coité do \n\nNóia/AL, com duração de 2 (duas) horas, a ser realizado em 21 de \n\nsetembro de 2026, na Praça Municipal. FUNDAMENTO LEGAL: \n\nInexigibilidade de Licitação nº IN00018/2026, nos termos do Art. 74, \n\ninciso II, da Lei 14.133/21. DOTAÇÃO: Recursos não Vinculados de \n\nImpostos:",
-      "orgao": "Coité do Nóia",
+      "id_externo": "https://data.queridodiario.ok.org.br/2806107/2026-09-21/3aedaf83fbe76a0d10be016e6db71a35b851befb.txt",
+      "titulo": "DOM Rosário do Catete/SE 2026-09-21",
+      "objeto": "Nº 1228 PREFEITURA MUNICIPAL DE ROSARIO DO CATETE\n\nDIÁRIO OFICIAL DO MUNICÍPIO\n\nEXTRATO\n\nPC DR CLODOALDO PASSOS CEP: 49.760-000\nTELEFONE: (79)32741-672\nEMAIL: gabinete@rosariodocatete.se.gov.br\n\nDIÁRIO OFICIAL DO MUNICÍPIO\n\nESTADO DE SERGIPE\nMUNICIPIO DE ROSÁRIO DO CATETE\n\nExrRAro Do coNTRAro 1.3 597ZOZO-PUnC\n\nOBJETO: Contratação de serviço de show Musical Fábio Nunes, a ser realizado no dia 31 de outubro de\n\n2026, com duração de 01h20min, em comemoração ao Dia do Evangelico no Município de\nRosário do Catete,\n\nVALOR GLOBAL: R$ 25.000,00 (vinte e cinco mil reais)\n\nFUNDAMENTAçÂO teeat: A LEI No ,4.L33/2O2L, ART.74, II\n\nRosário d o eatete /sE, de setembro d a2\n\nNDE\nPREFEITO MUNI\n\nNIO CESAR CORREIA Recebi os autos do processo de Inexigibilidade de Licitação n. 6L/2O26\ne, após revisá-lo, decido por sua RATIFICAÇÃO. Por meio deste ato, HOMOLOGO o\npresente processo licitatório e determino seu registro e publicação, conforme\nlegislação pertinente.\n\nEMPRESA CONTRATADA: MAX PRODUçÕES E EVENTOS LTDA\n\nOBJETO: Contratação de prestação de serviços com show Musical Fábio Nunes\", a\n\nser realizado no dia 31 de outubrol de 2026, com duração de 01h20min, em\ncomemoração ao Dia do Evangelico no Município de Rosário do Catete.\n\nVALOR GLOBAL: R$ 25.OOO.OO (vinte e cinco mil reais)\n\nRosário do Catete/SE, 21 de setem de 2026\n\no\nNIO CESAR CO RRE DINl DE RESEN DE\n\nPREFE UNICIP\n\n\n",
+      "orgao": "Rosário do Catete",
       "cnpj_orgao": "",
-      "municipio": "Coité do Nóia",
-      "uf": "AL",
+      "municipio": "Rosário do Catete",
+      "uf": "SE",
       "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
       "data_publicacao": "2026-09-21",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-09-21/2b2ef641562c6d7794cd279080dc4c49787c2b55.pdf",
+      "link": "https://data.queridodiario.ok.org.br/2806107/2026-09-21/3aedaf83fbe76a0d10be016e6db71a35b851befb.pdf",
       "link_origem": "",
-      "score": 52,
+      "score": 12,
       "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "Nº 1228 PREFEITURA MUNICIPAL DE ROSARIO DO CATETE\n\nDIÁRIO OFICIAL DO MUNICÍPIO\n\nEXTRATO\n\nPC DR CLODOALDO PASSOS CEP: 49.760-000\nTELEFONE: (79)32741-672\nEMAIL: gabinete@rosariodocatete.se.gov.br\n\nDIÁRIO OFICIAL DO MUNICÍPIO\n\nESTADO DE SERGIPE\nMUNICIPIO DE ROSÁRIO DO CATETE\n\nExrRAro Do coNTRAro 1.3 597ZOZO-PUnC\n\nOBJETO: Contratação de serviço de show Musical Fábio Nunes, a ser realizado no dia 31 de outubro de\n\n2026, com duração de 01h20min, em comemoração ao Dia do Evangelico no Município de\nRosário do Catete,\n\nVALOR GLOBAL: R$ 25.000,00 (vinte e cinco mil reais)\n\nFUNDAMENTAçÂO teeat: A LEI No ,4.L33/2O2L, ART.74, II\n\nRosário d o eatete /sE, de setembro d a2\n\nNDE\nPREFEITO MUNI\n\nNIO CESAR CORREIA Recebi os autos do processo de Inexigibilidade de Licitação n. 6L/2O26\ne, após revisá-lo, decido por sua RATIFICAÇÃO. Por meio deste ato, HOMOLOGO o\npresente processo licitatório e determino seu registro e publicação, conforme\nlegislação pertinente.\n\nEMPRESA CONTRATADA: MAX PRODUçÕES E EVENTOS LTDA\n\nOBJETO: Contratação de prestação de serviços com show Musical Fábio Nunes\", a\n\nser realizado no dia 31 de outubrol de 2026, com duração de 01h20min, em\ncomemoração ao Dia do Evangelico no Município de Rosário do Catete.\n\nVALOR GLOBAL: R$ 25.OOO.OO (vinte e cinco mil reais)\n\nRosário do Catete/SE, 21 de setem de 2026\n\no\nNIO CESAR CO RRE DINl DE RESEN DE\n\nPREFE UNICIP\n\n\n",
+      "uid": "e1640bbc5a57c475"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18299529000113-1-000023/2026",
+      "titulo": "Edital de Chamamento Público nº 009/2026",
+      "objeto": "Credenciamento de artistas locais para eventual e futura contratação para apresentações de estilos variados (como forró, sertanejo, entre outros), a serem realizadas em diversas localidades do Município de Ferros/MG (Sede, Distritos e Comunidades Rurais), conforme demanda da Secretaria Municipal de Cultura, conforme discriminado no Anexo I que é parte integrante do presente edital.",
+      "orgao": "MUNICIPIO DE FERROS",
+      "cnpj_orgao": "18299529000113",
+      "municipio": "Ferros",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-22T10:51:13.719359421",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T23:59:59",
+      "link": "https://pncp.gov.br/compras/18299529000113/2026/23",
+      "link_origem": "",
+      "score": 51,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "bb7ad03df5e95854"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3525300/2026-09-21/39a3a9c4f2e646a177f79feaea9e4edbb628b5b5.txt",
+      "titulo": "DOM Jaú/SP 2026-09-21",
+      "objeto": "ou no\nsite  www.jau.sp.gov.br/l icitacoes  –  GRATUITO  –\nINFORMAÇÕES: fone (14) 3602-1718 ou (14) 3602-1804 das\n08:00 às 17:00 horas.\n\nJahu, 21 de setembro de 2026.\nNELSON RICARDO SANCHES\nSECRETÁRIO DE ECONOMIA E FINANÇAS\n\nEXTRATO DE CONTRATO\nProcesso 0300000001/2025-PG-3\nINEXIGIBILLIDADE  Nº  023/2025  Chamamento  nº\n\n001/2025\nObjeto: CREDENCIAMENTO DE ARTISTAS RESIDENTES\n\nOU NÃO EM JAHU, ORGANIZADOS NA FORMA DE PESSOAS\nJURÍDICAS,  PESSOAS  FÍSICAS  OU  MICROEMPREENDEDOR\nINDIVIDUAL PARA APRESENTAÇÕES MUSICAIS EM EVENTOS\nCULTURAIS  PÚBLICOS,  PROMOVIDOS  PELA  PREFEITURA\nMUNICIPAL  DE  JAHU,  ATRAVÉS  DA  SECRETARIA  DE\nCULTURA  E  TURISMO\n\nContrato n.º 297/2026 – RACHEL SETTE RODRIGUES,\nCNPJ",
+      "orgao": "Jaú",
+      "cnpj_orgao": "",
+      "municipio": "Jaú",
+      "uf": "SP",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-21",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3525300/2026-09-21/39a3a9c4f2e646a177f79feaea9e4edbb628b5b5.pdf",
+      "link_origem": "",
+      "score": 28,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
           "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "ou no\nsite  www.jau.sp.gov.br/l icitacoes  –  GRATUITO  –\nINFORMAÇÕES: fone (14) 3602-1718 ou (14) 3602-1804 das\n08:00 às 17:00 horas.\n\nJahu, 21 de setembro de 2026.\nNELSON RICARDO SANCHES\nSECRETÁRIO DE ECONOMIA E FINANÇAS\n\nEXTRATO DE CONTRATO\nProcesso 0300000001/2025-PG-3\nINEXIGIBILLIDADE  Nº  023/2025  Chamamento  nº\n\n001/2025\nObjeto: CREDENCIAMENTO DE ARTISTAS RESIDENTES\n\nOU NÃO EM JAHU, ORGANIZADOS NA FORMA DE PESSOAS\nJURÍDICAS,  PESSOAS  FÍSICAS  OU  MICROEMPREENDEDOR\nINDIVIDUAL PARA APRESENTAÇÕES MUSICAIS EM EVENTOS\nCULTURAIS  PÚBLICOS,  PROMOVIDOS  PELA  PREFEITURA\nMUNICIPAL  DE  JAHU,  ATRAVÉS  DA  SECRETARIA  DE\nCULTURA  E  TURISMO\n\nContrato n.º 297/2026 – RACHEL SETTE RODRIGUES,\nCNPJ",
+      "uid": "76c1370e59c3c5dd"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3170800/2026-09-21/f5f48a4da489f73c4f0770f126331978afb45981.txt",
+      "titulo": "DOM Várzea da Palma/MG 2026-09-21",
+      "objeto": "DE MORAES – DISTRITO DE GUAICUÍ DURANTE A REALIZAÇÃO\nDAS FESTIVIDADES DA FESTA DO PESCADOR 2026 DE ACORDO COM A SOLICITAÇÃO DA SECRETARIA MUNICIPAL DE\nCOMUNICAÇÃO E EVENTOS.\n\n7.000,0060.815.113 CLEUDIANO LOPES SANGUINETTEFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\n60.815.113 CLEUDIANO LOPES SANGUINETTE 7.000,00\n\nSHOW MUSICAL DO CANTOR CLEUD LOPES A\nSER REALIZADO NO DIA 25/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H00MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n7.000,007.000,00001,00001 SHOW\n\nSegunda-feira, 21 de Setembro de 2026 Edição Nº 541 Página 2\n\n3\n\n\n\nPágina 1 de 1\n\nProcesso: FESTIVIDADES DA FESTA DO PESCADOR 2026, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, NO HORÁRIO DE 21H00MIN DE ACORDO COM A SOLICITAÇÃO DA SECRETARIA MUNICIPAL\nDE COMUNICAÇÃO E EVENTOS.\n\n8.000,0059.627.035 JOAO PEDRO SOUSA ELIASFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\n59.627.035 JOAO PEDRO SOUSA ELIAS 8.000,00\n\nSHOW MUSICAL DO CANTOR PEDRO VENUTO\nA SER REALIZADO NO DIA 27/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H45MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n8.000,008.000,00001,00001 SHOW\n\nSegunda-feira, 21 de Setembro de 2026 Edição Nº 541 Página 3\n\n3\n\n\n\t\t2026-09-21T12:31:46-0300",
+      "orgao": "Várzea da Palma",
+      "cnpj_orgao": "",
+      "municipio": "Várzea da Palma",
+      "uf": "MG",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-21",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3170800/2026-09-21/f5f48a4da489f73c4f0770f126331978afb45981.pdf",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
         ],
         "B": [
           "\\bfestividade(s)?\\b"
@@ -37,135 +134,8 @@
         "C": [],
         "NEG": []
       },
-      "trecho": "DE ADMINISTRAÇÃO E \n\nFINANÇAS \n\nEXTRATO DE CONTRATO \n\n \n\nOBJETO: Contratação de show artístico de Wellington Teixeira \n\n\"WT\", representada pela empresa WELLINGTON TEIXEIRA DA \n\nSILVA (WTC PRODUCOES), inscrita no CNPJ/MF sob nº \n\n44.712.591/0001–03, artista consagrado pela opinião pública da \n\nregião, para realização de apresentação artística (show musical) nas \n\nfestividades de Emancipação Política do Município de Coité do \n\nNóia/AL, com duração de 2 (duas) horas, a ser realizado em 21 de \n\nsetembro de 2026, na Praça Municipal. FUNDAMENTO LEGAL: \n\nInexigibilidade de Licitação nº IN00018/2026, nos termos do Art. 74, \n\ninciso II, da Lei 14.133/21. DOTAÇÃO: Recursos não Vinculados de \n\nImpostos:",
-      "uid": "9d223ad357054af7"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "17380667000160-1-000012/2026",
-      "titulo": "Aviso de Contratação Direta nº 8/2026",
-      "objeto": "Dispensa de Licitação Eletrônica visando a Contratação de empresa especializada para prestação de serviços de consultoria e assessoria técnica cultural destinados à execução da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB 2026 no Município de Correia Pinto/SC, compreendendo planejamento e orientação técnica à equipe da Fundação Municipal de Esporte e Cultura – FMEC, elaboração de 01 (um) edital de fomento cultural e respectivos instrumentos, orientação aos agentes culturais, disponibilização de pareceristas externos especializados, avaliação de mérito cultural dos projetos inscritos, emissão de pareceres técnicos, elaboração de relatório consolidado das avaliações e apoio técnico durante as etapas de seleção e divulgação dos resultados, conforme as condições, quantidades e exigências estabelecidas Aviso de Contratação Direta e seus anexos, em conformidade com o artigo 75, inciso II da Lei 14.133/21.",
-      "orgao": "FUNDACAO MUNICIPAL DE ESPORTES E CULTURA DE CORREIA PINTO",
-      "cnpj_orgao": "17380667000160",
-      "municipio": "Correia Pinto",
-      "uf": "SC",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-21T15:17:05.863204873",
-      "data_abertura": "",
-      "data_limite": "2026-09-25T15:01",
-      "link": "https://pncp.gov.br/compras/17380667000160/2026/12",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "FOMENTO_CULTURAL",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "d03874a8c1418edf"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2919553/2026-09-21/a516b581c5342509c59d336dc19621099b91fd34.txt",
-      "titulo": "DOM Luís Eduardo Magalhães/BA 2026-09-21",
-      "objeto": "MAGALHÃES/BA \n\nCNPJ: 04.214.419/0001-05 \n\nCONTRATADO: CRIATIVE MUSIC LTDA \n\nCNPJ: 08.648.622/0001-32 \n\nOBJETO DO CONTRATO: Contratação de empresa especializada em produção para \n\napresentação artística em show musical da BANDA 3 PALAVRINHAS durante a realização do \n\nevento evangélico \"AVIVA LEM\", no Município de Luís Eduardo Magalhães/BA, no dia 02 de \n\nagosto de 2026, conforme solicitação da Secretaria Municipal de Cultura e Esportes. \n\nOBJETO DO TERMO ADITIVO: Supressão no tempo de duração do show musical, bem como a \n\nsupressão do valor contratual, com fundamento no art. 124, inciso II, da Lei nº 14.133/21. \n\nLuís Eduardo Magalhães/BA, 05 de agosto de 2026 - Ondumar Ferreira Borges Junior. - Prefeito",
-      "orgao": "Luís Eduardo Magalhães",
-      "cnpj_orgao": "",
-      "municipio": "Luís Eduardo Magalhães",
-      "uf": "BA",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-21",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2919553/2026-09-21/a516b581c5342509c59d336dc19621099b91fd34.pdf",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "MAGALHÃES/BA \n\nCNPJ: 04.214.419/0001-05 \n\nCONTRATADO: CRIATIVE MUSIC LTDA \n\nCNPJ: 08.648.622/0001-32 \n\nOBJETO DO CONTRATO: Contratação de empresa especializada em produção para \n\napresentação artística em show musical da BANDA 3 PALAVRINHAS durante a realização do \n\nevento evangélico \"AVIVA LEM\", no Município de Luís Eduardo Magalhães/BA, no dia 02 de \n\nagosto de 2026, conforme solicitação da Secretaria Municipal de Cultura e Esportes. \n\nOBJETO DO TERMO ADITIVO: Supressão no tempo de duração do show musical, bem como a \n\nsupressão do valor contratual, com fundamento no art. 124, inciso II, da Lei nº 14.133/21. \n\nLuís Eduardo Magalhães/BA, 05 de agosto de 2026 - Ondumar Ferreira Borges Junior. - Prefeito",
-      "uid": "05fca6b0276d7d2b"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "14667287000112-1-000049/2026",
-      "titulo": "Aviso de Contratação Direta nº (7062) | 5960-0/2026",
-      "objeto": "Contratação de empresa ou profissional para realização de apresentação musical de pequeno porte, destinada à programação comemorativa dos 16 anos do Projeto Divas Dance, promovido pela Secretaria Municipal de Assistência Social, a ser realizada no dia 30 de setembro de 2026, às 19h, no Clube dos Trabalhadores, no Município de Buriti Alegre/GO.",
-      "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE BURITI ALEGRE",
-      "cnpj_orgao": "14667287000112",
-      "municipio": "Buriti Alegre",
-      "uf": "GO",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-21T16:11:36.569239349",
-      "data_abertura": "",
-      "data_limite": "2026-09-24T23:59",
-      "link": "https://pncp.gov.br/compras/14667287000112/2026/49",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "50b15711b245016c"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "41522293000154-1-000015/2026",
-      "titulo": "Aviso de Contratação Direta nº 005/2026",
-      "objeto": "[Portal de Compras Públicas] - Contratação de profissional especializado para a execução de projeto socioeducativo-cultural destinado à formação de banda musical e ao ensino de flauta doce e violão no município de Caldeirão Grande do Piauí – PI.",
-      "orgao": "MUNICIPIO DE CALDEIRAO GRANDE DO PIAUI",
-      "cnpj_orgao": "41522293000154",
-      "municipio": "Caldeirão Grande do Piauí",
-      "uf": "PI",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-21T13:53:39.756217",
-      "data_abertura": "",
-      "data_limite": "2026-09-25T08:00",
-      "link": "https://pncp.gov.br/compras/41522293000154/2026/15",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "bac57529374db154"
+      "trecho": "DE MORAES – DISTRITO DE GUAICUÍ DURANTE A REALIZAÇÃO\nDAS FESTIVIDADES DA FESTA DO PESCADOR 2026 DE ACORDO COM A SOLICITAÇÃO DA SECRETARIA MUNICIPAL DE\nCOMUNICAÇÃO E EVENTOS.\n\n7.000,0060.815.113 CLEUDIANO LOPES SANGUINETTEFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\n60.815.113 CLEUDIANO LOPES SANGUINETTE 7.000,00\n\nSHOW MUSICAL DO CANTOR CLEUD LOPES A\nSER REALIZADO NO DIA 25/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H00MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n7.000,007.000,00001,00001 SHOW\n\nSegunda-feira, 21 de Setembro de 2026 Edição Nº 541 Página 2\n\n3\n\n\n\nPágina 1 de 1\n\nProcesso: FESTIVIDADES DA FESTA DO PESCADOR 2026, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, NO HORÁRIO DE 21H00MIN DE ACORDO COM A SOLICITAÇÃO DA SECRETARIA MUNICIPAL\nDE COMUNICAÇÃO E EVENTOS.\n\n8.000,0059.627.035 JOAO PEDRO SOUSA ELIASFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\n59.627.035 JOAO PEDRO SOUSA ELIAS 8.000,00\n\nSHOW MUSICAL DO CANTOR PEDRO VENUTO\nA SER REALIZADO NO DIA 27/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H45MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n8.000,008.000,00001,00001 SHOW\n\nSegunda-feira, 21 de Setembro de 2026 Edição Nº 541 Página 3\n\n3\n\n\n\t\t2026-09-21T12:31:46-0300",
+      "uid": "62b63368c42e614e"
     }
   ]
 }
