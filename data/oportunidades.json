@@ -1,141 +1,41 @@
 {
-  "gerado_em": "2026-09-22T15:20:44",
-  "total_brutos": 300,
-  "total_aprovados": 177,
-  "total_novos": 4,
+  "gerado_em": "2026-09-22T23:39:12",
+  "total_brutos": 125,
+  "total_aprovados": 51,
+  "total_novos": 1,
   "oportunidades": [
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2806107/2026-09-21/3aedaf83fbe76a0d10be016e6db71a35b851befb.txt",
-      "titulo": "DOM Rosário do Catete/SE 2026-09-21",
-      "objeto": "Nº 1228 PREFEITURA MUNICIPAL DE ROSARIO DO CATETE\n\nDIÁRIO OFICIAL DO MUNICÍPIO\n\nEXTRATO\n\nPC DR CLODOALDO PASSOS CEP: 49.760-000\nTELEFONE: (79)32741-672\nEMAIL: gabinete@rosariodocatete.se.gov.br\n\nDIÁRIO OFICIAL DO MUNICÍPIO\n\nESTADO DE SERGIPE\nMUNICIPIO DE ROSÁRIO DO CATETE\n\nExrRAro Do coNTRAro 1.3 597ZOZO-PUnC\n\nOBJETO: Contratação de serviço de show Musical Fábio Nunes, a ser realizado no dia 31 de outubro de\n\n2026, com duração de 01h20min, em comemoração ao Dia do Evangelico no Município de\nRosário do Catete,\n\nVALOR GLOBAL: R$ 25.000,00 (vinte e cinco mil reais)\n\nFUNDAMENTAçÂO teeat: A LEI No ,4.L33/2O2L, ART.74, II\n\nRosário d o eatete /sE, de setembro d a2\n\nNDE\nPREFEITO MUNI\n\nNIO CESAR CORREIA Recebi os autos do processo de Inexigibilidade de Licitação n. 6L/2O26\ne, após revisá-lo, decido por sua RATIFICAÇÃO. Por meio deste ato, HOMOLOGO o\npresente processo licitatório e determino seu registro e publicação, conforme\nlegislação pertinente.\n\nEMPRESA CONTRATADA: MAX PRODUçÕES E EVENTOS LTDA\n\nOBJETO: Contratação de prestação de serviços com show Musical Fábio Nunes\", a\n\nser realizado no dia 31 de outubrol de 2026, com duração de 01h20min, em\ncomemoração ao Dia do Evangelico no Município de Rosário do Catete.\n\nVALOR GLOBAL: R$ 25.OOO.OO (vinte e cinco mil reais)\n\nRosário do Catete/SE, 21 de setem de 2026\n\no\nNIO CESAR CO RRE DINl DE RESEN DE\n\nPREFE UNICIP\n\n\n",
-      "orgao": "Rosário do Catete",
-      "cnpj_orgao": "",
-      "municipio": "Rosário do Catete",
-      "uf": "SE",
-      "modalidade": "",
+      "fonte": "pncp_search",
+      "id_externo": "78121985000109-1-000110/2026",
+      "titulo": "Edital nº 17/2026",
+      "objeto": "AQUISIÇÃO DE CLIMATIZADORES EVAPORATIVOS E SISTEMA DE SONORIZAÇÃO DESTINADOS AO CENTRO CULTURAL DO MUNICÍPIO DE BOA VISTA DA APARECIDA/PR, EM ATENDIMENTO AO PLANO DE APLICAÇÃO DE RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB.",
+      "orgao": "MUNICIPIO DE BOA VISTA DA APARECIDA",
+      "cnpj_orgao": "78121985000109",
+      "municipio": "Boa Vista da Aparecida",
+      "uf": "PR",
+      "modalidade": "Pregão - Eletrônico",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-21",
+      "data_publicacao": "2026-09-22T10:20:25.826707",
       "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2806107/2026-09-21/3aedaf83fbe76a0d10be016e6db71a35b851befb.pdf",
+      "data_limite": "2026-10-06T09:00",
+      "link": "https://pncp.gov.br/compras/78121985000109/2026/110",
       "link_origem": "",
-      "score": 12,
-      "categoria": "INEXIGIBILIDADE_ART74",
+      "score": 27,
+      "categoria": "FOMENTO_CULTURAL",
       "genero_alvo": false,
       "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "Nº 1228 PREFEITURA MUNICIPAL DE ROSARIO DO CATETE\n\nDIÁRIO OFICIAL DO MUNICÍPIO\n\nEXTRATO\n\nPC DR CLODOALDO PASSOS CEP: 49.760-000\nTELEFONE: (79)32741-672\nEMAIL: gabinete@rosariodocatete.se.gov.br\n\nDIÁRIO OFICIAL DO MUNICÍPIO\n\nESTADO DE SERGIPE\nMUNICIPIO DE ROSÁRIO DO CATETE\n\nExrRAro Do coNTRAro 1.3 597ZOZO-PUnC\n\nOBJETO: Contratação de serviço de show Musical Fábio Nunes, a ser realizado no dia 31 de outubro de\n\n2026, com duração de 01h20min, em comemoração ao Dia do Evangelico no Município de\nRosário do Catete,\n\nVALOR GLOBAL: R$ 25.000,00 (vinte e cinco mil reais)\n\nFUNDAMENTAçÂO teeat: A LEI No ,4.L33/2O2L, ART.74, II\n\nRosário d o eatete /sE, de setembro d a2\n\nNDE\nPREFEITO MUNI\n\nNIO CESAR CORREIA Recebi os autos do processo de Inexigibilidade de Licitação n. 6L/2O26\ne, após revisá-lo, decido por sua RATIFICAÇÃO. Por meio deste ato, HOMOLOGO o\npresente processo licitatório e determino seu registro e publicação, conforme\nlegislação pertinente.\n\nEMPRESA CONTRATADA: MAX PRODUçÕES E EVENTOS LTDA\n\nOBJETO: Contratação de prestação de serviços com show Musical Fábio Nunes\", a\n\nser realizado no dia 31 de outubrol de 2026, com duração de 01h20min, em\ncomemoração ao Dia do Evangelico no Município de Rosário do Catete.\n\nVALOR GLOBAL: R$ 25.OOO.OO (vinte e cinco mil reais)\n\nRosário do Catete/SE, 21 de setem de 2026\n\no\nNIO CESAR CO RRE DINl DE RESEN DE\n\nPREFE UNICIP\n\n\n",
-      "uid": "e1640bbc5a57c475"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "18299529000113-1-000023/2026",
-      "titulo": "Edital de Chamamento Público nº 009/2026",
-      "objeto": "Credenciamento de artistas locais para eventual e futura contratação para apresentações de estilos variados (como forró, sertanejo, entre outros), a serem realizadas em diversas localidades do Município de Ferros/MG (Sede, Distritos e Comunidades Rurais), conforme demanda da Secretaria Municipal de Cultura, conforme discriminado no Anexo I que é parte integrante do presente edital.",
-      "orgao": "MUNICIPIO DE FERROS",
-      "cnpj_orgao": "18299529000113",
-      "municipio": "Ferros",
-      "uf": "MG",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-22T10:51:13.719359421",
-      "data_abertura": "",
-      "data_limite": "2026-12-31T23:59:59",
-      "link": "https://pncp.gov.br/compras/18299529000113/2026/23",
-      "link_origem": "",
-      "score": 51,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": true,
-      "hits": {
-        "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)",
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
-        ],
+        "A": [],
         "B": [],
         "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
         ],
         "NEG": []
       },
       "trecho": "",
-      "uid": "bb7ad03df5e95854"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3525300/2026-09-21/39a3a9c4f2e646a177f79feaea9e4edbb628b5b5.txt",
-      "titulo": "DOM Jaú/SP 2026-09-21",
-      "objeto": "ou no\nsite  www.jau.sp.gov.br/l icitacoes  –  GRATUITO  –\nINFORMAÇÕES: fone (14) 3602-1718 ou (14) 3602-1804 das\n08:00 às 17:00 horas.\n\nJahu, 21 de setembro de 2026.\nNELSON RICARDO SANCHES\nSECRETÁRIO DE ECONOMIA E FINANÇAS\n\nEXTRATO DE CONTRATO\nProcesso 0300000001/2025-PG-3\nINEXIGIBILLIDADE  Nº  023/2025  Chamamento  nº\n\n001/2025\nObjeto: CREDENCIAMENTO DE ARTISTAS RESIDENTES\n\nOU NÃO EM JAHU, ORGANIZADOS NA FORMA DE PESSOAS\nJURÍDICAS,  PESSOAS  FÍSICAS  OU  MICROEMPREENDEDOR\nINDIVIDUAL PARA APRESENTAÇÕES MUSICAIS EM EVENTOS\nCULTURAIS  PÚBLICOS,  PROMOVIDOS  PELA  PREFEITURA\nMUNICIPAL  DE  JAHU,  ATRAVÉS  DA  SECRETARIA  DE\nCULTURA  E  TURISMO\n\nContrato n.º 297/2026 – RACHEL SETTE RODRIGUES,\nCNPJ",
-      "orgao": "Jaú",
-      "cnpj_orgao": "",
-      "municipio": "Jaú",
-      "uf": "SP",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-21",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3525300/2026-09-21/39a3a9c4f2e646a177f79feaea9e4edbb628b5b5.pdf",
-      "link_origem": "",
-      "score": 28,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
-        ],
-        "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "ou no\nsite  www.jau.sp.gov.br/l icitacoes  –  GRATUITO  –\nINFORMAÇÕES: fone (14) 3602-1718 ou (14) 3602-1804 das\n08:00 às 17:00 horas.\n\nJahu, 21 de setembro de 2026.\nNELSON RICARDO SANCHES\nSECRETÁRIO DE ECONOMIA E FINANÇAS\n\nEXTRATO DE CONTRATO\nProcesso 0300000001/2025-PG-3\nINEXIGIBILLIDADE  Nº  023/2025  Chamamento  nº\n\n001/2025\nObjeto: CREDENCIAMENTO DE ARTISTAS RESIDENTES\n\nOU NÃO EM JAHU, ORGANIZADOS NA FORMA DE PESSOAS\nJURÍDICAS,  PESSOAS  FÍSICAS  OU  MICROEMPREENDEDOR\nINDIVIDUAL PARA APRESENTAÇÕES MUSICAIS EM EVENTOS\nCULTURAIS  PÚBLICOS,  PROMOVIDOS  PELA  PREFEITURA\nMUNICIPAL  DE  JAHU,  ATRAVÉS  DA  SECRETARIA  DE\nCULTURA  E  TURISMO\n\nContrato n.º 297/2026 – RACHEL SETTE RODRIGUES,\nCNPJ",
-      "uid": "76c1370e59c3c5dd"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3170800/2026-09-21/f5f48a4da489f73c4f0770f126331978afb45981.txt",
-      "titulo": "DOM Várzea da Palma/MG 2026-09-21",
-      "objeto": "DE MORAES – DISTRITO DE GUAICUÍ DURANTE A REALIZAÇÃO\nDAS FESTIVIDADES DA FESTA DO PESCADOR 2026 DE ACORDO COM A SOLICITAÇÃO DA SECRETARIA MUNICIPAL DE\nCOMUNICAÇÃO E EVENTOS.\n\n7.000,0060.815.113 CLEUDIANO LOPES SANGUINETTEFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\n60.815.113 CLEUDIANO LOPES SANGUINETTE 7.000,00\n\nSHOW MUSICAL DO CANTOR CLEUD LOPES A\nSER REALIZADO NO DIA 25/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H00MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n7.000,007.000,00001,00001 SHOW\n\nSegunda-feira, 21 de Setembro de 2026 Edição Nº 541 Página 2\n\n3\n\n\n\nPágina 1 de 1\n\nProcesso: FESTIVIDADES DA FESTA DO PESCADOR 2026, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, NO HORÁRIO DE 21H00MIN DE ACORDO COM A SOLICITAÇÃO DA SECRETARIA MUNICIPAL\nDE COMUNICAÇÃO E EVENTOS.\n\n8.000,0059.627.035 JOAO PEDRO SOUSA ELIASFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\n59.627.035 JOAO PEDRO SOUSA ELIAS 8.000,00\n\nSHOW MUSICAL DO CANTOR PEDRO VENUTO\nA SER REALIZADO NO DIA 27/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H45MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n8.000,008.000,00001,00001 SHOW\n\nSegunda-feira, 21 de Setembro de 2026 Edição Nº 541 Página 3\n\n3\n\n\n\t\t2026-09-21T12:31:46-0300",
-      "orgao": "Várzea da Palma",
-      "cnpj_orgao": "",
-      "municipio": "Várzea da Palma",
-      "uf": "MG",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-21",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3170800/2026-09-21/f5f48a4da489f73c4f0770f126331978afb45981.pdf",
-      "link_origem": "",
-      "score": 16,
-      "categoria": "EVENTO_MUNICIPAL",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
-        ],
-        "B": [
-          "\\bfestividade(s)?\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "DE MORAES – DISTRITO DE GUAICUÍ DURANTE A REALIZAÇÃO\nDAS FESTIVIDADES DA FESTA DO PESCADOR 2026 DE ACORDO COM A SOLICITAÇÃO DA SECRETARIA MUNICIPAL DE\nCOMUNICAÇÃO E EVENTOS.\n\n7.000,0060.815.113 CLEUDIANO LOPES SANGUINETTEFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\n60.815.113 CLEUDIANO LOPES SANGUINETTE 7.000,00\n\nSHOW MUSICAL DO CANTOR CLEUD LOPES A\nSER REALIZADO NO DIA 25/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H00MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n7.000,007.000,00001,00001 SHOW\n\nSegunda-feira, 21 de Setembro de 2026 Edição Nº 541 Página 2\n\n3\n\n\n\nPágina 1 de 1\n\nProcesso: FESTIVIDADES DA FESTA DO PESCADOR 2026, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, NO HORÁRIO DE 21H00MIN DE ACORDO COM A SOLICITAÇÃO DA SECRETARIA MUNICIPAL\nDE COMUNICAÇÃO E EVENTOS.\n\n8.000,0059.627.035 JOAO PEDRO SOUSA ELIASFornecedores:\n\nProduto Qtde Valor Sub TotalItem Unidade Marca\n\nHOMOLOGADO\n59.627.035 JOAO PEDRO SOUSA ELIAS 8.000,00\n\nSHOW MUSICAL DO CANTOR PEDRO VENUTO\nA SER REALIZADO NO DIA 27/09/2026, COM\nDURAÇÃO MÍNIMA DE 1H45MIN, E INÍCIO\nPREVISTO ÀS 21H00MIN, NA AVENIDA LINO DE\nMORAES NO DISTRITO DE GUAICUÍ, DURANTE\nAS FESTIVIDADES DA FESTA DO PESCADOR\n2026.\n\n8.000,008.000,00001,00001 SHOW\n\nSegunda-feira, 21 de Setembro de 2026 Edição Nº 541 Página 3\n\n3\n\n\n\t\t2026-09-21T12:31:46-0300",
-      "uid": "62b63368c42e614e"
+      "uid": "ae5d443de5cbf686"
     }
   ]
 }
