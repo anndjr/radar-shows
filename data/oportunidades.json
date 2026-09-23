@@ -1,14 +1,111 @@
 {
-  "gerado_em": "2026-09-22T23:39:12",
-  "total_brutos": 125,
-  "total_aprovados": 51,
-  "total_novos": 1,
+  "gerado_em": "2026-09-23T15:16:18",
+  "total_brutos": 450,
+  "total_aprovados": 207,
+  "total_novos": 6,
   "oportunidades": [
     {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/4104204/2026-09-22/59242febfc8027af62eaa077232f61a509449482.txt",
+      "titulo": "DOM Campo Largo/PR 2026-09-22",
+      "objeto": "Largo da garantia da autenticidade deste \n\ndocumento, desde que visualizado através de \nhttp://www.campolargo.pr.gov.brno link Diário Oficial. \n\nEXTRATO CONTRATUAL \n \n\n \n\nCONTRATO Nº 295/2026      (Inexigibilidade de Licitação n. 249/2026) \n\nCONTRATANTE: MUNICÍPIO DE CAMPO LARGO \n\nCONTRATADO: MAKINADA LTDA \n\nOBJETO DO ADITIVO: \n\nContratação de show musical, formado por músicos \nresidentes em Campo Largo, para apresentação durante o evento \nda 4ª FESTA DA PRIMAVERA, organizado pelo Município de \nCampo Largo, nas datas 26 e 27 de setembro de 2026 \n\nVALOR TOTAL: R$8.000,00 (oito mil reais). \n\nPRAZO DE VIGENCIA: \n30 (trinta) dias contados do ato de publicação do Extrato \ndo Contrato em Diário Oficial",
+      "orgao": "Campo Largo",
+      "cnpj_orgao": "",
+      "municipio": "Campo Largo",
+      "uf": "PR",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-22",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/4104204/2026-09-22/59242febfc8027af62eaa077232f61a509449482.pdf",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "Largo da garantia da autenticidade deste \n\ndocumento, desde que visualizado através de \nhttp://www.campolargo.pr.gov.brno link Diário Oficial. \n\nEXTRATO CONTRATUAL \n \n\n \n\nCONTRATO Nº 295/2026      (Inexigibilidade de Licitação n. 249/2026) \n\nCONTRATANTE: MUNICÍPIO DE CAMPO LARGO \n\nCONTRATADO: MAKINADA LTDA \n\nOBJETO DO ADITIVO: \n\nContratação de show musical, formado por músicos \nresidentes em Campo Largo, para apresentação durante o evento \nda 4ª FESTA DA PRIMAVERA, organizado pelo Município de \nCampo Largo, nas datas 26 e 27 de setembro de 2026 \n\nVALOR TOTAL: R$8.000,00 (oito mil reais). \n\nPRAZO DE VIGENCIA: \n30 (trinta) dias contados do ato de publicação do Extrato \ndo Contrato em Diário Oficial",
+      "uid": "a1d47ee8f3a2603c"
+    },
+    {
       "fonte": "pncp_search",
-      "id_externo": "78121985000109-1-000110/2026",
-      "titulo": "Edital nº 17/2026",
-      "objeto": "AQUISIÇÃO DE CLIMATIZADORES EVAPORATIVOS E SISTEMA DE SONORIZAÇÃO DESTINADOS AO CENTRO CULTURAL DO MUNICÍPIO DE BOA VISTA DA APARECIDA/PR, EM ATENDIMENTO AO PLANO DE APLICAÇÃO DE RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB.",
+      "id_externo": "17900473000148-1-000099/2025",
+      "titulo": "Edital de Chamamento Público nº 06/2025",
+      "objeto": "CREDENCIAMENTO DE PESSOAS FÍSICAS E/OU JURÍDICAS PARA PRESTAÇÃO DE SERVIÇOS DE SHOWS MUSICAIS DE ARTISTAS LOCAIS E REGIONAIS, ALÉM DE APOIO TÉCNICO PARA ATENDER ÀS NECESSIDADES DA SECRETARIA DE CULTURA E TURISMO DE GUARANÉSIA EM EVENTOS CULTURAIS. ",
+      "orgao": "MUNICIPIO DE GUARANESIA",
+      "cnpj_orgao": "17900473000148",
+      "municipio": "Guaranésia",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2025-08-01T16:03:39.709749",
+      "data_abertura": "",
+      "data_limite": "2027-08-15T23:59:59",
+      "link": "https://pncp.gov.br/compras/17900473000148/2025/99",
+      "link_origem": "",
+      "score": 28,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "700806a468ec4a7e"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "37565199000105-1-000003/2026",
+      "titulo": "Edital de Chamamento Público nº 26/2026",
+      "objeto": "Abertura de chamamento público para o credenciamento de pessoas jurídicas, residentes e atuantes no Município de Nova Alvorada do Sul/MS quanto de outras regiões, para a realização de Apresentações Musicais, com repertório tradicional de Mato Grosso do Sul (Chamamé, Rasqueado, Vaneira e Polca Paraguaia) em atendimento ao Centro de Convivência do Idoso com vigência de 12 (doze) meses.",
+      "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL - FMAS",
+      "cnpj_orgao": "37565199000105",
+      "municipio": "Nova Alvorada do Sul",
+      "uf": "MS",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-23T09:14:43.186479132",
+      "data_abertura": "",
+      "data_limite": "2026-09-23T13:00",
+      "link": "https://pncp.gov.br/compras/37565199000105/2026/3",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c0f6544899655edc"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "78121985000109-1-000111/2026",
+      "titulo": "Edital nº 33/2026",
+      "objeto": "AQUISIÇÃO DE CLIMATIZADORES EVAPORATIVOS E SISTEMA DE SONORIZAÇÃO DESTINADOS AO CENTRO CULTURAL DO MUNICÍPIO DE BOA VISTA DA APARECIDA/PR, EM ATENDIMENTO AO PLANO DE APLICAÇÃO DE RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA - PNAB.",
       "orgao": "MUNICIPIO DE BOA VISTA DA APARECIDA",
       "cnpj_orgao": "78121985000109",
       "municipio": "Boa Vista da Aparecida",
@@ -16,10 +113,10 @@
       "modalidade": "Pregão - Eletrônico",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-22T10:20:25.826707",
+      "data_publicacao": "2026-09-23T08:15:52.861903023",
       "data_abertura": "",
-      "data_limite": "2026-10-06T09:00",
-      "link": "https://pncp.gov.br/compras/78121985000109/2026/110",
+      "data_limite": "2026-10-06T08:59",
+      "link": "https://pncp.gov.br/compras/78121985000109/2026/111",
       "link_origem": "",
       "score": 27,
       "categoria": "FOMENTO_CULTURAL",
@@ -35,7 +132,69 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "ae5d443de5cbf686"
+      "uid": "13a3feba50c7fb29"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "08204497000171-1-000101/2026",
+      "titulo": "Edital nº 29/2026",
+      "objeto": "[Portal de Compras Públicas] - Contratação de apresentação artística do show infantil e seus personagens couvert e performance de dança infantil para datas comemorativas conforme calendário anual no município de Extremoz/RN.",
+      "orgao": "MUNICIPIO DE EXTREMOZ",
+      "cnpj_orgao": "08204497000171",
+      "municipio": "Extremoz",
+      "uf": "RN",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-22T11:21:21.078347",
+      "data_abertura": "",
+      "data_limite": "2026-10-07T09:00",
+      "link": "https://pncp.gov.br/compras/08204497000171/2026/101",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "cee12a7ce54f4a08"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "00489828000155-1-000533/2026",
+      "titulo": "Aviso de Contratação Direta nº 66/2026",
+      "objeto": "Contratação de empresa especializada para a prestação de serviços necessários à execução do Evento de Premiação de Reconhecimento Profissional ColaboraGov 2026, a ser realizado no Edifício Sede do Ministério da Gestão e Inovação em Serviços Públicos, no dia 29/10/2026, as 14h. Atendimento de 180 pessoas, incluindo alimentos, bebidas, utensílios, equipe de apoio, fotografia, atração musical, decoração e montagem de estruturas.",
+      "orgao": "MINISTERIO DA GESTAO E DA INOVACAO EM SERVICOS PUBLICOS",
+      "cnpj_orgao": "00489828000155",
+      "municipio": "Salvador",
+      "uf": "BA",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-22T13:31:42.157368",
+      "data_abertura": "",
+      "data_limite": "2026-09-29T08:00",
+      "link": "https://pncp.gov.br/compras/00489828000155/2026/533",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "bb73cedc66898a40"
     }
   ]
 }
