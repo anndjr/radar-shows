@@ -1,7 +1,176 @@
 {
-  "gerado_em": "2026-09-24T15:38:16",
-  "total_brutos": 1082,
-  "total_aprovados": 283,
-  "total_novos": 0,
-  "oportunidades": []
+  "gerado_em": "2026-09-24T23:47:53",
+  "total_brutos": 1139,
+  "total_aprovados": 239,
+  "total_novos": 5,
+  "oportunidades": [
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/4104204/2026-09-23/8a2016bd865085c3ad561e8e47d877cff41d97d1.txt",
+      "titulo": "DOM Campo Largo/PR 2026-09-23",
+      "objeto": "de Campo Largo da garantia da autenticidade deste \n\ndocumento, desde que visualizado através de \nhttp://www.campolargo.pr.gov.brno link Diário Oficial. \n\nEXTRATO CONTRATUAL \n \n\nCONTRATO Nº 294/2026      (Inexigibilidade de Licitação n. 248/2026) \n\nCONTRATANTE: MUNICÍPIO DE CAMPO LARGO \n\nCONTRATADO: BANDA BLACK BEAR RANCH \n\nOBJETO DO ADITIVO: \n\nSHOW MUSICAL DA BANDA BLACK BEAR RANCH PARA \nAPRESENTAÇÃO DURANTE O EVENTO DA 4a FESTA DA \nPRIMAVERA, ORGANIZADO PELO \nMUNICÍPIO DE CAMPO LARGO, A APRESENTAÇÃO SERÁ NA \nDATA DO DIA 27 DE SETEMBRO NO \nPARQUE NEWTON PUPPI \n\nVALOR TOTAL: R$5.500,00 (cinco mil e quinhentos reais). \n\nPRAZO DE VIGENCIA: \n30 (trinta) dias contados do ato de publicação do Extrato",
+      "orgao": "Campo Largo",
+      "cnpj_orgao": "",
+      "municipio": "Campo Largo",
+      "uf": "PR",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-23",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/4104204/2026-09-23/8a2016bd865085c3ad561e8e47d877cff41d97d1.pdf",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "de Campo Largo da garantia da autenticidade deste \n\ndocumento, desde que visualizado através de \nhttp://www.campolargo.pr.gov.brno link Diário Oficial. \n\nEXTRATO CONTRATUAL \n \n\nCONTRATO Nº 294/2026      (Inexigibilidade de Licitação n. 248/2026) \n\nCONTRATANTE: MUNICÍPIO DE CAMPO LARGO \n\nCONTRATADO: BANDA BLACK BEAR RANCH \n\nOBJETO DO ADITIVO: \n\nSHOW MUSICAL DA BANDA BLACK BEAR RANCH PARA \nAPRESENTAÇÃO DURANTE O EVENTO DA 4a FESTA DA \nPRIMAVERA, ORGANIZADO PELO \nMUNICÍPIO DE CAMPO LARGO, A APRESENTAÇÃO SERÁ NA \nDATA DO DIA 27 DE SETEMBRO NO \nPARQUE NEWTON PUPPI \n\nVALOR TOTAL: R$5.500,00 (cinco mil e quinhentos reais). \n\nPRAZO DE VIGENCIA: \n30 (trinta) dias contados do ato de publicação do Extrato",
+      "uid": "6b85b2372a73b6c7"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18311043000153-1-000047/2026",
+      "titulo": "Edital de Chamamento Público nº 05/2026",
+      "objeto": "Credenciamento de músicos, artistas, bandas, grupos musicais e demais profissionais/atrações artísticas, pessoas físicas ou jurídicas, para realização de apresentações, shows, oficinas, palestras, mini-cursos, masterclasses, saraus, recitais e atividades correlatas, destinadas aos eventos, festividades, projetos e ações promovidos pelo Município de Bela Vista de Minas/MG, durante os exercícios de 2026 e 2027.",
+      "orgao": "MUNICIPIO DE BELA VISTA DE MINAS",
+      "cnpj_orgao": "18311043000153",
+      "municipio": "Bela Vista de Minas",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-24T14:17:15.633126086",
+      "data_abertura": "",
+      "data_limite": "2027-10-01T23:59:59",
+      "link": "https://pncp.gov.br/compras/18311043000153/2026/47",
+      "link_origem": "",
+      "score": 49,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "75a9f8a43079cd54"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13896725000151-1-000065/2026",
+      "titulo": "Edital nº 008/2026/2026",
+      "objeto": "CHAMAMENTO PÚBLICO para o credenciamento de empresa \r\nespecializada para organização, planejamento e execução de evento cultural \r\ndenominado “FLIPINTADAS-Festa Literária 2026”, a ser realizado no município \r\nde Pintadas, Bahia, com fornecimento de toda a infraestrutura, logística, recursos \r\nhumanos e serviços necessários, incluindo montagem de espaços temáticos, \r\nsonorização, iluminação, programação cultural, oficinas, palestras, mediação de \r\nleitura, apresentações artísticas e demais atividades voltadas ao incentivo à leitura e \r\nà escrita, conforme descrições contidas no Edital e seus Anexos.",
+      "orgao": "MUNICIPIO DE PINTADAS",
+      "cnpj_orgao": "13896725000151",
+      "municipio": "Pintadas",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-24T14:12:31.667965014",
+      "data_abertura": "",
+      "data_limite": "2026-12-31T17:00:01",
+      "link": "https://pncp.gov.br/compras/13896725000151/2026/65",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "98d0408e89701469"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18363937000197-1-000058/2026",
+      "titulo": "Edital nº 00006326/2026",
+      "objeto": "Contratação de empresa especializada para prestação de serviços recreativos e de entretenimento infantil, incluindo locação de brinquedos infláveis, recreadores, pintura facial, apresentação de show artístico infantil e serviços de alimentação infantil, destinados à realização de ações comemorativas em alusão ao Dia das Crianças na Praça da Prefeitura e à disponibilização de brinquedos recreativos em apoio às festividades tradicionais das comunidades de Lages, Laranjeiras, Zé Pinto, Pintos e Costas, no Município de Belo Vale/MG.",
+      "orgao": "MUNICIPIO DE BELO VALE",
+      "cnpj_orgao": "18363937000197",
+      "municipio": "Belo Vale",
+      "uf": "MG",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-24T13:36:42.856029",
+      "data_abertura": "",
+      "data_limite": "2026-10-08T07:30",
+      "link": "https://pncp.gov.br/compras/18363937000197/2026/58",
+      "link_origem": "",
+      "score": 18,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": [
+          "\\balimenta(cao|coes)\\b|\\bbuffet\\b|\\bcoffee break\\b|\\bagua mineral\\b|\\bmarmita\\b"
+        ]
+      },
+      "trecho": "",
+      "uid": "21ebab15404e3705"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "83009928000164-1-000066/2026",
+      "titulo": "Edital nº 24/2026",
+      "objeto": "Aquisição de equipamentos permanentes destinados à estruturação técnica dos espaços artístico-culturais do Município de Vargeão/SC, compreendendo sistema profissional de sonorização, sistema de iluminação cênica, equipamentos audiovisuais e estruturas modulares de palco, para atendimento das necessidades da Secretaria Municipal de Cultura e Turismo na realização de oficinas culturais, apresentações artísticas, eventos institucionais, festivais e demais atividades culturais promovidas pelo Município.",
+      "orgao": "MUNICIPIO DE VARGEAO",
+      "cnpj_orgao": "83009928000164",
+      "municipio": "Vargeão",
+      "uf": "SC",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-24T14:16:36.860902",
+      "data_abertura": "",
+      "data_limite": "2026-10-14T09:00",
+      "link": "https://pncp.gov.br/compras/83009928000164/2026/66",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "a5e61cb5e2fe2ae9"
+    }
+  ]
 }
