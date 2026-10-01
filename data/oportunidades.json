@@ -1,100 +1,102 @@
 {
-  "gerado_em": "2026-10-01T00:25:10",
-  "total_brutos": 1856,
-  "total_aprovados": 346,
-  "total_novos": 4,
+  "gerado_em": "2026-10-01T17:13:34",
+  "total_brutos": 1935,
+  "total_aprovados": 325,
+  "total_novos": 6,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "08358053000190-1-000163/2026",
-      "titulo": "Edital de Chamamento Público nº 2/2026",
-      "objeto": "Contratação de artistas, grupos artísticos e agentes culturais para os eventos e demais programações do município de Portalegre/RN, abrangendo apresentações musicais, literárias, culturais, performáticas, teatrais, instrumentais, oficinas, palestras, atividades recreativas etc.",
-      "orgao": "MUNICIPIO DE PORTALEGRE",
-      "cnpj_orgao": "08358053000190",
-      "municipio": "Portalegre",
-      "uf": "RN",
+      "id_externo": "21763447000192-1-000116/2026",
+      "titulo": "Edital de Chamamento Público nº 006/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS, BANDAS E GRUPOS MUSICAIS LOCAIS E REGIONAIS, NOS VARIADOS ESTILOS PARA POSSÍVEIS E FUTURAS CONTRATAÇÕES, VISANDO ATENDER ÀS DEMANDAS DE EVENTOS CULTURAIS, FESTIVOS, COMEMORATIVOS, INSTITUCIONAIS OU PROMOCIONAIS, PROMOVIDOS OU APOIADOS PELO MUNICÍPIO DE AMELIA RODRIGUES - BA....",
+      "orgao": "FUNDO MUNICIPAL DE EDUCACAO - FME",
+      "cnpj_orgao": "21763447000192",
+      "municipio": "Amélia Rodrigues",
+      "uf": "BA",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-30T16:20:10.728575559",
+      "data_publicacao": "2026-10-01T09:06:33.889374268",
       "data_abertura": "",
-      "data_limite": "2027-10-01T08:00",
-      "link": "https://pncp.gov.br/compras/08358053000190/2026/163",
+      "data_limite": "2027-10-08T23:59",
+      "link": "https://pncp.gov.br/compras/21763447000192/2026/116",
       "link_origem": "",
-      "score": 45,
+      "score": 37,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
         ],
-        "B": [],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
         "C": [
           "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
         ],
         "NEG": []
       },
       "trecho": "",
-      "uid": "8284c0ec124aeab9"
+      "uid": "f6beabc6965a5438"
     },
     {
       "fonte": "pncp",
-      "id_externo": "08358053000190-1-000163/2026",
-      "titulo": "Credenciamento 2/2026",
-      "objeto": "Contratação de artistas, grupos artísticos e agentes culturais para os eventos e demais programações do município de Portalegre/RN, abrangendo apresentações musicais, literárias, culturais, performáticas, teatrais, instrumentais, oficinas, palestras, atividades recreativas etc.",
-      "orgao": "MUNICIPIO DE PORTALEGRE",
-      "cnpj_orgao": "08358053000190",
-      "municipio": "Portalegre",
-      "uf": "RN",
+      "id_externo": "21763447000192-1-000116/2026",
+      "titulo": "Credenciamento 006/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS, BANDAS E GRUPOS MUSICAIS LOCAIS E REGIONAIS, NOS VARIADOS ESTILOS PARA POSSÍVEIS E FUTURAS CONTRATAÇÕES, VISANDO ATENDER ÀS DEMANDAS DE EVENTOS CULTURAIS, FESTIVOS, COMEMORATIVOS, INSTITUCIONAIS OU PROMOCIONAIS, PROMOVIDOS OU APOIADOS PELO MUNICÍPIO DE AMELIA RODRIGUES - BA....",
+      "orgao": "FUNDO MUNICIPAL DE EDUCACAO - FME",
+      "cnpj_orgao": "21763447000192",
+      "municipio": "Amélia Rodrigues",
+      "uf": "BA",
       "modalidade": "Credenciamento",
       "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 286050.0,
-      "data_publicacao": "2026-09-30T16:20:10",
-      "data_abertura": "2026-10-01T08:00:00",
-      "data_limite": "2027-10-01T08:00:00",
-      "link": "https://pncp.gov.br/app/editais/08358053000190/1/000163/2026",
-      "link_origem": "",
-      "score": 36,
+      "valor_estimado": 546172.61,
+      "data_publicacao": "2026-10-01T09:06:33",
+      "data_abertura": "2026-10-08T16:00:00",
+      "data_limite": "2027-10-08T23:59:00",
+      "link": "https://pncp.gov.br/app/editais/21763447000192/1/000116/2026",
+      "link_origem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]HpmttMN6TOX/esAkeX0TCcnjHXRtVRSmFrILLARcGGnLbmRgmmIUW3La2/zfnghYuJ0egNzUp79Fr6ZYqAwEdugMOry0R05eU3lMsIGNfZ0=",
+      "score": 28,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
         ],
-        "B": [],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "e597d40a291dc2a2"
+      "uid": "398420411be287b4"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "04894677000171-1-000037/2026",
-      "titulo": "Edital de Chamamento Público nº PRI 5/2026",
-      "objeto": "O PRESENTE PROCESSO DE CREDENCIAMENTO DE ARTISTA E PROFISSIONAIS DE ARTE E CULTURA, TEM COMO OBJETIVO PROMOVER PROJETOS E AÇÕES QUE VISAM FOMENTAR A PRODUÇÃO TURÍSTICA PARA ATENDER A PROGRAMAÇÃO DE EVENTOS REALIZADOS E/OU APOIADOS PELA PELO MUNICÍPIO DE BRUSQUE E SUAS SECRETARIAS E FUNDAÇÕES",
-      "orgao": "FUNDACAO CULTURAL DE BRUSQUE",
-      "cnpj_orgao": "04894677000171",
-      "municipio": "Brusque",
+      "id_externo": "83024257000100-1-000459/2026",
+      "titulo": "Edital de Chamamento Público nº PRI 92/2026",
+      "objeto": "Contratação de prestadores de serviços artísticos/culturais de música, contação de história e intervenção artística, para participação nos eventos de pequeno e médio porte, nos termos do Edital de Credenciamento nº 05/2025.",
+      "orgao": "MUNICIPIO DE CONCORDIA",
+      "cnpj_orgao": "83024257000100",
+      "municipio": "Concórdia",
       "uf": "SC",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-30T14:58:59.150426402",
+      "data_publicacao": "2026-10-01T13:57:38.869385",
       "data_abertura": "",
-      "data_limite": "2027-09-10T08:00",
-      "link": "https://pncp.gov.br/compras/04894677000171/2026/37",
+      "data_limite": "2026-10-01T16:56:58",
+      "link": "https://pncp.gov.br/compras/83024257000100/2026/459",
       "link_origem": "",
       "score": 21,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
         ],
         "B": [],
         "C": [
@@ -103,38 +105,104 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "cd57d1381356efc0"
+      "uid": "8ff04e9d28c02db8"
     },
     {
       "fonte": "pncp",
-      "id_externo": "04894677000171-1-000037/2026",
-      "titulo": "Credenciamento PRI 5/2026",
-      "objeto": "O PRESENTE PROCESSO DE CREDENCIAMENTO DE ARTISTA E PROFISSIONAIS DE ARTE E CULTURA, TEM COMO OBJETIVO PROMOVER PROJETOS E AÇÕES QUE VISAM FOMENTAR A PRODUÇÃO TURÍSTICA PARA ATENDER A PROGRAMAÇÃO DE EVENTOS REALIZADOS E/OU APOIADOS PELA PELO MUNICÍPIO DE BRUSQUE E SUAS SECRETARIAS E FUNDAÇÕES",
-      "orgao": "FUNDACAO CULTURAL DE BRUSQUE",
-      "cnpj_orgao": "04894677000171",
-      "municipio": "Brusque",
+      "id_externo": "83024257000100-1-000459/2026",
+      "titulo": "Credenciamento PRI 92/2026",
+      "objeto": "Contratação de prestadores de serviços artísticos/culturais de música, contação de história e intervenção artística, para participação nos eventos de pequeno e médio porte, nos termos do Edital de Credenciamento nº 05/2025.",
+      "orgao": "MUNICIPIO DE CONCORDIA",
+      "cnpj_orgao": "83024257000100",
+      "municipio": "Concórdia",
       "uf": "SC",
       "modalidade": "Credenciamento",
       "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 937106.83,
-      "data_publicacao": "2026-09-30T14:58:59",
-      "data_abertura": "2026-09-10T08:00:00",
-      "data_limite": "2027-09-10T08:00:00",
-      "link": "https://pncp.gov.br/app/editais/04894677000171/1/000037/2026",
+      "valor_estimado": 3100.0,
+      "data_publicacao": "2026-10-01T13:57:38",
+      "data_abertura": "2026-10-01T16:56:57",
+      "data_limite": "2026-10-01T16:56:58",
+      "link": "https://pncp.gov.br/app/editais/83024257000100/1/000459/2026",
       "link_origem": "",
       "score": 12,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "9960f2000570ab6b"
+      "uid": "d4fbacafa9db6900"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "18277947000100-1-000330/2026",
+      "titulo": "Dispensa 8.000257/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA TÉCNICA À DIRETORIA MUNICIPAL DE CULTURA, DESTINADOS AO APOIO, ACOMPANHAMENTO E EXECUÇÃO DAS AÇÕES DO CICLO 2 DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA PNAB, ABRANGENDO AS ATIVIDADES TÉCNICAS PREVISTAS.",
+      "orgao": "MUNICIPIO DE GUARDA-MOR",
+      "cnpj_orgao": "18277947000100",
+      "municipio": "Guarda-Mor",
+      "uf": "MG",
+      "modalidade": "Dispensa",
+      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+      "valor_estimado": 3169.83,
+      "data_publicacao": "2026-09-28T09:48:51",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/18277947000100/1/000330/2026",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "FOMENTO_CULTURAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2e0ce79e527413df"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "18675934000199-1-000103/2026",
+      "titulo": "Aviso de Contratação Direta nº 023/2026/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA TÉCNICA ESPECIALIZADA, HABILITADA, ESPECIALIZADA EM ORGANIZAÇÃO, COORDENAÇÃO, GERENCIAMENTO E REGULAMENTAÇÃO DO 16º FESTIVAL SERTANEJO NAS DATAS 20/11/2026, 21/11/2026 E 22/11/2026 PARA ATENDER AS DEMANDAS DO DEPARTAMENTO MUNICIPAL DE CULTURA E TURISMO DA PREFEITURA MUNICIPAL DE MUNHOZ/MG",
+      "orgao": "MUNICIPIO DE MUNHOZ",
+      "cnpj_orgao": "18675934000199",
+      "municipio": "Munhoz",
+      "uf": "MG",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-01T07:39:12.194620815",
+      "data_abertura": "",
+      "data_limite": "2026-10-06T08:30",
+      "link": "https://pncp.gov.br/compras/18675934000199/2026/103",
+      "link_origem": "",
+      "score": 22,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [
+          "\\bfestival (de |da |do )?(musica|cultura|inverno|verao|sertanejo)"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e3eb9520ddf80c9e"
     }
   ]
 }
