@@ -1,729 +1,140 @@
 {
-  "gerado_em": "2026-09-30T16:35:11",
-  "total_brutos": 2015,
-  "total_aprovados": 387,
-  "total_novos": 22,
+  "gerado_em": "2026-10-01T00:25:10",
+  "total_brutos": 1856,
+  "total_aprovados": 346,
+  "total_novos": 4,
   "oportunidades": [
     {
-      "fonte": "pncp",
-      "id_externo": "23515703000158-1-000066/2026",
-      "titulo": "Inexigibilidade 33/2026",
-      "objeto": "Contratação de “DIOGO e HERNANI”, para apresentação de Show artístico no dia, 04/07/2026, no 73º Aniversário do Município de Senhora de Oliveira-MG.",
-      "orgao": "MUNICIPIO DE SENHORA DE OLIVEIRA",
-      "cnpj_orgao": "23515703000158",
-      "municipio": "Senhora de Oliveira",
-      "uf": "MG",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 33000.0,
-      "data_publicacao": "2026-09-28T14:46:35",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/23515703000158/1/000066/2026",
-      "link_origem": "",
-      "score": 40,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [
-          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "f2608263273ff669"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "82926569000147-1-000176/2026",
-      "titulo": "Inexigibilidade PRI 76/2026",
-      "objeto": "CONTRATAÇÃO, POR MEIO DE INEXIGIBILIDADE DE LICITAÇÃO, DA APRESENTAÇÃO ARTÍSTICA\nDA 65.750.377 HILDA GABRIELA DAMBROZ MAYCA , PARA A REALIZAÇÃO DE SHOW MUSICAL COM DURAÇÃO\nDE QUATRO HORAS, A OCORRER NO DIA 01 DE OUTUBRO DE 2026, NO ÂMBITO DO EVENTO DENOMINADO\n\"ENCONTRO DE INFORMAÇÃO E PREVENÇÃO PARA OS IDOSOS\" O EVENTO SERÁ REALIZADO NO SALÃO\nPAROQUIAL DE GRAVATAL, LOCALIZADO NO BAIRRO CENTRO, NO MUNICÍPIO DE GRAVATAL",
-      "orgao": "MUNICIPIO DE GRAVATAL",
-      "cnpj_orgao": "82926569000147",
-      "municipio": "Gravatal",
-      "uf": "SC",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 1200.0,
-      "data_publicacao": "2026-09-28T12:44:32",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/82926569000147/1/000176/2026",
-      "link_origem": "",
-      "score": 36,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "3bbbba3bfe351d54"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "92324706000127-1-000198/2026",
-      "titulo": "Inexigibilidade 201 | Processo 420/2026",
-      "objeto": "Contratacao da empresa CIBELE SANTOS  inscrita no CNPJ n  20.767.902 0001 65  para realizacao de duas apresentacoes artisticas do musico Felipe D Avila.",
-      "orgao": "MUNICIPIO DE ELDORADO DO SUL",
-      "cnpj_orgao": "92324706000127",
-      "municipio": "Eldorado do Sul",
-      "uf": "RS",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 4500.0,
-      "data_publicacao": "2026-09-28T13:10:35",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/92324706000127/1/000198/2026",
-      "link_origem": " ",
-      "score": 24,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "701c77a168b7dbe4"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "05508362000101-1-001020/2026",
-      "titulo": "Inexigibilidade 3574/2026",
-      "objeto": "contratação de serviços artísticos da atração SKEMA TOP para fins de apresentação nos eventos realizados ou apoiados por esta SECMA no ano de 2026, totalizando o valor de R$ R$ 12.000,00, representando por P M L DOS SANTOS (MATRIZ E FILIAIS), inscrito sob CNPJ/CPF nº 45.524.496/0001-30.",
-      "orgao": "SECRETARIA DE ESTADO DA CULTURA - SECMA",
-      "cnpj_orgao": "05508362000101",
-      "municipio": "São Luís",
-      "uf": "MA",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 12000.0,
-      "data_publicacao": "2026-09-28T14:41:47",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/05508362000101/1/001020/2026",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "fee4f1544208bddf"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "05508362000101-1-001021/2026",
-      "titulo": "Inexigibilidade 3572/2026",
-      "objeto": "contratação de serviços artísticos da atração BMB DE MATINHA DE RIBAMAR para fins de apresentação nos eventos realizados ou apoiados por esta SECMA no ano de 2026, totalizando o valor de R$ R$ 54.000,00, representando por ASSOCIACAO FOLCLORICA DO BUMBA MEU BOI DE MATINHA (MATRIZ E, inscrito sob CNPJ/CPF nº 00.427.221/0001-40.",
-      "orgao": "SECRETARIA DE ESTADO DA CULTURA - SECMA",
-      "cnpj_orgao": "05508362000101",
-      "municipio": "São Luís",
-      "uf": "MA",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 54000.0,
-      "data_publicacao": "2026-09-28T14:42:17",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/05508362000101/1/001021/2026",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "ea6c1121d1c0e314"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "05508362000101-1-001022/2026",
-      "titulo": "Inexigibilidade 2830/2026",
-      "objeto": "contratação de serviços artísticos da atração BUMBA MEU BOI LENDAS E MAGIAS para fins de apresentação nos eventos realizados ou apoiados por esta SECMA no ano de 2026, totalizando o valor de R$ R$ 225.000,00, representando por CENTRO CULTURAL E ESPORTIVO LENDAS E MAGIAS, inscrito sob CNPJ/CPF nº 13.471.423/0001-31.",
-      "orgao": "SECRETARIA DE ESTADO DA CULTURA - SECMA",
-      "cnpj_orgao": "05508362000101",
-      "municipio": "São Luís",
-      "uf": "MA",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 225000.0,
-      "data_publicacao": "2026-09-28T14:42:36",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/05508362000101/1/001022/2026",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "6b16b4b8507943c7"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "18712158000150-1-000043/2026",
-      "titulo": "Inexigibilidade 16/2026",
-      "objeto": "Contratação por inexigibilidade de licitação de artista do setor musical, de nome artístico Orquestra de Viola Violeiros do Sion, para apresentação no Município de São Gonçalo, no evento da Semana Cultural André Lorieri, através de empresa exclusiva, cuja apresentação deverá ocorrer no dia 26 de setembro de 2026",
-      "orgao": "MUNICIPIO DE SAO GONCALO DO SAPUCAI",
-      "cnpj_orgao": "18712158000150",
-      "municipio": "São Gonçalo do Sapucaí",
-      "uf": "MG",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 8000.0,
-      "data_publicacao": "2026-09-28T14:42:57",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/18712158000150/1/000043/2026",
-      "link_origem": "https://imaq.diretriz.net",
-      "score": 16,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [
-          "\\bsemana (do municipio|cultural)\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "f1331a0c34b18b6a"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "83102368000198-1-000151/2026",
-      "titulo": "Inexigibilidade PRI 145/2026",
-      "objeto": "CONTRATAÇÃO DE APRESENTAÇÃO E ATRAÇÕES RECREATIVO CULTURAIS DO ROLLMOPSWAGEN, PRESTADAS DIRETAMENTE PELA EMPRESA MC6 TECNOLOGIA E EVENTOS LTDA (CNPJ Nº 07.463.198/0001-99), DURANTE A REALIZAÇÃO DA 1ª KOLONIE PARK FEST, NO DIA 03 DE OUTUBRO DE 2026 (SÁBADO), A PARTIR DAS 10H, NO PARQUE MUNICIPAL VEREADOR ÉRICO VICENTINI EM GUABIRUBA. AÇÃO:2021 - APOIO AO DESENVOLVIMENTO TURÍSTICO VÍNCULO:150070000000 - RECURSOS NÃO VINCULADOS DE IMPOSTOS.",
-      "orgao": "MUNICIPIO DE GUABIRUBA",
-      "cnpj_orgao": "83102368000198",
-      "municipio": "Guabiruba",
-      "uf": "SC",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 2169.1,
-      "data_publicacao": "2026-09-28T14:03:24",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/83102368000198/1/000151/2026",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "0919d4ea289e6290"
-    },
-    {
       "fonte": "pncp_search",
-      "id_externo": "16784720000125-1-000220/2026",
-      "titulo": "Edital de Chamamento Público nº 6/2026",
-      "objeto": "[LICITANET] - CREDENCIAMENTO DE ARTISTAS LOCAIS, A FIM DE POSSIBILITAR\nCONTRATAÇÕES FUTURAS AO MUNICÍPIO DOS SERVIÇOS DE APRESENTAÇÕES\nMUSICAIS NO ESTILO SERTANEJO E NO ESTILO POP/MPB, EM FORMATO\nINDIVIDUAL, EM DUPLA OU EM TRIO, EM FUNÇÃO DE ATENDER ÀS\nNECESSIDADES DOS EVENTOS REALIZADOS OU APOIADOS PELO MUNICÍPIO.",
-      "orgao": "MUNICIPIO DE FORMIGA",
-      "cnpj_orgao": "16784720000125",
-      "municipio": "Formiga",
-      "uf": "MG",
+      "id_externo": "08358053000190-1-000163/2026",
+      "titulo": "Edital de Chamamento Público nº 2/2026",
+      "objeto": "Contratação de artistas, grupos artísticos e agentes culturais para os eventos e demais programações do município de Portalegre/RN, abrangendo apresentações musicais, literárias, culturais, performáticas, teatrais, instrumentais, oficinas, palestras, atividades recreativas etc.",
+      "orgao": "MUNICIPIO DE PORTALEGRE",
+      "cnpj_orgao": "08358053000190",
+      "municipio": "Portalegre",
+      "uf": "RN",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-09-30T09:57:04.703426568",
+      "data_publicacao": "2026-09-30T16:20:10.728575559",
       "data_abertura": "",
-      "data_limite": "2027-09-29T23:59:59",
-      "link": "https://pncp.gov.br/compras/16784720000125/2026/220",
+      "data_limite": "2027-10-01T08:00",
+      "link": "https://pncp.gov.br/compras/08358053000190/2026/163",
       "link_origem": "",
-      "score": 63,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": true,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)",
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
-        ],
-        "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "8f7442680926bf22"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "16784720000125-1-000220/2026",
-      "titulo": "Credenciamento 6/2026",
-      "objeto": "[LICITANET] - CREDENCIAMENTO DE ARTISTAS LOCAIS, A FIM DE POSSIBILITAR\nCONTRATAÇÕES FUTURAS AO MUNICÍPIO DOS SERVIÇOS DE APRESENTAÇÕES\nMUSICAIS NO ESTILO SERTANEJO E NO ESTILO POP/MPB, EM FORMATO\nINDIVIDUAL, EM DUPLA OU EM TRIO, EM FUNÇÃO DE ATENDER ÀS\nNECESSIDADES DOS EVENTOS REALIZADOS OU APOIADOS PELO MUNICÍPIO.",
-      "orgao": "MUNICIPIO DE FORMIGA",
-      "cnpj_orgao": "16784720000125",
-      "municipio": "Formiga",
-      "uf": "MG",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 97000.0,
-      "data_publicacao": "2026-09-30T09:57:04",
-      "data_abertura": "2026-09-29T00:00:00",
-      "data_limite": "2027-09-29T23:59:59",
-      "link": "https://pncp.gov.br/app/editais/16784720000125/1/000220/2026",
-      "link_origem": "https://licitanet.com.br/sessao/203279",
-      "score": 54,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": true,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)",
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "94d227123f1854f0"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3525300/2026-09-29/39f1c561f817b4a7703de082f162692eeab21ee5.txt",
-      "titulo": "DOM Jaú/SP 2026-09-29",
-      "objeto": "gov.br/l icitacoes  –  GRATUITO  –\nINFORMAÇÕES: fone (14) 3602-1718 ou (14) 3602-1804 das\n08:00 às 17:00 horas.\n\nJahu, 29 de setembro de 2026.\nNELSON RICARDO SANCHES\nSECRETÁRIO DE ECONOMIA E FINANÇAS\n\n27ª HOMOLOGAÇÃO\nCONSIDERANDO  os  autos  do  processo  licitatório\n\nreferente  ao  Chamamento  Eletrônico  n.º  001/2025,  cujo\nobjeto é CREDENCIAMENTO DE ARTISTAS RESIDENTES OU\nNÃO  EM  JAHU,  ORGANIZADOS  NA  FORMA  DE  PESSOAS\nJURÍDICAS,  PESSOAS  FÍSICAS  OU  MICROEMPREENDEDOR\nINDIVIDUAL PARA APRESENTAÇÕES MUSICAIS EM EVENTOS\nCULTURAIS  PÚBLICOS,  PROMOVIDOS  PELA  PREFEITURA\nMUNICIPAL  DE  JAHU,  ATRAVÉS  DA  SECRETARIA  DE\nCULTURA  E  TURISMO,  atendidos  através  da  Secretaria\nMunicipal de",
-      "orgao": "Jaú",
-      "cnpj_orgao": "",
-      "municipio": "Jaú",
-      "uf": "SP",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3525300/2026-09-29/39f1c561f817b4a7703de082f162692eeab21ee5.pdf",
-      "link_origem": "",
-      "score": 28,
+      "score": 45,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
           "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
-        ],
-        "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "gov.br/l icitacoes  –  GRATUITO  –\nINFORMAÇÕES: fone (14) 3602-1718 ou (14) 3602-1804 das\n08:00 às 17:00 horas.\n\nJahu, 29 de setembro de 2026.\nNELSON RICARDO SANCHES\nSECRETÁRIO DE ECONOMIA E FINANÇAS\n\n27ª HOMOLOGAÇÃO\nCONSIDERANDO  os  autos  do  processo  licitatório\n\nreferente  ao  Chamamento  Eletrônico  n.º  001/2025,  cujo\nobjeto é CREDENCIAMENTO DE ARTISTAS RESIDENTES OU\nNÃO  EM  JAHU,  ORGANIZADOS  NA  FORMA  DE  PESSOAS\nJURÍDICAS,  PESSOAS  FÍSICAS  OU  MICROEMPREENDEDOR\nINDIVIDUAL PARA APRESENTAÇÕES MUSICAIS EM EVENTOS\nCULTURAIS  PÚBLICOS,  PROMOVIDOS  PELA  PREFEITURA\nMUNICIPAL  DE  JAHU,  ATRAVÉS  DA  SECRETARIA  DE\nCULTURA  E  TURISMO,  atendidos  através  da  Secretaria\nMunicipal de",
-      "uid": "3d83bffd0dd064d3"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "27792373000107-1-000138/2025",
-      "titulo": "Edital de Chamamento Público nº 003/2025",
-      "objeto": "[LICITANET] - credenciamento de pareceristas, para contratar de forma simultânea e padronizada a prestação de serviços de avaliação, emissão de pareceres e julgamento de recursos sobre propostas artísticas e culturais, inscritas em editais de premiação e fomento à cultura promovidos pela Secretaria Municipal de Cultura e Economia Criativa de Arraial do Cabo.",
-      "orgao": "MUNICIPIO DE ARRAIAL DO CABO",
-      "cnpj_orgao": "27792373000107",
-      "municipio": "Arraial do Cabo",
-      "uf": "RJ",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2025-12-16T15:12:05.620204",
-      "data_abertura": "",
-      "data_limite": "2026-11-02T00:00",
-      "link": "https://pncp.gov.br/compras/27792373000107/2025/138",
-      "link_origem": "",
-      "score": 22,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [
-          "\\barraia\\w*\\b|\\bquermesse\\b|\\bmicareta\\b"
-        ],
-        "C": [
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
-          "\\bpremiac(ao|oes)\\b.{0,40}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "99b412f2ca95d44f"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "45358249000101-1-001046/2026",
-      "titulo": "Credenciamento 702/2026",
-      "objeto": "Contratação do proponente JANAINA CHELO AMARAL GALDI , para apresentação Mix Shakespeare- Um mergulho sobre a vida e a obra de William Shakespeare, selecionado e classificado no Edital do Chamamento Público 01/2025, para seleção de artistas, duplas e trios, e grupos artísticos, a ser realizada no evento \"Semana da Criança\", na CEMEI Professora Ida Vinciguerra, localizada na Rua Rio Araguaia, 440 Jockey Club. Emenda Parlamentar 81 do Vereador Elton Carvalho - Protocolo 9401/25 - R$ 1.500,00. Dados Bancários: Banco: Banco do Brasil. Agência: 0295-x Conta: 114.852-4 (código 513).",
-      "orgao": "MUNICIPIO DE SAO CARLOS",
-      "cnpj_orgao": "45358249000101",
-      "municipio": "São Carlos",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 1500.0,
-      "data_publicacao": "2026-09-30T09:54:49",
-      "data_abertura": "2026-09-30T09:54:00",
-      "data_limite": "2026-09-30T09:54:00",
-      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001046/2026",
-      "link_origem": "",
-      "score": 11,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
           "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
         ],
         "B": [],
         "C": [
           "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
         ],
-        "NEG": [
-          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
-        ]
+        "NEG": []
       },
       "trecho": "",
-      "uid": "cd90172797e333bd"
+      "uid": "8284c0ec124aeab9"
     },
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3555208/2026-09-29/1e7131e50fefcb88dfe52f6b570f8bfbc8ba884c.txt",
-      "titulo": "DOM Turiúba/SP 2026-09-29",
-      "objeto": ".... \n\n\n\n \n\n \n\nTuriúba - SP, 28 de setembro de 2026 \n\n \n\nA Prefeitura Municipal de Turiúba - SP, torna público o RESULTADO \n\nFINAL do Chamamento Público número 01/2026, EDITAL POLÍTICA NACIONAL ALDIR \n\nBLANC (n. 14.399/2022) CICLO 2. \n\n \n\n \n\nCategoria A – fomento \n\n PROPONENTE CPF/CNPJ PROJETO VALOR \n\n01 \n\nEDSON LUIZ PEREIRA 056.***.418-** \n\nSHOW MUSICAL \nMPB E POP ROCK \nCOM EDSON \nTURIÚBA \n\nR$4.333,33 \n\n02 FERNANDO TORRES \nPESSOA 395.***.668-** PINTURA EM TELA \n\nR$4.333,33 \n\n03 \nPAULINO EVANGELISTA \nDA TRINDADE 706.***.838-** \n\nTURIÚBA EM FOCO: \nMEMÓRIAS QUE \nPERMANECEM \n\nR$4.333,33 \n\n \n\n \n\nCategoria B – premiação por trajetória \n\n PROPONENTE CPF/CNPJ CATEGORIA VALOR \n\n01 EDSON LUIZ PEREIRA",
-      "orgao": "Turiúba",
-      "cnpj_orgao": "",
-      "municipio": "Turiúba",
-      "uf": "SP",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3555208/2026-09-29/1e7131e50fefcb88dfe52f6b570f8bfbc8ba884c.pdf",
+      "fonte": "pncp",
+      "id_externo": "08358053000190-1-000163/2026",
+      "titulo": "Credenciamento 2/2026",
+      "objeto": "Contratação de artistas, grupos artísticos e agentes culturais para os eventos e demais programações do município de Portalegre/RN, abrangendo apresentações musicais, literárias, culturais, performáticas, teatrais, instrumentais, oficinas, palestras, atividades recreativas etc.",
+      "orgao": "MUNICIPIO DE PORTALEGRE",
+      "cnpj_orgao": "08358053000190",
+      "municipio": "Portalegre",
+      "uf": "RN",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 286050.0,
+      "data_publicacao": "2026-09-30T16:20:10",
+      "data_abertura": "2026-10-01T08:00:00",
+      "data_limite": "2027-10-01T08:00:00",
+      "link": "https://pncp.gov.br/app/editais/08358053000190/1/000163/2026",
       "link_origem": "",
-      "score": 30,
-      "categoria": "FOMENTO_CULTURAL",
+      "score": 36,
+      "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e597d40a291dc2a2"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "04894677000171-1-000037/2026",
+      "titulo": "Edital de Chamamento Público nº PRI 5/2026",
+      "objeto": "O PRESENTE PROCESSO DE CREDENCIAMENTO DE ARTISTA E PROFISSIONAIS DE ARTE E CULTURA, TEM COMO OBJETIVO PROMOVER PROJETOS E AÇÕES QUE VISAM FOMENTAR A PRODUÇÃO TURÍSTICA PARA ATENDER A PROGRAMAÇÃO DE EVENTOS REALIZADOS E/OU APOIADOS PELA PELO MUNICÍPIO DE BRUSQUE E SUAS SECRETARIAS E FUNDAÇÕES",
+      "orgao": "FUNDACAO CULTURAL DE BRUSQUE",
+      "cnpj_orgao": "04894677000171",
+      "municipio": "Brusque",
+      "uf": "SC",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-30T14:58:59.150426402",
+      "data_abertura": "",
+      "data_limite": "2027-09-10T08:00",
+      "link": "https://pncp.gov.br/compras/04894677000171/2026/37",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
         ],
         "B": [],
         "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b"
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
         ],
-        "NEG": []
-      },
-      "trecho": ".... \n\n\n\n \n\n \n\nTuriúba - SP, 28 de setembro de 2026 \n\n \n\nA Prefeitura Municipal de Turiúba - SP, torna público o RESULTADO \n\nFINAL do Chamamento Público número 01/2026, EDITAL POLÍTICA NACIONAL ALDIR \n\nBLANC (n. 14.399/2022) CICLO 2. \n\n \n\n \n\nCategoria A – fomento \n\n PROPONENTE CPF/CNPJ PROJETO VALOR \n\n01 \n\nEDSON LUIZ PEREIRA 056.***.418-** \n\nSHOW MUSICAL \nMPB E POP ROCK \nCOM EDSON \nTURIÚBA \n\nR$4.333,33 \n\n02 FERNANDO TORRES \nPESSOA 395.***.668-** PINTURA EM TELA \n\nR$4.333,33 \n\n03 \nPAULINO EVANGELISTA \nDA TRINDADE 706.***.838-** \n\nTURIÚBA EM FOCO: \nMEMÓRIAS QUE \nPERMANECEM \n\nR$4.333,33 \n\n \n\n \n\nCategoria B – premiação por trajetória \n\n PROPONENTE CPF/CNPJ CATEGORIA VALOR \n\n01 EDSON LUIZ PEREIRA",
-      "uid": "14e02f91a1330787"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "02321891000103-1-000191/2026",
-      "titulo": "Aviso de Contratação Direta nº (16076) | 223-0/2026",
-      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS EM SHOW ARTÍSTICO A SER REALIZADOS NOS DIAS 09 E 10 DE OUTUBRO DE 2026, NA FESTIVIDADE EM LOUVOR À NOSSA SENHORA APARECIDA, NA CIDADE E IVOLÂNDIA; LOCAL: CAPELA NOSSA SENHORA APARECIDA, VISANDO ATENDER À DEMANDA DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
-      "orgao": "MUNICIPIO DE IVOLANDIA",
-      "cnpj_orgao": "02321891000103",
-      "municipio": "Ivolândia",
-      "uf": "GO",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29T14:00:05.358411",
-      "data_abertura": "",
-      "data_limite": "2026-10-02T23:59",
-      "link": "https://pncp.gov.br/compras/02321891000103/2026/191",
-      "link_origem": "",
-      "score": 16,
-      "categoria": "EVENTO_MUNICIPAL",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
-        ],
-        "B": [
-          "\\bfestividade(s)?\\b"
-        ],
-        "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "370d9de428666aff"
+      "uid": "cd57d1381356efc0"
     },
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/4104204/2026-09-29/199195602f37494b9d45805feced25f0146e533e.txt",
-      "titulo": "DOM Campo Largo/PR 2026-09-29",
-      "objeto": "Prefeitura Municipal de Campo Largo da garantia da autenticidade deste \n\ndocumento, desde que visualizado através de \nhttp://www.campolargo.pr.gov.brno link Diário Oficial. \n\nEXTRATO CONTRATUAL \n \n\nCONTRATO Nº 301/2026 DISPENSA DE LICITAÇÃO Nº 85/2026 \n\nCONTRATANTE: MUNICÍPIO DE CAMPO LARGO \n\nCONTRATADO: JEAN APARECIDO FERREIRA DOS SANTOS \n\nOBJETO: \n\nSHOW MUSICAL DA BANDA D’FOLKS PARA \nAPRESENTAÇÃO DURANTE O EVENTO DA 4a FESTA DA \nPRIMAVERA, ORGANIZADO PELO MUNICÍPIO DE CAMPO \nLARGO, A APRESENTAÇÃO SERÁ NA DATA DO DIA 27 DE \nSETEMBRO NO PARQUE NEWTON PUPPI. \n\nVALOR: R$5.500,00 (CINCO MIL E QUINHENTOS REAIS). \n\nFISCAL DE CONTRATO: ANDRESSA CRISTINE PEREIRA DOS SANTOS \n\nSUPLENTE DE FISCAL: KETLYN ROZANGELA",
-      "orgao": "Campo Largo",
-      "cnpj_orgao": "",
-      "municipio": "Campo Largo",
-      "uf": "PR",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/4104204/2026-09-29/199195602f37494b9d45805feced25f0146e533e.pdf",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "DISPENSA",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "Prefeitura Municipal de Campo Largo da garantia da autenticidade deste \n\ndocumento, desde que visualizado através de \nhttp://www.campolargo.pr.gov.brno link Diário Oficial. \n\nEXTRATO CONTRATUAL \n \n\nCONTRATO Nº 301/2026 DISPENSA DE LICITAÇÃO Nº 85/2026 \n\nCONTRATANTE: MUNICÍPIO DE CAMPO LARGO \n\nCONTRATADO: JEAN APARECIDO FERREIRA DOS SANTOS \n\nOBJETO: \n\nSHOW MUSICAL DA BANDA D’FOLKS PARA \nAPRESENTAÇÃO DURANTE O EVENTO DA 4a FESTA DA \nPRIMAVERA, ORGANIZADO PELO MUNICÍPIO DE CAMPO \nLARGO, A APRESENTAÇÃO SERÁ NA DATA DO DIA 27 DE \nSETEMBRO NO PARQUE NEWTON PUPPI. \n\nVALOR: R$5.500,00 (CINCO MIL E QUINHENTOS REAIS). \n\nFISCAL DE CONTRATO: ANDRESSA CRISTINE PEREIRA DOS SANTOS \n\nSUPLENTE DE FISCAL: KETLYN ROZANGELA",
-      "uid": "847f6de6a3b2156a"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2906006/2026-09-29/ece867a576c6ff87f2f4191c52c1c43858487ff8.txt",
-      "titulo": "DOM Campo Formoso/BA 2026-09-29",
-      "objeto": "FORRÓ PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA\n\nAPRESENTAÇÃO NO EVENTO \"FESTEJOS DA COMUNIDADE DE TUIUTIBA\".\n\nLotes\n\nLote 1\n\nMaterial ou Serviço:\n\nServiço\nCritério de Julgamento:\n\nNão se aplica\nTipo de Benefício:\n\nNão se aplica\nIncentivo Produtivo Básico:\n\nNÃO\n\nOrçamento Sigiloso:\n\nNÃO\nCategoria do Item:\n\nNão se aplica\n\nQuantidade:\n\n1,00\nUnidade de Medida:\n\nUND\nValor Unitário Estimado:\n\n27.000,00\nValor Total:\n\n27.000,00\n\nAplicabilidade da Margem de Preferência Normal:\n\nNÃO\n\nAplicabilidade da Margem de Preferência Adicional:\n\nNÃO\n\nExigência de Conteúdo Nacional:\n\nNÃO\n\nObjeto/Descrição:\n\nCONTRATAÇÃO DO CANTOR SÉRGIO DO FORRÓ PARA APRESE4NTAÇÃO DE SHOW MUSICAL EM PALCO, COM DURAÇÃO DE\n\n2 HORAS BRASIL PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA\n\nAPRESENTAÇÃO NO EVENTO \"FESTEJOS DA COMUNIDADE DE TUIUTIBA\".\n\nLotes\n\nLote 1\n\nMaterial ou Serviço:\n\nServiço\nCritério de Julgamento:\n\nNão se aplica\nTipo de Benefício:\n\nNão se aplica\nIncentivo Produtivo Básico:\n\nNÃO\n\nOrçamento Sigiloso:\n\nNÃO\nCategoria do Item:\n\nNão se aplica\n\nQuantidade:\n\n1,00\nUnidade de Medida:\n\nUND\nValor Unitário Estimado:\n\n95.000,00\nValor Total:\n\n95.000,00\n\nAplicabilidade da Margem de Preferência Normal:\n\nNÃO\n\nAplicabilidade da Margem de Preferência Adicional:\n\nNÃO\n\nExigência de Conteúdo Nacional:\n\nNÃO\n\nObjeto/Descrição:\n\nCONTRATAÇÃO DA BANDA OS CLONES DO BRASIL PARA APRESENTAÇÃO DE SHOW MUSICAL EM PALCO, COM DURAÇÃO\n\nDE 90 MINUTOS NOVA PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA\n\nAPRESENTAÇÃO NO EVENTO \"FESTEJO DA COMUNIDADE DE LIMOEIRO\".\n\nLotes\n\nLote 1\n\nMaterial ou Serviço:\n\nServiço\nCritério de Julgamento:\n\nNão se aplica\nTipo de Benefício:\n\nNão se aplica\nIncentivo Produtivo Básico:\n\nNÃO\n\nOrçamento Sigiloso:\n\nNÃO\nCategoria do Item:\n\nNão se aplica\n\nQuantidade:\n\n1,00\nUnidade de Medida:\n\nUND\nValor Unitário Estimado:\n\n35.000,00\nValor Total:\n\n35.000,00\n\nAplicabilidade da Margem de Preferência Normal:\n\nNÃO\n\nAplicabilidade da Margem de Preferência Adicional:\n\nNÃO\n\nExigência de Conteúdo Nacional:\n\nNÃO\n\nObjeto/Descrição:\n\nCONTRATAÇÃO DO CANTOR DORY CASA NOVA PARA APRESENTAÇÃO DE SHOW MUSICAL EM PALCO, COM DURAÇÃO DE\n\n90 MINUTOS",
-      "orgao": "Campo Formoso",
-      "cnpj_orgao": "",
-      "municipio": "Campo Formoso",
-      "uf": "BA",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2906006/2026-09-29/ece867a576c6ff87f2f4191c52c1c43858487ff8.pdf",
-      "link_origem": "",
-      "score": 54,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": true,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "FORRÓ PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA\n\nAPRESENTAÇÃO NO EVENTO \"FESTEJOS DA COMUNIDADE DE TUIUTIBA\".\n\nLotes\n\nLote 1\n\nMaterial ou Serviço:\n\nServiço\nCritério de Julgamento:\n\nNão se aplica\nTipo de Benefício:\n\nNão se aplica\nIncentivo Produtivo Básico:\n\nNÃO\n\nOrçamento Sigiloso:\n\nNÃO\nCategoria do Item:\n\nNão se aplica\n\nQuantidade:\n\n1,00\nUnidade de Medida:\n\nUND\nValor Unitário Estimado:\n\n27.000,00\nValor Total:\n\n27.000,00\n\nAplicabilidade da Margem de Preferência Normal:\n\nNÃO\n\nAplicabilidade da Margem de Preferência Adicional:\n\nNÃO\n\nExigência de Conteúdo Nacional:\n\nNÃO\n\nObjeto/Descrição:\n\nCONTRATAÇÃO DO CANTOR SÉRGIO DO FORRÓ PARA APRESE4NTAÇÃO DE SHOW MUSICAL EM PALCO, COM DURAÇÃO DE\n\n2 HORAS BRASIL PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA\n\nAPRESENTAÇÃO NO EVENTO \"FESTEJOS DA COMUNIDADE DE TUIUTIBA\".\n\nLotes\n\nLote 1\n\nMaterial ou Serviço:\n\nServiço\nCritério de Julgamento:\n\nNão se aplica\nTipo de Benefício:\n\nNão se aplica\nIncentivo Produtivo Básico:\n\nNÃO\n\nOrçamento Sigiloso:\n\nNÃO\nCategoria do Item:\n\nNão se aplica\n\nQuantidade:\n\n1,00\nUnidade de Medida:\n\nUND\nValor Unitário Estimado:\n\n95.000,00\nValor Total:\n\n95.000,00\n\nAplicabilidade da Margem de Preferência Normal:\n\nNÃO\n\nAplicabilidade da Margem de Preferência Adicional:\n\nNÃO\n\nExigência de Conteúdo Nacional:\n\nNÃO\n\nObjeto/Descrição:\n\nCONTRATAÇÃO DA BANDA OS CLONES DO BRASIL PARA APRESENTAÇÃO DE SHOW MUSICAL EM PALCO, COM DURAÇÃO\n\nDE 90 MINUTOS NOVA PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA\n\nAPRESENTAÇÃO NO EVENTO \"FESTEJO DA COMUNIDADE DE LIMOEIRO\".\n\nLotes\n\nLote 1\n\nMaterial ou Serviço:\n\nServiço\nCritério de Julgamento:\n\nNão se aplica\nTipo de Benefício:\n\nNão se aplica\nIncentivo Produtivo Básico:\n\nNÃO\n\nOrçamento Sigiloso:\n\nNÃO\nCategoria do Item:\n\nNão se aplica\n\nQuantidade:\n\n1,00\nUnidade de Medida:\n\nUND\nValor Unitário Estimado:\n\n35.000,00\nValor Total:\n\n35.000,00\n\nAplicabilidade da Margem de Preferência Normal:\n\nNÃO\n\nAplicabilidade da Margem de Preferência Adicional:\n\nNÃO\n\nExigência de Conteúdo Nacional:\n\nNÃO\n\nObjeto/Descrição:\n\nCONTRATAÇÃO DO CANTOR DORY CASA NOVA PARA APRESENTAÇÃO DE SHOW MUSICAL EM PALCO, COM DURAÇÃO DE\n\n90 MINUTOS",
-      "uid": "e8c41f20273ecfbe"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2709103/2026-09-29/b7f5f54c54a58dd13fe331e92cb307b9.txt",
-      "titulo": "DOM Taquarana/AL 2026-09-29",
-      "objeto": "diariomunicipal.com.br/ama                                                                                42 \n\n \n\nGABINETE DO PREFEITO \n\nCONTRATO Nº 60/2026 – CPL \n\n \n\nDAS PARTES: MUNICÍPIO DE TAQUARANA E A EMPRESA M \n\nC A SILVA. \n\nCNPJ Nº 66.161.056/0001-36. \n\nOBJETO: Obriga-se a CONTRATADA por força deste instrumento, \n\nrealizar apresentação de show musical da Banda/artista MILENA \n\nARAÚJO para a festa de Padre Cícero, na comunidade Quilombo \n\nMameluco, Sítio Novo, zona rural do Município de Taquarana/AL a \n\nse realizar no dia 26 de setembro de 2026, de conformidade com a \n\nproposta apresentada e regras expressas neste instrumento. \n\nDo valor: R$ 12.826,00. \n\nVigência: 04 (quatro) meses. \n\nData SIGNATÁRIOS: GERALDO CICERO DA SILVA/ \n\nCYLANE BRASIL TUPINAMBA. \n\nPublicado por: \nJanete de Oliveira Gomes Barbosa \n\n\nCódigo Identificador:288459B1\n \n\n \nGABINETE DO PREFEITO \n\nTERMO DE RATIFICAÇÃO \n\n \n\nRatifico por este termo, o processo administrativo nº 09170009/2026, \n\nque tem como objeto a contratação de empresa responsável pela \n\napresentação de show musical da Banda/artista MILENA ARAÚJO \n\npara a festa de Padre Cícero, na comunidade Quilombo Mameluco, \n\nSítio Novo, zona rural do Município de Taquarana/AL a se realizar no \n\ndia 26 de setembro de 2026, de conformidade com a proposta \n\napresentada e regras expressas no instrumento contratual, junto à \n\nempresa M C a SILVA (Nome Fantasia: Milena Produções",
-      "orgao": "Taquarana",
-      "cnpj_orgao": "",
-      "municipio": "Taquarana",
-      "uf": "AL",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-09-29/eba66af2865d380a493a4d7847c64109ee2821b4.pdf",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "diariomunicipal.com.br/ama                                                                                42 \n\n \n\nGABINETE DO PREFEITO \n\nCONTRATO Nº 60/2026 – CPL \n\n \n\nDAS PARTES: MUNICÍPIO DE TAQUARANA E A EMPRESA M \n\nC A SILVA. \n\nCNPJ Nº 66.161.056/0001-36. \n\nOBJETO: Obriga-se a CONTRATADA por força deste instrumento, \n\nrealizar apresentação de show musical da Banda/artista MILENA \n\nARAÚJO para a festa de Padre Cícero, na comunidade Quilombo \n\nMameluco, Sítio Novo, zona rural do Município de Taquarana/AL a \n\nse realizar no dia 26 de setembro de 2026, de conformidade com a \n\nproposta apresentada e regras expressas neste instrumento. \n\nDo valor: R$ 12.826,00. \n\nVigência: 04 (quatro) meses. \n\nData SIGNATÁRIOS: GERALDO CICERO DA SILVA/ \n\nCYLANE BRASIL TUPINAMBA. \n\nPublicado por: \nJanete de Oliveira Gomes Barbosa \n\n\nCódigo Identificador:288459B1\n \n\n \nGABINETE DO PREFEITO \n\nTERMO DE RATIFICAÇÃO \n\n \n\nRatifico por este termo, o processo administrativo nº 09170009/2026, \n\nque tem como objeto a contratação de empresa responsável pela \n\napresentação de show musical da Banda/artista MILENA ARAÚJO \n\npara a festa de Padre Cícero, na comunidade Quilombo Mameluco, \n\nSítio Novo, zona rural do Município de Taquarana/AL a se realizar no \n\ndia 26 de setembro de 2026, de conformidade com a proposta \n\napresentada e regras expressas no instrumento contratual, junto à \n\nempresa M C a SILVA (Nome Fantasia: Milena Produções",
-      "uid": "cbd98fa9d2a3afe8"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "30899445000116-1-000056/2026",
-      "titulo": "Aviso de Contratação Direta nº 32.2026/2026",
-      "objeto": "Contratação de empresa especializada em produção musical, com disponibilização de equipe técnica qualificada para acompanhamento, orientação e preparação musical dos estudantes da rede pública municipal de ensino de Jequié-BA, bem como para a organização, produção e realização de festival e show musical vinculados ao Projeto Festival Som do Sol, de caráter educativo, artístico ê cultural, visando ao desenvolvimento das habilidades musicais, à promoção da expressão artística e ao fortalecimento d",
-      "orgao": "SECRETARIA MUNICIPAL DE EDUCACAO DE JEQUIE",
-      "cnpj_orgao": "30899445000116",
-      "municipio": "Jequié",
-      "uf": "BA",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29T15:48:12.918867",
-      "data_abertura": "",
-      "data_limite": "2026-10-06T09:55",
-      "link": "https://pncp.gov.br/compras/30899445000116/2026/56",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "d8409f1b1efe5679"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "14235907000144-1-000119/2026",
-      "titulo": "Edital nº 018/2026",
-      "objeto": "[LICITANET] - Registro de preço para eventual contratação de empresa especializada para prestação de serviços de Produção de Eventos e Apresentações Artísticas, a serem utilizados nos festejos e comemorações tradicionais durante o exercício de 2026 a 2027 no Município de Cairu através da Secretaria Municipal de Cultura. Conforme especificação contidas neste termo de referência ",
-      "orgao": "MUNICIPIO DE CAIRU",
-      "cnpj_orgao": "14235907000144",
-      "municipio": "Cairu",
-      "uf": "BA",
-      "modalidade": "Pregão - Eletrônico",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29T13:57:56.460642",
-      "data_abertura": "",
-      "data_limite": "2026-10-14T09:00",
-      "link": "https://pncp.gov.br/compras/14235907000144/2026/119",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "3b277304322656b9"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "07954480000179-1-025169/2026",
-      "titulo": "Aviso de Contratação Direta nº 202633288/2026",
-      "objeto": "Aquisição de sapatos e sapatilhas destinados à composição do figurino do Grupo de Dança e Teatro da EEEP Jaime da Cunha Rebouças, considerando a necessidade de garantir a adequada caracterização dos estudantes durante as apresentações artísticas e culturais promovidas pela instituição.",
-      "orgao": "ESTADO DO CEARA",
-      "cnpj_orgao": "07954480000179",
-      "municipio": "Icapuí",
-      "uf": "CE",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29T13:57:46.644690",
-      "data_abertura": "",
-      "data_limite": "2026-10-02T14:00",
-      "link": "https://pncp.gov.br/compras/07954480000179/2026/25169",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "3cfc1e06d43508e9"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "43774774000182-1-000002/2026",
-      "titulo": "Edital nº PCE 1/2026",
-      "objeto": "REGISTRO DE PREÇOS PARA CONTRATAÇÃO FUTURA E PARCELADA, DE ATRAÇÃO ARTÍSTICA MUSICAL, DESTINADA AO ATENDIMENTO DAS DEMANDAS DO PROGRAMA DE ATENÇÃO À PESSOA IDOSA DO MUNICÍPIO DE VIDEIRA/SC",
-      "orgao": "FUNDO MUNICIPAL DO IDOSO DE VIDEIRA",
-      "cnpj_orgao": "43774774000182",
-      "municipio": "Videira",
+      "fonte": "pncp",
+      "id_externo": "04894677000171-1-000037/2026",
+      "titulo": "Credenciamento PRI 5/2026",
+      "objeto": "O PRESENTE PROCESSO DE CREDENCIAMENTO DE ARTISTA E PROFISSIONAIS DE ARTE E CULTURA, TEM COMO OBJETIVO PROMOVER PROJETOS E AÇÕES QUE VISAM FOMENTAR A PRODUÇÃO TURÍSTICA PARA ATENDER A PROGRAMAÇÃO DE EVENTOS REALIZADOS E/OU APOIADOS PELA PELO MUNICÍPIO DE BRUSQUE E SUAS SECRETARIAS E FUNDAÇÕES",
+      "orgao": "FUNDACAO CULTURAL DE BRUSQUE",
+      "cnpj_orgao": "04894677000171",
+      "municipio": "Brusque",
       "uf": "SC",
-      "modalidade": "Pregão - Eletrônico",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-09-29T17:32:41.888775",
-      "data_abertura": "",
-      "data_limite": "2026-10-14T08:59",
-      "link": "https://pncp.gov.br/compras/43774774000182/2026/2",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 937106.83,
+      "data_publicacao": "2026-09-30T14:58:59",
+      "data_abertura": "2026-09-10T08:00:00",
+      "data_limite": "2027-09-10T08:00:00",
+      "link": "https://pncp.gov.br/app/editais/04894677000171/1/000037/2026",
       "link_origem": "",
       "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
+      "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "903a21d746e8900e"
+      "uid": "9960f2000570ab6b"
     }
   ]
 }
