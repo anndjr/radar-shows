@@ -1,160 +1,3204 @@
 {
-  "gerado_em": "2026-10-01T17:13:34",
-  "total_brutos": 1935,
-  "total_aprovados": 325,
-  "total_novos": 6,
+  "gerado_em": "2026-10-02T00:35:06",
+  "total_brutos": 1680,
+  "total_aprovados": 320,
+  "total_novos": 102,
   "oportunidades": [
     {
-      "fonte": "pncp_search",
-      "id_externo": "21763447000192-1-000116/2026",
-      "titulo": "Edital de Chamamento Público nº 006/2026",
-      "objeto": "CREDENCIAMENTO DE ARTISTAS, BANDAS E GRUPOS MUSICAIS LOCAIS E REGIONAIS, NOS VARIADOS ESTILOS PARA POSSÍVEIS E FUTURAS CONTRATAÇÕES, VISANDO ATENDER ÀS DEMANDAS DE EVENTOS CULTURAIS, FESTIVOS, COMEMORATIVOS, INSTITUCIONAIS OU PROMOCIONAIS, PROMOVIDOS OU APOIADOS PELO MUNICÍPIO DE AMELIA RODRIGUES - BA....",
-      "orgao": "FUNDO MUNICIPAL DE EDUCACAO - FME",
-      "cnpj_orgao": "21763447000192",
-      "municipio": "Amélia Rodrigues",
-      "uf": "BA",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-01T09:06:33.889374268",
-      "data_abertura": "",
-      "data_limite": "2027-10-08T23:59",
-      "link": "https://pncp.gov.br/compras/21763447000192/2026/116",
-      "link_origem": "",
-      "score": 37,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
-        ],
-        "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
-        ],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "f6beabc6965a5438"
-    },
-    {
       "fonte": "pncp",
-      "id_externo": "21763447000192-1-000116/2026",
-      "titulo": "Credenciamento 006/2026",
-      "objeto": "CREDENCIAMENTO DE ARTISTAS, BANDAS E GRUPOS MUSICAIS LOCAIS E REGIONAIS, NOS VARIADOS ESTILOS PARA POSSÍVEIS E FUTURAS CONTRATAÇÕES, VISANDO ATENDER ÀS DEMANDAS DE EVENTOS CULTURAIS, FESTIVOS, COMEMORATIVOS, INSTITUCIONAIS OU PROMOCIONAIS, PROMOVIDOS OU APOIADOS PELO MUNICÍPIO DE AMELIA RODRIGUES - BA....",
-      "orgao": "FUNDO MUNICIPAL DE EDUCACAO - FME",
-      "cnpj_orgao": "21763447000192",
-      "municipio": "Amélia Rodrigues",
-      "uf": "BA",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 546172.61,
-      "data_publicacao": "2026-10-01T09:06:33",
-      "data_abertura": "2026-10-08T16:00:00",
-      "data_limite": "2027-10-08T23:59:00",
-      "link": "https://pncp.gov.br/app/editais/21763447000192/1/000116/2026",
-      "link_origem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]HpmttMN6TOX/esAkeX0TCcnjHXRtVRSmFrILLARcGGnLbmRgmmIUW3La2/zfnghYuJ0egNzUp79Fr6ZYqAwEdugMOry0R05eU3lMsIGNfZ0=",
-      "score": 28,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
-        ],
-        "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "398420411be287b4"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "83024257000100-1-000459/2026",
-      "titulo": "Edital de Chamamento Público nº PRI 92/2026",
-      "objeto": "Contratação de prestadores de serviços artísticos/culturais de música, contação de história e intervenção artística, para participação nos eventos de pequeno e médio porte, nos termos do Edital de Credenciamento nº 05/2025.",
-      "orgao": "MUNICIPIO DE CONCORDIA",
-      "cnpj_orgao": "83024257000100",
-      "municipio": "Concórdia",
-      "uf": "SC",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-01T13:57:38.869385",
-      "data_abertura": "",
-      "data_limite": "2026-10-01T16:56:58",
-      "link": "https://pncp.gov.br/compras/83024257000100/2026/459",
-      "link_origem": "",
-      "score": 21,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
-        ],
-        "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "8ff04e9d28c02db8"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "83024257000100-1-000459/2026",
-      "titulo": "Credenciamento PRI 92/2026",
-      "objeto": "Contratação de prestadores de serviços artísticos/culturais de música, contação de história e intervenção artística, para participação nos eventos de pequeno e médio porte, nos termos do Edital de Credenciamento nº 05/2025.",
-      "orgao": "MUNICIPIO DE CONCORDIA",
-      "cnpj_orgao": "83024257000100",
-      "municipio": "Concórdia",
-      "uf": "SC",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 3100.0,
-      "data_publicacao": "2026-10-01T13:57:38",
-      "data_abertura": "2026-10-01T16:56:57",
-      "data_limite": "2026-10-01T16:56:58",
-      "link": "https://pncp.gov.br/app/editais/83024257000100/1/000459/2026",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "d4fbacafa9db6900"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "18277947000100-1-000330/2026",
-      "titulo": "Dispensa 8.000257/2026",
-      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA TÉCNICA À DIRETORIA MUNICIPAL DE CULTURA, DESTINADOS AO APOIO, ACOMPANHAMENTO E EXECUÇÃO DAS AÇÕES DO CICLO 2 DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA PNAB, ABRANGENDO AS ATIVIDADES TÉCNICAS PREVISTAS.",
-      "orgao": "MUNICIPIO DE GUARDA-MOR",
-      "cnpj_orgao": "18277947000100",
-      "municipio": "Guarda-Mor",
-      "uf": "MG",
-      "modalidade": "Dispensa",
-      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
-      "valor_estimado": 3169.83,
-      "data_publicacao": "2026-09-28T09:48:51",
+      "id_externo": "27142702000166-1-000430/2026",
+      "titulo": "Inexigibilidade 318/2026",
+      "objeto": "Contratação da banda FORRO CHEGA MAIS, representado pela empresa GILBERTOGIL DIAS MOURA 11511894725, CNPJ Nº 47.509.648/0001-51, para a realização de 01 (um) show musical, a ser apresentado no dia 02 de outubro de 2026, às 20h, na FEIRINHA COMUNITÁRIA JACUPEMBA, no Município de Aracruz/ES.",
+      "orgao": "MUNICIPIO DE ARACRUZ",
+      "cnpj_orgao": "27142702000166",
+      "municipio": "Aracruz",
+      "uf": "ES",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 3000.0,
+      "data_publicacao": "2026-09-29T09:46:20",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/18277947000100/1/000330/2026",
+      "link": "https://pncp.gov.br/app/editais/27142702000166/1/000430/2026",
       "link_origem": "",
+      "score": 54,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "fe9e6560fed4ebc9"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13908702000110-1-000172/2026",
+      "titulo": "Inexigibilidade 101/2026",
+      "objeto": "CONTRATAÇÃO ARTÍSTICA DO CANTOR SÉRGIO DO FORRÓ PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA APRESENTAÇÃO NO EVENTO \"FESTEJOS DA COMUNIDADE DE TUIUTIBA\".",
+      "orgao": "MUNICIPIO DE CAMPO FORMOSO",
+      "cnpj_orgao": "13908702000110",
+      "municipio": "Campo Formoso",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 27000.0,
+      "data_publicacao": "2026-09-29T10:14:47",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13908702000110/1/000172/2026",
+      "link_origem": "",
+      "score": 42,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d34111656e6e41ca"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08349094000110-1-000041/2026",
+      "titulo": "Inexigibilidade 045/2026/2026",
+      "objeto": "Contratação de pessoa jurídica para a prestação de serviços de show artístico-musical do cantor RAMONZINHO (Ramon Victor de Oliveira), para apresentação no evento \"EXPO DISSÉ 2026: Exposição Agropecuária de Governador Dix-Sept Rosado/RN",
+      "orgao": "MUNICIPIO DE GOVERNADOR DIX-SEPT ROSADO",
+      "cnpj_orgao": "08349094000110",
+      "municipio": "Governador Dix-Sept Rosado",
+      "uf": "RN",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 2700.0,
+      "data_publicacao": "2026-09-29T10:55:53",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08349094000110/1/000041/2026",
+      "link_origem": "",
+      "score": 34,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\bexposic(ao|oes) agropecuaria\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6a5cbfcff8b8459b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "14043574000151-1-000369/2026",
+      "titulo": "Inexigibilidade 267-2026-10I/2026",
+      "objeto": "APRESENTAÇÃO ARTISTA DA ATRAÇÃO VITINHO FORRÓ NO EVENTO 38º FESTA DO VAQUEIRO DO POV. DO ALECRIM MIÚDO DISTR. DA MATINHA - FEIRA DE SANTANA - BA NO DIA 20/09/2026, SHOW EM PALCO COM DURAÇÃO DE 90MIN.",
+      "orgao": "MUNICIPIO DE FEIRA DE SANTANA",
+      "cnpj_orgao": "14043574000151",
+      "municipio": "Feira de Santana",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 55000.0,
+      "data_publicacao": "2026-09-29T10:13:56",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/14043574000151/1/000369/2026",
+      "link_origem": "",
+      "score": 30,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "1885c3dfb9a5dc0c"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "04092672000125-1-000594/2026",
+      "titulo": "Inexigibilidade 0008736/2026",
+      "objeto": "Instalação de Forro / Peça Decorativa de Gesso - Teto / Parede",
+      "orgao": "MUNICIPIO DE JI-PARANA",
+      "cnpj_orgao": "04092672000125",
+      "municipio": "Ji-Paraná",
+      "uf": "RO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 12750.89,
+      "data_publicacao": "2026-09-29T11:10:43",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/04092672000125/1/000594/2026",
+      "link_origem": "",
+      "score": 18,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e48d1b259ebbe006"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08653479000177-1-000022/2026",
+      "titulo": "Inexigibilidade 020/2026",
+      "objeto": "CONTRATAÇÃO DA ATRAÇÃO MUSICAL: HENRY FREITAS, APRESENTAÇÃO NO DIA 20/09/2026, NAS FESTIVIDADES DO FORROMARES 2026, NO MUNICÍPIO DOS PALMARES",
+      "orgao": "FUNDACAO CASA DA CULTURA HERMILO BORBA FILHO",
+      "cnpj_orgao": "08653479000177",
+      "municipio": "Palmares",
+      "uf": "PE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 600000.0,
+      "data_publicacao": "2026-09-29T09:06:44",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08653479000177/1/000022/2026",
+      "link_origem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]OkPWi_w/3RqbVDStI4wbcwPJa83eWn5vNF5HvStL9NNtYJl4VLG/y4vPr64EXKZ4Z3OV9rv71HLGfoAW7MJF4rzqdsYq8Zni4yw74vPcm9U=",
+      "score": 52,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)",
+          "\\bempresario exclusivo\\b",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6984ac8ffea70a2c"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "21461546000110-1-000124/2026",
+      "titulo": "Inexigibilidade 58/2026",
+      "objeto": "CONTRATAÇÃO DE SHOW ARTÍSTICO DE NÍVEL NACIONAL, POR MEIO DE PROCESSO DE CONTRATAÇÃO DIRETA NA MODALIDADE INEXIGIBILIDADE DE LICITAÇÃO, ATRAVÉS DE EMPRESÁRIO EXCLUSIVO, PARA APRESENTAÇÃO MUSICAL AO VIVO DO ARTISTA TATAU, NA REALIZAÇÃO DO CARNAVAL DE RUA, PROMOVIDO PELO MUNICÍPIO DE JANUÁRIA.",
+      "orgao": "MUNICIPIO DE JANUARIA",
+      "cnpj_orgao": "21461546000110",
+      "municipio": "Januária",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 350000.0,
+      "data_publicacao": "2026-09-29T09:58:01",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/21461546000110/1/000124/2026",
+      "link_origem": "https://www.januaria.mg.gov.br/portal/editais/1",
+      "score": 52,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e699a9e52868e804"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000530/2026",
+      "titulo": "Inexigibilidade INEX403/2026",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS ARTÍSTICOS PARA APRESENTAÇÃO DE SHOW MUSICAL AO VIVO DA BANDA RANEYCHAS EM COMEMORAÇÃO AOS FESTEJOS DO PADROEIRO SÃO MIGUEL ARCANJO 2026, NO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 27 DE SETEMBRO DE 2026, NO DISTRITO DE VALE VERDE, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 90000.0,
+      "data_publicacao": "2026-09-29T11:24:35",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000530/2026",
+      "link_origem": "",
+      "score": 52,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "509effdc57bd122f"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "23515703000158-1-000071/2026",
+      "titulo": "Inexigibilidade 27/2026",
+      "objeto": "Contratação do show do “Grupo Art&Improviso”, para apresentação de Show artístico no dia, 18/04/2026, para o Festival de Outono no Município de Senhora de Oliveira-MG",
+      "orgao": "MUNICIPIO DE SENHORA DE OLIVEIRA",
+      "cnpj_orgao": "23515703000158",
+      "municipio": "Senhora de Oliveira",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 2000.0,
+      "data_publicacao": "2026-09-29T08:06:14",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/23515703000158/1/000071/2026",
+      "link_origem": "",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c73fcc13abdd253b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "46482865000132-1-000301/2026",
+      "titulo": "Inexigibilidade 67/2026",
+      "objeto": "CONTRATAÇÃO DO GRUPO MUSICAL FRANK AGUIAR PARA APRESENTAÇÃO MUSICAL NO EVENTO “Festa da Padroeira (Nossa Senhora Aparecida)”, ATRAVÉS DA EMPRESA “AURILUZ PRODUÇÕES ARTISTICAS LTDA.",
+      "orgao": "MUNICIPIO DE ILHABELA",
+      "cnpj_orgao": "46482865000132",
+      "municipio": "Ilhabela",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 75000.0,
+      "data_publicacao": "2026-09-29T10:55:40",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/46482865000132/1/000301/2026",
+      "link_origem": "",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e932f1aee18113b9"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01612474000157-1-000037/2026",
+      "titulo": "Inexigibilidade 17/2026",
+      "objeto": "CONTRATAÇÃO DE ATRAÇÃO MUSICAL DENOMINADA “TRIO REMELEXO BOM DEMAIS”, PARA REALIZAÇÃO DE SHOW ARTÍSTICO, DURANTE A “TRADICIONAL FESTA DA COMUNIDADE BARREIROSÃO FRANCISCO” NO MUNICÍPIO DE SÃO JOÃO DO PACUÍMG, A REALIZAR-SE NO DIA 10 DE OUTUBRO DE 2026",
+      "orgao": "MUNICIPIO DE SAO JOAO DO PACUI",
+      "cnpj_orgao": "01612474000157",
+      "municipio": "São João do Pacuí",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 100000.0,
+      "data_publicacao": "2026-09-29T11:15:04",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01612474000157/1/000037/2026",
+      "link_origem": "www.saojoaodopacui.mg.gov.br",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4c7fe041b1352e2b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01612474000157-1-000038/2026",
+      "titulo": "Inexigibilidade 18/2026",
+      "objeto": "CONTRATAÇÃO DE ATRAÇÃO MUSICAL DENOMINADA “DIOVANE SEVERO”, PARA REALIZAÇÃO DE SHOW ARTÍSTICO, DURANTE A “TRADICIONAL FESTA DA COMUNIDADE BARREIROSÃO FRANCISCO” NO MUNICÍPIO DE SÃO JOÃO DO PACUÍMG, A REALIZAR-SE NO DIA 10 DE OUTUBRO DE 2026.",
+      "orgao": "MUNICIPIO DE SAO JOAO DO PACUI",
+      "cnpj_orgao": "01612474000157",
+      "municipio": "São João do Pacuí",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 70000.0,
+      "data_publicacao": "2026-09-29T11:21:21",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01612474000157/1/000038/2026",
+      "link_origem": "www.saojoaodopacui.mg.gov.br",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0eda8ce0d5b81d90"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "15024029000180-1-000103/2026",
+      "titulo": "Inexigibilidade 29/2026",
+      "objeto": "CONTRATAÇÃO DE APRESENTACAO ARTISTICA - DO TIPO CONTRATACAO DE SHOW ARTISTICO, PALHAÇO ZABILIM PLIM PLIM",
+      "orgao": "MUNICIPIO DE SAO JOSE DOS QUATRO MARCOS",
+      "cnpj_orgao": "15024029000180",
+      "municipio": "São José dos Quatro Marcos",
+      "uf": "MT",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 10000.0,
+      "data_publicacao": "2026-09-29T11:21:56",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/15024029000180/1/000103/2026",
+      "link_origem": "https://saojosedosquatromarcos.mt.gov.br/",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5779f05f8918ebaf"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "23515703000158-1-000073/2026",
+      "titulo": "Inexigibilidade 22/2026",
+      "objeto": "Contratação do show “PAOLA MAIA”, para apresentação de Show artístico no dia, 02/05/2026, para o FESTIVAL GASTRONÔMICO no Município de Senhora de Oliveira-MG.",
+      "orgao": "MUNICIPIO DE SENHORA DE OLIVEIRA",
+      "cnpj_orgao": "23515703000158",
+      "municipio": "Senhora de Oliveira",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 10000.0,
+      "data_publicacao": "2026-09-29T12:42:35",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/23515703000158/1/000073/2026",
+      "link_origem": "",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "19074cb5b8affd04"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08999674000153-1-000151/2026",
+      "titulo": "Inexigibilidade 008/2026",
+      "objeto": "[Portal de Compras Públicas] - Contratação de show artístico da banda LUCAS TÔ DE BOA, através de empresa exclusiva, para apresentação musical em evento festivo cultural em alusão ao Sorrifolia2026, no dia 17 de fevereiro de 2026, com duração de 01:30 horas, em praça pública no distrito de São Gonçalo - PB.",
+      "orgao": "MUNICIPIO DE SOUSA",
+      "cnpj_orgao": "08999674000153",
+      "municipio": "Sousa",
+      "uf": "PB",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, caput Inexigibilidade de Licitação: Todas as formas de inexigibilidade não previstas no art. 74",
+      "valor_estimado": 30000.0,
+      "data_publicacao": "2026-09-29T10:11:06",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08999674000153/1/000151/2026",
+      "link_origem": "https://www.portaldecompraspublicas.com.br/processos/PB/Prefeitura-Municipal-de-Sousa-1285/INEX-008-2026-2026-514774",
+      "score": 40,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0073c8fa468ccd0e"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08999674000153-1-000156/2026",
+      "titulo": "Inexigibilidade 011/2026",
+      "objeto": "[Portal de Compras Públicas] - Contratação de show artístico da banda Alberto Bakana, através de empresa exclusiva, para apresentação musical em evento festivo cultural em alusão ao Sorrifolia 2026, no dia 15 de fevereiro de 2026, com duração de 01 (uma) hora, em praça pública no distrito de São Gonçalo-PB",
+      "orgao": "MUNICIPIO DE SOUSA",
+      "cnpj_orgao": "08999674000153",
+      "municipio": "Sousa",
+      "uf": "PB",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, caput Inexigibilidade de Licitação: Todas as formas de inexigibilidade não previstas no art. 74",
+      "valor_estimado": 40000.0,
+      "data_publicacao": "2026-09-29T11:27:10",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08999674000153/1/000156/2026",
+      "link_origem": "https://www.portaldecompraspublicas.com.br/processos/PB/Prefeitura-Municipal-de-Sousa-1285/INEX-011-2026-2026-514830",
+      "score": 40,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e949ad13503b259b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "18243220000101-1-000146/2026",
+      "titulo": "Inexigibilidade IL 46/2026",
+      "objeto": "Contratação direta, por inexigibilidade de licitação, de empresa especializada para prestação de serviços artísticos, consistente na apresentação musical (show) do cantor Thiago Carvalho, por intermédio de sua empresária exclusiva, a empresa Tribo de Judá Administradora de Shows e Editora Musical Ltda., inscrita no CNPJ nº 32.999.842/0001-95, a ser realizada no dia 15 de outubro de 2026, no Município de Alfenas/MG, em comemoração à Semana do Aniversário da Cidade, conforme especificações, condições e valores constantes da proposta comercial e demais documentos técnicos que instruem o presente processo.",
+      "orgao": "MUNICIPIO DE ALFENAS",
+      "cnpj_orgao": "18243220000101",
+      "municipio": "Alfenas",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 150000.0,
+      "data_publicacao": "2026-09-29T11:40:58",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/18243220000101/1/000146/2026",
+      "link_origem": "",
+      "score": 40,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "58236b914d099443"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "06307102000130-1-000491/2026",
+      "titulo": "Inexigibilidade 708/2026",
+      "objeto": "Serviço de contratação do cantor Diego Fernandes para apresentação artística como atração do aniversário da cidade\nde São Luis 2026.",
+      "orgao": "MUNICIPIO DE SAO LUIS",
+      "cnpj_orgao": "06307102000130",
+      "municipio": "São Luís",
+      "uf": "MA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 95000.0,
+      "data_publicacao": "2026-09-29T12:09:44",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/06307102000130/1/000491/2026",
+      "link_origem": "",
+      "score": 40,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "31e75b74d233de41"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13879390000163-1-000089/2026",
+      "titulo": "Inexigibilidade 445/2026",
+      "objeto": "Apresentação de show musical por parte do artista musical (TARCÍSIO DO\nACORDEON), ao público durante o evento festivo e tradicional  GENTIO FEST  a\nrealizar   se no dia 13 de novembro de 2026 na cidade de Gentio do Ouro/BA.",
+      "orgao": "MUNICIPIO DE GENTIO DO OURO",
+      "cnpj_orgao": "13879390000163",
+      "municipio": "Gentio do Ouro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 500000.0,
+      "data_publicacao": "2026-09-29T12:31:54",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13879390000163/1/000089/2026",
+      "link_origem": "",
+      "score": 40,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "824e428d68eafd36"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "83021808000182-1-000618/2026",
+      "titulo": "Inexigibilidade 410/2026",
+      "objeto": "CONTRATAÇÃO DE SHOW ARTÍSTICO MUSICAL DA “BANDA CAVALINHO” PARA COMPOR O ROL DE ATRAÇÕES GRATUITAS DA PROGRAMAÇÃO DO EVENTO “OKTOBERFEST 2026” À ACONTECER NO DIA 06 DE NOVEMBRO DE 2026 NO MUNICÍPIO DE CHAPECÓ/SC",
+      "orgao": "MUNICIPIO DE CHAPECO",
+      "cnpj_orgao": "83021808000182",
+      "municipio": "Chapecó",
+      "uf": "SC",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 32000.0,
+      "data_publicacao": "2026-09-29T08:46:25",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/83021808000182/1/000618/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5644aa353aaf5e0d"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13107453000163-1-000079/2026",
+      "titulo": "Inexigibilidade 36/2026",
+      "objeto": "CONTRATAÇÃO DE SHOW ARTÍSTICO, DO ARTISTA TARCISIO DO ACORDEON,  PARA NA FESTA DE REIS, A SER REALIZADA PELO MUNICÍPIO DE SALGADO/SE NO DIA 09 DE JANEIRO DE 2027.",
+      "orgao": "MUNICIPIO DE SALGADO",
+      "cnpj_orgao": "13107453000163",
+      "municipio": "Salgado",
+      "uf": "SE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 500000.0,
+      "data_publicacao": "2026-09-29T10:00:43",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13107453000163/1/000079/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "ab032c2762152f68"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13107453000163-1-000080/2026",
+      "titulo": "Inexigibilidade 37/2026",
+      "objeto": "CONTRATAÇÃO DE SHOW ARTÍSTICO, DO ARTISTA DEVINHO NOVAIS, PARA NA FESTA DE REIS, A SER REALIZADA PELO MUNICÍPIO DE SALGADO/SE NO DIA 09 DE JANEIRO DE 2027.",
+      "orgao": "MUNICIPIO DE SALGADO",
+      "cnpj_orgao": "13107453000163",
+      "municipio": "Salgado",
+      "uf": "SE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 280000.0,
+      "data_publicacao": "2026-09-29T10:01:30",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13107453000163/1/000080/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "1abd8b4109453df0"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "27142702000166-1-000432/2026",
+      "titulo": "Inexigibilidade 321/2026",
+      "objeto": "Contratação da cantora LINDY DOS SANTOS, representada pela empresa 55.024.401 LINDSAY DOS SANTOS DA COSTA, inscrita no CNPJ nº 55.024.401/0001-73, para a realização de 01 (um) show musical, com duração de 01h30min (uma hora e meia), a ser apresentado no dia 31 de outubro de 2026, às 19h00min, no município de Aracruz/ES, integrando a programação oficial da “FESTA DO BAIRRO VILLAGE COQUEIRAL ”.",
+      "orgao": "MUNICIPIO DE ARACRUZ",
+      "cnpj_orgao": "27142702000166",
+      "municipio": "Aracruz",
+      "uf": "ES",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 1500.0,
+      "data_publicacao": "2026-09-29T10:08:36",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/27142702000166/1/000432/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "dbc5a6d17d506830"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "14100747000126-1-000184/2026",
+      "titulo": "Inexigibilidade 093/2026",
+      "objeto": "Contratação de show do cantor Gustavinho Santos, no dia 28 de setembro de 2026, para apresentação musical nos festejos de São Miguel, no povoado de Malhada de areia, Município de Riachão das Neves-BA",
+      "orgao": "MUNICIPIO DE RIACHAO DAS NEVES",
+      "cnpj_orgao": "14100747000126",
+      "municipio": "Riachão das Neves",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 4000.0,
+      "data_publicacao": "2026-09-29T11:09:00",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/14100747000126/1/000184/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "aeb3b222219ea94c"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "53221701000117-1-000074/2026",
+      "titulo": "Inexigibilidade 12/2026",
+      "objeto": "Contratação de Show Artístico Musical destinado ao Evento denominado “FESTIVAL APRAZÍVEL 2026”.",
+      "orgao": "MUNICIPIO DE MONTE APRAZIVEL",
+      "cnpj_orgao": "53221701000117",
+      "municipio": "Monte Aprazível",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 8000.0,
+      "data_publicacao": "2026-09-29T11:21:15",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/53221701000117/1/000074/2026",
+      "link_origem": "http://170.0.24.38:8079/comprasedital/",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e02ad40dbe85b8d3"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "21763447000192-1-000114/2026",
+      "titulo": "Inexigibilidade 120/2026",
+      "objeto": "CONTRATAÇÃO DE SHOW ARTISTICO A SER REALIZADO PELO ARTISTA JHEOVANE, PARA QUE SE APRESENTE NESTE MUNICÍPIO, NA DATA DE 26/09/2026, EM EVENTO 2ª EDIÇÃO DO FESTIVAL DO ENGENHO, NO MUNICÍPIO DE AMÉLIA RODRIGUES - BA.",
+      "orgao": "FUNDO MUNICIPAL DE EDUCACAO - FME",
+      "cnpj_orgao": "21763447000192",
+      "municipio": "Amélia Rodrigues",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 57000.0,
+      "data_publicacao": "2026-09-29T12:11:28",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/21763447000192/1/000114/2026",
+      "link_origem": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]Kwn97mRAAINWsPt7D3CcRngvkqm7GQOm5v_qbdj7hDAGaFNFF4xIClbJg58sI2lsLO83qM0Oy5vQF0ubYKQzwpl4KJVvqRj0By5JEePV2EY=",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c47d4d461b7f6956"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "21763447000192-1-000115/2026",
+      "titulo": "Inexigibilidade 121/2026",
+      "objeto": "CONTRATAÇÃO DE SHOW ARTISTICO A SER REALIZADO PELA BANDA DELIRIUS DO OLHAR, PARA QUE SE APRESENTE NESTE MUNICÍPIO, NA DATA DE 26/09/2026, EM EVENTO 2ª EDIÇÃO DO FESTIVAL DO ENGENHO, NO MUNICÍPIO DE AMÉLIA RODRIGUES - BA.",
+      "orgao": "FUNDO MUNICIPAL DE EDUCACAO - FME",
+      "cnpj_orgao": "21763447000192",
+      "municipio": "Amélia Rodrigues",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 15000.0,
+      "data_publicacao": "2026-09-29T12:12:03",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/21763447000192/1/000115/2026",
+      "link_origem": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]vWySFk4dw7Rw9YSeR/ZLC9foFoGAQs16tRXysGgn0_XXIIiyvdQH5qQBfmKLIel4dOaTDBEkKE1bsZxf6iBkPkEwjuBJg0LTJBulHkqHUZY=",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6a7be66b00190b6e"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3157005/2026-09-30/937daff26596fdca6b19eb1f889091a07470b3e9.txt",
+      "titulo": "DOM Salinas/MG 2026-09-30",
+      "objeto": "36.820.352/0001-30. Valor total:  R$ 119.600,00. \nVigência: 31/12/2026.\n\nSalinas/MG, 03 de junho de 2026. Cledson Pereira – Agente de Contratação\nJoaquim Neres Xavier Dias – Prefeito Municipal\n\nCONTRATO Nº. 102/2026 - PROCESSO Nº. 086/2026 - INEXIGIBILIDADE Nº. 022/2026\nObjeto:  contratação da atração “CLAYTON E ROMÁRIO” para apresentação de show musical no evento “XXIII Festival \nMundial da Cachaça” a ser realizado no dia 12 de julho de 2026, em Salinas/MG. Contratada:  C & R PRODUÇÕES E \nEVENTOS LTDA, inscrita no CNPJ/MF sob o nº. 13.712.200/0001-19. Valor total: R$ 300.000,00. Vigência: 31/12/2026.\n\nSalinas/MG, 09 de junho de 2026. Cledson Pereira – Agente de Contratação\nJoaquim Neres Xavier 36.820.352/0001-30. Valor total:  R$ 119.600,00. \nVigência: 31/12/2026.\n\nSalinas/MG, 03 de junho de 2026. Cledson Pereira – Agente de Contratação\nJoaquim Neres Xavier Dias – Prefeito Municipal\n\nCONTRATO Nº. 102/2026 - PROCESSO Nº. 086/2026 - INEXIGIBILIDADE Nº. 022/2026\nObjeto:  contratação da atração “CLAYTON E ROMÁRIO” para apresentação de show musical no evento “XXIII Festival \nMundial da Cachaça” a ser realizado no dia 12 de julho de 2026, em Salinas/MG. Contratada:  C & R PRODUÇÕES E \nEVENTOS LTDA, inscrita no CNPJ/MF sob o nº. 13.712.200/0001-19. Valor total: R$ 300.000,00. Vigência: 31/12/2026.\n\nSalinas/MG, 09 de junho de 2026. Cledson Pereira – Agente de Contratação\nJoaquim Neres Xavier",
+      "orgao": "Salinas",
+      "cnpj_orgao": "",
+      "municipio": "Salinas",
+      "uf": "MG",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-30",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3157005/2026-09-30/937daff26596fdca6b19eb1f889091a07470b3e9.pdf",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "36.820.352/0001-30. Valor total:  R$ 119.600,00. \nVigência: 31/12/2026.\n\nSalinas/MG, 03 de junho de 2026. Cledson Pereira – Agente de Contratação\nJoaquim Neres Xavier Dias – Prefeito Municipal\n\nCONTRATO Nº. 102/2026 - PROCESSO Nº. 086/2026 - INEXIGIBILIDADE Nº. 022/2026\nObjeto:  contratação da atração “CLAYTON E ROMÁRIO” para apresentação de show musical no evento “XXIII Festival \nMundial da Cachaça” a ser realizado no dia 12 de julho de 2026, em Salinas/MG. Contratada:  C & R PRODUÇÕES E \nEVENTOS LTDA, inscrita no CNPJ/MF sob o nº. 13.712.200/0001-19. Valor total: R$ 300.000,00. Vigência: 31/12/2026.\n\nSalinas/MG, 09 de junho de 2026. Cledson Pereira – Agente de Contratação\nJoaquim Neres Xavier 36.820.352/0001-30. Valor total:  R$ 119.600,00. \nVigência: 31/12/2026.\n\nSalinas/MG, 03 de junho de 2026. Cledson Pereira – Agente de Contratação\nJoaquim Neres Xavier Dias – Prefeito Municipal\n\nCONTRATO Nº. 102/2026 - PROCESSO Nº. 086/2026 - INEXIGIBILIDADE Nº. 022/2026\nObjeto:  contratação da atração “CLAYTON E ROMÁRIO” para apresentação de show musical no evento “XXIII Festival \nMundial da Cachaça” a ser realizado no dia 12 de julho de 2026, em Salinas/MG. Contratada:  C & R PRODUÇÕES E \nEVENTOS LTDA, inscrita no CNPJ/MF sob o nº. 13.712.200/0001-19. Valor total: R$ 300.000,00. Vigência: 31/12/2026.\n\nSalinas/MG, 09 de junho de 2026. Cledson Pereira – Agente de Contratação\nJoaquim Neres Xavier",
+      "uid": "f4e97dea627fa6fe"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "18349894000195-1-000065/2026",
+      "titulo": "Inexigibilidade 000022/2026",
+      "objeto": "Contratação de pessoa jurídica para realização de show de Durval Lelys, com duração de 1h30min, em razão das festividades comemorativas do aniversário da cidade de Almenara, a ocorrer em 16 janeiro de 2027.",
+      "orgao": "MUNICIPIO DE ALMENARA",
+      "cnpj_orgao": "18349894000195",
+      "municipio": "Almenara",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 500000.0,
+      "data_publicacao": "2026-09-29T10:06:01",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/18349894000195/1/000065/2026",
+      "link_origem": "",
+      "score": 32,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "8972476da497e093"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08999674000153-1-000153/2026",
+      "titulo": "Inexigibilidade 0026/2026",
+      "objeto": "[Portal de Compras Públicas] - Contratação de apresentação artística da Banda Lucas Soares, através de empresa exclusiva, para realização de show musical, durante evento festivo cultural denominado \"São Pedro da Lagoa\" a ser realizado no dia 26 de junho de 2026, na Lagoa dos Estrelas, município de Sousa - PB.",
+      "orgao": "MUNICIPIO DE SOUSA",
+      "cnpj_orgao": "08999674000153",
+      "municipio": "Sousa",
+      "uf": "PB",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, caput Inexigibilidade de Licitação: Todas as formas de inexigibilidade não previstas no art. 74",
+      "valor_estimado": 10000.0,
+      "data_publicacao": "2026-09-29T10:58:44",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08999674000153/1/000153/2026",
+      "link_origem": "https://www.portaldecompraspublicas.com.br/processos/PB/Prefeitura-Municipal-de-Sousa-1285/INEX-0026-2026-2026-514807",
+      "score": 28,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "13009532aea1e004"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000527/2026",
+      "titulo": "Inexigibilidade INEX397/2026",
+      "objeto": "CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº 002/2025 PARA APRESENTAÇÃO MUSICAL DE VOO DO ARROCHA, EM COMEMORAÇÃO AOS FESTEJOS DO PADROEIRO SÃO MIGUEL ARCANJO 2026, NO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 27 DE SETEMBRO DE 2026, NO DISTRITO DE VALE VERDE, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 6440.0,
+      "data_publicacao": "2026-09-29T11:16:36",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000527/2026",
+      "link_origem": "",
+      "score": 28,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "53dcf823702ce3a1"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08999674000153-1-000157/2026",
+      "titulo": "Inexigibilidade 014/2026",
+      "objeto": "[Portal de Compras Públicas] - Contratação de apresentação artística da Banda Noda de Caju, através de empresa exclusiva, para realização de show musical, durante evento festivo cultural denominado \"São Pedro das Antigas\", a ser realizado no dia 26 de junho de 2026, na Lagoa dos Estrelas, município de Sousa-PB",
+      "orgao": "MUNICIPIO DE SOUSA",
+      "cnpj_orgao": "08999674000153",
+      "municipio": "Sousa",
+      "uf": "PB",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, caput Inexigibilidade de Licitação: Todas as formas de inexigibilidade não previstas no art. 74",
+      "valor_estimado": 180000.0,
+      "data_publicacao": "2026-09-29T11:38:55",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08999674000153/1/000157/2026",
+      "link_origem": "https://www.portaldecompraspublicas.com.br/processos/PB/Prefeitura-Municipal-de-Sousa-1285/INEX-014-2026-2026-514838",
+      "score": 28,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "aa55da70c86a5fe4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "88587183000134-1-000223/2026",
+      "titulo": "Inexigibilidade 65/2026",
+      "objeto": "CONTRATAÇÃO DE ARTISTAS.",
+      "orgao": "MUNICIPIO DE CARLOS BARBOSA",
+      "cnpj_orgao": "88587183000134",
+      "municipio": "Carlos Barbosa",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 2200.0,
+      "data_publicacao": "2026-09-29T03:00:19",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/88587183000134/1/000223/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "159bd44cccd1f7e2"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01170331000132-1-000105/2026",
+      "titulo": "Inexigibilidade (8577) | 31463-0/2026",
+      "objeto": "SOLICITAÇÃO DE AUTORIZAÇÃO PARA CONTRATAÇÃO DO CANTOR EVANGÉLICO O PR. ANDERSON CARLOS PEREIRA DE OLIVEIRA LACERDA, PARA APRESENTAÇÃO NA VENDINHA DIA 27 DE SETEMBRO EM COMEMORAÇÃO AO DIA DO EVANGÉLICO, REALIZADO PELA SECRETARIA DE JUVENTUDE, TURISMO, E COMÉRCIO.",
+      "orgao": "MUNICIPIO DE PADRE BERNARDO",
+      "cnpj_orgao": "01170331000132",
+      "municipio": "Padre Bernardo",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 5500.0,
+      "data_publicacao": "2026-09-29T08:23:27",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01170331000132/1/000105/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "ee38493314b9f1f5"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "87849923000109-1-000698/2026",
+      "titulo": "Inexigibilidade 210/2026",
+      "objeto": "ABERTURA DE PROCESSO DE INEXIBILIDADE PARA CONTRATAÇÃO DA ARTISTA MONICA BLUME , NA PROGRAMAÇÃO DO EVENTO BENTO EM CENA, COM APRESENTAÇÕES DESTINADAS AS ESCOLAS DO MUNICIPIO DE\nBENTO GONÇALVES NOS DIAS 06 À 08 DE OUTUBRO DE 2026",
+      "orgao": "MUNICIPIO DE BENTO GONCALVES",
+      "cnpj_orgao": "87849923000109",
+      "municipio": "Bento Gonçalves",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 11200.0,
+      "data_publicacao": "2026-09-29T08:58:34",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/87849923000109/1/000698/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "159110bb9d7089c4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "87849923000109-1-000699/2026",
+      "titulo": "Inexigibilidade 211/2026",
+      "objeto": "ABERTURA DE PROCESSO DE INEXIBILIDADE PARA CONTRATAÇÃO DA ARTISTA NONA GEMA (NATALIA DA ROSA) PARA O EVENTO 1º ENCONTRO FESTIVO DA PESSOA IDOSA DE BENTO GONÇALVES NO DIA 30 DE\nSETEMBRO DE 2026 NA FUNDAPARQUE",
+      "orgao": "MUNICIPIO DE BENTO GONCALVES",
+      "cnpj_orgao": "87849923000109",
+      "municipio": "Bento Gonçalves",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 1000.0,
+      "data_publicacao": "2026-09-29T09:39:26",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/87849923000109/1/000699/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "754373712deaaf10"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08182313000110-1-000088/2026",
+      "titulo": "Inexigibilidade 28/2026",
+      "objeto": "Contratação de serviço artístico para apresentação de espetáculo de mágica e circo, visando abrilhantar e proporcionar entretenimento ao público infantil durante a realização do evento “Dia das Crianças”, no Município de Lagoa Nova/RN, contemplando atrações circenses, apresentações de mágica, atividades de entretenimento e a participação de personagens infantis, com o objetivo de promover um momento de lazer, diversão e integração para as crianças participantes do evento.",
+      "orgao": "MUNICIPIO DE LAGOA NOVA",
+      "cnpj_orgao": "08182313000110",
+      "municipio": "Lagoa Nova",
+      "uf": "RN",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 16000.0,
+      "data_publicacao": "2026-09-29T09:42:19",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08182313000110/1/000088/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2395f57b1c50e650"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "11702913000176-1-000137/2026",
+      "titulo": "Inexigibilidade 153/2026",
+      "objeto": "O presente Termo de Referência tem por objeto a contratação de empresa detentora da representação exclusiva da artista Cintia Morais, para a realização de show artístico no evento  “Final da 17ª Copa Barradão”.",
+      "orgao": "SECRETARIA MUNICIPAL DE CULTURA",
+      "cnpj_orgao": "11702913000176",
+      "municipio": "Goiânia",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 80000.0,
+      "data_publicacao": "2026-09-29T09:54:13",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/11702913000176/1/000137/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "57288389cfd5a3af"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "05508362000101-1-001052/2026",
+      "titulo": "Inexigibilidade 3591/2026",
+      "objeto": "contratação de serviços artísticos da atração Bumba Meu Boi Melodia para fins de apresentação nos eventos realizados ou apoiados por esta SECMA no ano de 2026, totalizando o valor de R$ R$ 98.000,00, representando por CIRCULO DE LUZ- CIA DE ARTES (MATRIZ E FILIAIS), inscrito sob CNPJ/CPF nº 09.462.602/0001-35.",
+      "orgao": "SECRETARIA DE ESTADO DA CULTURA - SECMA",
+      "cnpj_orgao": "05508362000101",
+      "municipio": "São Luís",
+      "uf": "MA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 98000.0,
+      "data_publicacao": "2026-09-29T10:11:30",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/05508362000101/1/001052/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "be74af31bc3a0947"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "14043574000151-1-000368/2026",
+      "titulo": "Inexigibilidade 262-2026-10I/2026",
+      "objeto": "APRES. ART. DA ATRAÇÃO BETO FILHO VAQUEIRO ESTOURADO NO EVENTO 38º FESTA DO VAQUEIRO DO POV. DO ALECRIM MIÚDO DISTR. DA MATINHA - FEIRA DE SANTANA - BA NO DIA 20/09/2026, SHOW COM DURAÇÃO DE 90MIN",
+      "orgao": "MUNICIPIO DE FEIRA DE SANTANA",
+      "cnpj_orgao": "14043574000151",
+      "municipio": "Feira de Santana",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 30000.0,
+      "data_publicacao": "2026-09-29T10:13:23",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/14043574000151/1/000368/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "3972acab1e199352"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "06554430000131-1-000194/2026",
+      "titulo": "Inexigibilidade 86/2026",
+      "objeto": "Contratação da apresentação artística de “Alice Carvalho”, no dia 17 de setembro de 2026, com duração de 02:00H (duas horas), para o evento EXPOAPA 2026, no município de Parnaíba-PI, de interesse da Secretaria Municipal do Setor Primário e Abastecimento.",
+      "orgao": "MUNICIPIO DE PARNAIBA",
+      "cnpj_orgao": "06554430000131",
+      "municipio": "Parnaíba",
+      "uf": "PI",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 5000.0,
+      "data_publicacao": "2026-09-29T10:35:54",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/06554430000131/1/000194/2026",
+      "link_origem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]zZ6MieYcCbp8EFqtKWrYdBF2DQ9rLOdk6S83VbNaZjxsE2TzJ0tlZFsLT3ytHioJbNsLdNfAy3ahcUVrdmxegXmLMSr8hbwWp5PfcUFpdqk=",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4809bf93e758e23f"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "51885242000140-1-000797/2026",
+      "titulo": "Inexigibilidade 694/2026",
+      "objeto": "Contratação da empresa 54.868.214 DORIVAL DE OLIVEIRA, inscrita no CNPJ nº 54.868.214/0001-03, representante legal da banda 'Blue Army', junto à Prefeitura Municipal de Campinas, para 01 (uma) apresentação artística, sendo o valor unitário de R$ 2.000,00 (dois mil reais), totalizando o valor do cachê em R$ 2.000,00 (dois mil reais), incluindo todas as taxas, tributos e ECAD. Cada apresentação terá a duração de 1h30 (uma hora e trinta minutos).",
+      "orgao": "MUNICIPIO DE CAMPINAS",
+      "cnpj_orgao": "51885242000140",
+      "municipio": "Campinas",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 2000.0,
+      "data_publicacao": "2026-09-29T10:58:04",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/51885242000140/1/000797/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2854e980c8a4fd0b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01611339000197-1-000174/2026",
+      "titulo": "Inexigibilidade 55/2026",
+      "objeto": "Contratação de serviço artístico",
+      "orgao": "MUNICIPIO DE BALNEARIO PINHAL",
+      "cnpj_orgao": "01611339000197",
+      "municipio": "Balneário Pinhal",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 3300.0,
+      "data_publicacao": "2026-09-29T11:00:07",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01611339000197/1/000174/2026",
+      "link_origem": "https://portal.tce.rs.gov.br/aplicprod/f?p=50500:10:::NO:10:P10_ID_LICITACAO,P10_PAG_RETORNO,F50500_CD_ORGAO:1594566,14,85400&cs=1eRHzw9WYElQcW3QS1aeiIT0IiNI",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2d67f54e2884c334"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "75904524000106-1-000403/2026",
+      "titulo": "Inexigibilidade PRI 157/2026",
+      "objeto": "Contratação de apresentação musical da artista Carol Biazin integrando a programação comemorativa do aniversário de Campo Mourão.",
+      "orgao": "MUNICIPIO DE CAMPO MOURAO",
+      "cnpj_orgao": "75904524000106",
+      "municipio": "Campo Mourão",
+      "uf": "PR",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 40600.0,
+      "data_publicacao": "2026-09-29T11:04:06",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/75904524000106/1/000403/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "4dfd6c6268a7b160"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "95990107000130-1-000174/2026",
+      "titulo": "Inexigibilidade PRI 30/2026",
+      "objeto": "CONTRATAÇÃO DE PROFISSIONAL/EMPRESA ESPECIALIZADA PARA A APRESENTAÇÃO DO ESPETÁCULO ARTÍSTICO \"PALESTRA SHOW COM MÁGICA\", A SER REALIZADO NO DIA 02 DE OUTUBRO DE 2026, ÀS 19H, EM COMEMORAÇÃO AO DIA DA CRIANÇA (12 DE OUTUBRO), CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE INSTRUMENTO.",
+      "orgao": "MUNICIPIO DE SUL BRASIL",
+      "cnpj_orgao": "95990107000130",
+      "municipio": "Sul Brasil",
+      "uf": "SC",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, III, f Inexigibilidade de Licitação: f) treinamento e aperfeiçoamento de pessoal",
+      "valor_estimado": 3500.0,
+      "data_publicacao": "2026-09-29T11:04:49",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/95990107000130/1/000174/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bespetaculo (musical|artistico)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0ffa637800f5b527"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13908702000110-1-000174/2026",
+      "titulo": "Inexigibilidade 102/2026",
+      "objeto": "CONTRATAÇÃO ARTÍSTICA DA BANDA OS CLONES DO BRASIL PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA APRESENTAÇÃO NO EVENTO \"FESTEJOS DA COMUNIDADE DE TUIUTIBA\".",
+      "orgao": "MUNICIPIO DE CAMPO FORMOSO",
+      "cnpj_orgao": "13908702000110",
+      "municipio": "Campo Formoso",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 95000.0,
+      "data_publicacao": "2026-09-29T11:06:17",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13908702000110/1/000174/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "7e93d5546a8ffabe"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "46634432000155-1-000351/2026",
+      "titulo": "Inexigibilidade 00020/2026",
+      "objeto": "APRESENTACAO DE ARTISTA EM SHOWS E EVENT OS",
+      "orgao": "MUNICIPIO DE CABREUVA",
+      "cnpj_orgao": "46634432000155",
+      "municipio": "Cabreúva",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 6500.0,
+      "data_publicacao": "2026-09-29T11:07:15",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/46634432000155/1/000351/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5665acd10f6f7806"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "11508942000100-1-005348/2026",
+      "titulo": "Inexigibilidade 6201.5369/2026",
+      "objeto": "APRESENTAÇÃO ARTÍSTICA SERGINHO ALVES, DIA 20/09/2026, BAILANDO NA COMUNIDADE DO FESTIVAL EMA - ALTO DO MANDÚ, TERMO DE INEX. 5749/2026, SAC 0972964/2026 GGACF/FCCR - ATENDIMENTO. SEI: 17.009731/2026-89",
+      "orgao": "FUNDACAO DE CULTURA CIDADE DO RECIFE",
+      "cnpj_orgao": "11508942000100",
+      "municipio": "Recife",
+      "uf": "PE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 50000.0,
+      "data_publicacao": "2026-09-29T11:23:04",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/11508942000100/1/005348/2026",
+      "link_origem": "http://portaldecompras.recife.pe.gov.br/",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "585cd4b7dbdd4541"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13908702000110-1-000175/2026",
+      "titulo": "Inexigibilidade 103/2026",
+      "objeto": "CONTRATAÇÃO ARTÍSTICA DO CANTOR DORY CASA NOVA PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA APRESENTAÇÃO NO EVENTO \"FESTEJO DA COMUNIDADE DE LIMOEIRO\".",
+      "orgao": "MUNICIPIO DE CAMPO FORMOSO",
+      "cnpj_orgao": "13908702000110",
+      "municipio": "Campo Formoso",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 35000.0,
+      "data_publicacao": "2026-09-29T11:23:35",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13908702000110/1/000175/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "9e65d4905ba34af3"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13701651000150-1-000096/2026",
+      "titulo": "Inexigibilidade 059/2026",
+      "objeto": "Credenciamento de artistas, bandas, grupos musicais e artísticos, nos variados estilos para possíveis e futuras contratações, com vistas a realizarem apresentações públicas, durante os eventos e projetos promovidos ou apoiados pela Prefeitura Municipal de Ipiaú, para atender as demandas da Secretaria Municipal de Cultura, Esporte, Lazer e Turismo do Município de Ipiaú/Bahia ",
+      "orgao": "MUNICIPIO DE IPIAU",
+      "cnpj_orgao": "13701651000150",
+      "municipio": "Ipiaú",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 6440.0,
+      "data_publicacao": "2026-09-29T11:24:31",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13701651000150/1/000096/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b4abd07b32e98f43"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "10572071029102-1-000078/2026",
+      "titulo": "Inexigibilidade 83/2026",
+      "objeto": "CONTRATAÇÃO DO MAESTRO NILSON GALVÃO, PARA UMA APRESENTAÇÃO MUSICAL, ARTÍSTICA E PEDAGÓGICA, A SER REALIZADA NA ESCOLA ESTADUAL PADRE JOÃO BARBOSA, DENTRO DO PROJETO CONCERTOS SINFÔNICOS DO CONSERVATÓ",
+      "orgao": "SECRETARIA DE EDUCACAO E ESPORTES",
+      "cnpj_orgao": "10572071029102",
+      "municipio": "Recife",
+      "uf": "PE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 17000.0,
+      "data_publicacao": "2026-09-29T11:53:18",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/10572071029102/1/000078/2026",
+      "link_origem": "www.peintegrado.pe.gov.br/Portal/Pages/Inexigibilidades.aspx?ncdmodulo=19&sdsprocesso=0083.2026.CCD.IN.0059.SEC-CPM&nCdProcesso=169918&nCdSituacao=8",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6bc2c497b512e198"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13915640000173-1-000099/2026",
+      "titulo": "Inexigibilidade 067/2026 INEX/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA SHOW ARTISTICO DO CANTOR KEU DANTAS, QUE ACONTECERA NO DIA 29/08/2026, 30º FESTA DA AGRICULTURA NO DISTRITO DE CURAÇÁ-BA.",
+      "orgao": "MUNICIPIO DE CURACA",
+      "cnpj_orgao": "13915640000173",
+      "municipio": "Curaçá",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 35000.0,
+      "data_publicacao": "2026-09-29T11:55:04",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13915640000173/1/000099/2026",
+      "link_origem": "https://licitamaisbrasil.com.br/detalhes-do-edital/qjMTl68IOyxfNoeu",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5e3cffc07218199a"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "43465459000173-1-001275/2026",
+      "titulo": "Inexigibilidade CD - 1243/2026",
+      "objeto": "Contratação artística da banda Rock in Beer Band para apresentação musical durante a 100ª Festa de São Roque, a ser realizada no dia 14 de agosto de 2026, conforme condições e valores estabelecidos no Credenciamento nº 03/2026.",
+      "orgao": "MUNICIPIO DE AMPARO",
+      "cnpj_orgao": "43465459000173",
+      "municipio": "Amparo",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 3000.0,
+      "data_publicacao": "2026-09-29T12:09:23",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/43465459000173/1/001275/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2b80bf1a147c6c1b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "43465459000173-1-001276/2026",
+      "titulo": "Inexigibilidade CD - 1245/2026",
+      "objeto": "Contratação artística da banda Vibe A3 para apresentação musical durante a 100ª Festa de São Roque, a ser realizada no dia 16 de agosto de 2026, conforme condições e valores estabelecidos no Credenciamento nº 03/2026.",
+      "orgao": "MUNICIPIO DE AMPARO",
+      "cnpj_orgao": "43465459000173",
+      "municipio": "Amparo",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 4500.0,
+      "data_publicacao": "2026-09-29T12:10:36",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/43465459000173/1/001276/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "627035e4e18ee6d4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13915640000173-1-000101/2026",
+      "titulo": "Inexigibilidade 066/2026 INEX/2026",
+      "objeto": "Contratação de empresa para show artístico do cantor Batista Lima, que acontecerá no dia 30/08/2026, na 30º festa da agricultura no distrito de Riacho Seco.",
+      "orgao": "MUNICIPIO DE CURACA",
+      "cnpj_orgao": "13915640000173",
+      "municipio": "Curaçá",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 250000.0,
+      "data_publicacao": "2026-09-29T12:11:10",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13915640000173/1/000101/2026",
+      "link_origem": "https://licitamaisbrasil.com.br/detalhes-do-edital/kfDBa_LG1Zp6RHVs",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "857fbccac454c1a4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "43465459000173-1-001278/2026",
+      "titulo": "Inexigibilidade CD - 1272/2026",
+      "objeto": "Contratação artística para apresentação musical Tiago e Mateus durante a Festa em Louvor a Santa Cruz, a ser realizada no Bairro dos Pereiras, em Amparo/SP, no dia 13 de setembro de 2026, conforme condições e especificações estabelecidas no Credenciamento nº 03/2026.",
+      "orgao": "MUNICIPIO DE AMPARO",
+      "cnpj_orgao": "43465459000173",
+      "municipio": "Amparo",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 1800.0,
+      "data_publicacao": "2026-09-29T12:14:53",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/43465459000173/1/001278/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "8c36d6279743ec49"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "16452088000112-1-000015/2026",
+      "titulo": "Inexigibilidade 04/2026",
+      "objeto": "[LICITANET] - Contratação de artista plástico para execução de busto em resina e fibra de vidro, na técnica realista, com objetivo de homenagear o Sr. Quintino de Lacerda, primeiro vereador negro do Brasil e líder abolicionista.",
+      "orgao": "ITABAIANA CAMARA MUNICIPAL DE VEREADORES",
+      "cnpj_orgao": "16452088000112",
+      "municipio": "Itabaiana",
+      "uf": "SE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 14000.0,
+      "data_publicacao": "2026-09-29T12:27:59",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/16452088000112/1/000015/2026",
+      "link_origem": "https://licitanet.com.br/sessao/203180",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "86ee618420be2494"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2910800/2026-09-30/6c49631455b81e6fed65aecc16f6355be7bfe0d1.txt",
+      "titulo": "DOM Feira de Santana/BA 2026-09-30",
+      "objeto": "MUNICÍPIO DE FEIRA DE SANTANA \ngarante a autenticidade deste documento quando visualizado diretamente no portal \nwww.diariooficial.feiradesantana.ba.gov.br \n\n11 \n\nINEXIGIBILIDADE DE LICITAÇÃO Nº 273-2026-10I - Processo Administrativo Nº 850-2026. Repartição Interessada: \nSecretaria Municipal de Cultura, Esporte e Lazer. Objeto: Apresentação de show musical cantor Bruno Mello em \ncomemoração à Semana do Idoso na Fundação Senhor dos Passos no centro no dia 01/10/2026. Show no palco com \nduração de aproximadamente 90 minutos. Contratada: Mauricio da Silva Ferreira. Valor Global: R$ 6.000,00. Amparo \nlegal: Art. 74, inciso II, da Lei Federal 14133/2021. Considerando o Parecer exarado pela Procuradoria INEXIGIBILIDADE DE LICITAÇÃO para o objeto acima mencionado. Feira de Santana, 25/09/2026. \nJosé Ronaldo de Carvalho – Prefeito Municipal. \n \nEXTRATO DO CONTRATO - INEXIGIBILIDADE DE LICITAÇÃO Nº 273-2026-10I – CONTRATO N° 523-2026-10C - \nProcesso Administrativo Nº 850-2026. Contratante: MUNICÍPIO DE FEIRA DE SANTANA. Objeto: Apresentação de \nshow musical cantor Bruno Mello em comemoração à Semana do Idoso na Fundação Senhor dos Passos no centro no \ndia 01/10/2026. Show no palco com duração de aproximadamente 90 minutos. Contratada: Mauricio da Silva \nFerreira. Valor Global: R$ 6.000,00. Assinatura do Contrato: 29/09/2026, Feira de Santana, 29/09/2026. José \nRonaldo de Carvalho – Prefeito Municipal",
+      "orgao": "Feira de Santana",
+      "cnpj_orgao": "",
+      "municipio": "Feira de Santana",
+      "uf": "BA",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-30",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2910800/2026-09-30/6c49631455b81e6fed65aecc16f6355be7bfe0d1.pdf",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "MUNICÍPIO DE FEIRA DE SANTANA \ngarante a autenticidade deste documento quando visualizado diretamente no portal \nwww.diariooficial.feiradesantana.ba.gov.br \n\n11 \n\nINEXIGIBILIDADE DE LICITAÇÃO Nº 273-2026-10I - Processo Administrativo Nº 850-2026. Repartição Interessada: \nSecretaria Municipal de Cultura, Esporte e Lazer. Objeto: Apresentação de show musical cantor Bruno Mello em \ncomemoração à Semana do Idoso na Fundação Senhor dos Passos no centro no dia 01/10/2026. Show no palco com \nduração de aproximadamente 90 minutos. Contratada: Mauricio da Silva Ferreira. Valor Global: R$ 6.000,00. Amparo \nlegal: Art. 74, inciso II, da Lei Federal 14133/2021. Considerando o Parecer exarado pela Procuradoria INEXIGIBILIDADE DE LICITAÇÃO para o objeto acima mencionado. Feira de Santana, 25/09/2026. \nJosé Ronaldo de Carvalho – Prefeito Municipal. \n \nEXTRATO DO CONTRATO - INEXIGIBILIDADE DE LICITAÇÃO Nº 273-2026-10I – CONTRATO N° 523-2026-10C - \nProcesso Administrativo Nº 850-2026. Contratante: MUNICÍPIO DE FEIRA DE SANTANA. Objeto: Apresentação de \nshow musical cantor Bruno Mello em comemoração à Semana do Idoso na Fundação Senhor dos Passos no centro no \ndia 01/10/2026. Show no palco com duração de aproximadamente 90 minutos. Contratada: Mauricio da Silva \nFerreira. Valor Global: R$ 6.000,00. Assinatura do Contrato: 29/09/2026, Feira de Santana, 29/09/2026. José \nRonaldo de Carvalho – Prefeito Municipal",
+      "uid": "e11e8016010a1ab4"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3525904/2026-09-30/756d66c2eb17f167dbb348a40d70c93cda2caf5d.txt",
+      "titulo": "DOM Jundiaí/SP 2026-09-30",
+      "objeto": "MACHADO 05914840805 CNPJ: 29.448.881/0001-90 para o \nserviço de curadoria e organização no valor de R$12.000,00.\nPublique-se o respectivo Ato.\n\n(Clarina Ana Fasanaro)\nSecretária Municipal de Cultura\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 32565/2026\nInexigibilidade de Licitação nº 248/2026\nI -\t Objeto: Contratação de serviço de show musical, cujo Órgão \ngestor é a Secretaria Municipal de Cultura.\nII -\t Fundamento Legal: Art. 74, inciso II, da Lei Federal nº \n14.133/2021.\nIII - Contratada: RODOLFO GRAGNANI CNPJ: 22.528.591/0001-07.  \nIV -\t Valor Global: R$4.950,00 (Quatro mil, novecentos e cinquenta \nreais).\nV –       Prazo de Entrega: dezembro de 2026. \nVI -\t Justificativa: \nEsta \nesta Secretaria Municipal. \n\n(William Ramos)\nDiretor do Departamento de Cultura\n\nGSMCULT\nRatifico a justificativa apresentada pelo Diretor do Departamento de \nCultura, acima, adjudico e homologo este procedimento de contratação \ndireta e autorizo a despesa e a emissão do empenho à RODOLFO \nGRAGNANI CNPJ: 22.528.591/0001-07 para o serviço de Show Musical \nde Rudy e Banda no valor de R$4.950,00.\nPublique-se o respectivo Ato.\n\n(Clarina Ana Fasanaro)\nSecretária Municipal de Cultura\n\nhttp://www.jundiai.sp.gov.br/\nhttp://imprensaoficial.jundiai.sp.gov.br/assinatura/\nhttp://www.jundiai.sp.gov.br/\nhttp://imprensaoficial.jundiai.sp.gov.br/assinatura/\n\n\nPrefeitura \nde Jundiaí\n\nImprensa Oficial do Município ao INSTITUTO NACIONAL DE \nMETROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO no valor de \nR$ 1.600,34.\nPublique-se o respectivo Ato.\n  \n\n(Ana Paula da Silva Almeida)\nSecretária Municipal de Mobilidade e Transporte\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 33797/2026\nInexigibilidade de Licitação nº 250/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: EMILY PESSOTO FINATI 30773125817 CNPJ: \n35.237.902/0001-20.\nIV - Valor Global: R$ 3.000,00 (três mil reais).\nV - Prazo de Entrega: outubro/2026.\nVI - Justificativa: Esta contratação artística se",
+      "orgao": "Jundiaí",
+      "cnpj_orgao": "",
+      "municipio": "Jundiaí",
+      "uf": "SP",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-30",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3525904/2026-09-30/756d66c2eb17f167dbb348a40d70c93cda2caf5d.pdf",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "MACHADO 05914840805 CNPJ: 29.448.881/0001-90 para o \nserviço de curadoria e organização no valor de R$12.000,00.\nPublique-se o respectivo Ato.\n\n(Clarina Ana Fasanaro)\nSecretária Municipal de Cultura\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 32565/2026\nInexigibilidade de Licitação nº 248/2026\nI -\t Objeto: Contratação de serviço de show musical, cujo Órgão \ngestor é a Secretaria Municipal de Cultura.\nII -\t Fundamento Legal: Art. 74, inciso II, da Lei Federal nº \n14.133/2021.\nIII - Contratada: RODOLFO GRAGNANI CNPJ: 22.528.591/0001-07.  \nIV -\t Valor Global: R$4.950,00 (Quatro mil, novecentos e cinquenta \nreais).\nV –       Prazo de Entrega: dezembro de 2026. \nVI -\t Justificativa: \nEsta \nesta Secretaria Municipal. \n\n(William Ramos)\nDiretor do Departamento de Cultura\n\nGSMCULT\nRatifico a justificativa apresentada pelo Diretor do Departamento de \nCultura, acima, adjudico e homologo este procedimento de contratação \ndireta e autorizo a despesa e a emissão do empenho à RODOLFO \nGRAGNANI CNPJ: 22.528.591/0001-07 para o serviço de Show Musical \nde Rudy e Banda no valor de R$4.950,00.\nPublique-se o respectivo Ato.\n\n(Clarina Ana Fasanaro)\nSecretária Municipal de Cultura\n\nhttp://www.jundiai.sp.gov.br/\nhttp://imprensaoficial.jundiai.sp.gov.br/assinatura/\nhttp://www.jundiai.sp.gov.br/\nhttp://imprensaoficial.jundiai.sp.gov.br/assinatura/\n\n\nPrefeitura \nde Jundiaí\n\nImprensa Oficial do Município ao INSTITUTO NACIONAL DE \nMETROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO no valor de \nR$ 1.600,34.\nPublique-se o respectivo Ato.\n  \n\n(Ana Paula da Silva Almeida)\nSecretária Municipal de Mobilidade e Transporte\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 33797/2026\nInexigibilidade de Licitação nº 250/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: EMILY PESSOTO FINATI 30773125817 CNPJ: \n35.237.902/0001-20.\nIV - Valor Global: R$ 3.000,00 (três mil reais).\nV - Prazo de Entrega: outubro/2026.\nVI - Justificativa: Esta contratação artística se",
+      "uid": "620d1495c29bb83d"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000520/2026",
+      "titulo": "Inexigibilidade INEX394/2026",
+      "objeto": "CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº 002/2025 PARA APRESENTAÇÃO MUSICAL DA BANDA MINISTÉRIO CÁLICE SAGRADO, EM COMEMORAÇÃO A SEMANA DA CULTURA EVANGÉLICA 2026 DO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 03 DE OUTUBRO DE 2026, NA PASSARELA DA CULTURA/CENTRO, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 11722.5,
+      "data_publicacao": "2026-09-29T09:14:35",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000520/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0b95f8bace71de52"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000521/2026",
+      "titulo": "Inexigibilidade INEX393/2026",
+      "objeto": "CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº002/2025 PARA APRESENTAÇÃO MUSICAL DA BANDA AVIVA, EM COMEMORAÇÃO A SEMANA A SEMANA DA CULTURA EVANGÉLICA 2026 DO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 03 DE OUTUBRO DE 2026, NA PASSARELA DA CULTURA/CENTRO, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 11722.5,
+      "data_publicacao": "2026-09-29T09:15:10",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000521/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "bc1dc2c36448e677"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000522/2026",
+      "titulo": "Inexigibilidade INEX402/2026",
+      "objeto": "CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº 002/2025 PARA APRESENTAÇÃO MUSICAL DE JBR CANTOR, EM COMEMORAÇÃO AOS FESTEJOS DO PADROEIRO SÃO MIGUEL ARCANJO 2026, NO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 27 DE SETEMBRO DE 2026, NO DISTRITO DE VALE VERDE, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 11722.5,
+      "data_publicacao": "2026-09-29T11:10:56",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000522/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "7915440600d25596"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000523/2026",
+      "titulo": "Inexigibilidade INEX401/2026",
+      "objeto": "CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº 002/2025 PARA APRESENTAÇÃO MUSICAL DO CANTOR CHARLINHO ALVES, EM COMEMORAÇÃO AOS FESTEJOS DO PADROEIRO SÃO MIGUEL ARCANJO 2026, NO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 26 DE SETEMBRO DE 2026, NO DISTRITO DE VALE VERDE, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 11722.5,
+      "data_publicacao": "2026-09-29T11:13:04",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000523/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e5121e901ed3508b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000524/2026",
+      "titulo": "Inexigibilidade INEX396/2026",
+      "objeto": "CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº 002/2025 PARA APRESENTAÇÃO MUSICAL DA BANDA KALHAMBEK, EM COMEMORAÇÃO AOS FESTEJOS DO PADROEIRO SÃO MIGUEL ARCANJO 2026, NO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 26 DE SETEMBRO DE 2026, NO DISTRITO DE VALE VERDE, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 6440.0,
+      "data_publicacao": "2026-09-29T11:13:46",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000524/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2258efce617fc0ab"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000525/2026",
+      "titulo": "Inexigibilidade INEX395/2026",
+      "objeto": "CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº 002/2025 PARA APRESENTAÇÃO MUSICAL DO CANTOR JUNINHO TOP 10, EM COMEMORAÇÃO AOS FESTEJOS DO PADROEIRO SÃO MIGUEL ARCANJO 2026, NO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 26 DE SETEMBRO DE 2026, NO DISTRITO DE VALE VERDE, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 6440.0,
+      "data_publicacao": "2026-09-29T11:14:52",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000525/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6715687f1e97a530"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000528/2026",
+      "titulo": "Inexigibilidade INEX400/2026",
+      "objeto": " CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº 002/2025 PARA APRESENTAÇÃO MUSICAL DO CANTOR P. OLIVER, EM COMEMORAÇÃO AOS FESTEJOS DO PADROEIRO SÃO MIGUEL ARCANJO 2026, NO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 26 DE SETEMBRO DE 2026, NO DISTRITO DE VALE VERDE, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 6440.0,
+      "data_publicacao": "2026-09-29T11:17:25",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000528/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "7d9eebcb43e4b29c"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000529/2026",
+      "titulo": "Inexigibilidade INEX398/2026",
+      "objeto": " CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº 002/2025 PARA APRESENTAÇÃO MUSICAL DO CANTOR MARCELO PAIXÃO, EM COMEMORAÇÃO AOS FESTEJOS DO PADROEIRO SÃO MIGUEL ARCANJO 2026, NO MUNICÍPIO DE PORTO SEGURO/BA. A APRESENTAÇÃO SERÁ REALIZADA NO DIA 26 DE SETEMBRO DE 2026, NO DISTRITO DE VALE VERDE, CONFORME O CALENDÁRIO OFICIAL DE EVENTOS DA SECRETARIA MUNICIPAL DE TURISMO.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 11722.5,
+      "data_publicacao": "2026-09-29T11:18:26",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000529/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "9768f61f0ed70712"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3532603/2026-09-30/deb37b101b25110878cd1319463abbdbe2f06cd6.txt",
+      "titulo": "DOM Nhandeara/SP 2026-09-30",
+      "objeto": "ao parágrafo único do art., 72 da Lei 14.133/2021, e\nconsiderando toda documentação que consta nos autos do processo\nadministrativo nº /2026, inexigibilidade de licitação nº /2026, em\nespecial, o termo de referência, autorizo a contratação da empresa H\nZAGO PRODUÇÕES ARTÍSTICAS LTDA, inscrita no CNPJ nº\n57.548.062/0001-50, para realização de show musical com o artista\nDIEGO LIMA, a ser realizado no dia 29 de dezembro de 2026, na\nPraça Matriz da cidade de Nhandeara/SP, em comemoração as\nfestividades de fim de ano do Município de Nhandeara/SP, pelo valor\nde R$ 120.000,00 (cento e vinte mil reais), com fundamento no art. 74,\ninciso II da Lei Federal nº 14.133/2021.\n\nAVISO DE HOMOLOGAÇÃO E ADJUDICAÇÃO",
+      "orgao": "Nhandeara",
+      "cnpj_orgao": "",
+      "municipio": "Nhandeara",
+      "uf": "SP",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-09-30",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3532603/2026-09-30/deb37b101b25110878cd1319463abbdbe2f06cd6.pdf",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "ao parágrafo único do art., 72 da Lei 14.133/2021, e\nconsiderando toda documentação que consta nos autos do processo\nadministrativo nº /2026, inexigibilidade de licitação nº /2026, em\nespecial, o termo de referência, autorizo a contratação da empresa H\nZAGO PRODUÇÕES ARTÍSTICAS LTDA, inscrita no CNPJ nº\n57.548.062/0001-50, para realização de show musical com o artista\nDIEGO LIMA, a ser realizado no dia 29 de dezembro de 2026, na\nPraça Matriz da cidade de Nhandeara/SP, em comemoração as\nfestividades de fim de ano do Município de Nhandeara/SP, pelo valor\nde R$ 120.000,00 (cento e vinte mil reais), com fundamento no art. 74,\ninciso II da Lei Federal nº 14.133/2021.\n\nAVISO DE HOMOLOGAÇÃO E ADJUDICAÇÃO",
+      "uid": "a677bccdeba2f10a"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01062213000100-1-000088/2026",
+      "titulo": "Inexigibilidade 006/2026 - Inexigibilidade/2026",
+      "objeto": "LEI DE INCENTIVO À CULTURA CAPIXABA - Contratação do parecerista Allan André Lourenço (PF) para atuar na análise técnica do Projeto: \"Carnaval Folclórico dos Bois Pintadinhos de Muqui\" proposto na LICC",
+      "orgao": "SECRETARIA DE ESTADO DA CULTURA",
+      "cnpj_orgao": "01062213000100",
+      "municipio": "Vitória",
+      "uf": "ES",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 540.0,
+      "data_publicacao": "2026-09-29T11:57:15",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01062213000100/1/000088/2026",
+      "link_origem": "",
+      "score": 13,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+        ],
+        "C": [
+          "\\blei (de )?incentivo (a )?(cultura|cultural)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d47a32c4c693b328"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "46482832000192-1-000675/2026",
+      "titulo": "Inexigibilidade 129 | Processo 17469/2026",
+      "objeto": "CONTRATACAO DE EMPRESA PARA A REALIZACAO DA APRESENTACAO ARTISTICA DE ANDRE TAVOLARO  DE ACORDO COM A PROGRAMACAO DO SEGUNDO SEMESTRE DE 2026  ORIGINADA DO CREDENCIAMENTO DE PROPOSTAS DE ARTISTAS E FAZEDORES DE CULTURA PARA COMPOR PROGRAMACAO CULTURAL EM SAO SEBASTIAO  POR MEIO DO EDITAL DE CHAMAMENTO PUBLICO FUNDASS N  014 2024  PROCESSO ADMINISTRATIVO DIGITAL N  119 2024 .",
+      "orgao": "MUNICIPIO DE SAO SEBASTIAO",
+      "cnpj_orgao": "46482832000192",
+      "municipio": "São Sebastião",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 1400.0,
+      "data_publicacao": "2026-09-29T07:49:23",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/46482832000192/1/000675/2026",
+      "link_origem": " ",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "897f151b6364a5f0"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "81162588000181-1-000024/2026",
+      "titulo": "Inexigibilidade PRI 24/2026",
+      "objeto": "CONTRATAÇÃO DE APRESENTAÇÕES TEATRAIS - ESPETÁCULO 'SOBRE CAIXAS' - PARA O FESTIVAL LITERÁRIO DO ALTO VALE DO ITAJAÍ 2026, ORGANIZADO PELA FUNDAÇÃO CULTURAL DE RIO DO SUL/SC.",
+      "orgao": "FUNDACAO CULTURAL DE RIO DO SUL",
+      "cnpj_orgao": "81162588000181",
+      "municipio": "Rio do Sul",
+      "uf": "SC",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 6800.0,
+      "data_publicacao": "2026-09-29T08:03:07",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/81162588000181/1/000024/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "38486cb8a7d3e84e"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "46634168000150-1-000244/2026",
+      "titulo": "Inexigibilidade 52/2026",
+      "objeto": "Contrato de Inexigibilidade",
+      "orgao": "MUNICIPIO DE AVARE",
+      "cnpj_orgao": "46634168000150",
+      "municipio": "Avaré",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 60000.0,
+      "data_publicacao": "2026-09-29T08:21:43",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/46634168000150/1/000244/2026",
+      "link_origem": "https://www.avare.sp.gov.br/licitacao/1/2026/",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "2ceeba4661ee433a"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "88414552000197-1-000251/2026",
+      "titulo": "Inexigibilidade 121 | Processo 257/2026",
+      "objeto": "Solicitacao para analise e aprovacao para realizacao de servicos de revisao de 2000 horas na retro escavadeira Muller  por inexigibilidade de licitacao  atraves da carta de exclusividade",
+      "orgao": "MUNICIPIO DE JAGUARAO",
+      "cnpj_orgao": "88414552000197",
+      "municipio": "Jaguarão",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, I Inexigibilidade de Licitação: aquisição de materiais, de equipamentos ou de gêneros ou contratação de serviços que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos",
+      "valor_estimado": 5914.8,
+      "data_publicacao": "2026-09-29T08:33:24",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/88414552000197/1/000251/2026",
+      "link_origem": " ",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcarta de exclusividade\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0ab5359a24c6d24b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "12207528000115-1-000053/2026",
+      "titulo": "Inexigibilidade 0515.033/2026",
+      "objeto": "Contratação de serviços comuns de atração artístico-musical para evento comemorativo do Município, nas condições estabelecidas no Termo de Referência.",
+      "orgao": "MUNICIPIO DE FEIRA GRANDE",
+      "cnpj_orgao": "12207528000115",
+      "municipio": "Feira Grande",
+      "uf": "AL",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 150000.0,
+      "data_publicacao": "2026-09-29T09:02:35",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/12207528000115/1/000053/2026",
+      "link_origem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]98JylMo5DInh72OcnoM0fEZUtNdkpOO2O0dpRsgTZQHYM3aoe3eO7EEfM8LpYM5mXRVEtkNCMQ1UsUmXjG9z9w07PvC9HNT19PytDuQp0yI=",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "10623daa290e3804"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01612150000119-1-000484/2026",
+      "titulo": "Inexigibilidade 6/2026",
+      "objeto": "Contratação de Software de Inteligência Artificial (IA) aplicada ao Direito - MinutaIA.",
+      "orgao": "MUNICIPIO DE JUMIRIM",
+      "cnpj_orgao": "01612150000119",
+      "municipio": "Jumirim",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 3780.0,
+      "data_publicacao": "2026-09-29T09:03:52",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01612150000119/1/000484/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "a6b472461eea9273"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "12207528000115-1-000054/2026",
+      "titulo": "Inexigibilidade 0609.023/2026",
+      "objeto": "Contratação de serviços comuns de atração artístico-cultural para evento comemorativo dos festejos juninos do Município, nas condições estabelecidas no Termo de Referência.",
+      "orgao": "MUNICIPIO DE FEIRA GRANDE",
+      "cnpj_orgao": "12207528000115",
+      "municipio": "Feira Grande",
+      "uf": "AL",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 80000.0,
+      "data_publicacao": "2026-09-29T09:26:34",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/12207528000115/1/000054/2026",
+      "link_origem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]jPNj4EVjVgfe_de4uNBk72C8YHKPMktF4UIG1xrBQWNyWScEHteo4XXcAifRj4v1FBF0WKTV7P3Azs3b70UNyxPgmVnwy7Yn7IehkXRgiN4=",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "1d709d04e93b1566"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "27142702000166-1-000431/2026",
+      "titulo": "Inexigibilidade 322/2026",
+      "objeto": "Contratação da locutora Elizebete, representado pela empresa 58.179.000 ELIZABETE RODRIGUES PEREIRA, inscrita no CNPJ nº 58.179.000/0001-80, para a realização de 01 (uma) locução, a ser apresentada no dia 31 de outubro de 2026, como parte integrante da programação da “FESTA DO BAIRRO VILLAGE COQUEIRAL”, em, Aracruz/ES.",
+      "orgao": "MUNICIPIO DE ARACRUZ",
+      "cnpj_orgao": "27142702000166",
+      "municipio": "Aracruz",
+      "uf": "ES",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 800.0,
+      "data_publicacao": "2026-09-29T10:00:29",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/27142702000166/1/000431/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "116253a136d0e4d8"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "05780030000181-1-000078/2026",
+      "titulo": "Inexigibilidade 83/2026",
+      "objeto": "A contratação refere-se à realização de apresentação musical que integrará a programação oficial do evento \"Final da 17ª Copa Barradão\", a ser realizado no dia 27 de setembro de 2026, a partir das 13:30h, na Arena Barradão situada na Rua GB-42, 71-299, Jardim Guanabara III, Goiânia-GO.",
+      "orgao": "FUNDO DE APOIO A CULTURA-FAC",
+      "cnpj_orgao": "05780030000181",
+      "municipio": "Goiânia",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, III, a Inexigibilidade de Licitação: a) estudos técnicos, planejamentos, projetos básicos ou projetos executivos.",
+      "valor_estimado": 80000.0,
+      "data_publicacao": "2026-09-29T10:00:57",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/05780030000181/1/000078/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b672e62538588de5"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "12207528000115-1-000055/2026",
+      "titulo": "Inexigibilidade 0520.006/2026",
+      "objeto": "Contratação de serviços comuns de atração artístico-cultural para evento comemorativo dos festejos juninos do Município, nas condições estabelecidas no Termo de Referência.",
+      "orgao": "MUNICIPIO DE FEIRA GRANDE",
+      "cnpj_orgao": "12207528000115",
+      "municipio": "Feira Grande",
+      "uf": "AL",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 25000.0,
+      "data_publicacao": "2026-09-29T10:06:52",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/12207528000115/1/000055/2026",
+      "link_origem": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]nFJ9iGyIzrrw/AGwLNWjxl3q4vjdfxfqcEvgJZ/0Z1QFymo8HbX9GwYyye_8xdGfe2w0_CKRTjfhBJpjKt7KqztdtYF4qbYPi8YGo0ClZMM=",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "04986955b8e2319b"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08349094000110-1-000040/2026",
+      "titulo": "Inexigibilidade 043/2026/2026",
+      "objeto": "Contratação de Pessoa Jurídica que visa a realização de apresentação do Espetáculo Teatral Infantil Musical “Rádio Brincante”, com a apresentação da COMPANHIA PÃO DOCE DE TEATRO, destinado a compor as atividades de culminância da “IX Semana da Educação Infantil” no município de Governador Dix-Sept Rosado/RN.",
+      "orgao": "MUNICIPIO DE GOVERNADOR DIX-SEPT ROSADO",
+      "cnpj_orgao": "08349094000110",
+      "municipio": "Governador Dix-Sept Rosado",
+      "uf": "RN",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 3500.0,
+      "data_publicacao": "2026-09-29T10:09:11",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08349094000110/1/000040/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c260bb0f64d9dd2f"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "95780441000160-1-000077/2026",
+      "titulo": "Inexigibilidade IL 4/2026",
+      "objeto": "CHAMADA PÚBLICA PARA CREDENCIAMENTO DE VEÍCULOS DE COMUNICAÇÃO DE RADIODIFUSÃO ATRAVÉS DE EMISSORA FM, PUBLICAÇÃO DE JORNAL IMPRESSO, PORTAIS DE NOTICIAS, MÍDIA TELEVISIVA E MÍDIA EXTERIOR, PARA DIVULGAÇÃO DE MATÉRIAS INSTITUCIONAIS, EVENTOS, CAMPANHAS EDUCATIVAS, INFORMATIVAS E DE INTERESSE PÚBLICO DO MUNICÍPIO DE CAPIVARI DE BAIXO/SC.",
+      "orgao": "MUNICIPIO DE CAPIVARI DE BAIXO",
+      "cnpj_orgao": "95780441000160",
+      "municipio": "Capivari de Baixo",
+      "uf": "SC",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 57185.1,
+      "data_publicacao": "2026-09-29T10:10:23",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/95780441000160/1/000077/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "86ab88d9959cbdf4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "14043574000151-1-000367/2026",
+      "titulo": "Inexigibilidade 261-2026-10I/2026",
+      "objeto": "APRESENTAÇÃO ARTISTA DA ATRAÇÃO BAHIA BEND NO EVENTO 38º FESTA DO VAQUEIRO DO POV. DO ALECRIM MIÚDO DISTR. DA MATINHA - FEIRA DE SANTANA - BA NO DIA 19/09/2026, SHOW EM PALCO COM DURAÇÃO DE 90MIN",
+      "orgao": "MUNICIPIO DE FEIRA DE SANTANA",
+      "cnpj_orgao": "14043574000151",
+      "municipio": "Feira de Santana",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 62000.0,
+      "data_publicacao": "2026-09-29T10:12:44",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/14043574000151/1/000367/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5b58190bba45b62f"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01611339000197-1-000172/2026",
+      "titulo": "Inexigibilidade 54/2026",
+      "objeto": "contratação de maestro para regência, coordenação, realização de ensaios e coreografias da Banda Marcial",
+      "orgao": "MUNICIPIO DE BALNEARIO PINHAL",
+      "cnpj_orgao": "01611339000197",
+      "municipio": "Balneário Pinhal",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 49536.0,
+      "data_publicacao": "2026-09-29T10:13:46",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01611339000197/1/000172/2026",
+      "link_origem": "https://portal.tce.rs.gov.br/aplicprod/f?p=50500:10:::NO:10:P10_ID_LICITACAO,P10_PAG_RETORNO,F50500_CD_ORGAO:1594554,14,85400&cs=14TRd0HSsOkAI3wEKcab1VpRFb0c",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "aaca17fe6ba28955"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01409580000138-1-001509/2026",
+      "titulo": "Inexigibilidade 122212/2026",
+      "objeto": "Contratação do profissional do setor artístico Diego Besou para realização de apresentação de stand-up comedy. Esta iniciativa integra a programação comemorativa do Dia do Servidor e está alinhada com os objetivos estratégicos da SES-GO de valorização, escuta qualificada e fortalecimento institucional, promovendo uma experiência de aprendizado, reconhecimento e engajamento entre os profissionais da saúde pública estadual.",
+      "orgao": "ESTADO DE GOIAS",
+      "cnpj_orgao": "01409580000138",
+      "municipio": "Goiânia",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 18000.0,
+      "data_publicacao": "2026-09-29T10:14:17",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01409580000138/1/001509/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "605042a808c32f83"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "27142702000166-1-000433/2026",
+      "titulo": "Inexigibilidade 319/2026",
+      "objeto": "Contratação de empresa especializada para o fornecimento de acesso corporativo à plataforma jurídica Jusbrasil Soluções (Plano SCALE – Jus IA Profissional – B2G) aos Procuradores e servidores da Procuradoria-Geral do Município de Aracruz. A solução compreende ferramentas de inteligência artificial aplicada ao Direito, pesquisa de jurisprudência, legislação e doutrina, acompanhamento processual, monitoramento de publicações oficiais e demais funcionalidades constantes da proposta comercial, visando otimizar a eficiência operacional e subsidiar a elaboração de minutas e a análise documental.",
+      "orgao": "MUNICIPIO DE ARACRUZ",
+      "cnpj_orgao": "27142702000166",
+      "municipio": "Aracruz",
+      "uf": "ES",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 11111.72,
+      "data_publicacao": "2026-09-29T10:20:26",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/27142702000166/1/000433/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b518bab986b37bd7"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "83788281000116-1-000010/2026",
+      "titulo": "Inexigibilidade PRI 10/2026",
+      "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA REALIZAR VISITA GUIADA COM INTERAÇÕES TEATRAIS PARA COMPOR A EXPOSIÇÃO INTERATIVA \"CASTELO RÁ-TIM-BUM\".",
+      "orgao": "FUNDACAO CULTURAL DE SAO BENTO DO SUL",
+      "cnpj_orgao": "83788281000116",
+      "municipio": "São Bento do Sul",
+      "uf": "SC",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 4200.0,
+      "data_publicacao": "2026-09-29T10:29:05",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/83788281000116/1/000010/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "734f00a7c87ec3fc"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "92963560000160-1-001228/2026",
+      "titulo": "Inexigibilidade 102624/2026",
+      "objeto": " Comissao Julgadora do Concurso para Monumento a Sao Jorge - Edital no 003/2026",
+      "orgao": "MUNICIPIO DE PORTO ALEGRE",
+      "cnpj_orgao": "92963560000160",
+      "municipio": "Porto Alegre",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 1500.0,
+      "data_publicacao": "2026-09-29T10:58:41",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/92963560000160/1/001228/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "86501c27bae82716"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "11508942000100-1-005346/2026",
+      "titulo": "Inexigibilidade 6201.5367/2026",
+      "objeto": "BANDA LOS CUBANOS, NO DIA 20/09/2026, ATENDIMENTO (RPA VI, PASSEIO CICLÍSTICO PEDALANDO CONTRA AS DROGAS - BOA VIAGEM) ATENDIMENTO GERAL 2026. SOB O SAC 0972960 / 2026 E TERMO INEX 5745 / 2026 GGACF / FCCR. SEI: 17.009723/2026-32",
+      "orgao": "FUNDACAO DE CULTURA CIDADE DO RECIFE",
+      "cnpj_orgao": "11508942000100",
+      "municipio": "Recife",
+      "uf": "PE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 41250.0,
+      "data_publicacao": "2026-09-29T11:00:08",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/11508942000100/1/005346/2026",
+      "link_origem": "http://portaldecompras.recife.pe.gov.br/",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "a6b1f0a7e7ad2143"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "11508942000100-1-005347/2026",
+      "titulo": "Inexigibilidade 6201.5368/2026",
+      "objeto": "CRIS GALVÃO, NO DIA 20/09/2026, ATENDIMENTO (RPA I, A ORDEM É SAMBA - MERCADO DA BOA VISTA) ATENDIMENTO GERAL 2026. SOB O SAC 0972958 / 2026 E TERMO INEX 5743 / 2026 GGACF / FCCR. SEI: 17.009537/2026-01",
+      "orgao": "FUNDACAO DE CULTURA CIDADE DO RECIFE",
+      "cnpj_orgao": "11508942000100",
+      "municipio": "Recife",
+      "uf": "PE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 8400.0,
+      "data_publicacao": "2026-09-29T11:10:26",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/11508942000100/1/005347/2026",
+      "link_origem": "http://portaldecompras.recife.pe.gov.br/",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "fb4e560495b7c739"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "92963560000160-1-001229/2026",
+      "titulo": "Inexigibilidade 1009/2026",
+      "objeto": "Que VERONICA DI BENEDETTI atue como jurada na Comissao Julgadora do Concurso para Monumento a Sao Jorge - Edital no 003/2026",
+      "orgao": "MUNICIPIO DE PORTO ALEGRE",
+      "cnpj_orgao": "92963560000160",
+      "municipio": "Porto Alegre",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 1500.0,
+      "data_publicacao": "2026-09-29T11:11:56",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/92963560000160/1/001229/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "94fc9869a9f7a31e"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13635016000112-1-000526/2026",
+      "titulo": "Inexigibilidade INEX399/2026",
+      "objeto": "CONTRATAÇÃO DECORRENTE DO CREDENCIAMENTO Nº 002/2025 PARA APRESENTAÇÃO MUSICAL DA CHARANGA 2 DE JULHO, PARA APRESENTAÇÕES NAS FINAIS DA COPA GUAIAMUM DE FUTEBOL 2026, NO MUNICÍPIO DE PORTO SEGURO/BA. SERÃO REALIZADAS 2 APRESENTAÇÕES NO DIA 27 DE SETEMBRO, NO ESTÁDIO MUNICIPAL AGNALDO BENTO DOS SANTOS, CENTRO, DAS 13H ÀS 15H E DAS 18H ÀS 20H, CONFORME PROGRAMAÇÃO DA SECRETARIA MUNICIPAL DE ESPORTE E LAZER.",
+      "orgao": "MUNICIPIO DE PORTO SEGURO",
+      "cnpj_orgao": "13635016000112",
+      "municipio": "Porto Seguro",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
+      "valor_estimado": 12240.0,
+      "data_publicacao": "2026-09-29T11:15:36",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13635016000112/1/000526/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "900604bae6382ed2"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08082743000160-1-000060/2026",
+      "titulo": "Inexigibilidade 62/2026",
+      "objeto": "Desenvolvimento da identidade visual das Salas de Regulação Sensorial, incluindo criação artística de Rio Sora e entrega dos arquivos finais para uso institucional.",
+      "orgao": "SECRETARIA MUNICIPAL DA PESSOA COM DEFICIENCIA",
+      "cnpj_orgao": "08082743000160",
+      "municipio": "São Paulo",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 60840.0,
+      "data_publicacao": "2026-09-29T11:32:59",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08082743000160/1/000060/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "135f923c2559c60d"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "87849923000109-1-000701/2026",
+      "titulo": "Inexigibilidade 213/2026",
+      "objeto": "ABERTURA DE PROCESSO INEXIGIBILIDADE PARA CONTRATAÇÃO DO ARTISTA KELVIN SOMENSI ALVES PARA A PROGRAMAÇÃO DO EVENTO DA 41ª FEIRA DO LIVRO DE 2026 DE BENTO GONÇALVES, NOS DIA 14 À 24 DE\nOUTUBRO DE 2026 NA VIA DEL VINO\n",
+      "orgao": "MUNICIPIO DE BENTO GONCALVES",
+      "cnpj_orgao": "87849923000109",
+      "municipio": "Bento Gonçalves",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, caput Inexigibilidade de Licitação: Todas as formas de inexigibilidade não previstas no art. 74",
+      "valor_estimado": 800.0,
+      "data_publicacao": "2026-09-29T11:53:47",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/87849923000109/1/000701/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "9bde5b08f1b0855f"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "37115383000153-1-000125/2026",
+      "titulo": "Inexigibilidade 23/2026",
+      "objeto": "Aprtesentação de Pocket show alusivo ao dia do servidor público",
+      "orgao": "MINISTERIO DE MINAS E ENERGIA",
+      "cnpj_orgao": "37115383000153",
+      "municipio": "Brasília",
+      "uf": "DF",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 21500.0,
+      "data_publicacao": "2026-09-29T11:54:12",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/37115383000153/1/000125/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6e13c4e60fce2524"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "11508942000100-1-005349/2026",
+      "titulo": "Inexigibilidade 6201.5370/2026",
+      "objeto": "SERVIÇO DE AVALIAÇÃO TÉCNICA CULTURAL - PARECERISTAS, GT - GASTRONOMIA, NO DIA 21/09/2026, EDITAL SIC 2025, CONF. O SAC 0972952/ 2026 E TERMO INEX 5737/ 2026 GGACF / FCCR. SEI: 17.009634/2026-96",
+      "orgao": "FUNDACAO DE CULTURA CIDADE DO RECIFE",
+      "cnpj_orgao": "11508942000100",
+      "municipio": "Recife",
+      "uf": "PE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 1000.0,
+      "data_publicacao": "2026-09-29T11:54:28",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/11508942000100/1/005349/2026",
+      "link_origem": "http://portaldecompras.recife.pe.gov.br/",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d90ff4f5ea11ed49"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "10572071029102-1-000079/2026",
+      "titulo": "Inexigibilidade 84/2026",
+      "objeto": "CONTRATAÇÃO DE LOCAÇÃO DO TEATRO LUIZ MENDONÇA, PARA QUATRO APRESENTAÇÕES ARTÍSTICAS MUSICAIS, NOS DIAS 30/09, 08 E 20/10 E 23/11, PELO PROJETO CONCERTOS ESPECIAIS DO CPM",
+      "orgao": "SECRETARIA DE EDUCACAO E ESPORTES",
+      "cnpj_orgao": "10572071029102",
+      "municipio": "Recife",
+      "uf": "PE",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, I Inexigibilidade de Licitação: aquisição de materiais, de equipamentos ou de gêneros ou contratação de serviços que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos",
+      "valor_estimado": 24000.0,
+      "data_publicacao": "2026-09-29T12:03:11",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/10572071029102/1/000079/2026",
+      "link_origem": "www.peintegrado.pe.gov.br/Portal/Pages/Inexigibilidades.aspx?ncdmodulo=19&sdsprocesso=0084.2026.CCD.IN.0060.SEC-CPM&nCdProcesso=169928&nCdSituacao=8",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "834279748365d522"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "18128272000137-1-000113/2026",
+      "titulo": "Inexigibilidade 114/2026",
+      "objeto": "CONTRATAÇÃO DE SERVIÇO DE SHOW ARTÍSTICO MUSICAL COM O CANTOR \"CIÓ BALBINO\", NO DIA 06/09/2026, PARA APRESENTAÇÃO NO EVENTO \"CONEXÃO RUNLIFE E CIRCUITO QUEDAS D'ÁGUA, CORRIDA RÚSTICA, PASSEIO CICLÍSTICO E DESAFIO CICLÍSTICO\" EM FOMENTO DAS ATIVIDADES DA SECRETARIA DE CULTURA, TURISMO, ESPORTE E LAZER DE BRÁS PIRES-MG.",
+      "orgao": "MUNICIPIO DE BRAS PIRES",
+      "cnpj_orgao": "18128272000137",
+      "municipio": "Brás Pires",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, caput Inexigibilidade de Licitação: Todas as formas de inexigibilidade não previstas no art. 74",
+      "valor_estimado": 1500.0,
+      "data_publicacao": "2026-09-29T12:32:25",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/18128272000137/1/000113/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "86da25891eb01bd0"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "92963560000160-1-001230/2026",
+      "titulo": "Inexigibilidade 926/2026",
+      "objeto": "Atuar como Jurado na Comissao Julgadora do Premio Acorianos de Circo para publico Infantojuvenil 2026",
+      "orgao": "MUNICIPIO DE PORTO ALEGRE",
+      "cnpj_orgao": "92963560000160",
+      "municipio": "Porto Alegre",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 2000.0,
+      "data_publicacao": "2026-09-29T12:35:02",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/92963560000160/1/001230/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "1581f5d5aa060853"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "46634507000106-1-000658/2026",
+      "titulo": "Dispensa 358/2026",
+      "objeto": "Contratação de empresa para prestação de serviços técnicos profissionais especializados de apoio técnico-operacional, gestão documental e suporte à implementação, operacionalização, monitoramento e prestação de contas da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB, conforme condições, especificações e quantitativos estabelecidos no Termo de Referência, a cargo da Secretaria de Cultura.",
+      "orgao": "MUNICIPIO DE SALTO",
+      "cnpj_orgao": "46634507000106",
+      "municipio": "Salto",
+      "uf": "SP",
+      "modalidade": "Dispensa",
+      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+      "valor_estimado": 42603.21,
+      "data_publicacao": "2026-09-29T08:34:41",
+      "data_abertura": "2026-09-29T08:35:00",
+      "data_limite": "2026-10-05T08:00:00",
+      "link": "https://pncp.gov.br/app/editais/46634507000106/1/000658/2026",
+      "link_origem": "http://www.licitasalto.com.br",
       "score": 27,
       "categoria": "FOMENTO_CULTURAL",
       "genero_alvo": false,
@@ -169,40 +3213,101 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "2e0ce79e527413df"
+      "uid": "c30d4cf85c8c0cd3"
     },
     {
-      "fonte": "pncp_search",
-      "id_externo": "18675934000199-1-000103/2026",
-      "titulo": "Aviso de Contratação Direta nº 023/2026/2026",
-      "objeto": "CONTRATAÇÃO DE EMPRESA TÉCNICA ESPECIALIZADA, HABILITADA, ESPECIALIZADA EM ORGANIZAÇÃO, COORDENAÇÃO, GERENCIAMENTO E REGULAMENTAÇÃO DO 16º FESTIVAL SERTANEJO NAS DATAS 20/11/2026, 21/11/2026 E 22/11/2026 PARA ATENDER AS DEMANDAS DO DEPARTAMENTO MUNICIPAL DE CULTURA E TURISMO DA PREFEITURA MUNICIPAL DE MUNHOZ/MG",
-      "orgao": "MUNICIPIO DE MUNHOZ",
-      "cnpj_orgao": "18675934000199",
-      "municipio": "Munhoz",
-      "uf": "MG",
+      "fonte": "pncp",
+      "id_externo": "10508935000137-1-000091/2026",
+      "titulo": "Dispensa 61/2026",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS PARA OPERACIONALIZAÇÃO E EXECUÇÃODAS AÇÕES RELACIONADAS À POLÍTICA NACIONAL ALDIR BLANC DE FOMENTOÀ CULTURA- PNAB, NOS TERMOS DA LEI FEDERAL N°14.399/2022, REFERENTE  AO CICLO II, COMPREENDENDO O PLANEJAMENTO, ACOMPANHAMENTO E EXECUÇÃO DOS PROCEDIMENTOS NECESSÁRIOS, ANÁLISE DOCUMENTAL, SUPORTE TÉCNICO AOS AGENTES CULTURAIS, ELABORAÇÃO E EMISSÃO DE PARECERES TÉCNICOS, BEM COMO DEMAIS ATIVIDADES NECESSÁRIAS AO ADEQUADO DESENVOLVIMENTO E PRETAÇÃO DOS SERVIÇOS NO ÂMBITO DA SECRETARIA MUNICIPAL DE CULTURA, ESPORTE, TURISMO E JUVENTUDE.\r\n.\r\n \r\n",
+      "orgao": "MUNICIPIO DE MADALENA",
+      "cnpj_orgao": "10508935000137",
+      "municipio": "Madalena",
+      "uf": "CE",
       "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-01T07:39:12.194620815",
+      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+      "valor_estimado": 7723.33,
+      "data_publicacao": "2026-09-29T09:21:50",
+      "data_abertura": "2026-09-16T11:25:00",
+      "data_limite": "2026-09-25T11:25:00",
+      "link": "https://pncp.gov.br/app/editais/10508935000137/1/000091/2026",
+      "link_origem": "https://www.governotransparente.com.br/transparencia/13189485/consultarlicitacao?datainfo=MTIwMjMxMDIzMTkyNFBQUA==&clean=false",
+      "score": 18,
+      "categoria": "FOMENTO_CULTURAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "a8f7b2a87e5531f4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "88150495000186-1-000412/2026",
+      "titulo": "Dispensa 167/2026",
+      "objeto": "Contratação da empresa RAFAEL BATISTA ROQUE para apresentação musical do grupo SANGUE FARRAPO, no Acampamento Farroupilha de Esteio/ 2026  no dia 23 de setembro de 2026 às 20h com duração de até 2h.  - Sei 43.206011.000065/2026-61 ",
+      "orgao": "MUNICIPIO DE ESTEIO",
+      "cnpj_orgao": "88150495000186",
+      "municipio": "Esteio",
+      "uf": "RS",
+      "modalidade": "Dispensa",
+      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+      "valor_estimado": 5000.0,
+      "data_publicacao": "2026-09-29T07:48:59",
       "data_abertura": "",
-      "data_limite": "2026-10-06T08:30",
-      "link": "https://pncp.gov.br/compras/18675934000199/2026/103",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/88150495000186/1/000412/2026",
       "link_origem": "",
-      "score": 22,
-      "categoria": "EVENTO_MUNICIPAL",
-      "genero_alvo": true,
+      "score": 12,
+      "categoria": "DISPENSA",
+      "genero_alvo": false,
       "hits": {
         "A": [
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
         ],
-        "B": [
-          "\\bfestival (de |da |do )?(musica|cultura|inverno|verao|sertanejo)"
-        ],
+        "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "e3eb9520ddf80c9e"
+      "uid": "0ea9aeef57c33af1"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "12781646000132-1-000029/2026",
+      "titulo": "Dispensa 102/2026",
+      "objeto": "CONTRATAÇÃO DE APRESENTAÇÃO ARTÍSTICA MUSICAL, COM DURAÇÃO DE 1 (UMA) HORA E 30 (TRINTA) MINUTOS, PARA O BAILE DA RAINHA DA TERCEIRA IDADE, NO DIA 16 DE OUTUBRO DE 2026, ÀS 19H, NA QUADRA DA ESCOLA MU",
+      "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE SANTA ROSA DE GOIAS",
+      "cnpj_orgao": "12781646000132",
+      "municipio": "Santa Rosa de Goiás",
+      "uf": "GO",
+      "modalidade": "Dispensa",
+      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+      "valor_estimado": 2000.0,
+      "data_publicacao": "2026-09-29T09:38:37",
+      "data_abertura": "2026-09-22T08:00:00",
+      "data_limite": "2026-09-24T17:00:00",
+      "link": "https://pncp.gov.br/app/editais/12781646000132/1/000029/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "DISPENSA",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6e25713a30872fda"
     }
   ]
 }
