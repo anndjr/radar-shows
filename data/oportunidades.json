@@ -1,70 +1,33 @@
 {
-  "gerado_em": "2026-10-07T17:37:44",
-  "total_brutos": 1240,
-  "total_aprovados": 245,
-  "total_novos": 6,
+  "gerado_em": "2026-10-08T00:46:23",
+  "total_brutos": 1429,
+  "total_aprovados": 216,
+  "total_novos": 4,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "82928680000172-1-000061/2026",
-      "titulo": "Edital de Chamamento Público nº CRE 1/2026",
-      "objeto": "Credenciamento de agentes culturais, pessoas físicas e jurídicas, para execução das ações culturais da programação do evento \" 2º  Desafio cultural\" do Município de Pedras Grandes/SC, nas categorias de apresentação artística coletiva, recreação e animação cultural infantil e exposição de produtos da economia criativa local, custeadas com recursos provenientes da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB) 2025 - ciclo 2, instituída pela Lei nº 14.399/2022, conforme especificações e condições estabelecidas neste instrumento.",
-      "orgao": "MUNICIPIO DE PEDRAS GRANDES",
-      "cnpj_orgao": "82928680000172",
-      "municipio": "Pedras Grandes",
-      "uf": "SC",
+      "id_externo": "13698774000180-1-000198/2026",
+      "titulo": "Edital nº 008/2026",
+      "objeto": "Chamamento Público para fins de credenciamento de artistas locais nos variados estilos, visando atender as eventuais e futuras contratações, para apresentações em eventos, promovidos e apoiados pela Prefeitura Município de Euclides da cunha – Bahia.",
+      "orgao": "MUNICIPIO DE EUCLIDES DA CUNHA",
+      "cnpj_orgao": "13698774000180",
+      "municipio": "Euclides da Cunha",
+      "uf": "BA",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-07T09:00:16.587007599",
+      "data_publicacao": "2026-10-07T18:06:32.928033147",
       "data_abertura": "",
-      "data_limite": "2026-10-07T17:00",
-      "link": "https://pncp.gov.br/compras/82928680000172/2026/61",
+      "data_limite": "2027-10-08T17:00",
+      "link": "https://pncp.gov.br/compras/13698774000180/2026/198",
       "link_origem": "",
-      "score": 48,
+      "score": 33,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
-        ],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "3ffcb9515070f51e"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "17947581000176-1-000231/2026",
-      "titulo": "Edital de Chamamento Público nº PRI 34/2026",
-      "objeto": "Credenciamento para contratação de shows artísticos para apresentações musicais, em diferentes estilos para atender aos programas pertencentes à Secretaria Municipal de Desenvolvimento Social nos termos e nas condições estabelecidas no Termo de Referência.",
-      "orgao": "MUNICIPIO DE MURIAE",
-      "cnpj_orgao": "17947581000176",
-      "municipio": "Muriaé",
-      "uf": "MG",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-07T14:22:40.922372958",
-      "data_abertura": "",
-      "data_limite": "2027-10-13T23:59:59",
-      "link": "https://pncp.gov.br/compras/17947581000176/2026/231",
-      "link_origem": "",
-      "score": 45,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
         ],
         "B": [],
         "C": [
@@ -73,139 +36,103 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "36fc6cff229a8b14"
+      "uid": "b665ea379aba6c73"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "45122942000180-1-001073/2026",
-      "titulo": "Edital de Chamamento Público nº 3 | Processo 2773/2026",
-      "objeto": "CREDENCIAMENTO PARA CONTRATACAO DE SHOWS ARTISTICOS PARA APRESENTACOES MUSICAIS  EM DIFERENTES ESTILOS PARA ATENDER A EVENTOS CULTURAIS DO MUNICIPIO DE PINDORAMA SP",
-      "orgao": "MUNICIPIO DE PINDORAMA",
-      "cnpj_orgao": "45122942000180",
-      "municipio": "Pindorama",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
+      "id_externo": "13908702000110-1-000187/2026",
+      "titulo": "Aviso de Contratação Direta nº DL 026/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA TÉCNICA E ESPECIALIZADA DE FORMA PRESENCIAL, COM EXPERTISE NA ÁREA CULTURAL OU CORRELATA, PARA ACOMPANHAMENTO, EXECUÇÃO, PLANEJAMENTO, COORDENAÇÃO, REALIZAÇÃO DE ATIVIDADES ARTÍSTICO-CULTURAIS, PRODUÇÃO, LOGÍSTICA, MONITORAMENTO, PRESTAÇÃO DE CONTAS, AVALIAÇÃO E EMISSÃO DE RELATÓRIOS TÉCNICOS RELACIONADOS AOS PROJETOS CONTEMPLADOS PELO EDITAL DE FOMENTO À CULTURA, NO ÂMBITO DA POLÍTICA NACIONAL ALDIR BLANC – PNAB.",
+      "orgao": "MUNICIPIO DE CAMPO FORMOSO",
+      "cnpj_orgao": "13908702000110",
+      "municipio": "Campo Formoso",
+      "uf": "BA",
+      "modalidade": "Dispensa",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-07T14:13:48.269029581",
+      "data_publicacao": "2026-10-07T17:11:02.441391779",
       "data_abertura": "",
-      "data_limite": "2027-10-26T09:00",
-      "link": "https://pncp.gov.br/compras/45122942000180/2026/1073",
+      "data_limite": "2026-10-13T23:59:59",
+      "link": "https://pncp.gov.br/compras/13908702000110/2026/187",
       "link_origem": "",
-      "score": 40,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
-        ],
-        "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "e052b6fa6abeb14e"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "65554728000100-1-000012/2026",
-      "titulo": "Edital de Chamamento Público nº (3026) | 1-A/2026",
-      "objeto": "CHAMAMENTO PUBLICO PARA CREDENCIAMENTO DE AGENTES CULTURAIS PNAB CICLO 2.",
-      "orgao": "FUNDO MUNICIPAL DA CULTURA DE COLINAS DO SUL",
-      "cnpj_orgao": "65554728000100",
-      "municipio": "Colinas do Sul",
-      "uf": "GO",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-07T09:04:56.800915812",
-      "data_abertura": "",
-      "data_limite": "2026-11-01T23:59",
-      "link": "https://pncp.gov.br/compras/65554728000100/2026/12",
-      "link_origem": "",
-      "score": 18,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "f035d363c4ff2b91"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "95990115000187-1-000031/2026",
-      "titulo": "Edital nº PE19/2026",
-      "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO E INSTALAÇÃO DE ITENS QUE SERÃO DESTINADOS NO CENTRO DE CULTURA PARA ATENDER ÁS NECESSIDADES DAS OFICINAS CULTURAIS, VISANDO Á MELHORIA DA INFRAESTRUTURA DOS ESPAÇOS E AO DESENVOLVIMENTO DAS ATIVIDADES CULTURAIS, ARTÍSTICAS E MUSICAIS OFERECIDOS AOS MUNÍCIPES DE NOVO HORIZONTE/SC, Lei nº 14.399/2022 Aldir Blanc de Fomento á Cultura.",
-      "orgao": "MUNICIPIO DE NOVO HORIZONTE",
-      "cnpj_orgao": "95990115000187",
-      "municipio": "Novo Horizonte",
-      "uf": "SC",
-      "modalidade": "Pregão - Eletrônico",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-07T11:06:55.299398",
-      "data_abertura": "",
-      "data_limite": "2026-10-26T07:59",
-      "link": "https://pncp.gov.br/compras/95990115000187/2026/31",
-      "link_origem": "",
-      "score": 18,
+      "score": 27,
       "categoria": "FOMENTO_CULTURAL",
       "genero_alvo": false,
       "hits": {
         "A": [],
         "B": [],
         "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
           "\\baldir blanc\\b",
           "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
         ],
         "NEG": []
       },
       "trecho": "",
-      "uid": "3f892cda7af08a6d"
+      "uid": "c9115281a34d2735"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "45281144000100-1-000166/2026",
-      "titulo": "Aviso de Contratação Direta nº 38/2026",
-      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PRODUÇÃO E ATRAÇÕES ARTÍSTICA PARA COMPOR A PROGRAMAÇÃO COMEMORATIVA DO ANIVERSARIO DA CIDADE",
-      "orgao": "MUNICIPIO DE ITAPIRA",
-      "cnpj_orgao": "45281144000100",
-      "municipio": "Itapira",
+      "id_externo": "45290418000119-1-000090/2026",
+      "titulo": "Aviso de Contratação Direta nº 14/2026",
+      "objeto": "[Portal de Compras Públicas] - Constitui objeto desta dispensa eletrônica a aquisição de instrumentos musicais e acessórios destinados ao atendimento das necessidades da Banda Musical Municipal de Joanópolis/SP, conforme especificações, quantidades, garantias e demais condições constantes do Termo de Referência - Anexo I.",
+      "orgao": "MUNICIPIO DE  JOANOPOLIS",
+      "cnpj_orgao": "45290418000119",
+      "municipio": "Joanópolis",
       "uf": "SP",
       "modalidade": "Dispensa",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-06T16:54:43.004911159",
+      "data_publicacao": "2026-10-07T14:40:26.081595",
       "data_abertura": "",
-      "data_limite": "2026-10-13T08:29",
-      "link": "https://pncp.gov.br/compras/45281144000100/2026/166",
+      "data_limite": "2026-10-14T08:59",
+      "link": "https://pncp.gov.br/compras/45290418000119/2026/90",
       "link_origem": "",
-      "score": 16,
-      "categoria": "EVENTO_MUNICIPAL",
+      "score": 12,
+      "categoria": "DISPENSA",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b"
         ],
-        "B": [
-          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)"
-        ],
+        "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "24ed5f59195adafe"
+      "uid": "7a13d0617656cf1f"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01616271000139-1-000065/2026",
+      "titulo": "Aviso de Contratação Direta nº 016/2026",
+      "objeto": "Contratação de empresa especializada para prestação de serviços de apresentações artísticas, recreação e interação infantil, destinados à realização da 6ª Edição do Sonho de Criança, no dia 18 de outubro de 2026, no Município de Orizânia/MG",
+      "orgao": "MUNICIPIO DE ORIZANIA",
+      "cnpj_orgao": "01616271000139",
+      "municipio": "Orizânia",
+      "uf": "MG",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-07T16:39:59.947264420",
+      "data_abertura": "",
+      "data_limite": "2026-10-13T15:00",
+      "link": "https://pncp.gov.br/compras/01616271000139/2026/65",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "66d930f41849031e"
     }
   ]
 }
