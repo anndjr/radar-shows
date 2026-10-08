@@ -1,65 +1,99 @@
 {
-  "gerado_em": "2026-10-08T00:46:23",
-  "total_brutos": 1429,
-  "total_aprovados": 216,
-  "total_novos": 4,
+  "gerado_em": "2026-10-08T17:40:53",
+  "total_brutos": 1062,
+  "total_aprovados": 204,
+  "total_novos": 8,
   "oportunidades": [
     {
-      "fonte": "pncp_search",
-      "id_externo": "13698774000180-1-000198/2026",
-      "titulo": "Edital nº 008/2026",
-      "objeto": "Chamamento Público para fins de credenciamento de artistas locais nos variados estilos, visando atender as eventuais e futuras contratações, para apresentações em eventos, promovidos e apoiados pela Prefeitura Município de Euclides da cunha – Bahia.",
-      "orgao": "MUNICIPIO DE EUCLIDES DA CUNHA",
-      "cnpj_orgao": "13698774000180",
-      "municipio": "Euclides da Cunha",
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2906006/2026-10-06/3b3b6c10c12e2bbcfada3cf240f5e7a5fa461815.txt",
+      "titulo": "DOM Campo Formoso/BA 2026-10-06",
+      "objeto": "3645 1524\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 098/2026\nPROCESSO ADMINISTRATIVO N° 610/2026.\nCONTRATO Nº 371/2026 \nCONTRATANTE –MUNICIPIO DE CAMPO FORMOSO\nCONTRATADA – HOMERO OLIVEIRA DA SILVA PRODUÇÕES ARTÍSTICAS\nCNPJ  nº 08.684.071/0001-62\nOBJETO - CONTRATAÇÃO DE ARTISTA (BANDA BREGA E VINHO) EM SHOW MUSICAL PARA \nAPRESENTAÇÃO NOS “FESTEJOS DA COMUNIDADE DE TUIUTIBA”, QUE REALIZAR-SE-Á NO \nPOVOADO DE TUIUTIBA, MUNICÍPIO DE CAMPO FORMOSO – BA.\nVALOR  – R$ 80.000,00 (Oitenta mil reais)\nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria Municipal de Turismo, Cultura, Esporte e Lazer\nAtividade - 2.134 – Promoção de Festejos Tradicionais e Culturais",
+      "orgao": "Campo Formoso",
+      "cnpj_orgao": "",
+      "municipio": "Campo Formoso",
       "uf": "BA",
-      "modalidade": "Credenciamento",
+      "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-07T18:06:32.928033147",
+      "data_publicacao": "2026-10-06",
       "data_abertura": "",
-      "data_limite": "2027-10-08T17:00",
-      "link": "https://pncp.gov.br/compras/13698774000180/2026/198",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2906006/2026-10-06/3b3b6c10c12e2bbcfada3cf240f5e7a5fa461815.pdf",
       "link_origem": "",
-      "score": 33,
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "3645 1524\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 098/2026\nPROCESSO ADMINISTRATIVO N° 610/2026.\nCONTRATO Nº 371/2026 \nCONTRATANTE –MUNICIPIO DE CAMPO FORMOSO\nCONTRATADA – HOMERO OLIVEIRA DA SILVA PRODUÇÕES ARTÍSTICAS\nCNPJ  nº 08.684.071/0001-62\nOBJETO - CONTRATAÇÃO DE ARTISTA (BANDA BREGA E VINHO) EM SHOW MUSICAL PARA \nAPRESENTAÇÃO NOS “FESTEJOS DA COMUNIDADE DE TUIUTIBA”, QUE REALIZAR-SE-Á NO \nPOVOADO DE TUIUTIBA, MUNICÍPIO DE CAMPO FORMOSO – BA.\nVALOR  – R$ 80.000,00 (Oitenta mil reais)\nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria Municipal de Turismo, Cultura, Esporte e Lazer\nAtividade - 2.134 – Promoção de Festejos Tradicionais e Culturais",
+      "uid": "d7baeefc8c484740"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3525904/2026-10-06/49e640d89e3e51da635c685c623b568a4fb87403.txt",
+      "titulo": "DOM Jundiaí/SP 2026-10-06",
+      "objeto": "EXECUÇÃO DE SERVIÇOS DE ENGENHARIA - SMISP \nDESTINADO SECR. MUN. DE INFRAEST. E SERVIÇOS PÚBLICOS, \nCONVENIO: FINISA/OBRAS DE INFRAESTRUTURA E SANEAMENTO \nL.10077/2023 COMPRA DIRETA OBRAS/MAN. VEIC. Nº 40/2026.\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 34042/2026\nInexigibilidade de Licitação nº 255/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: SAYO SHOWS MUSICAIS E EVENTOS LTDA CNPJ: \n60.912.568/0001-00.\nIV - Valor Global: R$ 1.000,00 (um mil reais).\nV - Prazo de Entrega: outubro/2026.\nVI - Justificativa: Esta contratação artística se praticado por \nesta Secretaria Municipal.\n\nWilliam Ramos\nDiretor do Departamento de Cultura\n\nGSMCULT\nRatifico a justificativa apresentada pelo Diretor do Departamento de \nCultura, acima, adjudico e homologo este procedimento de contratação \ndireta e autorizo a despesa e a emissão do empenho à SAYO SHOWS \nMUSICAIS E EVENTOS LTDA para o serviço de Show Musical no valor \nde R$1.000,00.\nPublique-se o respectivo Ato.\n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nADMINISTRAÇÃO\n\nhttp://www.jundiai.sp.gov.br/\nhttp://imprensaoficial.jundiai.sp.gov.br/assinatura/\nhttp://www.jundiai.sp.gov.br/\nhttp://imprensaoficial.jundiai.sp.gov.br/assinatura/\n\n\nPrefeitura \nde Jundiaí\n\nImprensa Oficial do Município autorizo a despesa e a emissão do empenho à PATRICIA \nDURAES BENTO PELLEGRINI para serviço de jurado no valor de \nR$2.000,00.\nPublique-se o respectivo Ato.\n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 34045/2026\nInexigibilidade de Licitação nº 254/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: IMUSICO SHOWS ARTISTICOS LTDA CNPJ: \n23.362.385/0001-32.\nIV - Valor Global: R$ 2.500,00 (Dois mil e quinhentos reais).\nV - Prazo de Entrega: outubro/2026.\nVI - Justificativa: Esta contratação artística",
+      "orgao": "Jundiaí",
+      "cnpj_orgao": "",
+      "municipio": "Jundiaí",
+      "uf": "SP",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-06",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3525904/2026-10-06/49e640d89e3e51da635c685c623b568a4fb87403.pdf",
+      "link_origem": "",
+      "score": 14,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": [
+          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
+        ]
+      },
+      "trecho": "EXECUÇÃO DE SERVIÇOS DE ENGENHARIA - SMISP \nDESTINADO SECR. MUN. DE INFRAEST. E SERVIÇOS PÚBLICOS, \nCONVENIO: FINISA/OBRAS DE INFRAESTRUTURA E SANEAMENTO \nL.10077/2023 COMPRA DIRETA OBRAS/MAN. VEIC. Nº 40/2026.\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 34042/2026\nInexigibilidade de Licitação nº 255/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: SAYO SHOWS MUSICAIS E EVENTOS LTDA CNPJ: \n60.912.568/0001-00.\nIV - Valor Global: R$ 1.000,00 (um mil reais).\nV - Prazo de Entrega: outubro/2026.\nVI - Justificativa: Esta contratação artística se praticado por \nesta Secretaria Municipal.\n\nWilliam Ramos\nDiretor do Departamento de Cultura\n\nGSMCULT\nRatifico a justificativa apresentada pelo Diretor do Departamento de \nCultura, acima, adjudico e homologo este procedimento de contratação \ndireta e autorizo a despesa e a emissão do empenho à SAYO SHOWS \nMUSICAIS E EVENTOS LTDA para o serviço de Show Musical no valor \nde R$1.000,00.\nPublique-se o respectivo Ato.\n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nADMINISTRAÇÃO\n\nhttp://www.jundiai.sp.gov.br/\nhttp://imprensaoficial.jundiai.sp.gov.br/assinatura/\nhttp://www.jundiai.sp.gov.br/\nhttp://imprensaoficial.jundiai.sp.gov.br/assinatura/\n\n\nPrefeitura \nde Jundiaí\n\nImprensa Oficial do Município autorizo a despesa e a emissão do empenho à PATRICIA \nDURAES BENTO PELLEGRINI para serviço de jurado no valor de \nR$2.000,00.\nPublique-se o respectivo Ato.\n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 34045/2026\nInexigibilidade de Licitação nº 254/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: IMUSICO SHOWS ARTISTICOS LTDA CNPJ: \n23.362.385/0001-32.\nIV - Valor Global: R$ 2.500,00 (Dois mil e quinhentos reais).\nV - Prazo de Entrega: outubro/2026.\nVI - Justificativa: Esta contratação artística",
+      "uid": "e53d15c3f85f3b21"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "82928680000172-1-000061/2026",
+      "titulo": "Credenciamento CRE 1/2026",
+      "objeto": "Credenciamento de agentes culturais, pessoas físicas e jurídicas, para execução das ações culturais da programação do evento \" 2º  Desafio cultural\" do Município de Pedras Grandes/SC, nas categorias de apresentação artística coletiva, recreação e animação cultural infantil e exposição de produtos da economia criativa local, custeadas com recursos provenientes da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB) 2025 - ciclo 2, instituída pela Lei nº 14.399/2022, conforme especificações e condições estabelecidas neste instrumento.",
+      "orgao": "MUNICIPIO DE PEDRAS GRANDES",
+      "cnpj_orgao": "82928680000172",
+      "municipio": "Pedras Grandes",
+      "uf": "SC",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, II Credenciamento: na hipótese de contratação com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação.",
+      "valor_estimado": 14642.92,
+      "data_publicacao": "2026-10-07T09:00:16",
+      "data_abertura": "2026-10-02T08:00:00",
+      "data_limite": "2026-10-07T17:00:00",
+      "link": "https://pncp.gov.br/app/editais/82928680000172/1/000061/2026",
+      "link_origem": "",
+      "score": 39,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
         ],
-        "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "b665ea379aba6c73"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "13908702000110-1-000187/2026",
-      "titulo": "Aviso de Contratação Direta nº DL 026/2026",
-      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA TÉCNICA E ESPECIALIZADA DE FORMA PRESENCIAL, COM EXPERTISE NA ÁREA CULTURAL OU CORRELATA, PARA ACOMPANHAMENTO, EXECUÇÃO, PLANEJAMENTO, COORDENAÇÃO, REALIZAÇÃO DE ATIVIDADES ARTÍSTICO-CULTURAIS, PRODUÇÃO, LOGÍSTICA, MONITORAMENTO, PRESTAÇÃO DE CONTAS, AVALIAÇÃO E EMISSÃO DE RELATÓRIOS TÉCNICOS RELACIONADOS AOS PROJETOS CONTEMPLADOS PELO EDITAL DE FOMENTO À CULTURA, NO ÂMBITO DA POLÍTICA NACIONAL ALDIR BLANC – PNAB.",
-      "orgao": "MUNICIPIO DE CAMPO FORMOSO",
-      "cnpj_orgao": "13908702000110",
-      "municipio": "Campo Formoso",
-      "uf": "BA",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-07T17:11:02.441391779",
-      "data_abertura": "",
-      "data_limite": "2026-10-13T23:59:59",
-      "link": "https://pncp.gov.br/compras/13908702000110/2026/187",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "FOMENTO_CULTURAL",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
         "B": [],
         "C": [
           "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
@@ -69,70 +103,174 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "c9115281a34d2735"
+      "uid": "27f8f0a6579ce129"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "45290418000119-1-000090/2026",
-      "titulo": "Aviso de Contratação Direta nº 14/2026",
-      "objeto": "[Portal de Compras Públicas] - Constitui objeto desta dispensa eletrônica a aquisição de instrumentos musicais e acessórios destinados ao atendimento das necessidades da Banda Musical Municipal de Joanópolis/SP, conforme especificações, quantidades, garantias e demais condições constantes do Termo de Referência - Anexo I.",
-      "orgao": "MUNICIPIO DE  JOANOPOLIS",
-      "cnpj_orgao": "45290418000119",
-      "municipio": "Joanópolis",
+      "id_externo": "82947979000174-1-000253/2026",
+      "titulo": "Edital de Chamamento Público nº PRI 42/2026",
+      "objeto": "CREDENCIAMENTO de artistas e bandas da terra, para apresentação de shows que atendam ao Calendário Municipal de Eventos de\n2026/2027",
+      "orgao": "MUNICIPIO DE FRAIBURGO",
+      "cnpj_orgao": "82947979000174",
+      "municipio": "Fraiburgo",
+      "uf": "SC",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-08T08:19:44.928829333",
+      "data_abertura": "",
+      "data_limite": "2027-10-20T17:30",
+      "link": "https://pncp.gov.br/compras/82947979000174/2026/253",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e7d7ece2884dfa30"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3511102/2026-10-07/bf7ac34b16dcdc7bd875d8fd56cf398e6f150518.txt",
+      "titulo": "DOM Catanduva/SP 2026-10-07",
+      "objeto": "15/09/2026, 17:49 6K8T5SW99CD2 JULIE CAROLINE MARCHI TURIM\n\n16/09/2026, 23:46 4YNJZZTBSNTY LILIANE COELHO F. CALIXTO\n\n INTERVENÇÃO II      TEMA : LIVRE - 12 VAGAS\n\nDIA E HORARIO PROTOCOLO NOME NOTA CLASSIFICAÇÃO\n\nDANÇA      TEMA : LIVRE - 10 VAGAS\n\nDIA E HORARIO PROTOCOLO NOME NOTA CLASSIFICAÇÃO\n\nEDITAL 004/2026 - CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE ARTISTAS PARA AÇÕES CULTURAIS \n\n2026, processo administrativo 16619/2026.\n\nEm cumprimento ao disposto no item 10.5.5 do Edital 004/2026, que preceitua que concluída a análise, será \n\npublicado o resultado da habilitação e da classificação dos interessados, observados os prazos e procedimentos \n\nrecursais previstos no Edital , COMUNICAMOS que, após integridade.\n\n \n\n                     \nMUNICÍPIO DE CATANDUVA \n\nESTADO DE SÃO PAULO \n\nPRAÇA CONDE FRANCISCO MATARAZZO, 01 – CEP 15800-031 – CATANDUVA/SP \n\nCNPJ 45.122.603/0001-02 \n\nTEL: 17 – 35319100 \n\nSECRETARIA MUNICIPAL DE CULTURA \n\nATA DA COMISSÃO DE ANÁLISE DA DOCUMENTAÇÃO DE HABILITAÇÃO DO EDITAL 004/2026 - CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE ARTISTAS PARA \n\nAÇÕES CULTURAIS 2026, processo administrativo 16619/2026. \n\nEm reunião realizada no período de 02 de OUTUBRO de 2026 a 03 de OUTUBRO de 2026,  a sessão Pública referente à análise dos documentos protocolados pelos \n\nproponentes no período de recurso que compreendeu a data 29 de setembro de 2026 a 01 de outubro de 2026 na forma do",
+      "orgao": "Catanduva",
+      "cnpj_orgao": "",
+      "municipio": "Catanduva",
+      "uf": "SP",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-07",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3511102/2026-10-07/bf7ac34b16dcdc7bd875d8fd56cf398e6f150518.pdf",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "15/09/2026, 17:49 6K8T5SW99CD2 JULIE CAROLINE MARCHI TURIM\n\n16/09/2026, 23:46 4YNJZZTBSNTY LILIANE COELHO F. CALIXTO\n\n INTERVENÇÃO II      TEMA : LIVRE - 12 VAGAS\n\nDIA E HORARIO PROTOCOLO NOME NOTA CLASSIFICAÇÃO\n\nDANÇA      TEMA : LIVRE - 10 VAGAS\n\nDIA E HORARIO PROTOCOLO NOME NOTA CLASSIFICAÇÃO\n\nEDITAL 004/2026 - CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE ARTISTAS PARA AÇÕES CULTURAIS \n\n2026, processo administrativo 16619/2026.\n\nEm cumprimento ao disposto no item 10.5.5 do Edital 004/2026, que preceitua que concluída a análise, será \n\npublicado o resultado da habilitação e da classificação dos interessados, observados os prazos e procedimentos \n\nrecursais previstos no Edital , COMUNICAMOS que, após integridade.\n\n \n\n                     \nMUNICÍPIO DE CATANDUVA \n\nESTADO DE SÃO PAULO \n\nPRAÇA CONDE FRANCISCO MATARAZZO, 01 – CEP 15800-031 – CATANDUVA/SP \n\nCNPJ 45.122.603/0001-02 \n\nTEL: 17 – 35319100 \n\nSECRETARIA MUNICIPAL DE CULTURA \n\nATA DA COMISSÃO DE ANÁLISE DA DOCUMENTAÇÃO DE HABILITAÇÃO DO EDITAL 004/2026 - CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE ARTISTAS PARA \n\nAÇÕES CULTURAIS 2026, processo administrativo 16619/2026. \n\nEm reunião realizada no período de 02 de OUTUBRO de 2026 a 03 de OUTUBRO de 2026,  a sessão Pública referente à análise dos documentos protocolados pelos \n\nproponentes no período de recurso que compreendeu a data 29 de setembro de 2026 a 01 de outubro de 2026 na forma do",
+      "uid": "3dcf0905c554a6c7"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "65554728000100-1-000012/2026",
+      "titulo": "Credenciamento (3026) | 1-A/2026",
+      "objeto": "CHAMAMENTO PUBLICO PARA CREDENCIAMENTO DE AGENTES CULTURAIS PNAB CICLO 2.",
+      "orgao": "FUNDO MUNICIPAL DA CULTURA DE COLINAS DO SUL",
+      "cnpj_orgao": "65554728000100",
+      "municipio": "Colinas do Sul",
+      "uf": "GO",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 43866.0,
+      "data_publicacao": "2026-10-07T09:04:56",
+      "data_abertura": "2026-10-07T08:00:00",
+      "data_limite": "2026-11-01T23:59:00",
+      "link": "https://pncp.gov.br/app/editais/65554728000100/1/000012/2026",
+      "link_origem": "",
+      "score": 18,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5324f08fff0263f7"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "58993577000121-1-000130/2026",
+      "titulo": "Aviso de Contratação Direta nº 35/2026",
+      "objeto": "Aquisição de bens destinados à estruturação e ao apoio da infraestrutura cultural, visando atender às necessidades da Secretaria Municipal de Cultura e Turismo na realização de oficinas, apresentações artísticas, espetáculos, exposições, cursos, ações de formação, atividades culturais e demais iniciativas previstas no âmbito da Política Nacional Aldir Blanc de Fomento à Cultura – Lei nº 14.399/2022.",
+      "orgao": "MUNICIPIO DE ARACARIGUAMA",
+      "cnpj_orgao": "58993577000121",
+      "municipio": "Araçariguama",
       "uf": "SP",
       "modalidade": "Dispensa",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-07T14:40:26.081595",
+      "data_publicacao": "2026-10-08T09:31:07.385001",
       "data_abertura": "",
-      "data_limite": "2026-10-14T08:59",
-      "link": "https://pncp.gov.br/compras/45290418000119/2026/90",
+      "data_limite": "2026-10-15T08:00",
+      "link": "https://pncp.gov.br/compras/58993577000121/2026/130",
       "link_origem": "",
-      "score": 12,
-      "categoria": "DISPENSA",
+      "score": 39,
+      "categoria": "FOMENTO_CULTURAL",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
         ],
         "B": [],
-        "C": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
         "NEG": []
       },
       "trecho": "",
-      "uid": "7a13d0617656cf1f"
+      "uid": "f3764345d6df8a47"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "01616271000139-1-000065/2026",
-      "titulo": "Aviso de Contratação Direta nº 016/2026",
-      "objeto": "Contratação de empresa especializada para prestação de serviços de apresentações artísticas, recreação e interação infantil, destinados à realização da 6ª Edição do Sonho de Criança, no dia 18 de outubro de 2026, no Município de Orizânia/MG",
-      "orgao": "MUNICIPIO DE ORIZANIA",
-      "cnpj_orgao": "01616271000139",
-      "municipio": "Orizânia",
-      "uf": "MG",
-      "modalidade": "Dispensa",
+      "id_externo": "76105584000121-1-000106/2026",
+      "titulo": "Edital nº 38/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA ORGANIZAÇÃO, DIVULGAÇÃO E REALIZAÇÃO DA 34° EDIÇÃO DO FESTIVAL DE MÚSICA SERTANEJA E POPULAR - FEMUSPOP, QUE ACONTECERÁ NOS DIAS 05, 06 E 07 DE NOVEMBRO DE 2026 NO GINÁSIO DE ESPORTES VALÊNCIO SIMÕES, CONFORME SOLICITADO PELA SECRETARIA DE CULTURA E TURISMO DA PREFEITURA DE TIJUCAS DO SUL/PR",
+      "orgao": "MUNICIPIO DE TIJUCAS DO SUL",
+      "cnpj_orgao": "76105584000121",
+      "municipio": "Tijucas do Sul",
+      "uf": "PR",
+      "modalidade": "Pregão - Eletrônico",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-07T16:39:59.947264420",
+      "data_publicacao": "2026-10-08T11:43:53.704791758",
       "data_abertura": "",
-      "data_limite": "2026-10-13T15:00",
-      "link": "https://pncp.gov.br/compras/01616271000139/2026/65",
+      "data_limite": "2026-10-26T09:00",
+      "link": "https://pncp.gov.br/compras/76105584000121/2026/106",
       "link_origem": "",
-      "score": 24,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
+      "score": 22,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": true,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
         ],
-        "B": [],
+        "B": [
+          "\\bfestival (de |da |do )?(musica|cultura|inverno|verao|sertanejo)"
+        ],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "66d930f41849031e"
+      "uid": "c137098ff69eb9a2"
     }
   ]
 }
