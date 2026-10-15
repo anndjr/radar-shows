@@ -1,130 +1,32 @@
 {
-  "gerado_em": "2026-10-15T15:25:56",
-  "total_brutos": 1477,
-  "total_aprovados": 235,
-  "total_novos": 5,
+  "gerado_em": "2026-10-15T23:34:32",
+  "total_brutos": 1442,
+  "total_aprovados": 275,
+  "total_novos": 3,
   "oportunidades": [
     {
-      "fonte": "pncp",
-      "id_externo": "01740489000109-1-001339/2026",
-      "titulo": "Credenciamento (8453) | 1597-0/2026",
-      "objeto": "CREDENCIAMENTO DE PESSOAS FÍSICAS OU JURÍDICAS, DESTINADO À CONTRATAÇÃO DE ARTISTAS LOCAIS E REGIONAIS PARA SHOWS DE PEQUENO PORTE, DE ACORDO COM AS NECESSIDADES DA SECRETARIA DE CULTURA DO MUNICÍPIO DE SÍTIO D’ABADIA – GO.",
-      "orgao": "MUNICIPIO DE SITIO D'ABADIA",
-      "cnpj_orgao": "01740489000109",
-      "municipio": "Sítio d'Abadia",
-      "uf": "GO",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 221638.33,
-      "data_publicacao": "2026-10-15T09:40:09",
-      "data_abertura": "2026-10-15T08:00:00",
-      "data_limite": "2027-10-14T17:00:00",
-      "link": "https://pncp.gov.br/app/editais/01740489000109/1/001339/2026",
-      "link_origem": "",
-      "score": 36,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "9e85190c2d20ae3b"
-    },
-    {
       "fonte": "pncp_search",
-      "id_externo": "01740489000109-1-001339/2026",
-      "titulo": "Edital de Chamamento Público nº (8453) | 1597-0/2026",
-      "objeto": "CREDENCIAMENTO DE PESSOAS FÍSICAS OU JURÍDICAS, DESTINADO À CONTRATAÇÃO DE ARTISTAS LOCAIS E REGIONAIS PARA SHOWS DE PEQUENO PORTE, DE ACORDO COM AS NECESSIDADES DA SECRETARIA DE CULTURA DO MUNICÍPIO DE SÍTIO D’ABADIA – GO.",
-      "orgao": "MUNICIPIO DE SITIO D'ABADIA",
-      "cnpj_orgao": "01740489000109",
-      "municipio": "Sítio d'Abadia",
-      "uf": "GO",
+      "id_externo": "44959021000104-1-000355/2026",
+      "titulo": "Edital de Chamamento Público nº 00006/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS ",
+      "orgao": "MUNICIPIO DE GUARUJA",
+      "cnpj_orgao": "44959021000104",
+      "municipio": "Guarujá",
+      "uf": "SP",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-15T09:40:09.483631842",
+      "data_publicacao": "2026-10-15T16:25:19.463015106",
       "data_abertura": "",
-      "data_limite": "2027-10-14T17:00",
-      "link": "https://pncp.gov.br/compras/01740489000109/2026/1339",
-      "link_origem": "",
-      "score": 36,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "773a55930728f486"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3525300/2026-10-13/542540455322433c31f4497b821c857b956437da.txt",
-      "titulo": "DOM Jaú/SP 2026-10-13",
-      "objeto": " que  não  se  retiraram  do  local,  mas\nafirmando  que  já  estão  sendo  tomadas  medidas  para  sua\nretirada do local,  com notificação para  sua saída  no prazo\nde quarenta e cinco dias. Carolina Sachetto Panini então\ninicia um questionamento referente ao credenciamento de\nartistas  da  cidade,  mais  especificamente  quanto  ao  valor\ndestinado por parte da Secretaria de Cultura e Turismo ao\nprocesso de credenciamento de artistas locais e se esse\nvalor  vem  sendo  aplicado,  com  Murilo  Ronchesel\ninformando que o valor, salvo engano, é de trezentos mil\nreais e que o mesmo vem sendo utilizado e que inclusive\nvem sendo planejado um novo edital de credenciamento,\ndessa vez mais amplo contando",
-      "orgao": "Jaú",
-      "cnpj_orgao": "",
-      "municipio": "Jaú",
-      "uf": "SP",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-13",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3525300/2026-10-13/542540455322433c31f4497b821c857b956437da.pdf",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": " que  não  se  retiraram  do  local,  mas\nafirmando  que  já  estão  sendo  tomadas  medidas  para  sua\nretirada do local,  com notificação para  sua saída  no prazo\nde quarenta e cinco dias. Carolina Sachetto Panini então\ninicia um questionamento referente ao credenciamento de\nartistas  da  cidade,  mais  especificamente  quanto  ao  valor\ndestinado por parte da Secretaria de Cultura e Turismo ao\nprocesso de credenciamento de artistas locais e se esse\nvalor  vem  sendo  aplicado,  com  Murilo  Ronchesel\ninformando que o valor, salvo engano, é de trezentos mil\nreais e que o mesmo vem sendo utilizado e que inclusive\nvem sendo planejado um novo edital de credenciamento,\ndessa vez mais amplo contando",
-      "uid": "1e6eecbfe21d2949"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "45358249000101-1-001100/2026",
-      "titulo": "Credenciamento 737/2026",
-      "objeto": "Contratação do proponente ANDRELINO JESUS DA SILVA, para apresentação da Banda Brexó selecionado e classificado no Edital do Chamamento Público 01/2025, para seleção de artistas, duplas e trios, e grupos artísticos, a ser realizada no Evento  ¨Jantar Dançante¨ em comemoração a solenidade de São Benedito a ser realizada no dia 31de outubro de 2026 das 19h ás 23h na Rua General Osório n°1.094 - Centro. (Ítalo Brasileiro).",
-      "orgao": "MUNICIPIO DE SAO CARLOS",
-      "cnpj_orgao": "45358249000101",
-      "municipio": "São Carlos",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 6500.0,
-      "data_publicacao": "2026-10-15T10:47:26",
-      "data_abertura": "2026-10-15T10:39:00",
-      "data_limite": "2026-10-15T10:39:00",
-      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001100/2026",
+      "data_limite": "2028-10-10T08:00",
+      "link": "https://pncp.gov.br/compras/44959021000104/2026/355",
       "link_origem": "",
       "score": 21,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
         ],
         "B": [],
         "C": [
@@ -133,38 +35,72 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "dabbaa184711fc98"
+      "uid": "5b52c817d94eccc6"
     },
     {
-      "fonte": "pncp_search",
-      "id_externo": "09389806000198-1-000049/2026",
-      "titulo": "Aviso de Contratação Direta nº DV1072/2026",
-      "objeto": "CONTRATAÇÃO DE PESSOAS JURÍDICAS ESPECIALIZADAS PARA PRESTAÇÃO DE SERVIÇOS DESTINADOS À REALIZAÇÃO DO EVENTO “CERIMÔNIA DE HOMENAGEM À PROMOÇÃO DOS DIREITOS HUMANOS DA POPULAÇÃO LGBTI+ DE SERGIPE”, COMPREENDENDO QUE AS NECESSIDADES DO EVENTO ENGLOBAM ESPAÇO FÍSICO, ESTRUTURA DE SONORIZAÇÃO, SERVIÇO DE COQUETEL, CONFECÇÃO E FORNECIMENTO DE PLACAS DE HOMENAGEM E APRESENTAÇÃO ARTÍSTICA. \nAS PROPOSTAS DEVEM SEGUIR EXTRITAMENTE AS ESPECIFICAÇÕES QUE CONSTAM NO TERMO DE REFERÊNCIA ANEXO AO PROCESSO",
-      "orgao": "FUNDO ESPECIAL PARA SEGURANCA PUBLICA - FUNESP",
-      "cnpj_orgao": "09389806000198",
-      "municipio": "Aracaju",
-      "uf": "SE",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-15T11:23:31.812571136",
-      "data_abertura": "",
-      "data_limite": "2026-10-21T10:00",
-      "link": "https://pncp.gov.br/compras/09389806000198/2026/49",
+      "fonte": "pncp",
+      "id_externo": "44959021000104-1-000355/2026",
+      "titulo": "Credenciamento 00006/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS ",
+      "orgao": "MUNICIPIO DE GUARUJA",
+      "cnpj_orgao": "44959021000104",
+      "municipio": "Guarujá",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 576326.64,
+      "data_publicacao": "2026-10-15T16:25:19",
+      "data_abertura": "2026-10-10T08:00:00",
+      "data_limite": "2028-10-10T08:00:00",
+      "link": "https://pncp.gov.br/app/editais/44959021000104/1/000355/2026",
       "link_origem": "",
       "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
+      "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "62f92941dbd7f2f9"
+      "uid": "7c1f8dc722e53ce7"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2906006/2026-10-15/b793ec91f27d71fa38104f397e7c920115e881ca.txt",
+      "titulo": "DOM Campo Formoso/BA 2026-10-15",
+      "objeto": "PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA\n\nAPRESENTAÇÃO NO EVENTO \"FESTEJOS DA COMUNIDADE DE CURRAL DA PONTA\".\n\nLotes\n\nLote 1\n\nMaterial ou Serviço:\n\nServiço\nCritério de Julgamento:\n\nNão se aplica\nTipo de Benefício:\n\nNão se aplica\nIncentivo Produtivo Básico:\n\nNÃO\n\nOrçamento Sigiloso:\n\nNÃO\nCategoria do Item:\n\nNão se aplica\n\nQuantidade:\n\n1,00\nUnidade de Medida:\n\nUND\nValor Unitário Estimado:\n\n27.000,00\nValor Total:\n\n27.000,00\n\nAplicabilidade da Margem de Preferência Normal:\n\nNÃO\n\nAplicabilidade da Margem de Preferência Adicional:\n\nNÃO\n\nExigência de Conteúdo Nacional:\n\nNÃO\n\nObjeto/Descrição:\n\nCONTRATAÇÃO DA BANDA SÉRGIO DO FORRÓ PARA APRESENTAÇÃO DE SHOW MUSICAL EM PALCO, COM DURAÇÃO DE 2\n\nHORAS",
+      "orgao": "Campo Formoso",
+      "cnpj_orgao": "",
+      "municipio": "Campo Formoso",
+      "uf": "BA",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-15",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2906006/2026-10-15/b793ec91f27d71fa38104f397e7c920115e881ca.pdf",
+      "link_origem": "",
+      "score": 54,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "PARA PRESTAÇÃO DE SERVIÇO EM SHOW MUSICAL PARA\n\nAPRESENTAÇÃO NO EVENTO \"FESTEJOS DA COMUNIDADE DE CURRAL DA PONTA\".\n\nLotes\n\nLote 1\n\nMaterial ou Serviço:\n\nServiço\nCritério de Julgamento:\n\nNão se aplica\nTipo de Benefício:\n\nNão se aplica\nIncentivo Produtivo Básico:\n\nNÃO\n\nOrçamento Sigiloso:\n\nNÃO\nCategoria do Item:\n\nNão se aplica\n\nQuantidade:\n\n1,00\nUnidade de Medida:\n\nUND\nValor Unitário Estimado:\n\n27.000,00\nValor Total:\n\n27.000,00\n\nAplicabilidade da Margem de Preferência Normal:\n\nNÃO\n\nAplicabilidade da Margem de Preferência Adicional:\n\nNÃO\n\nExigência de Conteúdo Nacional:\n\nNÃO\n\nObjeto/Descrição:\n\nCONTRATAÇÃO DA BANDA SÉRGIO DO FORRÓ PARA APRESENTAÇÃO DE SHOW MUSICAL EM PALCO, COM DURAÇÃO DE 2\n\nHORAS",
+      "uid": "4df16315f7202fd0"
     }
   ]
 }
