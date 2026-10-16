@@ -1,75 +1,41 @@
 {
-  "gerado_em": "2026-10-16T15:05:46",
-  "total_brutos": 1099,
-  "total_aprovados": 208,
-  "total_novos": 2,
+  "gerado_em": "2026-10-16T23:18:09",
+  "total_brutos": 1250,
+  "total_aprovados": 133,
+  "total_novos": 1,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "44705055000172-1-000003/2026",
-      "titulo": "Edital de Chamamento Público nº CRD 001/2026",
-      "objeto": "CREDENCIAMENTO PARA CONTRATAÇÃO DE ARTISTAS, OFICINEIROS, INSTRUTORES, PROFESSORES, MESTRES DE SABERES, PROFISSIONAIS LIBERAIS, AGENTES CULTURAIS E TRABALHADORES DE CULTURA PARA EVENTOS MUNICIPAIS.",
-      "orgao": "FUNDO MUNICIPAL DE CULTURA",
-      "cnpj_orgao": "44705055000172",
-      "municipio": "Caçador",
-      "uf": "SC",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-01-30T15:03:28.541253",
-      "data_abertura": "",
-      "data_limite": "2027-02-02T00:00:01",
-      "link": "https://pncp.gov.br/compras/44705055000172/2026/3",
-      "link_origem": "",
-      "score": 21,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
-        ],
-        "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "1163c62c5ac0f277"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "18668624000147-1-000088/2026",
-      "titulo": "Aviso de Contratação Direta nº 000019-E/2026",
-      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ANÁLISE E AVALIAÇÃO DE MÉRITO CULTURAL DAS INSCRIÇÕES, CANDIDATURAS, PROPOSTAS, E PROJETOS APRESENTADOS EM 3 EDITAIS DE PREMIAÇÃO CULTURAL EXECUTADOS NO AMBITO DA POLITICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA - PNAB.",
-      "orgao": "MUNICIPIO DE MUZAMBINHO",
-      "cnpj_orgao": "18668624000147",
-      "municipio": "Muzambinho",
+      "id_externo": "18593103000178-1-000864/2026",
+      "titulo": "Aviso de Contratação Direta nº 1134/2026",
+      "objeto": "CONTRATAÇÃO DE BANDA DE MÚSICA SERTANEJA PARA REALIZAÇÃO DE APRESENTAÇÃO ARTÍSTICA NO EVENTO PULSA CULTURA, A SER REALIZADO NO DIA 24 DE OUTUBRO DE 2026, NO ESPAÇO CULTURAL DE MONTE CARMELO/MG, visando atender às necessidades da Secretaria Municipal de Cultura, mediante a realização de 01 (uma) apresentação musical ao vivo, com duração mínima de 03 (três) horas e meia, início previsto para as 21 (vinte e uma) horas, observadas as especificações técnicas, condições de execução e demais exigências estabelecidas neste Termo de Referência",
+      "orgao": "MUNICIPIO DE MONTE CARMELO",
+      "cnpj_orgao": "18593103000178",
+      "municipio": "Monte Carmelo",
       "uf": "MG",
       "modalidade": "Dispensa",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-16T09:17:44.490082008",
+      "data_publicacao": "2026-10-16T16:24:02.744696859",
       "data_abertura": "",
-      "data_limite": "2026-10-22T07:59",
-      "link": "https://pncp.gov.br/compras/18668624000147/2026/88",
+      "data_limite": "2026-10-22T09:00",
+      "link": "https://pncp.gov.br/compras/18593103000178/2026/864",
       "link_origem": "",
-      "score": 36,
-      "categoria": "FOMENTO_CULTURAL",
-      "genero_alvo": false,
+      "score": 42,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": true,
       "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
-          "\\bpremiac(ao|oes)\\b.{0,40}\\b(cultur|artist|music)"
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
         ],
+        "B": [],
+        "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "ff1ccb2a678464bc"
+      "uid": "15cd2b58cd186ecd"
     }
   ]
 }
