@@ -1,157 +1,94 @@
 {
-  "gerado_em": "2026-10-21T15:47:19",
-  "total_brutos": 1136,
-  "total_aprovados": 149,
-  "total_novos": 6,
+  "gerado_em": "2026-10-21T23:55:57",
+  "total_brutos": 1480,
+  "total_aprovados": 282,
+  "total_novos": 4,
   "oportunidades": [
     {
-      "fonte": "pncp",
-      "id_externo": "95719449000110-1-000264/2026",
-      "titulo": "Credenciamento PRI 64/2026",
-      "objeto": "SELEÇÃO DE PROJETOS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA - PNAB (LEI Nº 14.399/2022) - CICLO 2",
-      "orgao": "MUNICIPIO DE ENTRE RIOS DO OESTE",
-      "cnpj_orgao": "95719449000110",
-      "municipio": "Entre Rios do Oeste",
-      "uf": "PR",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 53190.41,
-      "data_publicacao": "2026-10-21T09:28:57",
-      "data_abertura": "2026-10-20T15:00:00",
-      "data_limite": "2026-10-20T16:00:00",
-      "link": "https://pncp.gov.br/app/editais/95719449000110/1/000264/2026",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "ac89ab2d6d212aae"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "13646005000138-1-000169/2026",
-      "titulo": "Credenciamento CHP 009/2026",
-      "objeto": "CHAMAMENTO PÚBLICO PARA SELEÇÃO DE BANDAS E ATRAÇÕES MUSICAIS DO BAHIA BEER 2026",
-      "orgao": "MUNICIPIO DE ALAGOINHAS",
-      "cnpj_orgao": "13646005000138",
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2900702/2026-10-20/695c1fe506a6533c98b13296237df698d4a010a1.txt",
+      "titulo": "DOM Alagoinhas/BA 2026-10-20",
+      "objeto": "DE HOMOLOGAÇÃO E RATIFICAÇÃO \n\nINEXIGIBILIDADE DE LICITAÇÃO 078/2026 \n\n \n\nO Secretário Municipal de Administração e Inovação Tecnológica de Alagoinhas torna \n\npúblico o resultado da homologação e ratificação da INEXIGIBILIDADE Nº 078/2026. \n\nProcesso Administrativo nº 13766/2026. Objeto: CONTRATAÇÃO DE ATRAÇÃO \n\nARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DA ARTISTA SOLANGE \n\nALMEIDA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA. Em \n\nfavor de: SOL PRODUÇÃO E ADMINISTRAÇÃO ARTISTICA LTDA. Valor global: R$ \n\n400.000,00 (quatrocentos mil reais). Vigência: 03 (três) meses. Dotação Orçamentária: \n\n2.225 – 3.3.90.39. Data da Homologação: 20/10/2026. Alagoinhas-BA, 20/10/2026. \n\nBruno Nascimento DE HOMOLOGAÇÃO E RATIFICAÇÃO \n\nINEXIGIBILIDADE DE LICITAÇÃO 079/2026 \n\n \n\nO Secretário Municipal de Administração e Inovação Tecnológica de Alagoinhas torna \n\npúblico o resultado da homologação e ratificação da INEXIGIBILIDADE Nº 079/2026. \n\nProcesso Administrativo nº 13775/2026. Objeto: CONTRATAÇÃO DE ATRAÇÃO \n\nARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DO ARTISTA XANDDY \n\nHARMONIA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA. Em \n\nfavor de: BEM QUERER EVENTOS E PRODUÇÕES ARTISTICAS LTDA. Valor global: \n\nR$ 350.000,00 (trezentos e cinquenta mil reais). Vigência: 03 (três) meses. Dotação \n\nOrçamentária: 2.225 – 3.3.90.39. Data da Homologação: 20/10/2026. Alagoinhas-BA, \n\n20/10/2026 078/2026. –  Objeto:\nCONTRATAÇÃO  DE  ATRAÇÃO  ARTÍSTICA  PARA  APRESENTAÇÃO  DE  SHOW  MUSICAL  DA\nARTISTA SOLANGE ALMEIDA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA.\n- Valor estimado: R$ 400.000,00 (quatrocentos mil reais). - Data de Assinatura: 20/10/2026.\n\nContrato n.º 255/2026 – Contratante: Município de Alagoinhas – CNPJ/MF n.º  13.646.005/0001-38 –\nContratada: BEM  QUERER  EVENTOS  E  ATRAÇÕES  ARTISTICA  LTDA  –  CNPJ/MF  nº\n14.778.157/0001-57.  –  Procedimento  Licitatório: INEXIGIBILIDADE  DE  LICITAÇÃO  n.º  079/2026. –\nObjeto: CONTRATAÇÃO DE ATRAÇÃO ARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DO\nARTISTA XANDDY HARMONIA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-\nBAHIA",
+      "orgao": "Alagoinhas",
+      "cnpj_orgao": "",
       "municipio": "Alagoinhas",
       "uf": "BA",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 39000.0,
-      "data_publicacao": "2026-10-21T08:20:17",
-      "data_abertura": "2026-10-21T08:00:00",
-      "data_limite": "2026-10-27T14:00:00",
-      "link": "https://pncp.gov.br/app/editais/13646005000138/1/000169/2026",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-20",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2900702/2026-10-20/695c1fe506a6533c98b13296237df698d4a010a1.pdf",
       "link_origem": "",
-      "score": 21,
-      "categoria": "CREDENCIAMENTO_ART79",
+      "score": 48,
+      "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
           "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
         ],
         "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "1437e86d1ce150bb"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "13827035000140-1-000164/2026",
-      "titulo": "Credenciamento 004/2026",
-      "objeto": "Credenciamento de pessoas físicas e jurídicas para a prestação remunerada de apresentações musicais ao vivo, nas categorias solo/dupla, trio, grupo de 4 a 7 integrantes e banda com mínimo de 8 integrantes, destinadas aos eventos culturais promovidos pelo Município de Mutuípe/BA",
-      "orgao": "MUNICIPIO DE MUTUIPE",
-      "cnpj_orgao": "13827035000140",
-      "municipio": "Mutuípe",
-      "uf": "BA",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 78, I Credenciamento: processo administrativo de chamamento público em que a Administração Pública convoca interessados em prestar serviços ou fornecer bens para que, preenchidos os requisitos necessários, se credenciem no órgão ou na entidade para executar o objeto quando convocados",
-      "valor_estimado": 169013.26,
-      "data_publicacao": "2026-10-21T08:15:37",
-      "data_abertura": "2026-10-22T08:05:00",
-      "data_limite": "2027-10-22T17:00:00",
-      "link": "https://pncp.gov.br/app/editais/13827035000140/1/000164/2026",
-      "link_origem": "sai.io.org.br/site/PublicadoPncp/172579?localConsulta=2&cod=1791",
-      "score": 16,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
-        ],
-        "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
-        ],
         "C": [],
         "NEG": []
       },
-      "trecho": "",
-      "uid": "85bf7d38e80ef1c9"
+      "trecho": "DE HOMOLOGAÇÃO E RATIFICAÇÃO \n\nINEXIGIBILIDADE DE LICITAÇÃO 078/2026 \n\n \n\nO Secretário Municipal de Administração e Inovação Tecnológica de Alagoinhas torna \n\npúblico o resultado da homologação e ratificação da INEXIGIBILIDADE Nº 078/2026. \n\nProcesso Administrativo nº 13766/2026. Objeto: CONTRATAÇÃO DE ATRAÇÃO \n\nARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DA ARTISTA SOLANGE \n\nALMEIDA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA. Em \n\nfavor de: SOL PRODUÇÃO E ADMINISTRAÇÃO ARTISTICA LTDA. Valor global: R$ \n\n400.000,00 (quatrocentos mil reais). Vigência: 03 (três) meses. Dotação Orçamentária: \n\n2.225 – 3.3.90.39. Data da Homologação: 20/10/2026. Alagoinhas-BA, 20/10/2026. \n\nBruno Nascimento DE HOMOLOGAÇÃO E RATIFICAÇÃO \n\nINEXIGIBILIDADE DE LICITAÇÃO 079/2026 \n\n \n\nO Secretário Municipal de Administração e Inovação Tecnológica de Alagoinhas torna \n\npúblico o resultado da homologação e ratificação da INEXIGIBILIDADE Nº 079/2026. \n\nProcesso Administrativo nº 13775/2026. Objeto: CONTRATAÇÃO DE ATRAÇÃO \n\nARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DO ARTISTA XANDDY \n\nHARMONIA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA. Em \n\nfavor de: BEM QUERER EVENTOS E PRODUÇÕES ARTISTICAS LTDA. Valor global: \n\nR$ 350.000,00 (trezentos e cinquenta mil reais). Vigência: 03 (três) meses. Dotação \n\nOrçamentária: 2.225 – 3.3.90.39. Data da Homologação: 20/10/2026. Alagoinhas-BA, \n\n20/10/2026 078/2026. –  Objeto:\nCONTRATAÇÃO  DE  ATRAÇÃO  ARTÍSTICA  PARA  APRESENTAÇÃO  DE  SHOW  MUSICAL  DA\nARTISTA SOLANGE ALMEIDA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA.\n- Valor estimado: R$ 400.000,00 (quatrocentos mil reais). - Data de Assinatura: 20/10/2026.\n\nContrato n.º 255/2026 – Contratante: Município de Alagoinhas – CNPJ/MF n.º  13.646.005/0001-38 –\nContratada: BEM  QUERER  EVENTOS  E  ATRAÇÕES  ARTISTICA  LTDA  –  CNPJ/MF  nº\n14.778.157/0001-57.  –  Procedimento  Licitatório: INEXIGIBILIDADE  DE  LICITAÇÃO  n.º  079/2026. –\nObjeto: CONTRATAÇÃO DE ATRAÇÃO ARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DO\nARTISTA XANDDY HARMONIA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-\nBAHIA",
+      "uid": "cf8d9296496b6d2e"
     },
     {
-      "fonte": "pncp_search",
-      "id_externo": "13827035000140-1-000164/2026",
-      "titulo": "Edital nº 004/2026",
-      "objeto": "Credenciamento de pessoas físicas e jurídicas para a prestação remunerada de apresentações musicais ao vivo, nas categorias solo/dupla, trio, grupo de 4 a 7 integrantes e banda com mínimo de 8 integrantes, destinadas aos eventos culturais promovidos pelo Município de Mutuípe/BA",
-      "orgao": "MUNICIPIO DE MUTUIPE",
-      "cnpj_orgao": "13827035000140",
-      "municipio": "Mutuípe",
-      "uf": "BA",
-      "modalidade": "Credenciamento",
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2700508/2026-10-20/8945ac9b3d1683ac2480cfc0d0e0774d.txt",
+      "titulo": "DOM Barra de Santo Antônio/AL 2026-10-20",
+      "objeto": "CONTRATO Nº 01/2026 \n\n \n\nEXTRATO DO CONTRATO Nº 01/2026 \n  \n\nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \n\nANTÔNIO/AL; \n\nContratada: AC SHOWS & EVENTOS LTDA, inscrita no CNPJ \n\nnº 46.715.510/0001-46 \n  \n\nObjeto: Contratação de banda/artista responsável pela apresentação de \n\nshow musical nos festejos tradicionais em homenagem a São \n\nSebastião no Município de Barra de Santo Antônio/AL. \n\nValor: R$ 120.000,00 (cento e vinte mil reais) \n\nCelebrado 14/01/2026; \n\nVigência: 90 (noventa) dias. \n\nSignatários: Lívia Carla da Silva Alves e Washington Xavier \n\nAmâncio Neto \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:46A1E81D DO CONTRATO Nº 04/2026 \n  \n\nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \n\nANTÔNIO/AL; \n\nContratada: DESTAK SERVIÇOS E PROMOÇÕES \n\nARTÍSTICAS LTDA EPP, inscrita no CNPJ nº 43.453.655/0001-\n\n28 \n  \n\nObjeto: Contratação de banda/artista responsável pela apresentação de \n\nshow musical nos festejos tradicionais do carnaval no Município de \n\nBarra de Santo Antônio/AL. \n\nValor: R$ 50.000,00 (cinquenta mil reais) \n\nCelebrado 04/02/2026; \n\nVigência: 90 (noventa) dias. \n\nSignatários: Lívia Carla da Silva Alves e Thiago Matos Pereira de \n\nLucena \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:B599CFD9\n \n\n",
+      "orgao": "Barra de Santo Antônio",
+      "cnpj_orgao": "",
+      "municipio": "Barra de Santo Antônio",
+      "uf": "AL",
+      "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-21T08:15:37.939890063",
+      "data_publicacao": "2026-10-20",
       "data_abertura": "",
-      "data_limite": "2027-10-22T17:00",
-      "link": "https://pncp.gov.br/compras/13827035000140/2026/164",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2700000/2026-10-20/a83153ca4470ed583609add3ffb5a32bd4c9389d.pdf",
       "link_origem": "",
-      "score": 16,
-      "categoria": "CREDENCIAMENTO_ART79",
+      "score": 40,
+      "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
         ],
         "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
         ],
         "C": [],
         "NEG": []
       },
-      "trecho": "",
-      "uid": "05f26ada0f24dab2"
+      "trecho": "CONTRATO Nº 01/2026 \n\n \n\nEXTRATO DO CONTRATO Nº 01/2026 \n  \n\nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \n\nANTÔNIO/AL; \n\nContratada: AC SHOWS & EVENTOS LTDA, inscrita no CNPJ \n\nnº 46.715.510/0001-46 \n  \n\nObjeto: Contratação de banda/artista responsável pela apresentação de \n\nshow musical nos festejos tradicionais em homenagem a São \n\nSebastião no Município de Barra de Santo Antônio/AL. \n\nValor: R$ 120.000,00 (cento e vinte mil reais) \n\nCelebrado 14/01/2026; \n\nVigência: 90 (noventa) dias. \n\nSignatários: Lívia Carla da Silva Alves e Washington Xavier \n\nAmâncio Neto \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:46A1E81D DO CONTRATO Nº 04/2026 \n  \n\nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \n\nANTÔNIO/AL; \n\nContratada: DESTAK SERVIÇOS E PROMOÇÕES \n\nARTÍSTICAS LTDA EPP, inscrita no CNPJ nº 43.453.655/0001-\n\n28 \n  \n\nObjeto: Contratação de banda/artista responsável pela apresentação de \n\nshow musical nos festejos tradicionais do carnaval no Município de \n\nBarra de Santo Antônio/AL. \n\nValor: R$ 50.000,00 (cinquenta mil reais) \n\nCelebrado 04/02/2026; \n\nVigência: 90 (noventa) dias. \n\nSignatários: Lívia Carla da Silva Alves e Thiago Matos Pereira de \n\nLucena \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:B599CFD9\n \n\n",
+      "uid": "66e4983e856e4bfc"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "48528690000182-1-000001/2026",
-      "titulo": "Aviso de Contratação Direta nº 001/2026",
-      "objeto": "[LICITANET] - Contratação de empresa especializada na prestação de serviços técnicos profissionais especializados de assessoria e consultoria cultural, visando à elaboração, estruturação, operacionalização, acompanhamento e suporte técnico dos instrumentos convocatórios vinculados à execução da Política Nacional Aldir Blanc – PNAB, em atendimento às necessidades do Fundo Municipal de Cultura de Cachoeiras de Macacu/RJ.",
-      "orgao": "FUNDO MUNICIPAL DE CULTURA",
-      "cnpj_orgao": "48528690000182",
-      "municipio": "Cachoeiras de Macacu",
-      "uf": "RJ",
+      "id_externo": "46895261000118-1-000007/2026",
+      "titulo": "Aviso de Contratação Direta nº (6155) | 70-0/2026",
+      "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE EMPRESA ESPECIALIZADA EM ASSESSORIA E CONSULTORIA DO SETOR CULTURAL PARA OPERACIONALIZAÇÃO E EXECUÇÃO DOS RECURSOS ORIUNDOS DA LEI FEDERAL Nº 14.399/2022 — PNAB - POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA 2º CICLO, EM CAMPO ALEGRE DE GOIÁS, EM ATENDIMENTO A SECRETARIA DE CULTURA E ECONOMIA CRIATIVA DO MUNICÍPIO DECAMPO ALEGRE DE GOIÁS,",
+      "orgao": "FUNDO MUNICIPAL DE CULTURA E ECONOMIA CRIATIVA",
+      "cnpj_orgao": "46895261000118",
+      "municipio": "Campo Alegre de Goiás",
+      "uf": "GO",
       "modalidade": "Dispensa",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-20T10:58:50.822620940",
+      "data_publicacao": "2026-10-21T15:36:07.237288578",
       "data_abertura": "",
-      "data_limite": "2026-10-23T09:00",
-      "link": "https://pncp.gov.br/compras/48528690000182/2026/1",
+      "data_limite": "2026-10-28T07:00",
+      "link": "https://pncp.gov.br/compras/46895261000118/2026/7",
       "link_origem": "",
       "score": 27,
       "categoria": "FOMENTO_CULTURAL",
@@ -162,31 +99,31 @@
         "C": [
           "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
           "\\baldir blanc\\b",
-          "\\bmecenato\\b|\\brouanet\\b|\\bproac\\b|\\bfundo (municipal|estadual) de cultura\\b"
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
         ],
         "NEG": []
       },
       "trecho": "",
-      "uid": "c83cea026ff7a53f"
+      "uid": "4460e5d18f855ae9"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "27167410000188-1-000671/2026",
-      "titulo": "Aviso de Contratação Direta nº 004/2026",
-      "objeto": "[Portal de Compras Públicas] - Contratação de pessoa jurídica especializada para a prestação continuada, sem dedicação exclusiva de mão de obra, de serviços técnicos de assessoria e apoio administrativo, operacional e cultural à implementação dos ciclos da Política Nacional Aldir Blanc de Fomento à Cultura - PNAB no Município de Linhares/ES.",
-      "orgao": "MUNICIPIO DE LINHARES",
-      "cnpj_orgao": "27167410000188",
-      "municipio": "Linhares",
-      "uf": "ES",
+      "id_externo": "46895261000118-1-000006/2026",
+      "titulo": "Aviso de Contratação Direta nº 70/2026",
+      "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE EMPRESA ESPECIALIZADA EM ASSESSORIA E CONSULTORIA DO SETOR CULTURAL PARA OPERACIONALIZAÇÃO E EXECUÇÃO DOS RECURSOS ORIUNDOS DA LEI FEDERAL Nº 14.399/2022 — PNAB - POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA 2º CICLO, EM CAMPO ALEGRE DE GOIÁS, EM ATENDIMENTO A SECRETARIA DE CULTURA E ECONOMIA CRIATIVA DO MUNICÍPIO DECAMPO ALEGRE DE GOIÁS,",
+      "orgao": "FUNDO MUNICIPAL DE CULTURA E ECONOMIA CRIATIVA",
+      "cnpj_orgao": "46895261000118",
+      "municipio": "Campo Alegre de Goiás",
+      "uf": "GO",
       "modalidade": "Dispensa",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-20T13:20:00.337350",
+      "data_publicacao": "2026-10-21T15:16:30.529087616",
       "data_abertura": "",
-      "data_limite": "2026-10-27T08:00",
-      "link": "https://pncp.gov.br/compras/27167410000188/2026/671",
+      "data_limite": "2026-10-28T07:00",
+      "link": "https://pncp.gov.br/compras/46895261000118/2026/6",
       "link_origem": "",
-      "score": 17,
+      "score": 27,
       "categoria": "FOMENTO_CULTURAL",
       "genero_alvo": false,
       "hits": {
@@ -197,12 +134,10 @@
           "\\baldir blanc\\b",
           "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
         ],
-        "NEG": [
-          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
-        ]
+        "NEG": []
       },
       "trecho": "",
-      "uid": "b66cb5c94e580353"
+      "uid": "22910838b13b0261"
     }
   ]
 }
