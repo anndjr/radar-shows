@@ -1,143 +1,170 @@
 {
-  "gerado_em": "2026-10-21T23:55:57",
-  "total_brutos": 1480,
-  "total_aprovados": 282,
-  "total_novos": 4,
+  "gerado_em": "2026-10-22T15:45:38",
+  "total_brutos": 977,
+  "total_aprovados": 175,
+  "total_novos": 5,
   "oportunidades": [
     {
       "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2900702/2026-10-20/695c1fe506a6533c98b13296237df698d4a010a1.txt",
-      "titulo": "DOM Alagoinhas/BA 2026-10-20",
-      "objeto": "DE HOMOLOGAÇÃO E RATIFICAÇÃO \n\nINEXIGIBILIDADE DE LICITAÇÃO 078/2026 \n\n \n\nO Secretário Municipal de Administração e Inovação Tecnológica de Alagoinhas torna \n\npúblico o resultado da homologação e ratificação da INEXIGIBILIDADE Nº 078/2026. \n\nProcesso Administrativo nº 13766/2026. Objeto: CONTRATAÇÃO DE ATRAÇÃO \n\nARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DA ARTISTA SOLANGE \n\nALMEIDA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA. Em \n\nfavor de: SOL PRODUÇÃO E ADMINISTRAÇÃO ARTISTICA LTDA. Valor global: R$ \n\n400.000,00 (quatrocentos mil reais). Vigência: 03 (três) meses. Dotação Orçamentária: \n\n2.225 – 3.3.90.39. Data da Homologação: 20/10/2026. Alagoinhas-BA, 20/10/2026. \n\nBruno Nascimento DE HOMOLOGAÇÃO E RATIFICAÇÃO \n\nINEXIGIBILIDADE DE LICITAÇÃO 079/2026 \n\n \n\nO Secretário Municipal de Administração e Inovação Tecnológica de Alagoinhas torna \n\npúblico o resultado da homologação e ratificação da INEXIGIBILIDADE Nº 079/2026. \n\nProcesso Administrativo nº 13775/2026. Objeto: CONTRATAÇÃO DE ATRAÇÃO \n\nARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DO ARTISTA XANDDY \n\nHARMONIA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA. Em \n\nfavor de: BEM QUERER EVENTOS E PRODUÇÕES ARTISTICAS LTDA. Valor global: \n\nR$ 350.000,00 (trezentos e cinquenta mil reais). Vigência: 03 (três) meses. Dotação \n\nOrçamentária: 2.225 – 3.3.90.39. Data da Homologação: 20/10/2026. Alagoinhas-BA, \n\n20/10/2026 078/2026. –  Objeto:\nCONTRATAÇÃO  DE  ATRAÇÃO  ARTÍSTICA  PARA  APRESENTAÇÃO  DE  SHOW  MUSICAL  DA\nARTISTA SOLANGE ALMEIDA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA.\n- Valor estimado: R$ 400.000,00 (quatrocentos mil reais). - Data de Assinatura: 20/10/2026.\n\nContrato n.º 255/2026 – Contratante: Município de Alagoinhas – CNPJ/MF n.º  13.646.005/0001-38 –\nContratada: BEM  QUERER  EVENTOS  E  ATRAÇÕES  ARTISTICA  LTDA  –  CNPJ/MF  nº\n14.778.157/0001-57.  –  Procedimento  Licitatório: INEXIGIBILIDADE  DE  LICITAÇÃO  n.º  079/2026. –\nObjeto: CONTRATAÇÃO DE ATRAÇÃO ARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DO\nARTISTA XANDDY HARMONIA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-\nBAHIA",
-      "orgao": "Alagoinhas",
+      "id_externo": "https://data.queridodiario.ok.org.br/3532603/2026-10-20/cee8437cc96ebd5eb401ed8c6d7f2d9af23cd2f8.txt",
+      "titulo": "DOM Nhandeara/SP 2026-10-20",
+      "objeto": "ADMINISTRATIVO Nº 075/2026\nINEXIGIBILIDADE Nº 009/2026\nCONTRATO Nº 049/2026\nFUNDAMENTO DA CONTRATAÇÃO: ART. 74, INCISO II DA LEI\nFEDERAL 14.133/2021.\nCONTRATANTE: MUNICÍPIO DE NHANDEARA-SP\nCONTRATADO: TATIANE FERRAZ ROMERO PRODUÇÃO\nMUSICAL\nOBJETO: Contratação de profissional do setor artístico, através de\nempresário exclusivo, para realização de show musical com a artista\nTATI ROMERO, a ser realizado no dia 31 de dezembro de 2026, na\nPraça Matriz da cidade de Nhandeara/SP, em comemoração as\nfestividades de fim de ano do Município de Nhandeara/SP.\nDO PREÇO: R$ 55.000,00 (cinquenta e cinco mil reais)\nVIGÊNCIA: 3 meses da assinatura do contrato\nDATA ASSINATURA: 20/10/2026\n \n \n\nEXTRATO DE AUTORIZAÇÃO",
+      "orgao": "Nhandeara",
       "cnpj_orgao": "",
-      "municipio": "Alagoinhas",
-      "uf": "BA",
+      "municipio": "Nhandeara",
+      "uf": "SP",
       "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
       "data_publicacao": "2026-10-20",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2900702/2026-10-20/695c1fe506a6533c98b13296237df698d4a010a1.pdf",
+      "link": "https://data.queridodiario.ok.org.br/3532603/2026-10-20/cee8437cc96ebd5eb401ed8c6d7f2d9af23cd2f8.pdf",
       "link_origem": "",
-      "score": 48,
+      "score": 28,
       "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
           "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
+          "\\bempresario exclusivo\\b"
         ],
-        "B": [],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
         "C": [],
         "NEG": []
       },
-      "trecho": "DE HOMOLOGAÇÃO E RATIFICAÇÃO \n\nINEXIGIBILIDADE DE LICITAÇÃO 078/2026 \n\n \n\nO Secretário Municipal de Administração e Inovação Tecnológica de Alagoinhas torna \n\npúblico o resultado da homologação e ratificação da INEXIGIBILIDADE Nº 078/2026. \n\nProcesso Administrativo nº 13766/2026. Objeto: CONTRATAÇÃO DE ATRAÇÃO \n\nARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DA ARTISTA SOLANGE \n\nALMEIDA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA. Em \n\nfavor de: SOL PRODUÇÃO E ADMINISTRAÇÃO ARTISTICA LTDA. Valor global: R$ \n\n400.000,00 (quatrocentos mil reais). Vigência: 03 (três) meses. Dotação Orçamentária: \n\n2.225 – 3.3.90.39. Data da Homologação: 20/10/2026. Alagoinhas-BA, 20/10/2026. \n\nBruno Nascimento DE HOMOLOGAÇÃO E RATIFICAÇÃO \n\nINEXIGIBILIDADE DE LICITAÇÃO 079/2026 \n\n \n\nO Secretário Municipal de Administração e Inovação Tecnológica de Alagoinhas torna \n\npúblico o resultado da homologação e ratificação da INEXIGIBILIDADE Nº 079/2026. \n\nProcesso Administrativo nº 13775/2026. Objeto: CONTRATAÇÃO DE ATRAÇÃO \n\nARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DO ARTISTA XANDDY \n\nHARMONIA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA. Em \n\nfavor de: BEM QUERER EVENTOS E PRODUÇÕES ARTISTICAS LTDA. Valor global: \n\nR$ 350.000,00 (trezentos e cinquenta mil reais). Vigência: 03 (três) meses. Dotação \n\nOrçamentária: 2.225 – 3.3.90.39. Data da Homologação: 20/10/2026. Alagoinhas-BA, \n\n20/10/2026 078/2026. –  Objeto:\nCONTRATAÇÃO  DE  ATRAÇÃO  ARTÍSTICA  PARA  APRESENTAÇÃO  DE  SHOW  MUSICAL  DA\nARTISTA SOLANGE ALMEIDA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-BAHIA.\n- Valor estimado: R$ 400.000,00 (quatrocentos mil reais). - Data de Assinatura: 20/10/2026.\n\nContrato n.º 255/2026 – Contratante: Município de Alagoinhas – CNPJ/MF n.º  13.646.005/0001-38 –\nContratada: BEM  QUERER  EVENTOS  E  ATRAÇÕES  ARTISTICA  LTDA  –  CNPJ/MF  nº\n14.778.157/0001-57.  –  Procedimento  Licitatório: INEXIGIBILIDADE  DE  LICITAÇÃO  n.º  079/2026. –\nObjeto: CONTRATAÇÃO DE ATRAÇÃO ARTÍSTICA PARA APRESENTAÇÃO DE SHOW MUSICAL DO\nARTISTA XANDDY HARMONIA NA FESTA DO BAHIA BEER NO MUNICIPIO DE ALAGOINHAS-\nBAHIA",
-      "uid": "cf8d9296496b6d2e"
+      "trecho": "ADMINISTRATIVO Nº 075/2026\nINEXIGIBILIDADE Nº 009/2026\nCONTRATO Nº 049/2026\nFUNDAMENTO DA CONTRATAÇÃO: ART. 74, INCISO II DA LEI\nFEDERAL 14.133/2021.\nCONTRATANTE: MUNICÍPIO DE NHANDEARA-SP\nCONTRATADO: TATIANE FERRAZ ROMERO PRODUÇÃO\nMUSICAL\nOBJETO: Contratação de profissional do setor artístico, através de\nempresário exclusivo, para realização de show musical com a artista\nTATI ROMERO, a ser realizado no dia 31 de dezembro de 2026, na\nPraça Matriz da cidade de Nhandeara/SP, em comemoração as\nfestividades de fim de ano do Município de Nhandeara/SP.\nDO PREÇO: R$ 55.000,00 (cinquenta e cinco mil reais)\nVIGÊNCIA: 3 meses da assinatura do contrato\nDATA ASSINATURA: 20/10/2026\n \n \n\nEXTRATO DE AUTORIZAÇÃO",
+      "uid": "4fe0d607cad88a67"
     },
     {
       "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2700508/2026-10-20/8945ac9b3d1683ac2480cfc0d0e0774d.txt",
-      "titulo": "DOM Barra de Santo Antônio/AL 2026-10-20",
-      "objeto": "CONTRATO Nº 01/2026 \n\n \n\nEXTRATO DO CONTRATO Nº 01/2026 \n  \n\nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \n\nANTÔNIO/AL; \n\nContratada: AC SHOWS & EVENTOS LTDA, inscrita no CNPJ \n\nnº 46.715.510/0001-46 \n  \n\nObjeto: Contratação de banda/artista responsável pela apresentação de \n\nshow musical nos festejos tradicionais em homenagem a São \n\nSebastião no Município de Barra de Santo Antônio/AL. \n\nValor: R$ 120.000,00 (cento e vinte mil reais) \n\nCelebrado 14/01/2026; \n\nVigência: 90 (noventa) dias. \n\nSignatários: Lívia Carla da Silva Alves e Washington Xavier \n\nAmâncio Neto \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:46A1E81D DO CONTRATO Nº 04/2026 \n  \n\nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \n\nANTÔNIO/AL; \n\nContratada: DESTAK SERVIÇOS E PROMOÇÕES \n\nARTÍSTICAS LTDA EPP, inscrita no CNPJ nº 43.453.655/0001-\n\n28 \n  \n\nObjeto: Contratação de banda/artista responsável pela apresentação de \n\nshow musical nos festejos tradicionais do carnaval no Município de \n\nBarra de Santo Antônio/AL. \n\nValor: R$ 50.000,00 (cinquenta mil reais) \n\nCelebrado 04/02/2026; \n\nVigência: 90 (noventa) dias. \n\nSignatários: Lívia Carla da Silva Alves e Thiago Matos Pereira de \n\nLucena \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:B599CFD9\n \n\n",
-      "orgao": "Barra de Santo Antônio",
+      "id_externo": "https://data.queridodiario.ok.org.br/4316758/2026-10-20/14b40333a19d93020e81b2113e40b02d9eab6bd7.txt",
+      "titulo": "DOM Santa Clara do Sul/RS 2026-10-20",
+      "objeto": "SUL \nMUNICÍPIO DE SANTA CLARA DO SUL \n\n \nINEXIGIBILIDADE DE LICITAÇÃO Nº 49/2026 \n\n \n\nO Município de Santa Clara do Sul torna pública a realização da Inexigibilidade de Licitação \nnº 49/2026, conforme Processo Administrativo Digital nº 2.365/2026, com fundamento no \nart. 74, inciso II, da Lei Federal nº 14.133/2021, visando à CONTRATAÇÃO DE SHOW \n\nMUSICAL BANDA ELETRO RÁDIO. A contratação será realizada com a empresa JULIANA \nLOPES DA SILVA, inscrita no CNPJ sob o nº 33.190.127/0001-70, pelo valor total de R$ \n12.000,00 (doze mil reais). \n\n \n\nSanta Clara do Sul, 20 de outubro de 2026. \n\n \n\nMárcio Luiz Haas \n\nPrefeito  \n\n \n\n\n\nAno X | Edição nº 2185 | 20 de outubro de 2026 | Página 7 de 20\n\nMunicípio",
+      "orgao": "Santa Clara do Sul",
       "cnpj_orgao": "",
-      "municipio": "Barra de Santo Antônio",
-      "uf": "AL",
+      "municipio": "Santa Clara do Sul",
+      "uf": "RS",
       "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
       "data_publicacao": "2026-10-20",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-10-20/a83153ca4470ed583609add3ffb5a32bd4c9389d.pdf",
+      "link": "https://data.queridodiario.ok.org.br/4316758/2026-10-20/14b40333a19d93020e81b2113e40b02d9eab6bd7.pdf",
       "link_origem": "",
-      "score": 40,
+      "score": 24,
       "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
           "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
           "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
         ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "SUL \nMUNICÍPIO DE SANTA CLARA DO SUL \n\n \nINEXIGIBILIDADE DE LICITAÇÃO Nº 49/2026 \n\n \n\nO Município de Santa Clara do Sul torna pública a realização da Inexigibilidade de Licitação \nnº 49/2026, conforme Processo Administrativo Digital nº 2.365/2026, com fundamento no \nart. 74, inciso II, da Lei Federal nº 14.133/2021, visando à CONTRATAÇÃO DE SHOW \n\nMUSICAL BANDA ELETRO RÁDIO. A contratação será realizada com a empresa JULIANA \nLOPES DA SILVA, inscrita no CNPJ sob o nº 33.190.127/0001-70, pelo valor total de R$ \n12.000,00 (doze mil reais). \n\n \n\nSanta Clara do Sul, 20 de outubro de 2026. \n\n \n\nMárcio Luiz Haas \n\nPrefeito  \n\n \n\n\n\nAno X | Edição nº 2185 | 20 de outubro de 2026 | Página 7 de 20\n\nMunicípio",
+      "uid": "22bfef73cdc07ee0"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/5002704/2026-10-20/1fffef2ca75ad0d378dc660100790eaa3af83d7e.txt",
+      "titulo": "DOM Campo Grande/MS 2026-10-20",
+      "objeto": "Município de Campo Grande, Mato Grosso do Sul, por intermédio da Fundação Municipal \nde Cultura – FUNDAC de Campo Grande - MS, torna público o RESULTADO de habilitação \nreferente às documentações apresentadas para a sessão de 06.10.2026 do evento a \nseguir informado:\n\nCREDENCIAMENTO: 001/2025\nPROCESSO ADMINISTRATIVO: 048676/2025-41\nOBJETO: CREDENCIAMENTO DE ARTISTAS CULTURAIS, PARA PRESTAÇÃO DE SERVIÇOS \nARTÍSTICOS E CULTURAIS, A FIM DE ATENDER A PROGRAMAÇÃO CULTURAL DO \nMUNICÍPIO DE CAMPO GRANDE – MS.\nDEMANDANTE: FUNDAÇÃO MUNICIPAL DE CULTURA (FUNDAC)\n\nAos interessados em interpor razões de recurso poderão apresentar a peça no prazo de \n03 (três) dias úteis a contar desta publicação, conforme disposições",
+      "orgao": "Campo Grande",
+      "cnpj_orgao": "",
+      "municipio": "Campo Grande",
+      "uf": "MS",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-20",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/5002704/2026-10-20/1fffef2ca75ad0d378dc660100790eaa3af83d7e.pdf",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "Município de Campo Grande, Mato Grosso do Sul, por intermédio da Fundação Municipal \nde Cultura – FUNDAC de Campo Grande - MS, torna público o RESULTADO de habilitação \nreferente às documentações apresentadas para a sessão de 06.10.2026 do evento a \nseguir informado:\n\nCREDENCIAMENTO: 001/2025\nPROCESSO ADMINISTRATIVO: 048676/2025-41\nOBJETO: CREDENCIAMENTO DE ARTISTAS CULTURAIS, PARA PRESTAÇÃO DE SERVIÇOS \nARTÍSTICOS E CULTURAIS, A FIM DE ATENDER A PROGRAMAÇÃO CULTURAL DO \nMUNICÍPIO DE CAMPO GRANDE – MS.\nDEMANDANTE: FUNDAÇÃO MUNICIPAL DE CULTURA (FUNDAC)\n\nAos interessados em interpor razões de recurso poderão apresentar a peça no prazo de \n03 (três) dias úteis a contar desta publicação, conforme disposições",
+      "uid": "c3661300d1b0cc17"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3135209/2026-10-20/1d9cb43cdc356bb616d3bc7215ceee5ef1d1202e.txt",
+      "titulo": "DOM Januária/MG 2026-10-20",
+      "objeto": "subsequente ficará \n\ncondicionada à existência de previsão no Plano de Contratação Anual vigente, à disponibilidade \n\norçamentária e financeira e ao cumprimento das dispoções legais aplicáveis ao respectivo \n\nexercício. \n\nCLÁUSULA TERCEIRA – MODELOS DE EXECUÇÃO E GESTÃO CONTRATUAIS  \n\n3.1. A Contratada fica obrigada a iniciar a prestação do serviço de show musical  da Banda \n\nSambacana,  duração mínima de 02 (duas) horas , para realização de shows musicais ao vivo em \n\neventos festivos promovidos pelo Município de Januária/MG, em datas, horários e locais a serem \n\npreviamente definidos pela Administração.  \n\nTerça-feira, 20 de Outubro de 2026 ANO 4      Edição Nº 855 Página 5\n\n  \n\n\n\n \n\n \n\n            ",
+      "orgao": "Januária",
+      "cnpj_orgao": "",
+      "municipio": "Januária",
+      "uf": "MG",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-20",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3135209/2026-10-20/1d9cb43cdc356bb616d3bc7215ceee5ef1d1202e.pdf",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
         "B": [
-          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
         ],
         "C": [],
         "NEG": []
       },
-      "trecho": "CONTRATO Nº 01/2026 \n\n \n\nEXTRATO DO CONTRATO Nº 01/2026 \n  \n\nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \n\nANTÔNIO/AL; \n\nContratada: AC SHOWS & EVENTOS LTDA, inscrita no CNPJ \n\nnº 46.715.510/0001-46 \n  \n\nObjeto: Contratação de banda/artista responsável pela apresentação de \n\nshow musical nos festejos tradicionais em homenagem a São \n\nSebastião no Município de Barra de Santo Antônio/AL. \n\nValor: R$ 120.000,00 (cento e vinte mil reais) \n\nCelebrado 14/01/2026; \n\nVigência: 90 (noventa) dias. \n\nSignatários: Lívia Carla da Silva Alves e Washington Xavier \n\nAmâncio Neto \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:46A1E81D DO CONTRATO Nº 04/2026 \n  \n\nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \n\nANTÔNIO/AL; \n\nContratada: DESTAK SERVIÇOS E PROMOÇÕES \n\nARTÍSTICAS LTDA EPP, inscrita no CNPJ nº 43.453.655/0001-\n\n28 \n  \n\nObjeto: Contratação de banda/artista responsável pela apresentação de \n\nshow musical nos festejos tradicionais do carnaval no Município de \n\nBarra de Santo Antônio/AL. \n\nValor: R$ 50.000,00 (cinquenta mil reais) \n\nCelebrado 04/02/2026; \n\nVigência: 90 (noventa) dias. \n\nSignatários: Lívia Carla da Silva Alves e Thiago Matos Pereira de \n\nLucena \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:B599CFD9\n \n\n",
-      "uid": "66e4983e856e4bfc"
+      "trecho": "subsequente ficará \n\ncondicionada à existência de previsão no Plano de Contratação Anual vigente, à disponibilidade \n\norçamentária e financeira e ao cumprimento das dispoções legais aplicáveis ao respectivo \n\nexercício. \n\nCLÁUSULA TERCEIRA – MODELOS DE EXECUÇÃO E GESTÃO CONTRATUAIS  \n\n3.1. A Contratada fica obrigada a iniciar a prestação do serviço de show musical  da Banda \n\nSambacana,  duração mínima de 02 (duas) horas , para realização de shows musicais ao vivo em \n\neventos festivos promovidos pelo Município de Januária/MG, em datas, horários e locais a serem \n\npreviamente definidos pela Administração.  \n\nTerça-feira, 20 de Outubro de 2026 ANO 4      Edição Nº 855 Página 5\n\n  \n\n\n\n \n\n \n\n            ",
+      "uid": "ba1b1fee200318f4"
     },
     {
-      "fonte": "pncp_search",
-      "id_externo": "46895261000118-1-000007/2026",
-      "titulo": "Aviso de Contratação Direta nº (6155) | 70-0/2026",
-      "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE EMPRESA ESPECIALIZADA EM ASSESSORIA E CONSULTORIA DO SETOR CULTURAL PARA OPERACIONALIZAÇÃO E EXECUÇÃO DOS RECURSOS ORIUNDOS DA LEI FEDERAL Nº 14.399/2022 — PNAB - POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA 2º CICLO, EM CAMPO ALEGRE DE GOIÁS, EM ATENDIMENTO A SECRETARIA DE CULTURA E ECONOMIA CRIATIVA DO MUNICÍPIO DECAMPO ALEGRE DE GOIÁS,",
-      "orgao": "FUNDO MUNICIPAL DE CULTURA E ECONOMIA CRIATIVA",
-      "cnpj_orgao": "46895261000118",
-      "municipio": "Campo Alegre de Goiás",
-      "uf": "GO",
-      "modalidade": "Dispensa",
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/4106902/2026-10-20/5d4ecb361adad1b09c4978f284466c7c686e6b47.txt",
+      "titulo": "DOM Curitiba/PR 2026-10-20",
+      "objeto": "COSTA \nFERREIRA \n\nBETO E NINA \n\nModalidade IV \n(exclusivo \n\nresidentes na \nRegional Cajurú) \n\nArtes Cênicas \n(Teatro, Dança, \nÓpera e Circo) \n\nParticipação como \nAMPLA \n\nCONCORRÊNCIA \n(Não se aplica cotas \n\nou reservas de vagas) \n\nAmpla \nConcorrência, por \nclassificação nota \n\nPessoa \nFísica \n\n25.000,00  \n\n112700 \nMAÍRA \nCARVALHO \nFIGUEIREDO \n\nSHOW MUSICAL \nNORDESTE EM \nNOTAS \n\nModalidade IV \n(exclusivo \n\nresidentes na \nRegional Cajurú) \n\nMúsica \nCota PESSOA \n\nNEGRA \n\nPessoa Negra, por \ncota maior nota \n(vaga Pessoa \n\nIndígena) \n\nPessoa \nFísica \n\n25.000,00  \n\n112462 \nMARCELLO \nANDRADE DOS \nSANTOS ME \n\nJOVEM EINSTEIN \nVÊ O MUNDO \n\nModalidade II \n(exclusivo \n\nresidentes na \nRegional Boa \n\nVista)",
+      "orgao": "Curitiba",
+      "cnpj_orgao": "",
+      "municipio": "Curitiba",
+      "uf": "PR",
+      "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-21T15:36:07.237288578",
+      "data_publicacao": "2026-10-20",
       "data_abertura": "",
-      "data_limite": "2026-10-28T07:00",
-      "link": "https://pncp.gov.br/compras/46895261000118/2026/7",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/4106902/2026-10-20/5d4ecb361adad1b09c4978f284466c7c686e6b47.pdf",
       "link_origem": "",
-      "score": 27,
-      "categoria": "FOMENTO_CULTURAL",
+      "score": 12,
+      "categoria": "OUTRO_ARTISTICO",
       "genero_alvo": false,
       "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
         ],
+        "B": [],
+        "C": [],
         "NEG": []
       },
-      "trecho": "",
-      "uid": "4460e5d18f855ae9"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "46895261000118-1-000006/2026",
-      "titulo": "Aviso de Contratação Direta nº 70/2026",
-      "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE EMPRESA ESPECIALIZADA EM ASSESSORIA E CONSULTORIA DO SETOR CULTURAL PARA OPERACIONALIZAÇÃO E EXECUÇÃO DOS RECURSOS ORIUNDOS DA LEI FEDERAL Nº 14.399/2022 — PNAB - POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA 2º CICLO, EM CAMPO ALEGRE DE GOIÁS, EM ATENDIMENTO A SECRETARIA DE CULTURA E ECONOMIA CRIATIVA DO MUNICÍPIO DECAMPO ALEGRE DE GOIÁS,",
-      "orgao": "FUNDO MUNICIPAL DE CULTURA E ECONOMIA CRIATIVA",
-      "cnpj_orgao": "46895261000118",
-      "municipio": "Campo Alegre de Goiás",
-      "uf": "GO",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-21T15:16:30.529087616",
-      "data_abertura": "",
-      "data_limite": "2026-10-28T07:00",
-      "link": "https://pncp.gov.br/compras/46895261000118/2026/6",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "FOMENTO_CULTURAL",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "22910838b13b0261"
+      "trecho": "COSTA \nFERREIRA \n\nBETO E NINA \n\nModalidade IV \n(exclusivo \n\nresidentes na \nRegional Cajurú) \n\nArtes Cênicas \n(Teatro, Dança, \nÓpera e Circo) \n\nParticipação como \nAMPLA \n\nCONCORRÊNCIA \n(Não se aplica cotas \n\nou reservas de vagas) \n\nAmpla \nConcorrência, por \nclassificação nota \n\nPessoa \nFísica \n\n25.000,00  \n\n112700 \nMAÍRA \nCARVALHO \nFIGUEIREDO \n\nSHOW MUSICAL \nNORDESTE EM \nNOTAS \n\nModalidade IV \n(exclusivo \n\nresidentes na \nRegional Cajurú) \n\nMúsica \nCota PESSOA \n\nNEGRA \n\nPessoa Negra, por \ncota maior nota \n(vaga Pessoa \n\nIndígena) \n\nPessoa \nFísica \n\n25.000,00  \n\n112462 \nMARCELLO \nANDRADE DOS \nSANTOS ME \n\nJOVEM EINSTEIN \nVÊ O MUNDO \n\nModalidade II \n(exclusivo \n\nresidentes na \nRegional Boa \n\nVista)",
+      "uid": "4114663ad0844f93"
     }
   ]
 }
