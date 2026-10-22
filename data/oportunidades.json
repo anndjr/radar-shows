@@ -1,33 +1,162 @@
 {
-  "gerado_em": "2026-10-22T15:45:38",
-  "total_brutos": 977,
-  "total_aprovados": 175,
-  "total_novos": 5,
+  "gerado_em": "2026-10-22T23:54:44",
+  "total_brutos": 1693,
+  "total_aprovados": 217,
+  "total_novos": 12,
   "oportunidades": [
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3532603/2026-10-20/cee8437cc96ebd5eb401ed8c6d7f2d9af23cd2f8.txt",
-      "titulo": "DOM Nhandeara/SP 2026-10-20",
-      "objeto": "ADMINISTRATIVO Nº 075/2026\nINEXIGIBILIDADE Nº 009/2026\nCONTRATO Nº 049/2026\nFUNDAMENTO DA CONTRATAÇÃO: ART. 74, INCISO II DA LEI\nFEDERAL 14.133/2021.\nCONTRATANTE: MUNICÍPIO DE NHANDEARA-SP\nCONTRATADO: TATIANE FERRAZ ROMERO PRODUÇÃO\nMUSICAL\nOBJETO: Contratação de profissional do setor artístico, através de\nempresário exclusivo, para realização de show musical com a artista\nTATI ROMERO, a ser realizado no dia 31 de dezembro de 2026, na\nPraça Matriz da cidade de Nhandeara/SP, em comemoração as\nfestividades de fim de ano do Município de Nhandeara/SP.\nDO PREÇO: R$ 55.000,00 (cinquenta e cinco mil reais)\nVIGÊNCIA: 3 meses da assinatura do contrato\nDATA ASSINATURA: 20/10/2026\n \n \n\nEXTRATO DE AUTORIZAÇÃO",
-      "orgao": "Nhandeara",
-      "cnpj_orgao": "",
-      "municipio": "Nhandeara",
-      "uf": "SP",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-20",
+      "fonte": "pncp",
+      "id_externo": "27165190000153-1-000266/2026",
+      "titulo": "Inexigibilidade 158/2026",
+      "objeto": "Contratação, por inexigibilidade de licitação, do profissional do setor artístico de renome nacional, Fernandinho, nos termos do art. 74, II, da Lei nº 14133/2021, por meio da empresa FAZ CHOVER PRODUÇÕES ARTÍSTICAS E MUSICAIS LTDA, representante exclusiva do artista, para integrar as atrações artísticas do Evento Viva Jesus Guarapari, com apresentação musical (show) no dia 24/10/2026.",
+      "orgao": "MUNICIPIO DE GUARAPARI",
+      "cnpj_orgao": "27165190000153",
+      "municipio": "Guarapari",
+      "uf": "ES",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 290000.0,
+      "data_publicacao": "2026-10-19T12:07:22",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3532603/2026-10-20/cee8437cc96ebd5eb401ed8c6d7f2d9af23cd2f8.pdf",
+      "link": "https://pncp.gov.br/app/editais/27165190000153/1/000266/2026",
       "link_origem": "",
-      "score": 28,
+      "score": 36,
       "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)",
           "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "8dbee181124fbea4"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08109126000100-1-000574/2026",
+      "titulo": "Inexigibilidade 326/2026",
+      "objeto": "Contratação da Banda Neném Pessoa, representada pelo Sr. Josenildo Lima da Silva, pessoa física, portador do CPF nº 060.793.724-60, para apresentação musical no dia 03 de setembro de 2026, durante a programação do projeto “Música e Arte na Praça”, a ser realizado na Praça Cristo Rei, Centro, Currais Novos/RN.",
+      "orgao": "MUNICIPIO DE CURRAIS NOVOS",
+      "cnpj_orgao": "08109126000100",
+      "municipio": "Currais Novos",
+      "uf": "RN",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 2000.0,
+      "data_publicacao": "2026-10-19T12:32:46",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08109126000100/1/000574/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "c691920e047f2545"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "45358249000101-1-001109/2026",
+      "titulo": "Inexigibilidade 281/2026",
+      "objeto": "Contratação do grupo Rochedo de Ouro para apresentação artística e cultural, com participação dos Mestres Walter e Maurício, representantes do Maracatu Nação Estrela de Recife, para realização do espetáculo “Festa na Rua! – Rochedo de Ouro convida Mestres do Maracatu Nação Estrela de Recife”, previsto para o dia 1º de novembro de 2026, no entorno do Flor de Maio, no Município de São Carlos/SP.",
+      "orgao": "MUNICIPIO DE SAO CARLOS",
+      "cnpj_orgao": "45358249000101",
+      "municipio": "São Carlos",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 16390.0,
+      "data_publicacao": "2026-10-19T12:02:53",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001109/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "37222cb8643dcf5a"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "04372444000109-1-000064/2026",
+      "titulo": "Inexigibilidade 00006526/2026",
+      "objeto": "Contratação de Hildebrando Luiz Pereira Silva para realizar apresentação musical no dia 08/10 em evento comemorativo ao dia da cidade na Escola do Legislativo",
+      "orgao": "CAMARA MUNICIPAL DE ALFENAS",
+      "cnpj_orgao": "04372444000109",
+      "municipio": "Alfenas",
+      "uf": "MG",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 4000.0,
+      "data_publicacao": "2026-10-19T12:37:55",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/04372444000109/1/000064/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "649f87c1fd62b594"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08309536000103-1-000081/2026",
+      "titulo": "Inexigibilidade 65/2026",
+      "objeto": "Contratação da apresentação artística da Cantora Alice Maciel e Banda para apresentação nas festividades de 98 anos de Emancipação Política no município de João Câmara/RN, que acontecerá dia 26 de outubro de 2026 com previsão de duração de 1h e 30 min",
+      "orgao": "MUNICIPIO DE JOAO CAMARA",
+      "cnpj_orgao": "08309536000103",
+      "municipio": "João Câmara",
+      "uf": "RN",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, III, a Inexigibilidade de Licitação: a) estudos técnicos, planejamentos, projetos básicos ou projetos executivos.",
+      "valor_estimado": 55000.0,
+      "data_publicacao": "2026-10-19T12:44:11",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08309536000103/1/000081/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
         ],
         "B": [
           "\\bfestividade(s)?\\b"
@@ -35,136 +164,241 @@
         "C": [],
         "NEG": []
       },
-      "trecho": "ADMINISTRATIVO Nº 075/2026\nINEXIGIBILIDADE Nº 009/2026\nCONTRATO Nº 049/2026\nFUNDAMENTO DA CONTRATAÇÃO: ART. 74, INCISO II DA LEI\nFEDERAL 14.133/2021.\nCONTRATANTE: MUNICÍPIO DE NHANDEARA-SP\nCONTRATADO: TATIANE FERRAZ ROMERO PRODUÇÃO\nMUSICAL\nOBJETO: Contratação de profissional do setor artístico, através de\nempresário exclusivo, para realização de show musical com a artista\nTATI ROMERO, a ser realizado no dia 31 de dezembro de 2026, na\nPraça Matriz da cidade de Nhandeara/SP, em comemoração as\nfestividades de fim de ano do Município de Nhandeara/SP.\nDO PREÇO: R$ 55.000,00 (cinquenta e cinco mil reais)\nVIGÊNCIA: 3 meses da assinatura do contrato\nDATA ASSINATURA: 20/10/2026\n \n \n\nEXTRATO DE AUTORIZAÇÃO",
-      "uid": "4fe0d607cad88a67"
+      "trecho": "",
+      "uid": "5eb7018aa6d194f1"
     },
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/4316758/2026-10-20/14b40333a19d93020e81b2113e40b02d9eab6bd7.txt",
-      "titulo": "DOM Santa Clara do Sul/RS 2026-10-20",
-      "objeto": "SUL \nMUNICÍPIO DE SANTA CLARA DO SUL \n\n \nINEXIGIBILIDADE DE LICITAÇÃO Nº 49/2026 \n\n \n\nO Município de Santa Clara do Sul torna pública a realização da Inexigibilidade de Licitação \nnº 49/2026, conforme Processo Administrativo Digital nº 2.365/2026, com fundamento no \nart. 74, inciso II, da Lei Federal nº 14.133/2021, visando à CONTRATAÇÃO DE SHOW \n\nMUSICAL BANDA ELETRO RÁDIO. A contratação será realizada com a empresa JULIANA \nLOPES DA SILVA, inscrita no CNPJ sob o nº 33.190.127/0001-70, pelo valor total de R$ \n12.000,00 (doze mil reais). \n\n \n\nSanta Clara do Sul, 20 de outubro de 2026. \n\n \n\nMárcio Luiz Haas \n\nPrefeito  \n\n \n\n\n\nAno X | Edição nº 2185 | 20 de outubro de 2026 | Página 7 de 20\n\nMunicípio",
-      "orgao": "Santa Clara do Sul",
-      "cnpj_orgao": "",
-      "municipio": "Santa Clara do Sul",
-      "uf": "RS",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-20",
+      "fonte": "pncp",
+      "id_externo": "77001311000108-1-000613/2026",
+      "titulo": "Inexigibilidade PRI 251/2026",
+      "objeto": "Contratação de empresa para prestação de serviços de pintura/restauro do Monumento aos Tropeiros, localizado à PR-151, composto por 03 (três) monumentos metálicos representando os Tropeiros, 01 (um) letreiro sinalizando o nome do município, e 01 (um) totem de identificação visual \"Rota dos Tropeiros\".",
+      "orgao": "MUNICIPIO DE CASTRO",
+      "cnpj_orgao": "77001311000108",
+      "municipio": "Castro",
+      "uf": "PR",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 14800.0,
+      "data_publicacao": "2026-10-19T12:07:38",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/4316758/2026-10-20/14b40333a19d93020e81b2113e40b02d9eab6bd7.pdf",
+      "link": "https://pncp.gov.br/app/editais/77001311000108/1/000613/2026",
       "link_origem": "",
-      "score": 24,
+      "score": 12,
       "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
+          "\\bempresario exclusivo\\b"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
-      "trecho": "SUL \nMUNICÍPIO DE SANTA CLARA DO SUL \n\n \nINEXIGIBILIDADE DE LICITAÇÃO Nº 49/2026 \n\n \n\nO Município de Santa Clara do Sul torna pública a realização da Inexigibilidade de Licitação \nnº 49/2026, conforme Processo Administrativo Digital nº 2.365/2026, com fundamento no \nart. 74, inciso II, da Lei Federal nº 14.133/2021, visando à CONTRATAÇÃO DE SHOW \n\nMUSICAL BANDA ELETRO RÁDIO. A contratação será realizada com a empresa JULIANA \nLOPES DA SILVA, inscrita no CNPJ sob o nº 33.190.127/0001-70, pelo valor total de R$ \n12.000,00 (doze mil reais). \n\n \n\nSanta Clara do Sul, 20 de outubro de 2026. \n\n \n\nMárcio Luiz Haas \n\nPrefeito  \n\n \n\n\n\nAno X | Edição nº 2185 | 20 de outubro de 2026 | Página 7 de 20\n\nMunicípio",
-      "uid": "22bfef73cdc07ee0"
+      "trecho": "",
+      "uid": "6eadd280cab55e3a"
     },
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/5002704/2026-10-20/1fffef2ca75ad0d378dc660100790eaa3af83d7e.txt",
-      "titulo": "DOM Campo Grande/MS 2026-10-20",
-      "objeto": "Município de Campo Grande, Mato Grosso do Sul, por intermédio da Fundação Municipal \nde Cultura – FUNDAC de Campo Grande - MS, torna público o RESULTADO de habilitação \nreferente às documentações apresentadas para a sessão de 06.10.2026 do evento a \nseguir informado:\n\nCREDENCIAMENTO: 001/2025\nPROCESSO ADMINISTRATIVO: 048676/2025-41\nOBJETO: CREDENCIAMENTO DE ARTISTAS CULTURAIS, PARA PRESTAÇÃO DE SERVIÇOS \nARTÍSTICOS E CULTURAIS, A FIM DE ATENDER A PROGRAMAÇÃO CULTURAL DO \nMUNICÍPIO DE CAMPO GRANDE – MS.\nDEMANDANTE: FUNDAÇÃO MUNICIPAL DE CULTURA (FUNDAC)\n\nAos interessados em interpor razões de recurso poderão apresentar a peça no prazo de \n03 (três) dias úteis a contar desta publicação, conforme disposições",
-      "orgao": "Campo Grande",
-      "cnpj_orgao": "",
-      "municipio": "Campo Grande",
-      "uf": "MS",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-20",
+      "fonte": "pncp",
+      "id_externo": "08579242000193-1-001178/2026",
+      "titulo": "Inexigibilidade RS32052672026/2026",
+      "objeto": "Produção Artística em Geral",
+      "orgao": "SECRETARIA DE TURISMO SETUR",
+      "cnpj_orgao": "08579242000193",
+      "municipio": "Salvador",
+      "uf": "BA",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 300000.0,
+      "data_publicacao": "2026-10-19T12:17:43",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/5002704/2026-10-20/1fffef2ca75ad0d378dc660100790eaa3af83d7e.pdf",
+      "link": "https://pncp.gov.br/app/editais/08579242000193/1/001178/2026",
       "link_origem": "",
-      "score": 24,
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "accd336fdae5e089"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13650403000128-1-000471/2026",
+      "titulo": "Edital de Chamamento Público nº CD-014/2026",
+      "objeto": "Credenciamento de pessoas jurídicas para prestação de serviços artístico-culturais, abrangendo apresentações musicais, performances de discotecagem (DJ), grupos culturais, manifestações de cultura popular, apresentações de capoeira, produção audiovisual e ações formativas culturais, a fim de atender às programações, projetos e eventos da Secretaria Municipal de Cultura e Turismo de Teixeira de Freitas-BA, especialmente às ações vinculadas ao Ciclo 2 da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), conforme especificações e condições do Termo de Referência ",
+      "orgao": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "cnpj_orgao": "13650403000128",
+      "municipio": "Teixeira de Freitas",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-10-22T18:15:56.895942506",
+      "data_abertura": "",
+      "data_limite": "2027-07-12T23:59",
+      "link": "https://pncp.gov.br/compras/13650403000128/2026/471",
+      "link_origem": "",
+      "score": 51,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
           "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
         ],
         "B": [],
-        "C": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
         "NEG": []
       },
-      "trecho": "Município de Campo Grande, Mato Grosso do Sul, por intermédio da Fundação Municipal \nde Cultura – FUNDAC de Campo Grande - MS, torna público o RESULTADO de habilitação \nreferente às documentações apresentadas para a sessão de 06.10.2026 do evento a \nseguir informado:\n\nCREDENCIAMENTO: 001/2025\nPROCESSO ADMINISTRATIVO: 048676/2025-41\nOBJETO: CREDENCIAMENTO DE ARTISTAS CULTURAIS, PARA PRESTAÇÃO DE SERVIÇOS \nARTÍSTICOS E CULTURAIS, A FIM DE ATENDER A PROGRAMAÇÃO CULTURAL DO \nMUNICÍPIO DE CAMPO GRANDE – MS.\nDEMANDANTE: FUNDAÇÃO MUNICIPAL DE CULTURA (FUNDAC)\n\nAos interessados em interpor razões de recurso poderão apresentar a peça no prazo de \n03 (três) dias úteis a contar desta publicação, conforme disposições",
-      "uid": "c3661300d1b0cc17"
+      "trecho": "",
+      "uid": "4bc18a6efc50ab53"
     },
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3135209/2026-10-20/1d9cb43cdc356bb616d3bc7215ceee5ef1d1202e.txt",
-      "titulo": "DOM Januária/MG 2026-10-20",
-      "objeto": "subsequente ficará \n\ncondicionada à existência de previsão no Plano de Contratação Anual vigente, à disponibilidade \n\norçamentária e financeira e ao cumprimento das dispoções legais aplicáveis ao respectivo \n\nexercício. \n\nCLÁUSULA TERCEIRA – MODELOS DE EXECUÇÃO E GESTÃO CONTRATUAIS  \n\n3.1. A Contratada fica obrigada a iniciar a prestação do serviço de show musical  da Banda \n\nSambacana,  duração mínima de 02 (duas) horas , para realização de shows musicais ao vivo em \n\neventos festivos promovidos pelo Município de Januária/MG, em datas, horários e locais a serem \n\npreviamente definidos pela Administração.  \n\nTerça-feira, 20 de Outubro de 2026 ANO 4      Edição Nº 855 Página 5\n\n  \n\n\n\n \n\n \n\n            ",
-      "orgao": "Januária",
-      "cnpj_orgao": "",
-      "municipio": "Januária",
-      "uf": "MG",
-      "modalidade": "",
+      "fonte": "pncp",
+      "id_externo": "45358249000101-1-001120/2026",
+      "titulo": "Credenciamento 751/2026",
+      "objeto": "Contratação do proponente Rodolfo Donizetti Laveli, para apresentação da dupla João Pedro e Zé Paulo, selecionado e classificado no Edital do Chamamento Público 01/2025, para seleção de artistas, duplas e trios, e grupos artísticos, a ser realizada no Evento \" Almoço do Padroeiro São José”, que acontecerá no dia 15/11/2026 das 11h ás 15h,  na Rua Silvério Ignarra Sobrinho s/n Vila Monteiro. ",
+      "orgao": "MUNICIPIO DE SAO CARLOS",
+      "cnpj_orgao": "45358249000101",
+      "municipio": "São Carlos",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 3000.0,
+      "data_publicacao": "2026-10-22T11:30:31",
+      "data_abertura": "2026-10-22T11:27:00",
+      "data_limite": "2026-10-22T11:27:00",
+      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001120/2026",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5d61e45d6a404666"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "45358249000101-1-001121/2026",
+      "titulo": "Credenciamento 752/2026",
+      "objeto": "Contratação do proponente MATHEUS SANTOS DE SOUSA , para apresentação do O Samba da Gente, autoral, selecionado e classificado no Edital do Chamamento Público 01/2025, para seleção de artistas, duplas e trios, e grupos artísticos, a ser realizada evento comemorativo de Aniversário de 169 anos de São Carlos que será realizado no dia 03 de novembro de 2026, as 19h, na Praça Antônio Prado, em frente a Estação Ferroviária.",
+      "orgao": "MUNICIPIO DE SAO CARLOS",
+      "cnpj_orgao": "45358249000101",
+      "municipio": "São Carlos",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 7500.0,
+      "data_publicacao": "2026-10-22T11:38:08",
+      "data_abertura": "2026-10-22T11:36:00",
+      "data_limite": "2026-10-22T11:36:00",
+      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001121/2026",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b6b8ccac4cc09773"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "45358249000101-1-001122/2026",
+      "titulo": "Credenciamento 753/2026",
+      "objeto": " Contratação do proponente DANIEL MULLER GUERRINI , para apresentação de  O samba de Chico - grupo conversa de botequim, selecionado e classificado no Edital do Chamamento Público 01/2025, para seleção de artistas, duplas e trios, e grupos artísticos, a ser realizada no Evento ¨Semana Clóvis Moura¨ que será realizada dia 31/10/2026 a partir das 19h no Grêmio Recreativo Flôr de Maio situado á Rua Padre Teixeira, 1733 - Jardim Bethania, São Carlos - SP. Emenda Parlamentar 143 da Vereadora Larissa Camargo - Protocolo 9586/25 - R$ 6.500,00 Dados Bancários: Banco: Banco do Brasil. Agência: 0295-x Conta: 114.863-X (Código 519).",
+      "orgao": "MUNICIPIO DE SAO CARLOS",
+      "cnpj_orgao": "45358249000101",
+      "municipio": "São Carlos",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 6500.0,
+      "data_publicacao": "2026-10-22T11:43:58",
+      "data_abertura": "2026-10-22T11:42:00",
+      "data_limite": "2026-10-22T11:42:00",
+      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001122/2026",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "8ba07a4db6c0cc6c"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "76970359000153-1-000078/2026",
+      "titulo": "Edital nº 43/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE FOGOS DE ARTIFÍCIO, INCLUINDO MONTAGEM, MANUSEIO E EXECUÇÃO, PARA A REALIZAÇÃO DE SHOW PIROTÉCNICO DURANTE A 27ª FESTA DO PEÃO DE ITAGUAJÉ E O RÉVEILLON 2027.",
+      "orgao": "MUNICIPIO DE ITAGUAJE",
+      "cnpj_orgao": "76970359000153",
+      "municipio": "Itaguajé",
+      "uf": "PR",
+      "modalidade": "Pregão - Eletrônico",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-20",
+      "data_publicacao": "2026-10-22T15:33:01.687355073",
       "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3135209/2026-10-20/1d9cb43cdc356bb616d3bc7215ceee5ef1d1202e.pdf",
+      "data_limite": "2026-11-09T08:30",
+      "link": "https://pncp.gov.br/compras/76970359000153/2026/78",
       "link_origem": "",
       "score": 16,
       "categoria": "EVENTO_MUNICIPAL",
-      "genero_alvo": false,
+      "genero_alvo": true,
       "hits": {
         "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+          "\\bshow(s)? (pirotecnico|de fogos)"
         ],
         "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+          "\\bfesta do peao(de boiadeiro)?\\b",
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
         ],
         "C": [],
-        "NEG": []
+        "NEG": [
+          "\\bfogos de artificio\\b|\\bpirotecnic\\w*\\b"
+        ]
       },
-      "trecho": "subsequente ficará \n\ncondicionada à existência de previsão no Plano de Contratação Anual vigente, à disponibilidade \n\norçamentária e financeira e ao cumprimento das dispoções legais aplicáveis ao respectivo \n\nexercício. \n\nCLÁUSULA TERCEIRA – MODELOS DE EXECUÇÃO E GESTÃO CONTRATUAIS  \n\n3.1. A Contratada fica obrigada a iniciar a prestação do serviço de show musical  da Banda \n\nSambacana,  duração mínima de 02 (duas) horas , para realização de shows musicais ao vivo em \n\neventos festivos promovidos pelo Município de Januária/MG, em datas, horários e locais a serem \n\npreviamente definidos pela Administração.  \n\nTerça-feira, 20 de Outubro de 2026 ANO 4      Edição Nº 855 Página 5\n\n  \n\n\n\n \n\n \n\n            ",
-      "uid": "ba1b1fee200318f4"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/4106902/2026-10-20/5d4ecb361adad1b09c4978f284466c7c686e6b47.txt",
-      "titulo": "DOM Curitiba/PR 2026-10-20",
-      "objeto": "COSTA \nFERREIRA \n\nBETO E NINA \n\nModalidade IV \n(exclusivo \n\nresidentes na \nRegional Cajurú) \n\nArtes Cênicas \n(Teatro, Dança, \nÓpera e Circo) \n\nParticipação como \nAMPLA \n\nCONCORRÊNCIA \n(Não se aplica cotas \n\nou reservas de vagas) \n\nAmpla \nConcorrência, por \nclassificação nota \n\nPessoa \nFísica \n\n25.000,00  \n\n112700 \nMAÍRA \nCARVALHO \nFIGUEIREDO \n\nSHOW MUSICAL \nNORDESTE EM \nNOTAS \n\nModalidade IV \n(exclusivo \n\nresidentes na \nRegional Cajurú) \n\nMúsica \nCota PESSOA \n\nNEGRA \n\nPessoa Negra, por \ncota maior nota \n(vaga Pessoa \n\nIndígena) \n\nPessoa \nFísica \n\n25.000,00  \n\n112462 \nMARCELLO \nANDRADE DOS \nSANTOS ME \n\nJOVEM EINSTEIN \nVÊ O MUNDO \n\nModalidade II \n(exclusivo \n\nresidentes na \nRegional Boa \n\nVista)",
-      "orgao": "Curitiba",
-      "cnpj_orgao": "",
-      "municipio": "Curitiba",
-      "uf": "PR",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-20",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/4106902/2026-10-20/5d4ecb361adad1b09c4978f284466c7c686e6b47.pdf",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "COSTA \nFERREIRA \n\nBETO E NINA \n\nModalidade IV \n(exclusivo \n\nresidentes na \nRegional Cajurú) \n\nArtes Cênicas \n(Teatro, Dança, \nÓpera e Circo) \n\nParticipação como \nAMPLA \n\nCONCORRÊNCIA \n(Não se aplica cotas \n\nou reservas de vagas) \n\nAmpla \nConcorrência, por \nclassificação nota \n\nPessoa \nFísica \n\n25.000,00  \n\n112700 \nMAÍRA \nCARVALHO \nFIGUEIREDO \n\nSHOW MUSICAL \nNORDESTE EM \nNOTAS \n\nModalidade IV \n(exclusivo \n\nresidentes na \nRegional Cajurú) \n\nMúsica \nCota PESSOA \n\nNEGRA \n\nPessoa Negra, por \ncota maior nota \n(vaga Pessoa \n\nIndígena) \n\nPessoa \nFísica \n\n25.000,00  \n\n112462 \nMARCELLO \nANDRADE DOS \nSANTOS ME \n\nJOVEM EINSTEIN \nVÊ O MUNDO \n\nModalidade II \n(exclusivo \n\nresidentes na \nRegional Boa \n\nVista)",
-      "uid": "4114663ad0844f93"
+      "trecho": "",
+      "uid": "99a14ff0373d3502"
     }
   ]
 }
