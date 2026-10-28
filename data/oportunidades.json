@@ -1,136 +1,42 @@
 {
-  "gerado_em": "2026-10-28T00:17:31",
-  "total_brutos": 1429,
-  "total_aprovados": 196,
-  "total_novos": 4,
+  "gerado_em": "2026-10-28T16:55:54",
+  "total_brutos": 729,
+  "total_aprovados": 173,
+  "total_novos": 1,
   "oportunidades": [
     {
-      "fonte": "pncp",
-      "id_externo": "46392114000125-1-001048/2026",
-      "titulo": "Inexigibilidade 1326/2026",
-      "objeto": "Contratação da empresa CENTRO CULTURAL AFRIKA LTDA, CNPJ: 30.067.915/0001-85, representada neste ato por  Yannick Mpangi Mutshilo, por inexigibilidade de licitação, para realização de 09 (nove) apresentações de MÚSICA que atendam à programação artística e cultural de NOVEMBRO",
-      "orgao": "SECRETARIA MUNICIPAL DE EDUCACAO",
-      "cnpj_orgao": "46392114000125",
-      "municipio": "São Paulo",
-      "uf": "SP",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 58500.0,
-      "data_publicacao": "2026-10-26T12:57:36",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/46392114000125/1/001048/2026",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "6844eb3493e5cc0c"
-    },
-    {
       "fonte": "pncp_search",
-      "id_externo": "45152139000199-1-000290/2026",
-      "titulo": "Edital de Chamamento Público nº 15/2026",
-      "objeto": "CHAMADA PÚBLICA para Seleção de Projetos de Apresentações Artísticas para firmar Termo de Execução Cultural com recurso da Lei Federal nº 14.399/2022 – Politica Nacional Aldir Blanc de Fomento à Cultura - PNAB.",
-      "orgao": "MUNICIPIO DE NOVO HORIZONTE",
-      "cnpj_orgao": "45152139000199",
-      "municipio": "Novo Horizonte",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-10-27T16:35:02.091037886",
-      "data_abertura": "",
-      "data_limite": "2026-11-09T08:30",
-      "link": "https://pncp.gov.br/compras/45152139000199/2026/290",
-      "link_origem": "",
-      "score": 39,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
-        ],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "2e928e8b51830dbb"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "87592861000194-1-000459/2026",
-      "titulo": "Dispensa 151/2026",
-      "objeto": "Contratação de 01 (um) conjunto musical/banda, com experiência em eventos sociais e comunitários, acompanhado de estrutura completa de sonorização, equipamentos de áudio, instrumentos musicais, microfones, caixas acústicas, mesa de som, amplificação, cabos, pedestais e demais equipamentos necessários, para realização de apresentação musical ao vivo, com duração mínima de 03 (três) horas.",
-      "orgao": "MUNICIPIO DE SOBRADINHO",
-      "cnpj_orgao": "87592861000194",
-      "municipio": "Sobradinho",
-      "uf": "RS",
-      "modalidade": "Dispensa",
-      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
-      "valor_estimado": 1500.0,
-      "data_publicacao": "2026-10-26T09:59:25",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/87592861000194/1/000459/2026",
-      "link_origem": "https://portal.tce.rs.gov.br/aplicprod/f?p=50500:10:::NO:10:P10_ID_LICITACAO,P10_PAG_RETORNO,F50500_CD_ORGAO:1607300,14,60700&cs=1ZK73aBR4TjKRCg9Q3yH8jnO6BG4",
-      "score": 12,
-      "categoria": "DISPENSA",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "7745e0353fbdd74a"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "82892316000108-1-000338/2026",
-      "titulo": "Edital nº PCE 254/2026",
-      "objeto": "Contratação de empresa para prestação de serviços artísticos incluindo shows nacionais e/ou regionais, apresentações de Djs e música gospel para atender às demandas dos eventos realizados e/ou apoiados no Município de Palhoça.",
-      "orgao": "MUNICIPIO DE PALHOCA",
-      "cnpj_orgao": "82892316000108",
-      "municipio": "Palhoça",
-      "uf": "SC",
+      "id_externo": "18094763000104-1-000069/2026",
+      "titulo": "Edital nº 00007226/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAÇÃO DE APRESENTAÇÕES ARTÍSTICAS MUSICAIS DURANTE O LXXVIII ANIVERSÁRIO DE EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA NO DIA 27/12/2026 E RÉVEILLON 2026/2027.",
+      "orgao": "MUNICIPIO DE ANTONIO CARLOS",
+      "cnpj_orgao": "18094763000104",
+      "municipio": "Antônio Carlos",
+      "uf": "MG",
       "modalidade": "Pregão - Eletrônico",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-27T12:07:41.888529490",
+      "data_publicacao": "2026-10-28T09:01:17.878647",
       "data_abertura": "",
-      "data_limite": "2026-11-16T08:29:59",
-      "link": "https://pncp.gov.br/compras/82892316000108/2026/338",
+      "data_limite": "2026-11-16T08:30",
+      "link": "https://pncp.gov.br/compras/18094763000104/2026/69",
       "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
+      "score": 20,
+      "categoria": "EVENTO_MUNICIPAL",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
         ],
-        "B": [],
+        "B": [
+          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+        ],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "17c9d2d5f63df01d"
+      "uid": "5987cfc2fd47a581"
     }
   ]
 }
