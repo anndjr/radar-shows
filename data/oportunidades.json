@@ -1,39 +1,74 @@
 {
-  "gerado_em": "2026-10-29T00:39:33",
-  "total_brutos": 1196,
-  "total_aprovados": 216,
-  "total_novos": 1,
+  "gerado_em": "2026-10-29T17:13:37",
+  "total_brutos": 830,
+  "total_aprovados": 167,
+  "total_novos": 2,
   "oportunidades": [
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2910800/2026-10-28/7e81773e57334fe2ea96e36e616311dfce41cde8.txt",
-      "titulo": "DOM Feira de Santana/BA 2026-10-28",
-      "objeto": "Espetaculos Ltda. Valor Global: R$ \n140.000,00. Assinatura do Contrato: 23/10/2026, Feira de Santana, 27/10/2026. José Ronaldo de Carvalho – \nPrefeito Municipal. \n \n\n \n \nINEXIGIBILIDADE DE LICITAÇÃO Nº 334-2026-10I - Processo Administrativo Nº 967-2026. Repartição Interessada: \nSecretaria Municipal de Cultura, Esporte e Lazer. Objeto: Apresentação com show musical da atração Banda Camisa \nde Vênus no Evento November Rock 2026, na Praça da Kalilândia no dia 14/11/2026, show no palco com duração de \naprox. 90 minutos. Contratada: Marcelo Nova Produções Artísticas Ltda. Valor Global: R$ 130.000,00. Amparo legal: \nArt. 74, inciso II, da Lei Federal 14133/2021. Considerando o Parecer exarado pela Procuradoria INEXIGIBILIDADE DE LICITAÇÃO para o objeto acima mencionado. Feira de Santana, 22/10/2026. José \nRonaldo de Carvalho – Prefeito Municipal. \n \n\nEXTRATO DO CONTRATO - INEXIGIBILIDADE DE LICITAÇÃO Nº 334-2026-10I – CONTRATO N° 590-2026-10C - \nProcesso Administrativo Nº 967-2026. Contratante: Município de Feira de Santana. Objeto: Apresentação com \nshow musical da atração Banda Camisa de Vênus no Evento November Rock 2026, na Praça da Kalilândia no dia \n14/11/2026, show no palco com duração de aprox. 90 minutos. Contratada: Marcelo Nova Produções Artísticas \nLtda. Valor Global: R$ 130.000,00. Assinatura do Contrato: 22/10/2026, Feira de Santana, 27/10/2026. José \nRonaldo de Carvalho – Prefeito Municipal",
-      "orgao": "Feira de Santana",
-      "cnpj_orgao": "",
-      "municipio": "Feira de Santana",
-      "uf": "BA",
-      "modalidade": "",
+      "fonte": "pncp_search",
+      "id_externo": "03238862000145-1-000095/2026",
+      "titulo": "Edital de Chamamento Público nº CRE 9/2026",
+      "objeto": "SELEÇÃO DE 1 (UM) PROJETO CULTURAL DESTINADO À REALIZAÇÃO INTEGRAL DA CAVALGADA CULTURAL E TRADIÇÕES SERTANEJAS DE VILA RICA – MT, COMPREENDENDO A CONCEPÇÃO, O PLANEJAMENTO, A ORGANIZAÇÃO, A PRODUÇÃO, A EXECUÇÃO, A COMUNICAÇÃO E O ENCERRAMENTO DO EVENTO, MEDIANTE A VALORIZAÇÃO, A PRESERVAÇÃO, A TRANSMISSÃO E A DIFUSÃO DAS EXPRESSÕES DA CULTURA SERTANEJA, DAS TRADIÇÕES POPULARES E DAS PRÁTICAS CULTURAIS LOCAIS RELACIONADAS À CAVALGADA",
+      "orgao": "MUNICIPIO DE VILA RICA",
+      "cnpj_orgao": "03238862000145",
+      "municipio": "Vila Rica",
+      "uf": "MT",
+      "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-28",
+      "data_publicacao": "2026-10-29T08:37:34.986976880",
       "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2910800/2026-10-28/7e81773e57334fe2ea96e36e616311dfce41cde8.pdf",
+      "data_limite": "2026-11-12T08:30",
+      "link": "https://pncp.gov.br/compras/03238862000145/2026/95",
+      "link_origem": "",
+      "score": 31,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [
+          "\\bcavalgada\\b"
+        ],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0c4fc5e502a728a2"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "07954480000179-1-026779/2026",
+      "titulo": "Concurso 202635595/2026",
+      "objeto": "Contratação musical para apresentação em evento oficial do Governo do Estado do Ceará: “INAUGURAÇÃO DA ESCOLA WALTER DE SÁ ”, do cantor(a)/ Grupo Musical “BANDA REITE” no dia 15 de OUTUBRO de 2026, no Município de FORTALEZA - CE.",
+      "orgao": "ESTADO DO CEARA",
+      "cnpj_orgao": "07954480000179",
+      "municipio": "Fortaleza",
+      "uf": "CE",
+      "modalidade": "Concurso",
+      "amparo_legal": "Lei 14.133/2021, Art. 28, III concurso: modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor",
+      "valor_estimado": 5500.0,
+      "data_publicacao": "2026-10-29T08:51:34",
+      "data_abertura": "2026-10-14T10:00:00",
+      "data_limite": "2026-10-14T10:00:00",
+      "link": "https://pncp.gov.br/app/editais/07954480000179/1/026779/2026",
       "link_origem": "",
       "score": 12,
-      "categoria": "INEXIGIBILIDADE_ART74",
+      "categoria": "OUTRO_ARTISTICO",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
-      "trecho": "Espetaculos Ltda. Valor Global: R$ \n140.000,00. Assinatura do Contrato: 23/10/2026, Feira de Santana, 27/10/2026. José Ronaldo de Carvalho – \nPrefeito Municipal. \n \n\n \n \nINEXIGIBILIDADE DE LICITAÇÃO Nº 334-2026-10I - Processo Administrativo Nº 967-2026. Repartição Interessada: \nSecretaria Municipal de Cultura, Esporte e Lazer. Objeto: Apresentação com show musical da atração Banda Camisa \nde Vênus no Evento November Rock 2026, na Praça da Kalilândia no dia 14/11/2026, show no palco com duração de \naprox. 90 minutos. Contratada: Marcelo Nova Produções Artísticas Ltda. Valor Global: R$ 130.000,00. Amparo legal: \nArt. 74, inciso II, da Lei Federal 14133/2021. Considerando o Parecer exarado pela Procuradoria INEXIGIBILIDADE DE LICITAÇÃO para o objeto acima mencionado. Feira de Santana, 22/10/2026. José \nRonaldo de Carvalho – Prefeito Municipal. \n \n\nEXTRATO DO CONTRATO - INEXIGIBILIDADE DE LICITAÇÃO Nº 334-2026-10I – CONTRATO N° 590-2026-10C - \nProcesso Administrativo Nº 967-2026. Contratante: Município de Feira de Santana. Objeto: Apresentação com \nshow musical da atração Banda Camisa de Vênus no Evento November Rock 2026, na Praça da Kalilândia no dia \n14/11/2026, show no palco com duração de aprox. 90 minutos. Contratada: Marcelo Nova Produções Artísticas \nLtda. Valor Global: R$ 130.000,00. Assinatura do Contrato: 22/10/2026, Feira de Santana, 27/10/2026. José \nRonaldo de Carvalho – Prefeito Municipal",
-      "uid": "1e717579c5f9a78c"
+      "trecho": "",
+      "uid": "94a22c26fcd6c356"
     }
   ]
 }
