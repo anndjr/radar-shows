@@ -1,42 +1,39 @@
 {
-  "gerado_em": "2026-10-28T16:55:54",
-  "total_brutos": 729,
-  "total_aprovados": 173,
+  "gerado_em": "2026-10-29T00:39:33",
+  "total_brutos": 1196,
+  "total_aprovados": 216,
   "total_novos": 1,
   "oportunidades": [
     {
-      "fonte": "pncp_search",
-      "id_externo": "18094763000104-1-000069/2026",
-      "titulo": "Edital nº 00007226/2026",
-      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAÇÃO DE APRESENTAÇÕES ARTÍSTICAS MUSICAIS DURANTE O LXXVIII ANIVERSÁRIO DE EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA NO DIA 27/12/2026 E RÉVEILLON 2026/2027.",
-      "orgao": "MUNICIPIO DE ANTONIO CARLOS",
-      "cnpj_orgao": "18094763000104",
-      "municipio": "Antônio Carlos",
-      "uf": "MG",
-      "modalidade": "Pregão - Eletrônico",
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/2910800/2026-10-28/7e81773e57334fe2ea96e36e616311dfce41cde8.txt",
+      "titulo": "DOM Feira de Santana/BA 2026-10-28",
+      "objeto": "Espetaculos Ltda. Valor Global: R$ \n140.000,00. Assinatura do Contrato: 23/10/2026, Feira de Santana, 27/10/2026. José Ronaldo de Carvalho – \nPrefeito Municipal. \n \n\n \n \nINEXIGIBILIDADE DE LICITAÇÃO Nº 334-2026-10I - Processo Administrativo Nº 967-2026. Repartição Interessada: \nSecretaria Municipal de Cultura, Esporte e Lazer. Objeto: Apresentação com show musical da atração Banda Camisa \nde Vênus no Evento November Rock 2026, na Praça da Kalilândia no dia 14/11/2026, show no palco com duração de \naprox. 90 minutos. Contratada: Marcelo Nova Produções Artísticas Ltda. Valor Global: R$ 130.000,00. Amparo legal: \nArt. 74, inciso II, da Lei Federal 14133/2021. Considerando o Parecer exarado pela Procuradoria INEXIGIBILIDADE DE LICITAÇÃO para o objeto acima mencionado. Feira de Santana, 22/10/2026. José \nRonaldo de Carvalho – Prefeito Municipal. \n \n\nEXTRATO DO CONTRATO - INEXIGIBILIDADE DE LICITAÇÃO Nº 334-2026-10I – CONTRATO N° 590-2026-10C - \nProcesso Administrativo Nº 967-2026. Contratante: Município de Feira de Santana. Objeto: Apresentação com \nshow musical da atração Banda Camisa de Vênus no Evento November Rock 2026, na Praça da Kalilândia no dia \n14/11/2026, show no palco com duração de aprox. 90 minutos. Contratada: Marcelo Nova Produções Artísticas \nLtda. Valor Global: R$ 130.000,00. Assinatura do Contrato: 22/10/2026, Feira de Santana, 27/10/2026. José \nRonaldo de Carvalho – Prefeito Municipal",
+      "orgao": "Feira de Santana",
+      "cnpj_orgao": "",
+      "municipio": "Feira de Santana",
+      "uf": "BA",
+      "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-10-28T09:01:17.878647",
+      "data_publicacao": "2026-10-28",
       "data_abertura": "",
-      "data_limite": "2026-11-16T08:30",
-      "link": "https://pncp.gov.br/compras/18094763000104/2026/69",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/2910800/2026-10-28/7e81773e57334fe2ea96e36e616311dfce41cde8.pdf",
       "link_origem": "",
-      "score": 20,
-      "categoria": "EVENTO_MUNICIPAL",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
         ],
-        "B": [
-          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
-          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
-        ],
+        "B": [],
         "C": [],
         "NEG": []
       },
-      "trecho": "",
-      "uid": "5987cfc2fd47a581"
+      "trecho": "Espetaculos Ltda. Valor Global: R$ \n140.000,00. Assinatura do Contrato: 23/10/2026, Feira de Santana, 27/10/2026. José Ronaldo de Carvalho – \nPrefeito Municipal. \n \n\n \n \nINEXIGIBILIDADE DE LICITAÇÃO Nº 334-2026-10I - Processo Administrativo Nº 967-2026. Repartição Interessada: \nSecretaria Municipal de Cultura, Esporte e Lazer. Objeto: Apresentação com show musical da atração Banda Camisa \nde Vênus no Evento November Rock 2026, na Praça da Kalilândia no dia 14/11/2026, show no palco com duração de \naprox. 90 minutos. Contratada: Marcelo Nova Produções Artísticas Ltda. Valor Global: R$ 130.000,00. Amparo legal: \nArt. 74, inciso II, da Lei Federal 14133/2021. Considerando o Parecer exarado pela Procuradoria INEXIGIBILIDADE DE LICITAÇÃO para o objeto acima mencionado. Feira de Santana, 22/10/2026. José \nRonaldo de Carvalho – Prefeito Municipal. \n \n\nEXTRATO DO CONTRATO - INEXIGIBILIDADE DE LICITAÇÃO Nº 334-2026-10I – CONTRATO N° 590-2026-10C - \nProcesso Administrativo Nº 967-2026. Contratante: Município de Feira de Santana. Objeto: Apresentação com \nshow musical da atração Banda Camisa de Vênus no Evento November Rock 2026, na Praça da Kalilândia no dia \n14/11/2026, show no palco com duração de aprox. 90 minutos. Contratada: Marcelo Nova Produções Artísticas \nLtda. Valor Global: R$ 130.000,00. Assinatura do Contrato: 22/10/2026, Feira de Santana, 27/10/2026. José \nRonaldo de Carvalho – Prefeito Municipal",
+      "uid": "1e717579c5f9a78c"
     }
   ]
 }
