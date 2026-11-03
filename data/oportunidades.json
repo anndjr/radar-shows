@@ -1,7 +1,77 @@
 {
-  "gerado_em": "2026-11-02T20:36:08",
-  "total_brutos": 915,
-  "total_aprovados": 149,
-  "total_novos": 0,
-  "oportunidades": []
+  "gerado_em": "2026-11-03T02:48:06",
+  "total_brutos": 573,
+  "total_aprovados": 166,
+  "total_novos": 2,
+  "oportunidades": [
+    {
+      "fonte": "pncp",
+      "id_externo": "13764659000166-1-000136/2026",
+      "titulo": "Dispensa DL-051/2026",
+      "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada para prestação de serviços técnicos de assessoria e consultoria destinados à elaboração, operacionalização e acompanhamento dos editais da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB, incluindo suporte aos agentes culturais, análise documental e apoio aos processos de seleção e habilitação dos proponentes",
+      "orgao": "MUNICIPIO DE JIQUIRICA",
+      "cnpj_orgao": "13764659000166",
+      "municipio": "Jiquiriçá",
+      "uf": "BA",
+      "modalidade": "Dispensa",
+      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+      "valor_estimado": 6190.0,
+      "data_publicacao": "2026-10-31T02:03:24",
+      "data_abertura": "2026-07-17T10:20:00",
+      "data_limite": "2026-07-17T10:20:00",
+      "link": "https://pncp.gov.br/app/editais/13764659000166/1/000136/2026",
+      "link_origem": "https://www.portaldecompraspublicas.com.br/processos/BA/Prefeitura-Municipal-de-Jiquirica-3752/DP-DL-051-2026-2026-496060",
+      "score": 27,
+      "categoria": "FOMENTO_CULTURAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b66caf80bc14eb40"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "87612982000150-1-000131/2026",
+      "titulo": "Dispensa 40/2026",
+      "objeto": "Contratação de empresa especializada para prestação de serviços de execução de show pirotécnico, incluindo fornecimento, transporte, montagem, instalação e acionamento dos artefatos pirotécnicos, durante as festividades de Réveillon 2026/2027 na Prainha Municipal de Roque Gonzales/RS.",
+      "orgao": "MUNICIPIO DE ROQUE GONZALES",
+      "cnpj_orgao": "87612982000150",
+      "municipio": "Roque Gonzales",
+      "uf": "RS",
+      "modalidade": "Dispensa",
+      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+      "valor_estimado": 41000.0,
+      "data_publicacao": "2026-10-31T03:00:03",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/87612982000150/1/000131/2026",
+      "link_origem": "",
+      "score": 10,
+      "categoria": "DISPENSA",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (pirotecnico|de fogos)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b",
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+        ],
+        "C": [],
+        "NEG": [
+          "\\bfogos de artificio\\b|\\bpirotecnic\\w*\\b"
+        ]
+      },
+      "trecho": "",
+      "uid": "aeac7f9930b88194"
+    }
+  ]
 }
