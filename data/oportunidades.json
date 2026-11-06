@@ -1,81 +1,111 @@
 {
-  "gerado_em": "2026-11-06T01:25:24",
-  "total_brutos": 861,
-  "total_aprovados": 201,
+  "gerado_em": "2026-11-06T17:46:56",
+  "total_brutos": 457,
+  "total_aprovados": 152,
   "total_novos": 4,
   "oportunidades": [
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2700508/2026-11-05/0b1b54417601c9913d7a870a0be27386.txt",
-      "titulo": "DOM Barra de Santo Antônio/AL 2026-11-05",
-      "objeto": "EXTRATO DO CONTRATO Nº 05/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: 52.189.194 ROMULLO CESAR NUNES DE SOUZA \n\nLIMA ME, inscrita no CNPJ: 52.189.194/0001-19 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 40.000,00 (quarenta mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Rômulo César Nunes de \nSouza Lima \n  \n.  \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:0F241AE1\n 06/2026 \n \n\nEXTRATO DO CONTRATO Nº 06/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: ALOISIO DE ARAUJO MELO NETO 09717135452, \ninscrita no CNPJ: 30.550.634/0001-89 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 35.000,00 (trinta e cinco mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Aloísio de Araújo Melo \nNeto \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:221ED42B\n \n\n \nGABINETE CONTRATO Nº 07/2026 \n \n\nEXTRATO DO CONTRATO Nº 07/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: QUILOMBO PRODUCOES LTDA ME, inscrita no \nCNPJ: 10.379.178/0001-49 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 60.000,00 (sessenta mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Luiz de Assis Ribeiro Neto \n  \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:AAEF3EC2\n \n\n \nGABINETE",
-      "orgao": "Barra de Santo Antônio",
-      "cnpj_orgao": "",
-      "municipio": "Barra de Santo Antônio",
-      "uf": "AL",
-      "modalidade": "",
+      "fonte": "pncp_search",
+      "id_externo": "24179426000112-1-000104/2026",
+      "titulo": "Edital de Chamamento Público nº 09/2026",
+      "objeto": "CREDENCIAMENTO DE DJs, PESSOAS FÍSICAS EOU JURÍDICAS, PARA REALIZAÇÃO DE APRESENTAÇÕES ARTÍSTICAS MUSICAIS EM EVENTOS PROMOVIDOS OU APOIADOS PELO MUNICÍPIO DE LAMIMMG",
+      "orgao": "MUNICIPIO DE LAMIM",
+      "cnpj_orgao": "24179426000112",
+      "municipio": "Lamim",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-05",
+      "data_publicacao": "2026-11-06T10:40:49.033081328",
       "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-11-05/6171b3b5c7ae4244da58ea5800a54a8ebb04c664.pdf",
+      "data_limite": "2026-11-26T23:59:59",
+      "link": "https://pncp.gov.br/compras/24179426000112/2026/104",
       "link_origem": "",
-      "score": 40,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
-        ],
-        "B": [
-          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "EXTRATO DO CONTRATO Nº 05/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: 52.189.194 ROMULLO CESAR NUNES DE SOUZA \n\nLIMA ME, inscrita no CNPJ: 52.189.194/0001-19 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 40.000,00 (quarenta mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Rômulo César Nunes de \nSouza Lima \n  \n.  \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:0F241AE1\n 06/2026 \n \n\nEXTRATO DO CONTRATO Nº 06/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: ALOISIO DE ARAUJO MELO NETO 09717135452, \ninscrita no CNPJ: 30.550.634/0001-89 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 35.000,00 (trinta e cinco mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Aloísio de Araújo Melo \nNeto \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:221ED42B\n \n\n \nGABINETE CONTRATO Nº 07/2026 \n \n\nEXTRATO DO CONTRATO Nº 07/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: QUILOMBO PRODUCOES LTDA ME, inscrita no \nCNPJ: 10.379.178/0001-49 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 60.000,00 (sessenta mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Luiz de Assis Ribeiro Neto \n  \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:AAEF3EC2\n \n\n \nGABINETE",
-      "uid": "e63efe4beeb7dc57"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2701001/2026-11-05/e2853e9872755945fc1d0e9e98d01d47.txt",
-      "titulo": "DOM Boca da Mata/AL 2026-11-05",
-      "objeto": "SILVA BARROS, INSCRITA NO CNPJ/MF SOB Nº \n\n68.955.909/0001-37;  \nARTISTA: LUCAS SANTOS. EMPRESA: 69.080.184 LUCAS \n\nFRANCISCO ALVES DOS SANTOS, INSCRITA NO CNPJ/MF \n\nSOB Nº 69.080.184/0001-43;  \nSERVIÇO: PRODUÇÃO MUSICAL. EMPRESA: 67.787.811 \n\nSAMARA VITÓRIA DOS SANTOS – ME, INSCRITA NO \n\nCNPJ/MF SOB Nº 67.787.811/0001-55.  \n  \n\nObjeto: Credenciamento de artistas e profissionais do setor musical, \npessoas físicas ou microempreendedores individuais, para prestação \nde serviços de apresentações artísticas e musicais em eventos \npromovidos pelo Município de Boca da Mata/AL. \n  \nVigência do Credenciamento: 12 (doze) meses, contados da assinatura \ndo respectivo instrumento contratual ou documento equivalente",
-      "orgao": "Boca da Mata",
-      "cnpj_orgao": "",
-      "municipio": "Boca da Mata",
-      "uf": "AL",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-05",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-11-05/6171b3b5c7ae4244da58ea5800a54a8ebb04c664.pdf",
-      "link_origem": "",
-      "score": 36,
+      "score": 12,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
-          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
-      "trecho": "SILVA BARROS, INSCRITA NO CNPJ/MF SOB Nº \n\n68.955.909/0001-37;  \nARTISTA: LUCAS SANTOS. EMPRESA: 69.080.184 LUCAS \n\nFRANCISCO ALVES DOS SANTOS, INSCRITA NO CNPJ/MF \n\nSOB Nº 69.080.184/0001-43;  \nSERVIÇO: PRODUÇÃO MUSICAL. EMPRESA: 67.787.811 \n\nSAMARA VITÓRIA DOS SANTOS – ME, INSCRITA NO \n\nCNPJ/MF SOB Nº 67.787.811/0001-55.  \n  \n\nObjeto: Credenciamento de artistas e profissionais do setor musical, \npessoas físicas ou microempreendedores individuais, para prestação \nde serviços de apresentações artísticas e musicais em eventos \npromovidos pelo Município de Boca da Mata/AL. \n  \nVigência do Credenciamento: 12 (doze) meses, contados da assinatura \ndo respectivo instrumento contratual ou documento equivalente",
-      "uid": "5471ae10f6144b11"
+      "trecho": "",
+      "uid": "a4754a76848dfe77"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "01612911000132-1-000135/2026",
-      "titulo": "Edital nº 44/2026",
+      "id_externo": "07539273000158-1-000155/2026",
+      "titulo": "Aviso de Contratação Direta nº 2026.11.05.1/2026",
+      "objeto": "Contratação de empresa especializada para fornecimento de equipe com, no mínimo 04 (quatro) integrantes, destinada à realização de busca ativa de agentes culturais no Município de Várzea Alegre – CE, abrangendo os territórios da zona urbana e rural, visando o mapeamento, identificação, orientação e mobilização de agentes e fazedores de cultura para acesso às ações, programas e oportunidades decorrentes da Política Nacional Aldir Blanc de Fomento à Cultura - PNAB",
+      "orgao": "MUNICIPIO DE VARZEA ALEGRE",
+      "cnpj_orgao": "07539273000158",
+      "municipio": "Várzea Alegre",
+      "uf": "CE",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-06T08:27:04.044276086",
+      "data_abertura": "",
+      "data_limite": "2026-11-12T14:00",
+      "link": "https://pncp.gov.br/compras/07539273000158/2026/155",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "FOMENTO_CULTURAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "45c86659b53b3316"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "13647557000160-1-000064/2026",
+      "titulo": "Aviso de Contratação Direta nº DL020/2026",
+      "objeto": "Contratação de empresa especializada para prestação de serviços artísticos, compreendendo uma apresentação de Musical Infantil com personagens vivos para compor a 6ª Edição do Sarau Natalino, e uma apresentação de Show Kids Especial de Natal, contando com DJ, Ballet e personagens temáticos, para compor a II Edição do Natal Encantado, em comemoração as festividades natalinas do Município de Itapicuru, Bahia.",
+      "orgao": "MUNICIPIO DE ITAPICURU",
+      "cnpj_orgao": "13647557000160",
+      "municipio": "Itapicuru",
+      "uf": "BA",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-06T13:27:17.121287207",
+      "data_abertura": "",
+      "data_limite": "2026-11-11T23:59:59",
+      "link": "https://pncp.gov.br/compras/13647557000160/2026/64",
+      "link_origem": "",
+      "score": 28,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "387a2cf3c771f884"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01612911000132-1-000136/2026",
+      "titulo": "Edital nº 46/2026",
       "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES DESTINADOS À SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA DO MUNICÍPIO DE RESERVA DO IGUAÇU/PR, VISANDO À ESTRUTURAÇÃO E AO APOIO DE ATIVIDADES, PROJETOS, OFICINAS, APRESENTAÇÕES ARTÍSTICAS E EVENTOS CULTURAIS, EM CUMPRIMENTO ÀS METAS DO PLANO DE AÇÃO 'CULTURA EM MOVIMENTO: ESTRUTURANDO AÇÕES CULTURAIS' (PROJETO CÓDIGO Nº 106517), CONFORME ESPECIFICAÇÕES, CONDIÇÕES E QUANTITATIVOS ESTABELECIDOS NESTE INSTRUMENTO CONVOCATÓRIO E SEUS ANEXOS.\"",
       "orgao": "MUNICIPIO DE RESERVA DO IGUACU",
       "cnpj_orgao": "01612911000132",
@@ -84,10 +114,10 @@
       "modalidade": "Pregão - Eletrônico",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-05T16:39:43.223860",
+      "data_publicacao": "2026-11-06T07:46:14.222953133",
       "data_abertura": "",
       "data_limite": "2026-12-01T09:00",
-      "link": "https://pncp.gov.br/compras/01612911000132/2026/135",
+      "link": "https://pncp.gov.br/compras/01612911000132/2026/136",
       "link_origem": "",
       "score": 16,
       "categoria": "EVENTO_MUNICIPAL",
@@ -103,38 +133,7 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "594fd7e5ff3a4b73"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "07954480000179-1-027011/2026",
-      "titulo": "Concurso 202635900/2026",
-      "objeto": "Contratação musical para apresentação em evento oficial do Governo do Estado do Ceará: “INAUGURAÇÃO DA EEMTI DE MERUOCA”, do cantor(a)/ Grupo Musical “ BANDA REITE” no dia 05 de NOVEMBRO de 2026, no Município de MERUOCA - CE.",
-      "orgao": "ESTADO DO CEARA",
-      "cnpj_orgao": "07954480000179",
-      "municipio": "Fortaleza",
-      "uf": "CE",
-      "modalidade": "Concurso",
-      "amparo_legal": "Lei 14.133/2021, Art. 28, III concurso: modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor",
-      "valor_estimado": 7000.0,
-      "data_publicacao": "2026-11-05T12:59:59",
-      "data_abertura": "2026-11-04T10:00:00",
-      "data_limite": "2026-11-04T10:00:00",
-      "link": "https://pncp.gov.br/app/editais/07954480000179/1/027011/2026",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "a5186b670d7e6c57"
+      "uid": "8fdaa4c6ea21bcee"
     }
   ]
 }
