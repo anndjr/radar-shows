@@ -1,200 +1,140 @@
 {
-  "gerado_em": "2026-11-05T18:25:02",
-  "total_brutos": 607,
-  "total_aprovados": 128,
-  "total_novos": 6,
+  "gerado_em": "2026-11-06T01:25:24",
+  "total_brutos": 861,
+  "total_aprovados": 201,
+  "total_novos": 4,
   "oportunidades": [
     {
       "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3525904/2026-11-04/3cead3de1688d95c61cedcc716972009e37594e5.txt",
-      "titulo": "DOM Jundiaí/SP 2026-11-04",
-      "objeto": "32945954842 para o serviço de Intervenção \nArtística do Núcleo Híbrido de Pesquisa Cênica no valor de R$2.500,00.        \nPublique-se o respectivo Ato. \n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 36146/2026\nInexigibilidade de Licitação nº 287/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: ALEX HELAN CERA 37931747860 CNPJ: \n47.596.025/0001-63.\n\nIV - Valor Global: R$ 500,00 (Quinhentos reais).\nV - Prazo de Entrega: dezembro/2026.\nVI - Justificativa: Esta contratação artística se faz apresentada pelo Diretor do Departamento de \nCultura, acima, adjudico e homologo este procedimento de contratação \ndireta e autorizo a despesa e a emissão do empenho à ALEX HELAN \nCERA 37931747860 para o serviço de Show Musical no valor de \nR$500,00.\nPublique-se o respectivo Ato.\n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 36241/2026\nInexigibilidade de Licitação nº 288/26\nI -\t Objeto: Contratação de show musical, cujo Órgão gestor é a \nSecretaria Municipal de Cultura.\nII -\t Fundamento Legal: Art. 74, inciso II, da Lei Federal nº \n14.133/2021.\nIII - Contratada: GLAUCIA CHIGNOLLI FAELIS CNPJ: 15.789.181/0001-\n54.\nIV -\t Valor",
-      "orgao": "Jundiaí",
+      "id_externo": "https://data.queridodiario.ok.org.br/2700508/2026-11-05/0b1b54417601c9913d7a870a0be27386.txt",
+      "titulo": "DOM Barra de Santo Antônio/AL 2026-11-05",
+      "objeto": "EXTRATO DO CONTRATO Nº 05/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: 52.189.194 ROMULLO CESAR NUNES DE SOUZA \n\nLIMA ME, inscrita no CNPJ: 52.189.194/0001-19 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 40.000,00 (quarenta mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Rômulo César Nunes de \nSouza Lima \n  \n.  \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:0F241AE1\n 06/2026 \n \n\nEXTRATO DO CONTRATO Nº 06/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: ALOISIO DE ARAUJO MELO NETO 09717135452, \ninscrita no CNPJ: 30.550.634/0001-89 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 35.000,00 (trinta e cinco mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Aloísio de Araújo Melo \nNeto \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:221ED42B\n \n\n \nGABINETE CONTRATO Nº 07/2026 \n \n\nEXTRATO DO CONTRATO Nº 07/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: QUILOMBO PRODUCOES LTDA ME, inscrita no \nCNPJ: 10.379.178/0001-49 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 60.000,00 (sessenta mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Luiz de Assis Ribeiro Neto \n  \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:AAEF3EC2\n \n\n \nGABINETE",
+      "orgao": "Barra de Santo Antônio",
       "cnpj_orgao": "",
-      "municipio": "Jundiaí",
-      "uf": "SP",
+      "municipio": "Barra de Santo Antônio",
+      "uf": "AL",
       "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-04",
+      "data_publicacao": "2026-11-05",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3525904/2026-11-04/3cead3de1688d95c61cedcc716972009e37594e5.pdf",
+      "link": "https://data.queridodiario.ok.org.br/2700000/2026-11-05/6171b3b5c7ae4244da58ea5800a54a8ebb04c664.pdf",
       "link_origem": "",
-      "score": 24,
+      "score": 40,
       "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
         "A": [
           "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
           "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
         ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "32945954842 para o serviço de Intervenção \nArtística do Núcleo Híbrido de Pesquisa Cênica no valor de R$2.500,00.        \nPublique-se o respectivo Ato. \n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 36146/2026\nInexigibilidade de Licitação nº 287/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: ALEX HELAN CERA 37931747860 CNPJ: \n47.596.025/0001-63.\n\nIV - Valor Global: R$ 500,00 (Quinhentos reais).\nV - Prazo de Entrega: dezembro/2026.\nVI - Justificativa: Esta contratação artística se faz apresentada pelo Diretor do Departamento de \nCultura, acima, adjudico e homologo este procedimento de contratação \ndireta e autorizo a despesa e a emissão do empenho à ALEX HELAN \nCERA 37931747860 para o serviço de Show Musical no valor de \nR$500,00.\nPublique-se o respectivo Ato.\n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 36241/2026\nInexigibilidade de Licitação nº 288/26\nI -\t Objeto: Contratação de show musical, cujo Órgão gestor é a \nSecretaria Municipal de Cultura.\nII -\t Fundamento Legal: Art. 74, inciso II, da Lei Federal nº \n14.133/2021.\nIII - Contratada: GLAUCIA CHIGNOLLI FAELIS CNPJ: 15.789.181/0001-\n54.\nIV -\t Valor",
-      "uid": "6ddedb8181ba2555"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3526001/2026-11-04/b265ee1bcb84c721bbcc05a99b452965ebd2a0ca.txt",
-      "titulo": "DOM Junqueirópolis/SP 2026-11-04",
-      "objeto": "Educação, Cultura, Esporte, Lazer e Turismo\n\nRESUMO DE CONTRATO\n\nINEXIGIBILIDADE DE LICITAÇÃO Nº 010/2026 - PROCESSO Nº\n145/2026\n\nRESUMO DE CONTRATO Nº 369/2026\nContratante: Prefeitura Municipal de Junqueirópolis/SP.\nContratada: ANGIELLY BARBOSA OLIVEIRA-EPP\nValor Total (R$): 46.000,00.\nObjeto: Contratação de 01 (uma) apresentação artística de um show\nmusical da ANGIELLY BARBOSA OLIVEIRA COM BANDA,\nTURMINHA E TÉCNICA.\nAssinatura: 04/11/2026.\n\nMARIA EDNA DO ROSÁRIO BONANCIM\nDiretora de Educação, Cultura, Esporte, Lazer e Turismo\n\nNOTIFICAÇÃO\n\nPREGÃO ELETRÔNICO Nº 053/2026 – PROCESSO Nº 066/2026\n\nNOTIFICAÇÃO P.A Nº 12.247/2026\nNotificação apresentação de Defesa Pregão Eletrônico 053/2026\n\nFica, NOTIFICADA",
-      "orgao": "Junqueirópolis",
-      "cnpj_orgao": "",
-      "municipio": "Junqueirópolis",
-      "uf": "SP",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-04",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3526001/2026-11-04/b265ee1bcb84c721bbcc05a99b452965ebd2a0ca.pdf",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        "B": [
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
         ],
-        "B": [],
         "C": [],
         "NEG": []
       },
-      "trecho": "Educação, Cultura, Esporte, Lazer e Turismo\n\nRESUMO DE CONTRATO\n\nINEXIGIBILIDADE DE LICITAÇÃO Nº 010/2026 - PROCESSO Nº\n145/2026\n\nRESUMO DE CONTRATO Nº 369/2026\nContratante: Prefeitura Municipal de Junqueirópolis/SP.\nContratada: ANGIELLY BARBOSA OLIVEIRA-EPP\nValor Total (R$): 46.000,00.\nObjeto: Contratação de 01 (uma) apresentação artística de um show\nmusical da ANGIELLY BARBOSA OLIVEIRA COM BANDA,\nTURMINHA E TÉCNICA.\nAssinatura: 04/11/2026.\n\nMARIA EDNA DO ROSÁRIO BONANCIM\nDiretora de Educação, Cultura, Esporte, Lazer e Turismo\n\nNOTIFICAÇÃO\n\nPREGÃO ELETRÔNICO Nº 053/2026 – PROCESSO Nº 066/2026\n\nNOTIFICAÇÃO P.A Nº 12.247/2026\nNotificação apresentação de Defesa Pregão Eletrônico 053/2026\n\nFica, NOTIFICADA",
-      "uid": "027bdf3e9e1fdc3a"
+      "trecho": "EXTRATO DO CONTRATO Nº 05/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: 52.189.194 ROMULLO CESAR NUNES DE SOUZA \n\nLIMA ME, inscrita no CNPJ: 52.189.194/0001-19 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 40.000,00 (quarenta mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Rômulo César Nunes de \nSouza Lima \n  \n.  \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:0F241AE1\n 06/2026 \n \n\nEXTRATO DO CONTRATO Nº 06/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: ALOISIO DE ARAUJO MELO NETO 09717135452, \ninscrita no CNPJ: 30.550.634/0001-89 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 35.000,00 (trinta e cinco mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Aloísio de Araújo Melo \nNeto \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:221ED42B\n \n\n \nGABINETE CONTRATO Nº 07/2026 \n \n\nEXTRATO DO CONTRATO Nº 07/2026 \n  \nEspécie: Inexigibilidade de Licitação Art. 74 da Lei 14.133/2021. \n\nContratante: PREFEITURA MUNICIPAL DE BARRA DE SANTO \nANTÔNIO/AL; \nContratada: QUILOMBO PRODUCOES LTDA ME, inscrita no \nCNPJ: 10.379.178/0001-49 \n  \nObjeto: Contratação de banda/artista responsável pela apresentação de \nshow musical nos festejos tradicionais do carnaval no Município de \nBarra de Santo Antônio/AL. \n\nValor: R$ 60.000,00 (sessenta mil reais) \nCelebrado 09/02/2026; \nVigência: 90 (noventa) dias. \nSignatários: Lívia Carla da Silva Alves e Luiz de Assis Ribeiro Neto \n  \n\nPublicado por: \nThatiane Verissimo Dos Santos \n\n\nCódigo Identificador:AAEF3EC2\n \n\n \nGABINETE",
+      "uid": "e63efe4beeb7dc57"
     },
     {
       "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3507605/2026-11-03/bc25aa395fc8414d0da6a46407d9b17aa8b8fc9c.txt",
-      "titulo": "DOM Bragança Paulista/SP 2026-11-03",
-      "objeto": "LIMA\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA\nJUNINA  E  GRUPOS  DE  DANÇA  COM  RITMOS  NORDESTINOS,\nEXCLUSIVAMENTE COM A TEMÁTICA DOS RITMOS E TRADIÇÕES\nNORDESTINAS, INTERESSADOS EM REALIZAR APRESENTAÇÕES NO\nFESTIVAL NORDESTINO DE BRAGANÇA PAULISTA 2026.\n\nValor total do Contrato: R$ 5.862,00\nData da assinatura: 29/10/2026\nExtrato de Contrato\nP.A.  nº  43.467/2026  –  PI  nº  240/2026  –  CHP  028/2026  -\n\nContrato  nº  376/2026  –  Contratante:  Município  de  Bragança\nPaulista. Contratada: 61.883.246 ALEF RODRIGUES DA CRUZ\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA Objeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA\nJUNINA  E  GRUPOS  DE  DANÇA  COM  RITMOS  NORDESTINOS,\nEXCLUSIVAMENTE COM A TEMÁTICA DOS RITMOS E TRADIÇÕES\nNORDESTINAS, INTERESSADOS EM REALIZAR APRESENTAÇÕES NO\nFESTIVAL NORDESTINO DE BRAGANÇA PAULISTA 2026.\n\nValor total do Contrato: R$ 3.933,33\nData da assinatura: 29/10/2026\nExtrato de Contrato\nP.A.  nº  43.467/2026  –  PI  nº  243/2026  –  CHP  028/2026  -\n\nContrato  nº  379/2026  –  Contratante:  Município  de  Bragança\nPaulista.  Contratada:  36.655.482  ANDERSON  APARECIDO  DOS\nSANTOS\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE 34414534844\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA\nJUNINA  E  GRUPOS  DE  DANÇA  COM  RITMOS  NORDESTINOS,\nEXCLUSIVAMENTE COM A TEMÁTICA DOS RITMOS E TRADIÇÕES\nNORDESTINAS, INTERESSADOS EM REALIZAR APRESENTAÇÕES NO\nFESTIVAL NORDESTINO DE BRAGANÇA PAULISTA 2026.\n\nValor total do Contrato: R$ 5.862,00\nData da assinatura: 29/10/2026\nExtrato de Contrato\nP.A.  nº  43.467/2026  –  PI  nº  246/2026  –  CHP  028/2026  -\n\nContrato  nº  382/2026  –  Contratante:  Município  de  Bragança\nPaulista. Contratada: 19.772.460 CASSIA MARIA DE ARAUJO\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA",
-      "orgao": "Bragança Paulista",
+      "id_externo": "https://data.queridodiario.ok.org.br/2701001/2026-11-05/e2853e9872755945fc1d0e9e98d01d47.txt",
+      "titulo": "DOM Boca da Mata/AL 2026-11-05",
+      "objeto": "SILVA BARROS, INSCRITA NO CNPJ/MF SOB Nº \n\n68.955.909/0001-37;  \nARTISTA: LUCAS SANTOS. EMPRESA: 69.080.184 LUCAS \n\nFRANCISCO ALVES DOS SANTOS, INSCRITA NO CNPJ/MF \n\nSOB Nº 69.080.184/0001-43;  \nSERVIÇO: PRODUÇÃO MUSICAL. EMPRESA: 67.787.811 \n\nSAMARA VITÓRIA DOS SANTOS – ME, INSCRITA NO \n\nCNPJ/MF SOB Nº 67.787.811/0001-55.  \n  \n\nObjeto: Credenciamento de artistas e profissionais do setor musical, \npessoas físicas ou microempreendedores individuais, para prestação \nde serviços de apresentações artísticas e musicais em eventos \npromovidos pelo Município de Boca da Mata/AL. \n  \nVigência do Credenciamento: 12 (doze) meses, contados da assinatura \ndo respectivo instrumento contratual ou documento equivalente",
+      "orgao": "Boca da Mata",
       "cnpj_orgao": "",
-      "municipio": "Bragança Paulista",
-      "uf": "SP",
+      "municipio": "Boca da Mata",
+      "uf": "AL",
       "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-03",
+      "data_publicacao": "2026-11-05",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3507605/2026-11-03/bc25aa395fc8414d0da6a46407d9b17aa8b8fc9c.pdf",
+      "link": "https://data.queridodiario.ok.org.br/2700000/2026-11-05/6171b3b5c7ae4244da58ea5800a54a8ebb04c664.pdf",
       "link_origem": "",
-      "score": 21,
+      "score": 36,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
-        ],
-        "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "LIMA\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA\nJUNINA  E  GRUPOS  DE  DANÇA  COM  RITMOS  NORDESTINOS,\nEXCLUSIVAMENTE COM A TEMÁTICA DOS RITMOS E TRADIÇÕES\nNORDESTINAS, INTERESSADOS EM REALIZAR APRESENTAÇÕES NO\nFESTIVAL NORDESTINO DE BRAGANÇA PAULISTA 2026.\n\nValor total do Contrato: R$ 5.862,00\nData da assinatura: 29/10/2026\nExtrato de Contrato\nP.A.  nº  43.467/2026  –  PI  nº  240/2026  –  CHP  028/2026  -\n\nContrato  nº  376/2026  –  Contratante:  Município  de  Bragança\nPaulista. Contratada: 61.883.246 ALEF RODRIGUES DA CRUZ\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA Objeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA\nJUNINA  E  GRUPOS  DE  DANÇA  COM  RITMOS  NORDESTINOS,\nEXCLUSIVAMENTE COM A TEMÁTICA DOS RITMOS E TRADIÇÕES\nNORDESTINAS, INTERESSADOS EM REALIZAR APRESENTAÇÕES NO\nFESTIVAL NORDESTINO DE BRAGANÇA PAULISTA 2026.\n\nValor total do Contrato: R$ 3.933,33\nData da assinatura: 29/10/2026\nExtrato de Contrato\nP.A.  nº  43.467/2026  –  PI  nº  243/2026  –  CHP  028/2026  -\n\nContrato  nº  379/2026  –  Contratante:  Município  de  Bragança\nPaulista.  Contratada:  36.655.482  ANDERSON  APARECIDO  DOS\nSANTOS\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE 34414534844\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA\nJUNINA  E  GRUPOS  DE  DANÇA  COM  RITMOS  NORDESTINOS,\nEXCLUSIVAMENTE COM A TEMÁTICA DOS RITMOS E TRADIÇÕES\nNORDESTINAS, INTERESSADOS EM REALIZAR APRESENTAÇÕES NO\nFESTIVAL NORDESTINO DE BRAGANÇA PAULISTA 2026.\n\nValor total do Contrato: R$ 5.862,00\nData da assinatura: 29/10/2026\nExtrato de Contrato\nP.A.  nº  43.467/2026  –  PI  nº  246/2026  –  CHP  028/2026  -\n\nContrato  nº  382/2026  –  Contratante:  Município  de  Bragança\nPaulista. Contratada: 19.772.460 CASSIA MARIA DE ARAUJO\n\nObjeto:  CHAMAMENTO PÚBLICO PARA O CREDENCIAMENTO\nDE  ARTISTAS  MUSICAIS,  GRUPOS  DE  DANÇA  DE  QUADRILHA",
-      "uid": "a2a6fb7764576d25"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "07598634000137-1-000181/2026",
-      "titulo": "Edital nº 157/2026",
-      "objeto": "[LICITANET] - O objeto da presente licitação é aquisição de Bens de consumo e bens\npermanentes destinados à modernização e recomposição das estruturas de sonorização, iluminação cênica, cabeamento e infraestrutura elétrica do Teatro São João, equipamento cultural integrante da estrutura de atuação da Secretaria da Juventude e Cultura – SEJUC, mediante utilização de recursos provenientes da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB, instituída pela Lei Federal no 14.399/2022, conforme Plano de Ação no 30882120250004-026064,",
-      "orgao": "MUNICIPIO DE SOBRAL",
-      "cnpj_orgao": "07598634000137",
-      "municipio": "Sobral",
-      "uf": "CE",
-      "modalidade": "Pregão - Eletrônico",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-05T11:45:05.511344",
-      "data_abertura": "",
-      "data_limite": "2026-11-18T09:00",
-      "link": "https://pncp.gov.br/compras/07598634000137/2026/181",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "FOMENTO_CULTURAL",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "b03db70a1181d124"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "02216925000108-1-000035/2026",
-      "titulo": "Aviso de Contratação Direta nº PDE 20/2026",
-      "objeto": "DISPENSA ELETRÔNICA DE LICITAÇÃO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA TRANSPORTE DE IDA E VOLTA DA BANDA MUSICAL NOVOS TALENTOS DE CANOINHAS/SC A SILVA JARDIM/RJ, PARA PARTICIPAÇÃO NO XXXIII CAMPEONATO NACIONAL DE BANDAS E FANFARRAS, NOS DIAS 28 E 29 DE NOVEMBRO DE 2026, INCLUINDO DESLOCAMENTOS LOCAIS E TODAS AS DESPESAS NECESSÁRIAS À EXECUÇÃO DO SERVIÇO.",
-      "orgao": "FUNDACAO CULTURAL HELMY WENDT MAYER",
-      "cnpj_orgao": "02216925000108",
-      "municipio": "Canoinhas",
-      "uf": "SC",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-05T11:21:26.146624782",
-      "data_abertura": "",
-      "data_limite": "2026-11-11T08:15",
-      "link": "https://pncp.gov.br/compras/02216925000108/2026/35",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "DISPENSA",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
-      "trecho": "",
-      "uid": "455966975a63ee7e"
+      "trecho": "SILVA BARROS, INSCRITA NO CNPJ/MF SOB Nº \n\n68.955.909/0001-37;  \nARTISTA: LUCAS SANTOS. EMPRESA: 69.080.184 LUCAS \n\nFRANCISCO ALVES DOS SANTOS, INSCRITA NO CNPJ/MF \n\nSOB Nº 69.080.184/0001-43;  \nSERVIÇO: PRODUÇÃO MUSICAL. EMPRESA: 67.787.811 \n\nSAMARA VITÓRIA DOS SANTOS – ME, INSCRITA NO \n\nCNPJ/MF SOB Nº 67.787.811/0001-55.  \n  \n\nObjeto: Credenciamento de artistas e profissionais do setor musical, \npessoas físicas ou microempreendedores individuais, para prestação \nde serviços de apresentações artísticas e musicais em eventos \npromovidos pelo Município de Boca da Mata/AL. \n  \nVigência do Credenciamento: 12 (doze) meses, contados da assinatura \ndo respectivo instrumento contratual ou documento equivalente",
+      "uid": "5471ae10f6144b11"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "05196563000110-1-000066/2026",
-      "titulo": "Aviso de Contratação Direta nº 24.748/2026",
-      "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE PESSOA FÍSICA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ARTÍSTICO-CULTURAIS, CONSISTINDO NA REALIZAÇÃO DE APRESENTAÇÕES, INTERVENÇÕES E CORTEJOS TEMÁTICOS COM ANIMADORES ARTÍSTICOS PARA COMPOR AO PROJETO \"FABULOSO NATAL\" PROGRAMAÇÃO OFICIAL DOS EVENTOS DE NATAL DO MUNICÍPIO DE BUJARU/PA.",
-      "orgao": "MUNICIPIO DE BUJARU",
-      "cnpj_orgao": "05196563000110",
-      "municipio": "Bujaru",
-      "uf": "PA",
-      "modalidade": "Dispensa",
+      "id_externo": "01612911000132-1-000135/2026",
+      "titulo": "Edital nº 44/2026",
+      "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES DESTINADOS À SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA DO MUNICÍPIO DE RESERVA DO IGUAÇU/PR, VISANDO À ESTRUTURAÇÃO E AO APOIO DE ATIVIDADES, PROJETOS, OFICINAS, APRESENTAÇÕES ARTÍSTICAS E EVENTOS CULTURAIS, EM CUMPRIMENTO ÀS METAS DO PLANO DE AÇÃO 'CULTURA EM MOVIMENTO: ESTRUTURANDO AÇÕES CULTURAIS' (PROJETO CÓDIGO Nº 106517), CONFORME ESPECIFICAÇÕES, CONDIÇÕES E QUANTITATIVOS ESTABELECIDOS NESTE INSTRUMENTO CONVOCATÓRIO E SEUS ANEXOS.\"",
+      "orgao": "MUNICIPIO DE RESERVA DO IGUACU",
+      "cnpj_orgao": "01612911000132",
+      "municipio": "Reserva do Iguaçu",
+      "uf": "PR",
+      "modalidade": "Pregão - Eletrônico",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-05T09:23:42.418173",
+      "data_publicacao": "2026-11-05T16:39:43.223860",
       "data_abertura": "",
-      "data_limite": "2026-11-18T18:00",
-      "link": "https://pncp.gov.br/compras/05196563000110/2026/66",
+      "data_limite": "2026-12-01T09:00",
+      "link": "https://pncp.gov.br/compras/01612911000132/2026/135",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [
+          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "594fd7e5ff3a4b73"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "07954480000179-1-027011/2026",
+      "titulo": "Concurso 202635900/2026",
+      "objeto": "Contratação musical para apresentação em evento oficial do Governo do Estado do Ceará: “INAUGURAÇÃO DA EEMTI DE MERUOCA”, do cantor(a)/ Grupo Musical “ BANDA REITE” no dia 05 de NOVEMBRO de 2026, no Município de MERUOCA - CE.",
+      "orgao": "ESTADO DO CEARA",
+      "cnpj_orgao": "07954480000179",
+      "municipio": "Fortaleza",
+      "uf": "CE",
+      "modalidade": "Concurso",
+      "amparo_legal": "Lei 14.133/2021, Art. 28, III concurso: modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor",
+      "valor_estimado": 7000.0,
+      "data_publicacao": "2026-11-05T12:59:59",
+      "data_abertura": "2026-11-04T10:00:00",
+      "data_limite": "2026-11-04T10:00:00",
+      "link": "https://pncp.gov.br/app/editais/07954480000179/1/027011/2026",
       "link_origem": "",
       "score": 12,
       "categoria": "OUTRO_ARTISTICO",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "cb4457e0e0e6f3ae"
+      "uid": "a5186b670d7e6c57"
     }
   ]
 }
