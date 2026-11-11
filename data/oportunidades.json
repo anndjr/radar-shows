@@ -1,27 +1,27 @@
 {
-  "gerado_em": "2026-11-11T01:05:43",
-  "total_brutos": 726,
-  "total_aprovados": 144,
-  "total_novos": 4,
+  "gerado_em": "2026-11-11T18:15:44",
+  "total_brutos": 666,
+  "total_aprovados": 152,
+  "total_novos": 3,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "01494178000107-1-000003/2026",
-      "titulo": "Edital de Chamamento Público nº (5890) | 605-0/2026",
-      "objeto": "AUTORIZAÇÃO PARA A INSTAURAÇÃO DE FORMALIZAÇÃO DE ADESÃO PARA CREDENCIAMENTO/CHAMAMENTO PÚBLICO PARA A SELEÇÃO DE PROJETOS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO Á CULTURA-PNAB (LEI N°14.399/2022).",
-      "orgao": "MUNICIPIO DE GUARINOS",
-      "cnpj_orgao": "01494178000107",
-      "municipio": "Guarinos",
-      "uf": "GO",
+      "id_externo": "51814960000126-1-000139/2026",
+      "titulo": "Edital de Chamamento Público nº 6/2026",
+      "objeto": "SELEÇÃO E CREDENCIAMENTO DE PROPOSTAS ARTÍSTICAS E DE SERVIÇO DE REGISTRO AUDIOVISUAL PARA O EVENTO \"FIM DE ANO DOURADO\" — POLÍTICA NACIONAL ALDIR BLANC (PNAB) —SOLICITAÇÃO DE COMPRAS Nº 04694/26 — PLANO DE AÇÃO Nº 09032025-080670 (TRANSFEREGOV.BR)",
+      "orgao": "MUNICIPIO DE DOURADO",
+      "cnpj_orgao": "51814960000126",
+      "municipio": "Dourado",
+      "uf": "SP",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-10T16:52:47.069647565",
+      "data_publicacao": "2026-11-11T14:51:56.788930083",
       "data_abertura": "",
-      "data_limite": "2026-11-18T17:00",
-      "link": "https://pncp.gov.br/compras/01494178000107/2026/3",
+      "data_limite": "2026-11-23T17:00",
+      "link": "https://pncp.gov.br/compras/51814960000126/2026/139",
       "link_origem": "",
-      "score": 36,
+      "score": 27,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
@@ -30,69 +30,68 @@
         "C": [
           "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
           "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
           "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
         ],
         "NEG": []
       },
       "trecho": "",
-      "uid": "c33d384ddcc660b8"
+      "uid": "d04ff80887e2c360"
     },
     {
-      "fonte": "pncp",
-      "id_externo": "66450909000150-1-000038/2026",
-      "titulo": "Credenciamento 19/2026",
-      "objeto": "CREDENCIAMENTO PARA PRESTAÇÃO DE SERVIÇOS ARTÍSTICOSMUSICAIS DE BANDAS LOCAIS OU REGIONAIS PARA COMPOR A PROGRAMAÇÃO ARTÍSTICA E MUSICAL DA CERIMÔNIA DO CIDADÃO HONORÁRIO DA CÂMARA MUNICIPAL DE JAÍBA.",
-      "orgao": "JAIBA CAMARA MUNICIPAL",
-      "cnpj_orgao": "66450909000150",
-      "municipio": "Jaíba",
-      "uf": "MG",
+      "fonte": "pncp_search",
+      "id_externo": "51139746000111-1-000042/2026",
+      "titulo": "Edital de Chamamento Público nº 1/2026",
+      "objeto": "Credenciamento de pessoas físicas ou jurídicas com o objetivo de selecionar e apoiar financeiramente músicos e diversos grupos artísticos, identificados com o interesse em difundir as tradições regionais e populares voltados às tradicionais festividades no município de Taquaritinga do Norte - PE, durante o período de 12 (doze) meses",
+      "orgao": "FUNDACAO TAQUARITINGUENSE DE ARTES E TURISMO - FUNTART",
+      "cnpj_orgao": "51139746000111",
+      "municipio": "Taquaritinga do Norte",
+      "uf": "PE",
       "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 24500.0,
-      "data_publicacao": "2026-11-10T10:41:15",
-      "data_abertura": "2026-11-09T12:00:00",
-      "data_limite": "2026-12-31T13:00:00",
-      "link": "https://pncp.gov.br/app/editais/66450909000150/1/000038/2026",
-      "link_origem": "licitacoescamarajaiba@gmail.com",
-      "score": 12,
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-11T14:21:59.596438370",
+      "data_abertura": "",
+      "data_limite": "2027-11-11T13:00",
+      "link": "https://pncp.gov.br/compras/51139746000111/2026/42",
+      "link_origem": "",
+      "score": 16,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
         ],
-        "B": [],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "05e43f9d043f3fcc"
+      "uid": "b10a3da340a91bc3"
     },
     {
       "fonte": "pncp_search",
-      "id_externo": "10150050000109-1-000064/2026",
-      "titulo": "Edital nº 017/2026",
-      "objeto": "Contratação de empresa especializada na aquisição de equipamentos de sonorização, áudio e acessórios, destinados à estruturação e ao suporte técnico das atividades culturais promovidas pela Secretaria Municipal de Cultura, Turismo, Esporte e Lazer do Município de Itambé/PE, incluindo oficinas, apresentações artísticas, espetáculos, exposições, cursos, ações de formação e demais iniciativas culturais, no âmbito da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB, instituída pela Lei...",
-      "orgao": "MUNICIPIO DE ITAMBE",
-      "cnpj_orgao": "10150050000109",
-      "municipio": "Itambé",
-      "uf": "PE",
+      "id_externo": "76172907000108-1-000234/2026",
+      "titulo": "Edital nº 68/2026",
+      "objeto": "Aquisição de móveis, eletrodomésticos, equipamentos de climatização e ventilação, equipamentos eletrônicos e de apoio, destinados à estruturação, à organização e ao funcionamento do Centro Cultural, a fim de assegurar condições adequadas para a realização de atividades culturais, administrativas e institucionais e para o atendimento ao público. A aquisição será custeada com recursos da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), instituída pela Lei nº 14.399/2022, em atendimento às necessidades da Secretaria Municipal de Educação, Cultura e Esporte.",
+      "orgao": "MUNICIPIO DE PITANGA",
+      "cnpj_orgao": "76172907000108",
+      "municipio": "Pitanga",
+      "uf": "PR",
       "modalidade": "Pregão - Eletrônico",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-10T15:38:08.195121698",
+      "data_publicacao": "2026-11-11T11:40:48.581822879",
       "data_abertura": "",
-      "data_limite": "2026-11-24T09:15",
-      "link": "https://pncp.gov.br/compras/10150050000109/2026/64",
+      "data_limite": "2026-11-26T13:00",
+      "link": "https://pncp.gov.br/compras/76172907000108/2026/234",
       "link_origem": "",
-      "score": 39,
+      "score": 27,
       "categoria": "FOMENTO_CULTURAL",
       "genero_alvo": false,
       "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
-        ],
+        "A": [],
         "B": [],
         "C": [
           "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
@@ -102,39 +101,7 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "0ed537bfed0f8313"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "75095679000149-1-000656/2026",
-      "titulo": "Aviso de Contratação Direta nº 754/2026",
-      "objeto": "Contratação de profissional especializado para a prestação de serviços artísticos de arranjador musical junto ao Grupo de MPB da Universidade Federal do Paraná (UFPR), para atender às necessidades da Seção de Grupos Artísticos (SEGA), da Coordenadoria de Cultura da Pró-Reitoria de Extensão e Cultura (PROEC)",
-      "orgao": "UNIVERSIDADE FEDERAL DO PARANA",
-      "cnpj_orgao": "75095679000149",
-      "municipio": "Curitiba",
-      "uf": "PR",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-10T16:39:22.523004",
-      "data_abertura": "",
-      "data_limite": "2026-11-13T08:00",
-      "link": "https://pncp.gov.br/compras/75095679000149/2026/656",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "3f4bdffa24e2afe9"
+      "uid": "d967f8be06128a44"
     }
   ]
 }
