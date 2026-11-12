@@ -1,43 +1,41 @@
 {
-  "gerado_em": "2026-11-12T02:09:16",
-  "total_brutos": 519,
-  "total_aprovados": 89,
+  "gerado_em": "2026-11-12T18:40:24",
+  "total_brutos": 459,
+  "total_aprovados": 99,
   "total_novos": 1,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "58993577000121-1-000138/2026",
-      "titulo": "Aviso de Contratação Direta nº 40/2026",
-      "objeto": "\r\nAquisição de piso linóleo destinado à atender às necessidades da Secretaria Municipal de Cultura e Turismo na realização de oficinas, apresentações artísticas, espetáculos, exposições, cursos, ações de formação, atividades culturais e demais iniciativas previstas no âmbito da Política Nacional Aldir Blanc de Fomento à Cultura – Lei nº 14.399/2022.\r\n ",
-      "orgao": "MUNICIPIO DE ARACARIGUAMA",
-      "cnpj_orgao": "58993577000121",
-      "municipio": "Araçariguama",
-      "uf": "SP",
-      "modalidade": "Dispensa",
+      "id_externo": "22980999000115-1-000215/2026",
+      "titulo": "Edital de Chamamento Público nº 10/2026",
+      "objeto": "Contratação de pessoas físicas ou jurídicas para prestação dos serviços artístico-musicais de artistas solos/voz e violão, DJ’s, locutor/animador/apresentador/cerimonialista e bandas locais, para compro a programação artística e musical do calendário de eventos oficiais do Município de Parauapebas, Estado do Pará.",
+      "orgao": "MUNICIPIO DE PARAUAPEBAS",
+      "cnpj_orgao": "22980999000115",
+      "municipio": "Parauapebas",
+      "uf": "PA",
+      "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-11T15:44:32.616247",
+      "data_publicacao": "2026-11-12T10:04:17.079438",
       "data_abertura": "",
-      "data_limite": "2026-11-17T08:00",
-      "link": "https://pncp.gov.br/compras/58993577000121/2026/138",
+      "data_limite": "2027-11-16T17:00",
+      "link": "https://pncp.gov.br/compras/22980999000115/2026/215",
       "link_origem": "",
-      "score": 39,
-      "categoria": "FOMENTO_CULTURAL",
+      "score": 16,
+      "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
         ],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
         ],
+        "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "0337442335b23e1d"
+      "uid": "8c60c70b81123a5d"
     }
   ]
 }
