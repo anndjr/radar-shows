@@ -1,97 +1,33 @@
 {
-  "gerado_em": "2026-11-11T18:15:44",
-  "total_brutos": 666,
-  "total_aprovados": 152,
-  "total_novos": 3,
+  "gerado_em": "2026-11-12T02:09:16",
+  "total_brutos": 519,
+  "total_aprovados": 89,
+  "total_novos": 1,
   "oportunidades": [
     {
       "fonte": "pncp_search",
-      "id_externo": "51814960000126-1-000139/2026",
-      "titulo": "Edital de Chamamento Público nº 6/2026",
-      "objeto": "SELEÇÃO E CREDENCIAMENTO DE PROPOSTAS ARTÍSTICAS E DE SERVIÇO DE REGISTRO AUDIOVISUAL PARA O EVENTO \"FIM DE ANO DOURADO\" — POLÍTICA NACIONAL ALDIR BLANC (PNAB) —SOLICITAÇÃO DE COMPRAS Nº 04694/26 — PLANO DE AÇÃO Nº 09032025-080670 (TRANSFEREGOV.BR)",
-      "orgao": "MUNICIPIO DE DOURADO",
-      "cnpj_orgao": "51814960000126",
-      "municipio": "Dourado",
+      "id_externo": "58993577000121-1-000138/2026",
+      "titulo": "Aviso de Contratação Direta nº 40/2026",
+      "objeto": "\r\nAquisição de piso linóleo destinado à atender às necessidades da Secretaria Municipal de Cultura e Turismo na realização de oficinas, apresentações artísticas, espetáculos, exposições, cursos, ações de formação, atividades culturais e demais iniciativas previstas no âmbito da Política Nacional Aldir Blanc de Fomento à Cultura – Lei nº 14.399/2022.\r\n ",
+      "orgao": "MUNICIPIO DE ARACARIGUAMA",
+      "cnpj_orgao": "58993577000121",
+      "municipio": "Araçariguama",
       "uf": "SP",
-      "modalidade": "Credenciamento",
+      "modalidade": "Dispensa",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-11T14:51:56.788930083",
+      "data_publicacao": "2026-11-11T15:44:32.616247",
       "data_abertura": "",
-      "data_limite": "2026-11-23T17:00",
-      "link": "https://pncp.gov.br/compras/51814960000126/2026/139",
+      "data_limite": "2026-11-17T08:00",
+      "link": "https://pncp.gov.br/compras/58993577000121/2026/138",
       "link_origem": "",
-      "score": 27,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "d04ff80887e2c360"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "51139746000111-1-000042/2026",
-      "titulo": "Edital de Chamamento Público nº 1/2026",
-      "objeto": "Credenciamento de pessoas físicas ou jurídicas com o objetivo de selecionar e apoiar financeiramente músicos e diversos grupos artísticos, identificados com o interesse em difundir as tradições regionais e populares voltados às tradicionais festividades no município de Taquaritinga do Norte - PE, durante o período de 12 (doze) meses",
-      "orgao": "FUNDACAO TAQUARITINGUENSE DE ARTES E TURISMO - FUNTART",
-      "cnpj_orgao": "51139746000111",
-      "municipio": "Taquaritinga do Norte",
-      "uf": "PE",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-11T14:21:59.596438370",
-      "data_abertura": "",
-      "data_limite": "2027-11-11T13:00",
-      "link": "https://pncp.gov.br/compras/51139746000111/2026/42",
-      "link_origem": "",
-      "score": 16,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
-        ],
-        "B": [
-          "\\bfestividade(s)?\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "b10a3da340a91bc3"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "76172907000108-1-000234/2026",
-      "titulo": "Edital nº 68/2026",
-      "objeto": "Aquisição de móveis, eletrodomésticos, equipamentos de climatização e ventilação, equipamentos eletrônicos e de apoio, destinados à estruturação, à organização e ao funcionamento do Centro Cultural, a fim de assegurar condições adequadas para a realização de atividades culturais, administrativas e institucionais e para o atendimento ao público. A aquisição será custeada com recursos da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), instituída pela Lei nº 14.399/2022, em atendimento às necessidades da Secretaria Municipal de Educação, Cultura e Esporte.",
-      "orgao": "MUNICIPIO DE PITANGA",
-      "cnpj_orgao": "76172907000108",
-      "municipio": "Pitanga",
-      "uf": "PR",
-      "modalidade": "Pregão - Eletrônico",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-11T11:40:48.581822879",
-      "data_abertura": "",
-      "data_limite": "2026-11-26T13:00",
-      "link": "https://pncp.gov.br/compras/76172907000108/2026/234",
-      "link_origem": "",
-      "score": 27,
+      "score": 39,
       "categoria": "FOMENTO_CULTURAL",
       "genero_alvo": false,
       "hits": {
-        "A": [],
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
         "B": [],
         "C": [
           "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
@@ -101,7 +37,7 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "d967f8be06128a44"
+      "uid": "0337442335b23e1d"
     }
   ]
 }
