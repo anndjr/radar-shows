@@ -1,66 +1,35 @@
 {
-  "gerado_em": "2026-11-13T18:19:44",
-  "total_brutos": 599,
-  "total_aprovados": 174,
-  "total_novos": 2,
+  "gerado_em": "2026-11-14T01:19:42",
+  "total_brutos": 784,
+  "total_aprovados": 155,
+  "total_novos": 17,
   "oportunidades": [
     {
-      "fonte": "pncp_search",
-      "id_externo": "76105592000178-1-000115/2026",
-      "titulo": "Edital nº 24/2026",
-      "objeto": "CHAMAMENTO PÚBLICO PARA CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE ASSESSORIA E CONSULTORIA PARA A OPERACIONALIZAÇÃO DO II CICLO DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB NO MUNICÍPIO DE BOCAIÚVA DO SUL/PR",
-      "orgao": "MUNICIPIO DE BOCAIUVA DO SUL",
-      "cnpj_orgao": "76105592000178",
-      "municipio": "Bocaiúva do Sul",
-      "uf": "PR",
+      "fonte": "pncp",
+      "id_externo": "13093786000180-1-000054/2026",
+      "titulo": "Inexigibilidade 21/2026",
+      "objeto": "Contratação de show artístico da banda FORROZÃO ARGOLÃO DE OURO, para animação da tradicional festa do Assentamento Caraíbas, a ser realizada no dia 28/11/2026",
+      "orgao": "MUNICIPIO DE JAPARATUBA",
+      "cnpj_orgao": "13093786000180",
+      "municipio": "Japaratuba",
+      "uf": "SE",
       "modalidade": "Inexigibilidade",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-13T13:44:07.081857174",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 9000.0,
+      "data_publicacao": "2026-11-11T08:21:28",
       "data_abertura": "",
-      "data_limite": "2026-11-24T17:00",
-      "link": "https://pncp.gov.br/compras/76105592000178/2026/115",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/13093786000180/1/000054/2026",
       "link_origem": "",
-      "score": 27,
+      "score": 60,
       "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "22f9d390c875fc5c"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "04214217000155-1-000115/2026",
-      "titulo": "Edital de Chamamento Público nº 4/2026",
-      "objeto": "Credenciamento de pessoas jurídicas para a prestação de serviços de apresentações artísticas, na modalidade forró pé de serra, destinadas à animação e ao desenvolvimento das atividades promovidas pelo Serviço de Convivência e Fortalecimento de Vínculos – SCFV, voltadas ao público da terceira idade, atendido pela Secretaria Municipal de Assistência Social do Município de Jundiá/RN.",
-      "orgao": "MUNICIPIO DE JUNDIA",
-      "cnpj_orgao": "04214217000155",
-      "municipio": "Jundiá",
-      "uf": "RN",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-13T09:21:20.247208",
-      "data_abertura": "",
-      "data_limite": "2027-10-19T00:00",
-      "link": "https://pncp.gov.br/compras/04214217000155/2026/115",
-      "link_origem": "",
-      "score": 42,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": true,
-      "hits": {
         "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b",
+          "\\bshow(s)?\\b.{0,40}\\b(sertanej|forro|pagode|gospel|axe|piseiro|arrocha)",
           "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
         ],
         "B": [],
@@ -68,7 +37,523 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "d3130b9966cc2b38"
+      "uid": "531495dbcf0c21fe"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "46578514000120-1-000336/2026",
+      "titulo": "Inexigibilidade 57/2026",
+      "objeto": "PRESTAÇÃO DE SERVIÇOS DE APRESENTAÇÕES ARTÍSTICAS (DE ARTISTAS LOCAIS) EM FESTIVIDADES DO CALENDÁRIO ANUAL DE EVENTOS NO MUNICÍPIO DE PERUÍBE, CONFORME DISCRIMINAÇÃO CONSTANTE DO ANEXO I (TERMO DE REFERÊNCIA) E DE ACORDO COM OS TERMOS DO EDITAL DE CREDENCIAMENTO N° 01/2025.",
+      "orgao": "MUNICIPIO DE PERUIBE",
+      "cnpj_orgao": "46578514000120",
+      "municipio": "Peruíbe",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, caput Inexigibilidade de Licitação: Todas as formas de inexigibilidade não previstas no art. 74",
+      "valor_estimado": 3312.0,
+      "data_publicacao": "2026-11-11T08:31:16",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/46578514000120/1/000336/2026",
+      "link_origem": "",
+      "score": 40,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e7be12d85612bc0f"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01740422000166-1-000144/2026",
+      "titulo": "Inexigibilidade 31492/2026",
+      "objeto": "CONTRATAÇÃO DE ATRAÇÃO ARTÍSTICA APOIO DA SECRETARIA MUNICIPAL DE CULTURA– EVENTO NA PROGRAMAÇÃO “FESTIVAL AFRO CULTURA”, COM A PARTICIPAÇÃO – RAPDEMIA JOSÉ FRANCISCO DE ALMEIDA GONÇALVES, REPRESENTAD",
+      "orgao": "MUNICIPIO DE PLANALTINA",
+      "cnpj_orgao": "01740422000166",
+      "municipio": "Planaltina",
+      "uf": "GO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 12000.0,
+      "data_publicacao": "2026-11-11T08:06:37",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01740422000166/1/000144/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "f87754632174543a"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "49942422000175-1-000720/2026",
+      "titulo": "Inexigibilidade 592/2026 - Inexigibilidade/2026",
+      "objeto": "Contratação de show artístico, Cantor Zé Ottávio no dia 12 de novembro de 2026 na 17º Expo Xambioá de Xambioá - TO.",
+      "orgao": "Secretaria do Turismo",
+      "cnpj_orgao": "49942422000175",
+      "municipio": "Palmas",
+      "uf": "TO",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 100000.0,
+      "data_publicacao": "2026-11-11T08:25:06",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/49942422000175/1/000720/2026",
+      "link_origem": "",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "0426ee2088b2112d"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "08096612000131-1-000080/2026",
+      "titulo": "Inexigibilidade 0019/2026",
+      "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DOS SERVIÇOS ARTÍSTICOS DE APRESENTAÇÃO MUSICAL PARA O EVENTO DENOMINADO NOITE DA JUVENTUDE DENTRO DOS FESTEJOS DA FESTA DE NOSSA SENHORA DO PATROCÍNIO 2026 DO MUNICÍPIO DE SÃO FERNANDO/RN COM O INTUITO DE CONTRATAR A BANDA EVAN SANFONEIRO",
+      "orgao": "MUNICIPIO DE SAO FERNANDO",
+      "cnpj_orgao": "08096612000131",
+      "municipio": "São Fernando",
+      "uf": "RN",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 5000.0,
+      "data_publicacao": "2026-11-11T08:38:19",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/08096612000131/1/000080/2026",
+      "link_origem": "https://www.portaldecompraspublicas.com.br/processos/RN/Prefeitura-Municipal-de-Sao-Fernando-1137/INEX-0019-2026-2026-524462",
+      "score": 36,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d66d1278d9ff0bb1"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01612812000150-1-000187/2026",
+      "titulo": "Inexigibilidade IL 25/2026",
+      "objeto": "CONTRATAÇÃO DIRETA, POR INEXIGIBILIDADE DE LICITAÇÃO, DA EMPRESA GISLAINE DE LARA SONAGLIO, INSCRITA NO CNPJ Nº 52.699.416/0001-43, PARA A REALIZAÇÃO DE APRESENTAÇÕES MUSICAIS DOS DJS MIGUEL ALEXANDRE ALBARELLO E JÚLIA SOSTER, COM FORNECIMENTO DE SERVIÇOS DE SONORIZAÇÃO, EQUIPAMENTOS, EQUIPE TÉCNICA E DEMAIS ESTRUTURAS NECESSÁRIAS, COM DURAÇÃO DE ATÉ 08 (OITO) HORAS, DURANTE A PROGRAMAÇÃO DO 3º PÉ NA LAMA DA JUVENTUDE, A SER REALIZADO NO DIA 15 DE NOVEMBRO DE 2026, NO CENTRO DE EVENTOS DO MUNICÍPIO DE SÃO BERNARDINO – SC, COM FUNDAMENTO NO ART. 74, INCISO II, DA LEI FEDERAL Nº 14.133/2021, VISANDO PROPORCIONAR ANIMAÇÃO MUSICAL, INTEGRAÇÃO DOS PARTICIPANTES E PROMOVER O LAZER, O ENTRETENIMENTO E A CONVIVÊNCIA COMUNITÁRIA.",
+      "orgao": "MUNICIPIO DE SAO BERNARDINO",
+      "cnpj_orgao": "01612812000150",
+      "municipio": "São Bernardino",
+      "uf": "SC",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 8000.0,
+      "data_publicacao": "2026-11-11T08:24:41",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/01612812000150/1/000187/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "a18e08324743ecbf"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "67995027000132-1-000470/2026",
+      "titulo": "Inexigibilidade 70/2026",
+      "objeto": "Contratação do artista Leandro Ferreira dos Santos para realização de intervenção artística (Graffiti) durante o “Galeria Urbana Festival.",
+      "orgao": "MUNICIPIO DE HORTOLANDIA",
+      "cnpj_orgao": "67995027000132",
+      "municipio": "Hortolândia",
+      "uf": "SP",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 40000.0,
+      "data_publicacao": "2026-11-11T08:39:17",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/67995027000132/1/000470/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "dbd31adfc0500074"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "87849923000109-1-000758/2026",
+      "titulo": "Inexigibilidade 233/2026",
+      "objeto": "ABERTURA DE PROCESSO DE INEXIGIBILIDADE PARA CONTRATAÇÃO DO SHOW TAMBORES DO SUL , KAKO XAVIER (MARCOS ANTONIO MOREIRA XAVIER) PARA O EVENTO EM COMEMORAÇÃOÀ SEMANA DA CONSCIÊNCIA NEGRA - BLACK BENTO NO DIA 20 DE NOVEMBRO DE 2026 NA PRAÇA DA IGREJA REDONDA NA RUA ACHYLES MINCARONE , BENTO GONÇALVES\n",
+      "orgao": "MUNICIPIO DE BENTO GONCALVES",
+      "cnpj_orgao": "87849923000109",
+      "municipio": "Bento Gonçalves",
+      "uf": "RS",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 12000.0,
+      "data_publicacao": "2026-11-11T08:40:54",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/87849923000109/1/000758/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "9eaa460a94b49e3c"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "09128000000146-1-000051/2026",
+      "titulo": "Inexigibilidade 25250-055/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ATENDIMENTO MÉDICOS, CLINICOS E LABORATÓRIAIS",
+      "orgao": "INSTITUTO DE ASSISTENCIA A SAUDE DO SERVIDOR",
+      "cnpj_orgao": "09128000000146",
+      "municipio": "João Pessoa",
+      "uf": "PB",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 71000.0,
+      "data_publicacao": "2026-11-11T02:00:19",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/09128000000146/1/000051/2026",
+      "link_origem": "https://www.centraldecompras.pb.gov.br/appls/sgc/edital.nsf/Web?OpenAgent&pageClassName=EditalPage&action=abrir&unid=6AE683E037040AC903258EAB004BE4D7",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "cfffb84ee035c20c"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "83102459000123-1-001024/2026",
+      "titulo": "Inexigibilidade IL 274/2026",
+      "objeto": "Contratação da ASSOCIAÇÃO RECREATIVA, CULTURAL E ARTÍSTICA DE JARAGUÁ DO SUL – ARCA, entidade mantenedora da Cia. Musical Euterpe, para prestação de serviços de acompanhamento musical na abertura oficial da 36ª Schützenfest – Festa dos Atiradores e no desfile das sociedades de atiradores, compreendendo a execução musical durante a abertura, a saudação às majestades e o acompanhamento musical durante o percurso do desfile, conforme as condições estabelecidas no Termo de Referência e na proposta comercial.",
+      "orgao": "MUNICIPIO DE JARAGUA DO SUL",
+      "cnpj_orgao": "83102459000123",
+      "municipio": "Jaraguá do Sul",
+      "uf": "SC",
+      "modalidade": "Inexigibilidade",
+      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
+      "valor_estimado": 5000.0,
+      "data_publicacao": "2026-11-11T08:25:20",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/83102459000123/1/001024/2026",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "9148521dd96904d0"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "14899354000124-1-000006/2026",
+      "titulo": "Edital de Chamamento Público nº 7/2026",
+      "objeto": "Credenciamento de artistas, grupos e profissionais de arte e cultura, pessoas físicas ou jurídicas, inclusive microempreendedores individuais (MEI), quando legalmente habilitados, para eventual prestação de serviços artísticos e culturais, sob demanda, em eventos, solenidades e ações institucionais promovidos ou apoiados pelo Conselho de Arquitetura e Urbanismo de Roraima.",
+      "orgao": "CONSELHO DE ARQUITETURA E URBANISMO DE RORAIMA CAU - RR",
+      "cnpj_orgao": "14899354000124",
+      "municipio": "Boa Vista",
+      "uf": "RR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-13T16:31:32.086994",
+      "data_abertura": "",
+      "data_limite": "2027-11-15T08:59",
+      "link": "https://pncp.gov.br/compras/14899354000124/2026/6",
+      "link_origem": "",
+      "score": 33,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "b29b80e7ffce547e"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3511102/2026-11-09/2ba0ee64e62e8c3089fefaf18fd7c50669f76888.txt",
+      "titulo": "DOM Catanduva/SP 2026-11-09",
+      "objeto": "                                                                                     \n \n\nMUNICÍPIO DE CATANDUVA \nESTADO DE SÃO PAULO \n\nPRAÇA CONDE FRANCISCO MATARAZZO, 01 \n\nCEP 15800-031 - CATANDUVA/SP \n\nCNPJ 45.122.603/0001-02 \n\nTEL: 17 –-3531-9100 \n\n \n\nProcesso Administrativo nº 16619/2026 \n\nEdital de Chamamento Público nº 004/2026 (Credenciamento de Artistas para Ações \n\nCulturais 2026) \n\nProtocolo de Inscrição: H6UVSNBK3BDP \n\nInteressado: Vinicius Nobre \n\n1. IDENTIFICAÇÃO DO PROCESSO E DA INSCRIÇÃO \n\nTrata-se de procedimento instaurado no âmbito do Processo Administrativo nº \n\n16619/2026, referente ao Edital de Chamamento Público nº 004/2026, com o objetivo \n\nde apurar e sanear desconformidade DO RESULTADO DE CLASSIFICAÇÃO \n\nEDITAL DE CHAMAMENTO PÚBLICO Nº 004/2026 \n\nPROCESSO ADMINISTRATIVO Nº 16619/2026 \n\nO MUNICÍPIO DE CATANDUVA, por meio da SECRETARIA MUNICIPAL DE CULTURA, \n\ntorna pública a presente ERRATA, referente à publicação do resultado de classificação dos \n\ninteressados no Edital de Chamamento Público nº 004/2026 – Credenciamento de Artistas para \n\nAções Culturais 2026, divulgada no Diário Oficial do Município de Catanduva, em 07 de outubro \n\nde 2026, Ano XXI, Edição nº 3163, página 39 de 134, para retificação das classificações nas \n\nmodalidades DJ I e DJ II, tema FLASH BACK, conforme segue: \n\n1. DJ I – TEMA: FLASH BACK – 01 VAGA \n\nONDE SE LÊ: \n\nDIA E HORÁRIO PROTOCOLO NOME RETIFICAÇÃO DE IDENTIFICAÇÃO E RESULTADO \n\nEDITAL DE CHAMAMENTO PÚBLICO Nº 004/2026 \n\nPROCESSO ADMINISTRATIVO Nº 16619/2026 \n\nO MUNICÍPIO DE CATANDUVA, por meio da SECRETARIA MUNICIPAL DE CULTURA, torna pública a presente ERRATA referente à Ata da Comissão de Análise da Documentação \n\nde Habilitação do Edital de Chamamento Público nº 004/2026 – Credenciamento de Artistas para Ações Culturais 2026, referente à análise dos documentos protocolados pelos proponentes no \n\nperíodo de recurso que compreendeu a data 29 de setembro de 2026 a 01 de outubro de 2026 na forma do Edital, publicada no Diário Oficial do Município de Catanduva, Ano XXI, Edição nº \n\n3163, de 07 de outubro de 2026, páginas 44 a 53 de 134",
+      "orgao": "Catanduva",
+      "cnpj_orgao": "",
+      "municipio": "Catanduva",
+      "uf": "SP",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-09",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3511102/2026-11-09/2ba0ee64e62e8c3089fefaf18fd7c50669f76888.pdf",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "                                                                                     \n \n\nMUNICÍPIO DE CATANDUVA \nESTADO DE SÃO PAULO \n\nPRAÇA CONDE FRANCISCO MATARAZZO, 01 \n\nCEP 15800-031 - CATANDUVA/SP \n\nCNPJ 45.122.603/0001-02 \n\nTEL: 17 –-3531-9100 \n\n \n\nProcesso Administrativo nº 16619/2026 \n\nEdital de Chamamento Público nº 004/2026 (Credenciamento de Artistas para Ações \n\nCulturais 2026) \n\nProtocolo de Inscrição: H6UVSNBK3BDP \n\nInteressado: Vinicius Nobre \n\n1. IDENTIFICAÇÃO DO PROCESSO E DA INSCRIÇÃO \n\nTrata-se de procedimento instaurado no âmbito do Processo Administrativo nº \n\n16619/2026, referente ao Edital de Chamamento Público nº 004/2026, com o objetivo \n\nde apurar e sanear desconformidade DO RESULTADO DE CLASSIFICAÇÃO \n\nEDITAL DE CHAMAMENTO PÚBLICO Nº 004/2026 \n\nPROCESSO ADMINISTRATIVO Nº 16619/2026 \n\nO MUNICÍPIO DE CATANDUVA, por meio da SECRETARIA MUNICIPAL DE CULTURA, \n\ntorna pública a presente ERRATA, referente à publicação do resultado de classificação dos \n\ninteressados no Edital de Chamamento Público nº 004/2026 – Credenciamento de Artistas para \n\nAções Culturais 2026, divulgada no Diário Oficial do Município de Catanduva, em 07 de outubro \n\nde 2026, Ano XXI, Edição nº 3163, página 39 de 134, para retificação das classificações nas \n\nmodalidades DJ I e DJ II, tema FLASH BACK, conforme segue: \n\n1. DJ I – TEMA: FLASH BACK – 01 VAGA \n\nONDE SE LÊ: \n\nDIA E HORÁRIO PROTOCOLO NOME RETIFICAÇÃO DE IDENTIFICAÇÃO E RESULTADO \n\nEDITAL DE CHAMAMENTO PÚBLICO Nº 004/2026 \n\nPROCESSO ADMINISTRATIVO Nº 16619/2026 \n\nO MUNICÍPIO DE CATANDUVA, por meio da SECRETARIA MUNICIPAL DE CULTURA, torna pública a presente ERRATA referente à Ata da Comissão de Análise da Documentação \n\nde Habilitação do Edital de Chamamento Público nº 004/2026 – Credenciamento de Artistas para Ações Culturais 2026, referente à análise dos documentos protocolados pelos proponentes no \n\nperíodo de recurso que compreendeu a data 29 de setembro de 2026 a 01 de outubro de 2026 na forma do Edital, publicada no Diário Oficial do Município de Catanduva, Ano XXI, Edição nº \n\n3163, de 07 de outubro de 2026, páginas 44 a 53 de 134",
+      "uid": "ce86924f7707cb88"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "22980999000115-1-000215/2026",
+      "titulo": "Credenciamento 10/2026",
+      "objeto": "Contratação de pessoas físicas ou jurídicas para prestação dos serviços artístico-musicais de artistas solos/voz e violão, DJ’s, locutor/animador/apresentador/cerimonialista e bandas locais, para compro a programação artística e musical do calendário de eventos oficiais do Município de Parauapebas, Estado do Pará.",
+      "orgao": "MUNICIPIO DE PARAUAPEBAS",
+      "cnpj_orgao": "22980999000115",
+      "municipio": "Parauapebas",
+      "uf": "PA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 1452120.0,
+      "data_publicacao": "2026-11-12T10:04:17",
+      "data_abertura": "2026-11-16T08:00:00",
+      "data_limite": "2027-11-16T17:00:00",
+      "link": "https://pncp.gov.br/app/editais/22980999000115/1/000215/2026",
+      "link_origem": "",
+      "score": 16,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [
+          "\\bcalendario (de eventos|oficial de eventos)\\b"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "54fbe6a2e69bc5a8"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3120607/2026-11-09/d8b420c402aeefd872898f7d967270990d1def7e.txt",
+      "titulo": "DOM Crucilândia/MG 2026-11-09",
+      "objeto": "Município de Crucilândia – MG \n\nCrucilândia, 09 de novembro de 2026 – Diário Oficial Eletrônico– ANO XII | Nº 955 Lei No. 1078 de 12/02/2015 \n\n \nPREFEITURA MUNICIPAL DE CRUCILÂNDIA/MG torna pública a ABERTURA do PAL nº 121/2026, Chamamento \nPúblico n.º 11/2026. Data para início do credenciamento dia 10/11/2026 as 09:00 horas. Objeto: CREDENCIAMENTO \nDE ARTISTAS, BANDAS E PRODUTORES LOCAIS E REGIONAIS PARA APRESENTAÇÃO EM EVENTOS ESPORTIVOS, \nCOMEMORAÇÕES DE DATAS FESTIVAS, EVENTOS DO CALENDÁRIO MUNICIPAL DE CULTURA CONFORME \nCRONOGRAMA, ENTRE OUTROS EVENTOS QUE POSSAM SURGIR ATRAVÉS DE DEMANDAS ESPORÁDICAS. Maiores \ninformações: (031) 3157-5019 S. Licitação, Av. Ernesto Antunes da Cunha, 67,",
+      "orgao": "Crucilândia",
+      "cnpj_orgao": "",
+      "municipio": "Crucilândia",
+      "uf": "MG",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-09",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3120607/2026-11-09/d8b420c402aeefd872898f7d967270990d1def7e.pdf",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "Município de Crucilândia – MG \n\nCrucilândia, 09 de novembro de 2026 – Diário Oficial Eletrônico– ANO XII | Nº 955 Lei No. 1078 de 12/02/2015 \n\n \nPREFEITURA MUNICIPAL DE CRUCILÂNDIA/MG torna pública a ABERTURA do PAL nº 121/2026, Chamamento \nPúblico n.º 11/2026. Data para início do credenciamento dia 10/11/2026 as 09:00 horas. Objeto: CREDENCIAMENTO \nDE ARTISTAS, BANDAS E PRODUTORES LOCAIS E REGIONAIS PARA APRESENTAÇÃO EM EVENTOS ESPORTIVOS, \nCOMEMORAÇÕES DE DATAS FESTIVAS, EVENTOS DO CALENDÁRIO MUNICIPAL DE CULTURA CONFORME \nCRONOGRAMA, ENTRE OUTROS EVENTOS QUE POSSAM SURGIR ATRAVÉS DE DEMANDAS ESPORÁDICAS. Maiores \ninformações: (031) 3157-5019 S. Licitação, Av. Ernesto Antunes da Cunha, 67,",
+      "uid": "1b53760854ac8ac2"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/5002100/2026-11-09/ae28c1ed84ab2157bba2b6ff0499adc25b727d16.txt",
+      "titulo": "DOM Bela Vista/MS 2026-11-09",
+      "objeto": "Centro – CEP: 79.260-000 – Bela Vista – Mato Grosso do Sul \nCNPJ: 03.217.916/0001-96 \n\nP\nág\n\nin\na2\n\n \n\ne do Museu Histórico, bem como na reestruturação do Receptivo Turístico do Município \n\ncom aquisição de Totens com Informações Turísticas. Em relação à segunda parcela dos \n\nrecursos, foi informado que a previsão é dar continuidade ao credenciamento de artistas e \n\nfazedores de cultura, mantendo o edital aberto para contemplar as diferentes \n\nmanifestações culturais do município. Também foi apresentada a proposta, conforme \n\nsolicitação do Prefeito Gabriel Boccia, de estruturar o Cine São José, com o objetivo de \n\nretomar as atividades e oferecer sessões de cinema à população. Quanto à terceira instalação de uma estátua, como forma de reconhecimento à sua trajetória \n\nartística e contribuição para a cultura brasileira. Na sequência, os representantes dos \n\ndiversos segmentos culturais fizeram uso da palavra e apresentaram suas manifestações. \n\nA representante do segmento musical Rosilene demonstrou satisfação com o andamento \n\ndo credenciamento de artistas, destacando a importância da iniciativa para o \n\nreconhecimento e a valorização dos profissionais da música local. A representante do \n\nsegmento de dança Viviana do Grupo de Dança Florecer, manifestou interesse em \n\nparticipar do credenciamento, colocando-se à disposição para integrar a programação e \n\nrealizar apresentações nos eventos",
+      "orgao": "Bela Vista",
+      "cnpj_orgao": "",
+      "municipio": "Bela Vista",
+      "uf": "MS",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-09",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/5002100/2026-11-09/ae28c1ed84ab2157bba2b6ff0499adc25b727d16.pdf",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "Centro – CEP: 79.260-000 – Bela Vista – Mato Grosso do Sul \nCNPJ: 03.217.916/0001-96 \n\nP\nág\n\nin\na2\n\n \n\ne do Museu Histórico, bem como na reestruturação do Receptivo Turístico do Município \n\ncom aquisição de Totens com Informações Turísticas. Em relação à segunda parcela dos \n\nrecursos, foi informado que a previsão é dar continuidade ao credenciamento de artistas e \n\nfazedores de cultura, mantendo o edital aberto para contemplar as diferentes \n\nmanifestações culturais do município. Também foi apresentada a proposta, conforme \n\nsolicitação do Prefeito Gabriel Boccia, de estruturar o Cine São José, com o objetivo de \n\nretomar as atividades e oferecer sessões de cinema à população. Quanto à terceira instalação de uma estátua, como forma de reconhecimento à sua trajetória \n\nartística e contribuição para a cultura brasileira. Na sequência, os representantes dos \n\ndiversos segmentos culturais fizeram uso da palavra e apresentaram suas manifestações. \n\nA representante do segmento musical Rosilene demonstrou satisfação com o andamento \n\ndo credenciamento de artistas, destacando a importância da iniciativa para o \n\nreconhecimento e a valorização dos profissionais da música local. A representante do \n\nsegmento de dança Viviana do Grupo de Dança Florecer, manifestou interesse em \n\nparticipar do credenciamento, colocando-se à disposição para integrar a programação e \n\nrealizar apresentações nos eventos",
+      "uid": "a5000b2033acb008"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "87738530000110-1-001867/2026",
+      "titulo": "Dispensa 1891 | Processo 2109/2026",
+      "objeto": "Aquisicao EMERGENCIAL tem por finalidade atender a demanda de reposicao de utensilios domesticos  bem como forro da lavanderia da EMEI Cesar dos Santos Ortiz.",
+      "orgao": "MUNICIPIO DE SOLEDADE",
+      "cnpj_orgao": "87738530000110",
+      "municipio": "Soledade",
+      "uf": "RS",
+      "modalidade": "Dispensa",
+      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+      "valor_estimado": 6434.0,
+      "data_publicacao": "2026-11-11T08:29:05",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/87738530000110/1/001867/2026",
+      "link_origem": " ",
+      "score": 18,
+      "categoria": "DISPENSA",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "986704a4c2b366ce"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "01660878000116-1-000026/2026",
+      "titulo": "Aviso de Contratação Direta nº 022/2026",
+      "objeto": "[Portal de Compras Públicas] - Contratação de apresentação artística musical (cantor solo ou dupla musical de pequeno porte) com repertório diversificado, para a solenidade oficial de entrega do Mérito Legislativo da Câmara Municipal de Oratórios/MG, a realizar-se no dia 14/11/2026, no Sítio Recanto Reflexo do Sol (Comunidade São Pedro, Zona Rural de Oratórios/MG), decorrente da convocação formal de remanescente classificado em 2º lugar na Oportunidade  da plataforma Contrata+Brasil através do Contrato Cancelado nº 00282/2026 (Código PNCP Cancelado nº 18715615000160-1-000025/2026), com fundamento no art. 90, `PAR` 2º, c/c art. 75, inciso II, da Lei Federal nº 14.133/2021.",
+      "orgao": "CAMARA MUNICIPAL DE ORATORIOS",
+      "cnpj_orgao": "01660878000116",
+      "municipio": "Oratórios",
+      "uf": "MG",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-13T17:22:55.961785",
+      "data_abertura": "",
+      "data_limite": "2026-11-16T14:00",
+      "link": "https://pncp.gov.br/compras/01660878000116/2026/26",
+      "link_origem": "",
+      "score": 12,
+      "categoria": "DISPENSA",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "231cd5aab803b198"
     }
   ]
 }
