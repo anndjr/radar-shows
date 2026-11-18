@@ -1,62 +1,198 @@
 {
-  "gerado_em": "2026-11-18T02:46:11",
-  "total_brutos": 933,
-  "total_aprovados": 209,
-  "total_novos": 4,
+  "gerado_em": "2026-11-18T19:13:05",
+  "total_brutos": 377,
+  "total_aprovados": 107,
+  "total_novos": 6,
   "oportunidades": [
     {
-      "fonte": "pncp",
-      "id_externo": "03576220000156-1-000155/2026",
-      "titulo": "Credenciamento 25/2026",
-      "objeto": "Credenciamento de pessoas jurídicas da área artística e cultural, sem qualquer exclusividade, para prestação de serviços de apresentações musicais e culturais, compreendendo artista solo, duplas, grupos musicais e locutor e/ou apresentador de eventos, destinados à realização de eventos culturais, turísticos, institucionais e socioassistenciais promovidos pela Administração Pública Municipal de Bataguassu/MS, conforme condições e exigência estabelecidas no Termo de Referência.",
-      "orgao": "MUNICIPIO DE BATAGUASSU",
-      "cnpj_orgao": "03576220000156",
-      "municipio": "Bataguassu",
-      "uf": "MS",
+      "fonte": "pncp_search",
+      "id_externo": "01801612000146-1-000902/2026",
+      "titulo": "Edital de Chamamento Público nº (20570) | 19016-0/2026",
+      "objeto": "CONSTITUI OBJETO DO PRESENTE PROCEDIMENTO ADMINISTRATIVO A REALIZAÇÃO DE CHAMAMENTO PÚBLICO PARA SELEÇÃO DE ARTISTAS MUSICAIS RESIDENTES NO MUNICÍPIO DE PORANGATU/GO, COM ATUAÇÃO COMPROVADA NA LINGUAGEM DO FORRÓ DE TECLADO (ARRASTA-PÉ CULTURAL 2026), PARA REALIZAÇÃO DE ATÉ 05 (CINCO) APRESENTAÇÕES ARTÍSTICAS, DESTINADAS À VALORIZAÇÃO DAS MANIFESTAÇÕES TRADICIONAIS DA CULTURA POPULAR DO MUNICÍPIO, COM RECURSOS DA EMENDA IMPOSITIVA Nº 26/2026 VEREADOR JOSÉ UELINTON DE MOURA DURÃO, VISANDO O APOIO FINANCEIRO A AGENTES CULTURAIS DO MUNICÍPIO DE PORANGATU/GO, OBSERVADAS AS CONDIÇÕES DO EDITAL MUNICIPAL DE SELEÇÃO PÚBLICA E A LEGISLAÇÃO APLICÁVEL.",
+      "orgao": "MUNICIPIO DE PORANGATU",
+      "cnpj_orgao": "01801612000146",
+      "municipio": "Porangatu",
+      "uf": "GO",
       "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 29677.36,
-      "data_publicacao": "2026-11-17T09:17:33",
-      "data_abertura": "2026-08-26T09:00:00",
-      "data_limite": "2026-09-24T09:00:00",
-      "link": "https://pncp.gov.br/app/editais/03576220000156/1/000155/2026",
-      "link_origem": "http://45.182.157.6:8079/transparencia/",
-      "score": 28,
-      "categoria": "INEXIGIBILIDADE_ART74",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-18T09:52:49.523303396",
+      "data_abertura": "",
+      "data_limite": "2026-11-26T15:10",
+      "link": "https://pncp.gov.br/compras/01801612000146/2026/902",
+      "link_origem": "",
+      "score": 39,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "e34799aa0f0d2208"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "19769660000160-1-000235/2026",
+      "titulo": "Edital nº 048/2026",
+      "objeto": "Aquisição de materiais e elementos decorativos de iluminação natalina em LED — cordões luminosos, cascatas, festões, árvores cerejeira iluminadas, bolas, estrelas, arcos de fibra óptica, borboletas dinâmicas, flores iluminadas e renas animadas —, destinados à ornamentação dos espaços públicos municipais durante as festividades de fim de ano, em especial a Praça da Matriz, palco do projeto cultural “Natal Iluminado de Conselheiro Pena”, com recursos da Política Nacional Aldir Blanc de Fomento à Cultura – PNAB (Lei Federal nº 14.399/2022), para atender à demanda da Secretaria Municipal de Cultura do Município de Conselheiro Pena/MG.",
+      "orgao": "MUNICIPIO DE CONSELHEIRO PENA",
+      "cnpj_orgao": "19769660000160",
+      "municipio": "Conselheiro Pena",
+      "uf": "MG",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-18T09:07:23.149175199",
+      "data_abertura": "",
+      "data_limite": "2026-12-02T09:00",
+      "link": "https://pncp.gov.br/compras/19769660000160/2026/235",
+      "link_origem": "",
+      "score": 31,
+      "categoria": "FOMENTO_CULTURAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [
+          "\\bfestividade(s)?\\b"
+        ],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "78d99bade072f3f4"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "04144168000121-1-000087/2026",
+      "titulo": "Edital nº 023/2026",
+      "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE MOBILIÁRIOS E DEMAIS EQUIPAMENTOS PERMANENTES DESTINADOS À ESTRUTURAÇÃO, ADEQUAÇÃO E MELHORIA DA INFRAESTRUTURA DA BIBLIOTECA MUNICIPAL E DO AUDITÓRIO DA ESCOLA DE MÚSICA, EM CONFORMIDADE COM A POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB, O RESPECTIVO PLANO ANUAL DE APLICAÇÃO DOS RECURSOS – PAAR.",
+      "orgao": "MUNICIPIO DE REDENCAO",
+      "cnpj_orgao": "04144168000121",
+      "municipio": "Redenção",
+      "uf": "PA",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-18T12:52:42.831018",
+      "data_abertura": "",
+      "data_limite": "2026-12-01T08:59",
+      "link": "https://pncp.gov.br/compras/04144168000121/2026/87",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "FOMENTO_CULTURAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "117c143adbee37e5"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "75963256000101-1-000243/2026",
+      "titulo": "Edital nº 120/2026",
+      "objeto": "GERENCIAMENTO, COORDENAÇÃO E ADMINISTRAÇÃO GERAL DO EVENTO “VIRADA SERTANEJA / RÉVEILLON”, A SER REALIZADO NOS DIAS 31 DE DEZEMBRO DE 2026 E 01 DE JANEIRO DE 2027, NO MUNICÍPIO DE RIO AZUL/PR, ABRANGENDO A INFRAESTRUTURA, LOGÍSTICA, SHOW PIROTÉCNICO/PIROMUSICAL E EQUIPE OPERACIONAL NECESSÁRIAS PARA A SUA PLENA EXECUÇÃO",
+      "orgao": "MUNICIPIO DE RIO AZUL",
+      "cnpj_orgao": "75963256000101",
+      "municipio": "Rio Azul",
+      "uf": "PR",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-18T13:35:20.286812099",
+      "data_abertura": "",
+      "data_limite": "2026-12-04T08:29",
+      "link": "https://pncp.gov.br/compras/75963256000101/2026/243",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (pirotecnico|de fogos)",
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+        ],
+        "C": [],
+        "NEG": [
+          "\\bfogos de artificio\\b|\\bpirotecnic\\w*\\b"
+        ]
+      },
+      "trecho": "",
+      "uid": "91d9660e175d894b"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "24859316000100-1-000286/2026",
+      "titulo": "Aviso de Contratação Direta nº 37/2026",
+      "objeto": "DISPENSA DE LICITAÇÃO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE APRESENTAÇÃO ARTÍSTICA E RECREATIVA COM PERSONAGENS NATALINOS E TEMÁTICOS, PARA PARTICIPAÇÃO EM EVENTO NAT",
+      "orgao": "MUNICIPIO DE APARECIDA DO RIO DOCE",
+      "cnpj_orgao": "24859316000100",
+      "municipio": "Aparecida do Rio Doce",
+      "uf": "GO",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-18T10:35:12.611964155",
+      "data_abertura": "",
+      "data_limite": "2026-11-24T11:00",
+      "link": "https://pncp.gov.br/compras/24859316000100/2026/286",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "DISPENSA",
       "genero_alvo": false,
       "hits": {
         "A": [
           "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
         ],
-        "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
-        ],
+        "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "35ddc6770ffa0904"
+      "uid": "8fc36a4d3f44cb2e"
     },
     {
-      "fonte": "pncp",
-      "id_externo": "45321460000150-1-000272/2026",
-      "titulo": "Credenciamento 42/2026",
-      "objeto": "CREDENCIAMENTO PARA CONTRATAÇÃO DE APRESENTAÇÕES MUSICAIS EM GRUPO PARA A SEMANA DO NATAL, A SER REALIZADO NOS DIAS 17, 18, 21, 22, 23  DE DEZEMBRO DE 2026.",
-      "orgao": "MUNICIPIO DA ESTANCIA TURISTICA DE IBITINGA",
-      "cnpj_orgao": "45321460000150",
-      "municipio": "Ibitinga",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 26200.0,
-      "data_publicacao": "2026-11-17T09:44:49",
-      "data_abertura": "2026-11-18T00:01:00",
-      "data_limite": "2026-12-07T17:00:00",
-      "link": "https://pncp.gov.br/app/editais/45321460000150/1/000272/2026",
-      "link_origem": "https://www.ibitinga.sp.gov.br/portal/editais/5",
+      "fonte": "pncp_search",
+      "id_externo": "08365900000144-1-000109/2026",
+      "titulo": "Aviso de Contratação Direta nº 36/2026",
+      "objeto": "Contratação de empresa ou profissional especializado para a prestação de serviços técnicos de assessoria musical e vocal, compreendendo a atuação de jurados, orientador musical e técnico vocal, destinados ao planejamento, à preparação, à orientação, ao acompanhamento técnico e à avaliação dos participantes do 4º Concurso de Vozes de Monte Alegre, no período de 21 a 28 de novembro de 2026, abrangendo as atividades preparatórias e de orientação dos candidatos, bem como os serviços de avaliação técnica e julgamento das apresentações musicais. A contratação visa assegurar o adequado desenvolvimento das etapas finais do concurso, culminando com a realização da grande final, no dia 28 de novembro de 2026, na Praça Pedro Alves, em Monte Alegre/RN, mediante suporte técnico especializado, critérios de avaliação musical e vocal e acompanhamento profissional dos participantes.",
+      "orgao": "MUNICIPIO DE MONTE ALEGRE",
+      "cnpj_orgao": "08365900000144",
+      "municipio": "Monte Alegre",
+      "uf": "RN",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-18T15:18:44.010793287",
+      "data_abertura": "",
+      "data_limite": "2026-11-24T00:00",
+      "link": "https://pncp.gov.br/compras/08365900000144/2026/109",
+      "link_origem": "",
       "score": 12,
-      "categoria": "CREDENCIAMENTO_ART79",
+      "categoria": "OUTRO_ARTISTICO",
       "genero_alvo": false,
       "hits": {
         "A": [
@@ -67,73 +203,7 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "0f73830d145ba131"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "06553838000199-1-000050/2026",
-      "titulo": "Aviso de Contratação Direta nº 015/2026",
-      "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços de assessoria técnica para o planejamento e monitoramento de ações e iniciativas culturais, incluindo suporte técnico-administrativo à gestão cultural do município de São José do Piauí – PI, com recursos oriundos da Política Nacional Aldir Blanc de fomento à cultura (PNAB).",
-      "orgao": "MUNICIPIO DE SAO JOSE DO PIAUI",
-      "cnpj_orgao": "06553838000199",
-      "municipio": "São José do Piauí",
-      "uf": "PI",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-17T23:42:40.089742",
-      "data_abertura": "",
-      "data_limite": "2026-11-23T07:59",
-      "link": "https://pncp.gov.br/compras/06553838000199/2026/50",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "FOMENTO_CULTURAL",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "de36a7d41ff57c80"
-    },
-    {
-      "fonte": "pncp_search",
-      "id_externo": "08924078000104-1-000123/2026",
-      "titulo": "Aviso de Contratação Direta nº 55/2026",
-      "objeto": "[Portal de Compras Públicas] - AQUISIÇÃO DE EQUIPAMENTOS ELETROELETRÔNICOS, DE INFORMÁTICA, AUDIOVISUAIS, ELETRODOMÉSTICO E MOBILIÁRIO, COMPREENDENDO TELEVISORES, NOTEBOOK, IMPRESSORAS MULTIFUNCIONAIS, PROJETOR MULTIMÍDIA, FREEZER E CADEIRAS, DESTINADOS À ESTRUTURAÇÃO, À MODERNIZAÇÃO E AO FORTALECIMENTO DO ESPAÇO CULTURAL MEMORIAL DOS SACERDOTES, LOCALIZADO NO DISTRITO DE QUIXABA, MUNICÍPIO DE UIRAÚNA/PB, PARA O DESENVOLVIMENTO DE ATIVIDADES ARTÍSTICAS E CULTURAIS, COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA (PNAB), CONFORME A REPROGRAMAÇÃO APROVADA PELO CONSELHO MUNICIPAL DE POLÍTICAS CULTURAIS DE UIRAÚNA/PB EM ASSEMBLEIA EXTRAORDINÁRIA REALIZADA EM 16 DE NOVEMBRO DE 2026, E EM EXECUÇÃO DAS AÇÕES PREVISTAS NO PLANO DE AÇÃO DA PNAB, OBSERVADAS AS ESPECIFICAÇÕES TÉCNICAS, OS QUANTITATIVOS E AS CONDIÇÕES ESTABELECIDOS NO TERMO DE REFERÊNCIA",
-      "orgao": "MUNICIPIO DE UIRAUNA",
-      "cnpj_orgao": "08924078000104",
-      "municipio": "Uiraúna",
-      "uf": "PB",
-      "modalidade": "Dispensa",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-17T16:59:25.336214",
-      "data_abertura": "",
-      "data_limite": "2026-11-25T08:59",
-      "link": "https://pncp.gov.br/compras/08924078000104/2026/123",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "FOMENTO_CULTURAL",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "efe25bceff5effa2"
+      "uid": "804f36456b4757cc"
     }
   ]
 }
