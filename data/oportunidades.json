@@ -1,363 +1,140 @@
 {
-  "gerado_em": "2026-11-19T02:20:30",
-  "total_brutos": 988,
-  "total_aprovados": 165,
-  "total_novos": 11,
+  "gerado_em": "2026-11-19T19:17:14",
+  "total_brutos": 579,
+  "total_aprovados": 111,
+  "total_novos": 4,
   "oportunidades": [
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3157005/2026-11-18/c0ff128abad0719c369e414b2cf5ef482c5f2eb1.txt",
-      "titulo": "DOM Salinas/MG 2026-11-18",
-      "objeto": "atração “ALLAN CRISTYAN” para apresentação de show musical no evento “Festa da\nComunidade  de  Cachoeira  Seca”,  a  ser  realizada  no  dia  19  de  setembro  de  2026,  na  comunidade  de\nCachoeira Seca em Salinas/MG. Contratada:  42.803.801 PRISCILA BATISTA DE FIGUEIREDO, inscrita no CNPJ n°.\n42.803.801/0001-35. Valor total: R$ 2.100,00. Vigência: 30/11/2026.\n\nSalinas/MG, 16 de setembro de 2026. Cledson Pereira – Agente de Contratação\nGilcimar Martins Santos – Presidente da Fundação de Cultura\n\nCONTRATO Nº. 003/2026 - PROCESSO Nº. 003/2026 - INEXIGIBILIDADE Nº. 003/2026\nObjeto: contratação da atração “MAGNATA DO FORRÓ” para apresentação de show musical  no evento\n“TRADICIONAL  FESTA  NOSSA SENHORA",
-      "orgao": "Salinas",
-      "cnpj_orgao": "",
-      "municipio": "Salinas",
-      "uf": "MG",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-18",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3157005/2026-11-18/c0ff128abad0719c369e414b2cf5ef482c5f2eb1.pdf",
-      "link_origem": "",
-      "score": 54,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": true,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "atração “ALLAN CRISTYAN” para apresentação de show musical no evento “Festa da\nComunidade  de  Cachoeira  Seca”,  a  ser  realizada  no  dia  19  de  setembro  de  2026,  na  comunidade  de\nCachoeira Seca em Salinas/MG. Contratada:  42.803.801 PRISCILA BATISTA DE FIGUEIREDO, inscrita no CNPJ n°.\n42.803.801/0001-35. Valor total: R$ 2.100,00. Vigência: 30/11/2026.\n\nSalinas/MG, 16 de setembro de 2026. Cledson Pereira – Agente de Contratação\nGilcimar Martins Santos – Presidente da Fundação de Cultura\n\nCONTRATO Nº. 003/2026 - PROCESSO Nº. 003/2026 - INEXIGIBILIDADE Nº. 003/2026\nObjeto: contratação da atração “MAGNATA DO FORRÓ” para apresentação de show musical  no evento\n“TRADICIONAL  FESTA  NOSSA SENHORA",
-      "uid": "313b4bed29d67a8c"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2706000/2026-11-18/316236df005c7645382cde70dfd858fe.txt",
-      "titulo": "DOM Olivença/AL 2026-11-18",
-      "objeto": "Publicado por:\nJoão Ricardo Barbosa Julião\n\n\nCódigo Identificador:93348F78\n\n\nESTADO DE ALAGOAS\nPREFEITURA MUNICIPAL DE QUEBRANGULO\n\nCOMISSÃO PERMANENTE DE LICITAÇÃO\nEXTRATO DE CONTRATO POR INEXIGIBILIDADE DE\n\nLICITAÇÃO\n\nPROCESSO:10300013/2026.INEXIGIBILIDADE DE LICITAÇÃO\nnº  019/2026.  OBJETO:O  objeto  do  presente  instrumento  é  a\ncontratação de show musical da banda ASSUM PRETO, no dia 28 de\nnovembro de 2026 a partir das 22h00min, com duração de 01h40min\n(uma hora e quarenta minutos) de show, nas festividades da XXXIX\nFesta da Cultura (39ª edição). CONTRATANTE: MUNICÍPIO DE\nQUEBRANGULO,  pessoa  Jurídica  de  Direito  Público  Interno,\ninscrito  no  CNPJ/MF  sob  o  n°  12.241.675/0001-01.\nCONTRATADA:",
-      "orgao": "Olivença",
-      "cnpj_orgao": "",
-      "municipio": "Olivença",
-      "uf": "AL",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-18",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-11-18/858e1e8e05257ba6c08f8db07fcdac1e0d2b36cb.pdf",
-      "link_origem": "",
-      "score": 28,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
-        ],
-        "B": [
-          "\\bfestividade(s)?\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "Publicado por:\nJoão Ricardo Barbosa Julião\n\n\nCódigo Identificador:93348F78\n\n\nESTADO DE ALAGOAS\nPREFEITURA MUNICIPAL DE QUEBRANGULO\n\nCOMISSÃO PERMANENTE DE LICITAÇÃO\nEXTRATO DE CONTRATO POR INEXIGIBILIDADE DE\n\nLICITAÇÃO\n\nPROCESSO:10300013/2026.INEXIGIBILIDADE DE LICITAÇÃO\nnº  019/2026.  OBJETO:O  objeto  do  presente  instrumento  é  a\ncontratação de show musical da banda ASSUM PRETO, no dia 28 de\nnovembro de 2026 a partir das 22h00min, com duração de 01h40min\n(uma hora e quarenta minutos) de show, nas festividades da XXXIX\nFesta da Cultura (39ª edição). CONTRATANTE: MUNICÍPIO DE\nQUEBRANGULO,  pessoa  Jurídica  de  Direito  Público  Interno,\ninscrito  no  CNPJ/MF  sob  o  n°  12.241.675/0001-01.\nCONTRATADA:",
-      "uid": "33e88fbae87e2d34"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2906006/2026-11-17/b136757ea7f6b99c88f1f4ebf606075518bb0e5f.txt",
-      "titulo": "DOM Campo Formoso/BA 2026-11-17",
-      "objeto": "Formoso – Tel. 74 3645 1523 / Fax. 3645 \n1524\n\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 131/2026\nPROCESSO ADMINISTRATIVO N° 810/2026.\nCONTRATO N° 446/2026\nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA – WS SHOWS LTDA \nCNPJ/MF nº 09.188.896/0001-59\nOBJETO – CONTRATAÇÃO DE ARTISTA (WESLEY SAFADÃO), EM SHOW MUSICAL PARA \nAPRESENTAÇÃO NO EVENTO ”FESTIVAL DAS ESMERALDAS 2026”, QUE REALIZAR-SE-A NO \nPARQUE DE EVENTOS ANIBAL OLIVEIRA NA SEDE DO MUNICÍPIO, NO DIA 20 DE NOVEMBRO \nDE 2026.\nVALOR – R$ 1.300.000,00 (Um milhão e trezentos mil reais).\nDOTAÇÃO ORÇAMENTÁRIA:\nUnidade – 09.02 – Secretaria Municipal de Turismo, Cultura, Esportes e Lazer\nAtividade - 2.134 Formoso – Tel. 74 3645 1523 / Fax. 3645 \n1524\n\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 131/2026\nPROCESSO ADMINISTRATIVO N° 810/2026.\nCONTRATO N° 446/2026\nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA – WS SHOWS LTDA \nCNPJ/MF nº 09.188.896/0001-59\nOBJETO – CONTRATAÇÃO DE ARTISTA (WESLEY SAFADÃO), EM SHOW MUSICAL PARA \nAPRESENTAÇÃO NO EVENTO ”FESTIVAL DAS ESMERALDAS 2026”, QUE REALIZAR-SE-A NO \nPARQUE DE EVENTOS ANIBAL OLIVEIRA NA SEDE DO MUNICÍPIO, NO DIA 20 DE NOVEMBRO \nDE 2026.\nVALOR – R$ 1.300.000,00 (Um milhão e trezentos mil reais).\nDOTAÇÃO ORÇAMENTÁRIA:\nUnidade – 09.02 – Secretaria Municipal de Turismo, Cultura, Esportes e Lazer\nAtividade - 2.134",
-      "orgao": "Campo Formoso",
-      "cnpj_orgao": "",
-      "municipio": "Campo Formoso",
-      "uf": "BA",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-17",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2906006/2026-11-17/b136757ea7f6b99c88f1f4ebf606075518bb0e5f.pdf",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "Formoso – Tel. 74 3645 1523 / Fax. 3645 \n1524\n\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 131/2026\nPROCESSO ADMINISTRATIVO N° 810/2026.\nCONTRATO N° 446/2026\nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA – WS SHOWS LTDA \nCNPJ/MF nº 09.188.896/0001-59\nOBJETO – CONTRATAÇÃO DE ARTISTA (WESLEY SAFADÃO), EM SHOW MUSICAL PARA \nAPRESENTAÇÃO NO EVENTO ”FESTIVAL DAS ESMERALDAS 2026”, QUE REALIZAR-SE-A NO \nPARQUE DE EVENTOS ANIBAL OLIVEIRA NA SEDE DO MUNICÍPIO, NO DIA 20 DE NOVEMBRO \nDE 2026.\nVALOR – R$ 1.300.000,00 (Um milhão e trezentos mil reais).\nDOTAÇÃO ORÇAMENTÁRIA:\nUnidade – 09.02 – Secretaria Municipal de Turismo, Cultura, Esportes e Lazer\nAtividade - 2.134 Formoso – Tel. 74 3645 1523 / Fax. 3645 \n1524\n\nCNPJ.  Nº 13.908.702/0001 – 10\n\nRESUMO DE EXTRATO DO CONTRATO\n\nINEXIGIBILIDADE N° 131/2026\nPROCESSO ADMINISTRATIVO N° 810/2026.\nCONTRATO N° 446/2026\nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO\nCONTRATADA – WS SHOWS LTDA \nCNPJ/MF nº 09.188.896/0001-59\nOBJETO – CONTRATAÇÃO DE ARTISTA (WESLEY SAFADÃO), EM SHOW MUSICAL PARA \nAPRESENTAÇÃO NO EVENTO ”FESTIVAL DAS ESMERALDAS 2026”, QUE REALIZAR-SE-A NO \nPARQUE DE EVENTOS ANIBAL OLIVEIRA NA SEDE DO MUNICÍPIO, NO DIA 20 DE NOVEMBRO \nDE 2026.\nVALOR – R$ 1.300.000,00 (Um milhão e trezentos mil reais).\nDOTAÇÃO ORÇAMENTÁRIA:\nUnidade – 09.02 – Secretaria Municipal de Turismo, Cultura, Esportes e Lazer\nAtividade - 2.134",
-      "uid": "c5a23501a3e42f5c"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2906006/2026-11-17/8ae34cec5b0bc8019a8449c993ec8a0eaf8c113c.txt",
-      "titulo": "DOM Campo Formoso/BA 2026-11-17",
-      "objeto": "\n1524 \n\nCNPJ.  Nº 13.908.702/0001 – 10 \n\n \n\n \n\n \n\n \n\nRESUMO DE EXTRATO DO CONTRATO \n \n\nINEXIGIBILIDADE N° 133/2026 \nPROCESSO ADMINISTRATIVO N° 812/2026. \nCONTRATO N° 448/2026 \nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO \nCONTRATADA – GT PRODUÇÕES E EVENTOS LTDA  \nCNPJ/MF nº 31.273.660/0001-70 \nOBJETO – CONTRATAÇÃO DE ARTISTA (PEDRO SAMPAIO), EM SHOW MUSICAL PARA \nAPRESENTAÇÃO NO EVENTO “FESTIVAL DAS ESMERALDAS 2026”, QUE REALIZAR-SE-A NO \nPARQUE DE EVENTOS ANIBAL OLIVEIRA NA SEDE DO MUNICÍPIO, NO DIA 21 DE NOVEMBRO \nDE 2026. \nVALOR – R$ 750.000,00 (Setecentos e cinquenta mil reais). \nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria Municipal de Turismo, Cultura, Esportes e Lazer \nAtividade -",
-      "orgao": "Campo Formoso",
-      "cnpj_orgao": "",
-      "municipio": "Campo Formoso",
-      "uf": "BA",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-17",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2906006/2026-11-17/8ae34cec5b0bc8019a8449c993ec8a0eaf8c113c.pdf",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "\n1524 \n\nCNPJ.  Nº 13.908.702/0001 – 10 \n\n \n\n \n\n \n\n \n\nRESUMO DE EXTRATO DO CONTRATO \n \n\nINEXIGIBILIDADE N° 133/2026 \nPROCESSO ADMINISTRATIVO N° 812/2026. \nCONTRATO N° 448/2026 \nCONTRATANTE – MUNICÍPIO DE CAMPO FORMOSO \nCONTRATADA – GT PRODUÇÕES E EVENTOS LTDA  \nCNPJ/MF nº 31.273.660/0001-70 \nOBJETO – CONTRATAÇÃO DE ARTISTA (PEDRO SAMPAIO), EM SHOW MUSICAL PARA \nAPRESENTAÇÃO NO EVENTO “FESTIVAL DAS ESMERALDAS 2026”, QUE REALIZAR-SE-A NO \nPARQUE DE EVENTOS ANIBAL OLIVEIRA NA SEDE DO MUNICÍPIO, NO DIA 21 DE NOVEMBRO \nDE 2026. \nVALOR – R$ 750.000,00 (Setecentos e cinquenta mil reais). \nDOTAÇÃO ORÇAMENTÁRIA: \nUnidade – 09.02 – Secretaria Municipal de Turismo, Cultura, Esportes e Lazer \nAtividade -",
-      "uid": "fc7f17172b01cbe8"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "45358249000101-1-001190/2026",
-      "titulo": "Credenciamento 791/2026",
-      "objeto": "Contratação via Edital de Chamamento 01/2025 da AGENTE CULTURAL MARIA EDUARDA DOS REIS STEFANO, para apresentação\r\ncultural DUDA STÉFANO CLÁSSICOS DO FORRÓ PÉ DE SERRA selecionada para a realização da Feira da Economia Solidaria na\r\n\"Casa de Economia Criativa e Solidária Gilberto Massom\" na rua Miguel Petroni, 3320, no dia 11\r\nde dezembro de 2026.",
-      "orgao": "MUNICIPIO DE SAO CARLOS",
-      "cnpj_orgao": "45358249000101",
-      "municipio": "São Carlos",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 3000.0,
-      "data_publicacao": "2026-11-17T15:00:27",
-      "data_abertura": "2026-11-17T14:59:00",
-      "data_limite": "2026-11-17T14:59:00",
-      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001190/2026",
-      "link_origem": "",
-      "score": 18,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": true,
-      "hits": {
-        "A": [
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "ea420e6b8ce8e319"
-    },
-    {
       "fonte": "pncp_search",
-      "id_externo": "13825484000150-1-000308/2026",
-      "titulo": "Edital de Chamamento Público nº 003/2026",
-      "objeto": "Edital Formação Artístico-Cultural, de Fomento às Iniciativas Culturais, com recursos da Política Nacional Aldir Blanc de Fomento à Cultura   PNAB.",
-      "orgao": "MUNICIPIO DE AMARGOSA",
-      "cnpj_orgao": "13825484000150",
-      "municipio": "Amargosa",
-      "uf": "BA",
+      "id_externo": "88201298000149-1-000087/2025",
+      "titulo": "Edital de Chamamento Público nº 2/2025",
+      "objeto": "Credenciamento de artistas locais e cerimonialistas, pessoas físicas ou jurídicas, para realização de shows musicais nos diversos eventos efetuados pelo Município de Lavras do Sul, para atendimento ao calendário municipal de eventos, por seleção paralela e não excludente, para realização de shows ao vivo de renome local/regional e apresentações culturais.",
+      "orgao": "MUNICIPIO DE LAVRAS DO SUL",
+      "cnpj_orgao": "88201298000149",
+      "municipio": "Lavras do Sul",
+      "uf": "RS",
       "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-18T18:17:21.019757855",
+      "data_publicacao": "2025-02-25T13:37:44.547749",
       "data_abertura": "",
-      "data_limite": "2026-12-04T09:00",
-      "link": "https://pncp.gov.br/compras/13825484000150/2026/308",
+      "data_limite": "2030-02-25T00:00",
+      "link": "https://pncp.gov.br/compras/88201298000149/2025/87",
       "link_origem": "",
-      "score": 36,
+      "score": 45,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
-        "A": [],
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
+        ],
         "B": [],
         "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
           "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
         ],
         "NEG": []
       },
       "trecho": "",
-      "uid": "6e78e88e43cbfddb"
+      "uid": "0db2bb87838198de"
     },
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/5002704/2026-11-17/1abc053b2e7e01e4e9b6228eafa4b61fc7cda3e2.txt",
-      "titulo": "DOM Campo Grande/MS 2026-11-17",
-      "objeto": "Município de Campo Grande, Mato Grosso do Sul, por intermédio da Fundação Municipal \nde Cultura – FUNDAC de Campo Grande - MS, torna público o RESULTADO de habilitação \nreferente às documentações apresentadas para a sessão de 03.11.2026 do evento a \nseguir informado:\n\nCREDENCIAMENTO: 001/2025\nPROCESSO ADMINISTRATIVO: 048676/2025-41\nOBJETO: CREDENCIAMENTO DE ARTISTAS CULTURAIS, PARA PRESTAÇÃO DE SERVIÇOS \nARTÍSTICOS E CULTURAIS, A FIM DE ATENDER A PROGRAMAÇÃO CULTURAL DO \nMUNICÍPIO DE CAMPO GRANDE – MS.\nDEMANDANTE: FUNDAÇÃO MUNICIPAL DE CULTURA (FUNDAC)\n\nAos interessados em interpor razões de recurso poderão apresentar a peça no prazo de \n03 (três) dias úteis a contar desta publicação, conforme disposições",
-      "orgao": "Campo Grande",
-      "cnpj_orgao": "",
-      "municipio": "Campo Grande",
-      "uf": "MS",
-      "modalidade": "",
+      "fonte": "pncp_search",
+      "id_externo": "05853163000130-1-000019/2027",
+      "titulo": "Edital de Chamamento Público nº 78/2027",
+      "objeto": "CHAMAMENTO PÚBLICO PARA FINS DE CREDENCIAMENTO DE ARTISTAS E PROFISSIONAIS DA ÁREA CULTURAL DE MARABÁ/PA, PESSOAS FÍSICAS OU JURÍDICAS, PARA EVENTUAL PRESTAÇÃO DE SERVIÇOS EM EVENTOS E AÇÕES PROMOVIDOS OU APOIADOS PELA SECULT, PARA SUPRIR AS NECESSIDADES DA SECRETARIA MUNICIPAL DE CULTURA - SECULT.",
+      "orgao": "MUNICIPIO DE MARABA",
+      "cnpj_orgao": "05853163000130",
+      "municipio": "Marabá",
+      "uf": "PA",
+      "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-17",
+      "data_publicacao": "2026-11-19T08:06:47.553147",
       "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/5002704/2026-11-17/1abc053b2e7e01e4e9b6228eafa4b61fc7cda3e2.pdf",
+      "data_limite": "2027-11-19T18:00",
+      "link": "https://pncp.gov.br/compras/05853163000130/2027/19",
       "link_origem": "",
-      "score": 24,
+      "score": 21,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
         ],
         "B": [],
-        "C": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
         "NEG": []
       },
-      "trecho": "Município de Campo Grande, Mato Grosso do Sul, por intermédio da Fundação Municipal \nde Cultura – FUNDAC de Campo Grande - MS, torna público o RESULTADO de habilitação \nreferente às documentações apresentadas para a sessão de 03.11.2026 do evento a \nseguir informado:\n\nCREDENCIAMENTO: 001/2025\nPROCESSO ADMINISTRATIVO: 048676/2025-41\nOBJETO: CREDENCIAMENTO DE ARTISTAS CULTURAIS, PARA PRESTAÇÃO DE SERVIÇOS \nARTÍSTICOS E CULTURAIS, A FIM DE ATENDER A PROGRAMAÇÃO CULTURAL DO \nMUNICÍPIO DE CAMPO GRANDE – MS.\nDEMANDANTE: FUNDAÇÃO MUNICIPAL DE CULTURA (FUNDAC)\n\nAos interessados em interpor razões de recurso poderão apresentar a peça no prazo de \n03 (três) dias úteis a contar desta publicação, conforme disposições",
-      "uid": "c1a8f87f077614bf"
+      "trecho": "",
+      "uid": "2ac4cbd7ff965ee3"
     },
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/3132404/2026-11-18/54557866955bd3e199ec9f56dd57e6ccbbd67c6b.txt",
-      "titulo": "DOM Itajubá/MG 2026-11-18",
-      "objeto": "objeto, observando, ainda, as obrigações \n\na seguir dispostas: \n\n7.1.1. Cumprir todas as obrigações constantes deste Contrato e em seus anexos, assumindo exclusivamente seus os \n\nriscos e as despesas decorrentes da boa e perfeita execução do objeto, observando, ainda, as obrigações a seguir \n\ndispostas; \n\n7.1.2. A contratada deverá apresentar o show musical na festividade do natal da cidade de Itajubá, em dia e horário \n\nestabelecido na proposta; \n\n7.1.3. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com o Código de Defesa do \n\nConsumidor (Lei nº 8.078, de 1990); \n\n\n\nDIÁRIO OFICIAL - MUNICÍPIO DE ITAJUBÁ Quarta-feira, 18 de novembro de 2026 Ano IV | Edição nº 860 | Página",
-      "orgao": "Itajubá",
-      "cnpj_orgao": "",
-      "municipio": "Itajubá",
-      "uf": "MG",
-      "modalidade": "",
+      "fonte": "pncp_search",
+      "id_externo": "46362927000172-1-000901/2026",
+      "titulo": "Edital de Chamamento Público nº 14/2026",
+      "objeto": "CREDENCIAMENTO de pessoas jurídicas representantes de grupos carnavalescos de rua, para realização de apresentações artísticas durante o Carnaval de Rua de Brotas.",
+      "orgao": "MUNICIPIO DE BROTAS",
+      "cnpj_orgao": "46362927000172",
+      "municipio": "Brotas",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-18",
+      "data_publicacao": "2026-11-19T15:29:25.128913657",
       "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/3132404/2026-11-18/54557866955bd3e199ec9f56dd57e6ccbbd67c6b.pdf",
+      "data_limite": "2027-02-09T23:59",
+      "link": "https://pncp.gov.br/compras/46362927000172/2026/901",
       "link_origem": "",
       "score": 16,
-      "categoria": "EVENTO_MUNICIPAL",
+      "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
         ],
         "B": [
-          "\\bfestividade(s)?\\b"
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
         ],
         "C": [],
         "NEG": []
       },
-      "trecho": "objeto, observando, ainda, as obrigações \n\na seguir dispostas: \n\n7.1.1. Cumprir todas as obrigações constantes deste Contrato e em seus anexos, assumindo exclusivamente seus os \n\nriscos e as despesas decorrentes da boa e perfeita execução do objeto, observando, ainda, as obrigações a seguir \n\ndispostas; \n\n7.1.2. A contratada deverá apresentar o show musical na festividade do natal da cidade de Itajubá, em dia e horário \n\nestabelecido na proposta; \n\n7.1.3. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com o Código de Defesa do \n\nConsumidor (Lei nº 8.078, de 1990); \n\n\n\nDIÁRIO OFICIAL - MUNICÍPIO DE ITAJUBÁ Quarta-feira, 18 de novembro de 2026 Ano IV | Edição nº 860 | Página",
-      "uid": "ec45ddb46029a6fc"
+      "trecho": "",
+      "uid": "2337fbe5e314fe61"
     },
     {
-      "fonte": "pncp",
-      "id_externo": "07954480000179-1-027493/2026",
-      "titulo": "Concurso 202636517/2026",
-      "objeto": "Contratação musical para apresentação em evento oficial do Governo do Estado do Ceará: “INAUGURAÇÃO DE ESCOLA JOÃO PIAMARTA ”, do cantor(a)/ Grupo Musical “ BANDA REITE  ” no dia 16 de novembro de 2026, no Município de Fortaleza - Ce.",
-      "orgao": "ESTADO DO CEARA",
-      "cnpj_orgao": "07954480000179",
-      "municipio": "Fortaleza",
+      "fonte": "pncp_search",
+      "id_externo": "35050756000120-1-000124/2026",
+      "titulo": "Edital nº 1011.01/2026-SETUC/2026",
+      "objeto": "AQUISIÇÃO DE INSTRUMENTOS MUSICAL PARA ATENDER AS NECESSIDADES DA BANDA MUSICAL CAETANO GUEDES, JUNTO A SECRETARIA MUNICIPAL DE TURISMO E CULTURA DO MUNICIPIO DE FORTIM - CEARÁ, COM RECURSOS ORIUNDOS DE TRANSFERÊNCIA DE FUNDO A FUNDO, PROGRAMA DE FORTALECIMENTO DO SISTEMA ESTADUAL DA CULTURA.",
+      "orgao": "MUNICIPIO DE FORTIM",
+      "cnpj_orgao": "35050756000120",
+      "municipio": "Fortim",
       "uf": "CE",
-      "modalidade": "Concurso",
-      "amparo_legal": "Lei 14.133/2021, Art. 28, III concurso: modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor",
-      "valor_estimado": 5500.0,
-      "data_publicacao": "2026-11-18T12:45:01",
-      "data_abertura": "2026-11-13T10:00:00",
-      "data_limite": "2026-11-13T10:00:00",
-      "link": "https://pncp.gov.br/app/editais/07954480000179/1/027493/2026",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-19T11:39:22.102553605",
+      "data_abertura": "",
+      "data_limite": "2026-12-03T08:00",
+      "link": "https://pncp.gov.br/compras/35050756000120/2026/124",
       "link_origem": "",
       "score": 12,
       "categoria": "OUTRO_ARTISTICO",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
+          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "2bde9f3b6f2df5bc"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "07954480000179-1-027495/2026",
-      "titulo": "Concurso 202636522/2026",
-      "objeto": "Contratação musical para apresentação em evento oficial do Governo do Estado do Ceará: “INAUGURAÇÃO DA EEMTI COELHO MASCARENHAS”, do cantor(a)/ Grupo Musical “JESSICA ROCHA ” no dia 17 de novembro de 2026, no Município de Novo Oriente - Ce",
-      "orgao": "ESTADO DO CEARA",
-      "cnpj_orgao": "07954480000179",
-      "municipio": "Fortaleza",
-      "uf": "CE",
-      "modalidade": "Concurso",
-      "amparo_legal": "Lei 14.133/2021, Art. 28, III concurso: modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor",
-      "valor_estimado": 7000.0,
-      "data_publicacao": "2026-11-18T13:18:18",
-      "data_abertura": "2026-11-13T10:00:00",
-      "data_limite": "2026-11-13T10:00:00",
-      "link": "https://pncp.gov.br/app/editais/07954480000179/1/027495/2026",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "aa67667d4cf51783"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "07954480000179-1-027497/2026",
-      "titulo": "Concurso 202636540/2026",
-      "objeto": "Contratação musical para apresentação em evento oficial do Governo do Estado do Ceará: “INAUGURAÇÃO DE EEMTI PE. RODOLFO FERREIRA DA CUNHA ”, do cantor(a)/ Grupo Musical “DOSE DUPLA ” no dia 17 de novembro de 2026, no Município de Trairi - Ce.",
-      "orgao": "ESTADO DO CEARA",
-      "cnpj_orgao": "07954480000179",
-      "municipio": "Fortaleza",
-      "uf": "CE",
-      "modalidade": "Concurso",
-      "amparo_legal": "Lei 14.133/2021, Art. 28, III concurso: modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor",
-      "valor_estimado": 5500.0,
-      "data_publicacao": "2026-11-18T13:54:40",
-      "data_abertura": "2026-11-13T10:00:00",
-      "data_limite": "2026-11-13T10:00:00",
-      "link": "https://pncp.gov.br/app/editais/07954480000179/1/027497/2026",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "OUTRO_ARTISTICO",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "012d99632c6930fc"
+      "uid": "01377cbcbd13a5f1"
     }
   ]
 }
