@@ -1,27 +1,62 @@
 {
-  "gerado_em": "2026-11-26T03:24:16",
-  "total_brutos": 686,
-  "total_aprovados": 145,
-  "total_novos": 11,
+  "gerado_em": "2026-11-26T19:56:44",
+  "total_brutos": 357,
+  "total_aprovados": 90,
+  "total_novos": 4,
   "oportunidades": [
     {
       "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2707404/2026-11-25/4bbb35ce0bd786719161d4c973aa4437.txt",
-      "titulo": "DOM Porto de Pedras/AL 2026-11-25",
-      "objeto": "novembro de 2026.\n\nMANOEL COSTA TENÓRIO\nPrefeito\n\nPublicado por:\nMaria Luisa Nazario Barbosa\n\n\nCódigo Identificador:F76B1C51\n\n\nCOMISSÃO PERMANENTE DE LICITAÇÃO\nEXTRATO DE CONTRATO POR INEXIGIBILIDADE DE\n\nLICITAÇÃO\n\nPROCESSO:  11130025/2026.  INEXIGIBILIDADE  DE\nLICITAÇÃO  nº  20/2026.  OBJETO:  O  objeto  do  presente\ninstrumento é a contratação de show musical da banda CHAU DO\nPIFE, no dia 28 de novembro de 2026 a partir das 22h00min, com\nduração  de  01h30min  (uma  hora  e  trinta  minutos)  de  show,  nas\nfestividades  da  XXXIX  Festa  da  Cultura  (39ª\nedição):CONTRATANTE:  MUNICÍPIO  DE  QUEBRANGULO,\npessoa Jurídica de Direito Público Interno, inscrito no CNPJ/MF sob\no n° 12.241.675/0001-01.",
-      "orgao": "Porto de Pedras",
+      "id_externo": "https://data.queridodiario.ok.org.br/3513850/2026-11-25/ad67c69f27af11e3fde3c2f6e183cd46c1e84ec8.txt",
+      "titulo": "DOM Dirce Reis/SP 2026-11-25",
+      "objeto": "EXECUTIVO\nPoder Executivo\n\nLicitações e Contratos\nLicitações e Contratos\n\nInexigibilidade\nInexigibilidade\n\nTERMO DE HOMOLOGAÇÃO E AUTORIZAÇÃO\nProcesso nº 69/2026 - Inexigibilidade de Licitação nº\n\n09/2026  -  Objeto:  Contratação  de  apresentação\nartística do cantor “Jeninho MC Peão”, por meio de\nseu empresário exclusivo, para realização de show\nmusical ao vivo, em comemoração ao 67º Aniversário\ndo Município de Dirce Reis/SP, a ser realizado no dia\n6 de janeiro de 2027.\n\nÀ  vista  dos  elementos  constantes  dos  autos  do\nprocesso administrativo em referência, e em observância à\nlegis lação  apl icável ,  HOMOLOGO  a  presente\nInexigibilidade de Licitação, com fundamento no art. 74,\ninciso  94, § 2º, da Lei nº 14.133/2021)\n\nPROCESSO:  Nº  69/2026.  INEXIGIBILIDADE:  Nº\n09/2026.  CONTRATO:  Nº  37/2026.  CONTRATANTE:\nPREFEITURA DO MUNICÍPIO DE DIRCE REIS. CONTRATADA:\nNOVA  HIT  PRODUCOES  LTDA.  OBJETO:  Contratação  de\napresentação artística do cantor “Jeninho MC Peão”,  por\nmeio de seu empresário exclusivo, para realização de show\nmusical ao vivo, em comemoração ao 67º Aniversário do\nMunicípio de Dirce Reis/SP,  a ser  realizado no dia 6 de\njaneiro de 2027. VALOR: R$ 130.000,00 (cento e trinta mil\nreais).\n\nDESCRIÇÃO E ESPECIFICAÇÃO DOS SERVIÇOS:\n\nDETALHAMENTO VALORES\n\nCachê do Artista R$ 51.140,00\n\nCachê do DJ e Dançarinas R$ 9.400,00\n\nCachê Técnico (Técnicos,\nProdução, Auxiliares 2026.\nPROF. MARCELO JOSÉ BERNARDO\n\nPrefeito do Município\nEXTRATO DE CONTRATO Nº 37/2026\n\nCONTRATANTE: PREFEITURA DO MUNICÍPIO DE DIRCE\nREIS.  CONTRATADA:  NOVA  HIT  PRODUCOES  LTDA.\nASSINATURA:  19/11/2026.  OBJETO:  Contratação  de\napresentação artística do cantor “Jeninho MC Peão”,  por\nmeio de seu empresário exclusivo, para realização de show\nmusical ao vivo, em comemoração ao 67º Aniversário do\nMunicípio de Dirce Reis/SP,  a ser  realizado no dia 6 de\njaneiro de 2027. VALOR: R$ 130.000,00 (cento e trinta mil\nreais).  VIGÊNCIA:  Até  06/02/2027.  MODALIDADE:\nInexigibilidade  de  Licitação  nº  09/2026  –  Processo  nº\n69/2026. FUNDAMENTO LEGAL: Art. 74, inciso II, da Lei\nn°  14.133/2021.",
+      "orgao": "Dirce Reis",
       "cnpj_orgao": "",
-      "municipio": "Porto de Pedras",
-      "uf": "AL",
+      "municipio": "Dirce Reis",
+      "uf": "SP",
       "modalidade": "",
       "amparo_legal": "",
       "valor_estimado": null,
       "data_publicacao": "2026-11-25",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-11-25/1f6091a87b642150aff0f51dc276b526979750cf.pdf",
+      "link": "https://data.queridodiario.ok.org.br/3513850/2026-11-25/ad67c69f27af11e3fde3c2f6e183cd46c1e84ec8.pdf",
       "link_origem": "",
-      "score": 28,
+      "score": 40,
+      "categoria": "INEXIGIBILIDADE_ART74",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
+          "\\bempresario exclusivo\\b"
+        ],
+        "B": [
+          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)"
+        ],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "EXECUTIVO\nPoder Executivo\n\nLicitações e Contratos\nLicitações e Contratos\n\nInexigibilidade\nInexigibilidade\n\nTERMO DE HOMOLOGAÇÃO E AUTORIZAÇÃO\nProcesso nº 69/2026 - Inexigibilidade de Licitação nº\n\n09/2026  -  Objeto:  Contratação  de  apresentação\nartística do cantor “Jeninho MC Peão”, por meio de\nseu empresário exclusivo, para realização de show\nmusical ao vivo, em comemoração ao 67º Aniversário\ndo Município de Dirce Reis/SP, a ser realizado no dia\n6 de janeiro de 2027.\n\nÀ  vista  dos  elementos  constantes  dos  autos  do\nprocesso administrativo em referência, e em observância à\nlegis lação  apl icável ,  HOMOLOGO  a  presente\nInexigibilidade de Licitação, com fundamento no art. 74,\ninciso  94, § 2º, da Lei nº 14.133/2021)\n\nPROCESSO:  Nº  69/2026.  INEXIGIBILIDADE:  Nº\n09/2026.  CONTRATO:  Nº  37/2026.  CONTRATANTE:\nPREFEITURA DO MUNICÍPIO DE DIRCE REIS. CONTRATADA:\nNOVA  HIT  PRODUCOES  LTDA.  OBJETO:  Contratação  de\napresentação artística do cantor “Jeninho MC Peão”,  por\nmeio de seu empresário exclusivo, para realização de show\nmusical ao vivo, em comemoração ao 67º Aniversário do\nMunicípio de Dirce Reis/SP,  a ser  realizado no dia 6 de\njaneiro de 2027. VALOR: R$ 130.000,00 (cento e trinta mil\nreais).\n\nDESCRIÇÃO E ESPECIFICAÇÃO DOS SERVIÇOS:\n\nDETALHAMENTO VALORES\n\nCachê do Artista R$ 51.140,00\n\nCachê do DJ e Dançarinas R$ 9.400,00\n\nCachê Técnico (Técnicos,\nProdução, Auxiliares 2026.\nPROF. MARCELO JOSÉ BERNARDO\n\nPrefeito do Município\nEXTRATO DE CONTRATO Nº 37/2026\n\nCONTRATANTE: PREFEITURA DO MUNICÍPIO DE DIRCE\nREIS.  CONTRATADA:  NOVA  HIT  PRODUCOES  LTDA.\nASSINATURA:  19/11/2026.  OBJETO:  Contratação  de\napresentação artística do cantor “Jeninho MC Peão”,  por\nmeio de seu empresário exclusivo, para realização de show\nmusical ao vivo, em comemoração ao 67º Aniversário do\nMunicípio de Dirce Reis/SP,  a ser  realizado no dia 6 de\njaneiro de 2027. VALOR: R$ 130.000,00 (cento e trinta mil\nreais).  VIGÊNCIA:  Até  06/02/2027.  MODALIDADE:\nInexigibilidade  de  Licitação  nº  09/2026  –  Processo  nº\n69/2026. FUNDAMENTO LEGAL: Art. 74, inciso II, da Lei\nn°  14.133/2021.",
+      "uid": "77a3d0ef19ab9353"
+    },
+    {
+      "fonte": "querido_diario",
+      "id_externo": "https://data.queridodiario.ok.org.br/3525904/2026-11-25/1a7f94820f470be68d59f206aabd72e31d322c87.txt",
+      "titulo": "DOM Jundiaí/SP 2026-11-25",
+      "objeto": "A5 (148 X 210 MM), 8 \nPAGINAS - Qtde: 6400,0000 - Valor Unitário: R$ 0,4000 - Valor Total: \nR$ 2.560,0000\nValor Total: R$ 2.560,0000\n\nFLAVIO LUIS DE AMORIM NOGUEIRA\nSecretário Municipal de Promoção da Saúde\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 36058/2026\nInexigibilidade de Licitação nº 338/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: E. PERCINO DA SILVA CNPJ: 11.295.682/0001-23.\nIV - Valor Global: R$ 500,00 (Quinhentos reais).\nV - Prazo de Entrega: dezembro/2026.\nVI - Justificativa: Esta contratação artística se faz necessária o histórico praticado por \nesta Secretaria Municipal.\n\nWilliam Ramos\nDiretor do Departamento de Cultura\n\nGSMCULT\nRatifico a justificativa apresentada pelo Diretor do Departamento de \nCultura, acima, adjudico e homologo este procedimento de contratação \ndireta e autorizo a despesa e a emissão do empenho à E. PERCINO DA \nSILVA para o serviço de Show Musical no valor de R$500,00.\nPublique-se o respectivo Ato.\n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nEXTRATO DE EMPENHO\nEMPENHO Nº 30539/2026 CONTRATANTE: MUNICÍPIO DE JUNDIAÍ \n(PMJ).  CONTRATADA: ELÉTRICA PONTE LTDA ME VALOR TOTAL \nR$ 15000,00 OBJETO: AQUISIÇÃO DE POSTE DE CONCRETO \nDUPLO T - SMEL DESTINADO SECR. MUN. DE ESPORTE E LAZER",
+      "orgao": "Jundiaí",
+      "cnpj_orgao": "",
+      "municipio": "Jundiaí",
+      "uf": "SP",
+      "modalidade": "",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-25",
+      "data_abertura": "",
+      "data_limite": "",
+      "link": "https://data.queridodiario.ok.org.br/3525904/2026-11-25/1a7f94820f470be68d59f206aabd72e31d322c87.pdf",
+      "link_origem": "",
+      "score": 24,
       "categoria": "INEXIGIBILIDADE_ART74",
       "genero_alvo": false,
       "hits": {
@@ -29,344 +64,81 @@
           "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
           "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
         ],
-        "B": [
-          "\\bfestividade(s)?\\b"
-        ],
+        "B": [],
         "C": [],
         "NEG": []
       },
-      "trecho": "novembro de 2026.\n\nMANOEL COSTA TENÓRIO\nPrefeito\n\nPublicado por:\nMaria Luisa Nazario Barbosa\n\n\nCódigo Identificador:F76B1C51\n\n\nCOMISSÃO PERMANENTE DE LICITAÇÃO\nEXTRATO DE CONTRATO POR INEXIGIBILIDADE DE\n\nLICITAÇÃO\n\nPROCESSO:  11130025/2026.  INEXIGIBILIDADE  DE\nLICITAÇÃO  nº  20/2026.  OBJETO:  O  objeto  do  presente\ninstrumento é a contratação de show musical da banda CHAU DO\nPIFE, no dia 28 de novembro de 2026 a partir das 22h00min, com\nduração  de  01h30min  (uma  hora  e  trinta  minutos)  de  show,  nas\nfestividades  da  XXXIX  Festa  da  Cultura  (39ª\nedição):CONTRATANTE:  MUNICÍPIO  DE  QUEBRANGULO,\npessoa Jurídica de Direito Público Interno, inscrito no CNPJ/MF sob\no n° 12.241.675/0001-01.",
-      "uid": "00dae82ed509e210"
+      "trecho": "A5 (148 X 210 MM), 8 \nPAGINAS - Qtde: 6400,0000 - Valor Unitário: R$ 0,4000 - Valor Total: \nR$ 2.560,0000\nValor Total: R$ 2.560,0000\n\nFLAVIO LUIS DE AMORIM NOGUEIRA\nSecretário Municipal de Promoção da Saúde\n\nATO DE AUTORIZAÇÃO DE LICITAÇÃO INEXIGÍVEL\n\nProcesso SEI nº 36058/2026\nInexigibilidade de Licitação nº 338/26\nI - Objeto: Contratação de show musical, cujo Órgão gestor é a Secretaria \nMunicipal de Cultura.\nII - Fundamento Legal: Art. 74, inciso II, da Lei Federal nº 14.133/2021.\nIII - Contratada: E. PERCINO DA SILVA CNPJ: 11.295.682/0001-23.\nIV - Valor Global: R$ 500,00 (Quinhentos reais).\nV - Prazo de Entrega: dezembro/2026.\nVI - Justificativa: Esta contratação artística se faz necessária o histórico praticado por \nesta Secretaria Municipal.\n\nWilliam Ramos\nDiretor do Departamento de Cultura\n\nGSMCULT\nRatifico a justificativa apresentada pelo Diretor do Departamento de \nCultura, acima, adjudico e homologo este procedimento de contratação \ndireta e autorizo a despesa e a emissão do empenho à E. PERCINO DA \nSILVA para o serviço de Show Musical no valor de R$500,00.\nPublique-se o respectivo Ato.\n\nClarina Ana Fasanaro\nSecretária Municipal de Cultura\n\nEXTRATO DE EMPENHO\nEMPENHO Nº 30539/2026 CONTRATANTE: MUNICÍPIO DE JUNDIAÍ \n(PMJ).  CONTRATADA: ELÉTRICA PONTE LTDA ME VALOR TOTAL \nR$ 15000,00 OBJETO: AQUISIÇÃO DE POSTE DE CONCRETO \nDUPLO T - SMEL DESTINADO SECR. MUN. DE ESPORTE E LAZER",
+      "uid": "af1115c3df2f4e7a"
     },
     {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2700102/2026-11-25/68f70bdd3f48a275a4ac2a7d0ac00493.txt",
-      "titulo": "DOM Água Branca/AL 2026-11-25",
-      "objeto": "Publicado por:\nMarlon Ferreira da Silva\n\n\nCódigo Identificador:0F506E5C\n\n\nESTADO DE ALAGOAS\nPREFEITURA MUNICIPAL DE BELÉM\n\nCOMISSÃO PERMANENTE DE LICITAÇÃO\nEXTRATO DE CONTRATO\n\nEXTRATO  DE  CONTRATO  POR  INEXIGIBILIDADE  DE\nLICITAÇÃO\nPROCESSO: 11120002/2026.\nINEXIGIBILIDADE DE LICITAÇÃO n.º 030/2026.\nOBJETO: contratação mediante inexigibilidade para show musical\ndo artista FABINHO TESTADO, que se apresentará em 28/11/2026\nem  comemoração  às  Festividades  do  Povoado  Cabeça  Dantas  do\nMunicípio de Belém/AL.\nCONTRATANTE:  MUNICÍPIO  DE  BELÉM,  CNPJ/MF  n.°\n12.227.641/0001-62.\nCONTRATADA:  FT  SHOWS  LTDA  (FT  SHOWS),  CNPJ  n.º\n39.998.900/0001-05.\nVIGÊNCIA: O prazo de vigência da contratação é de",
-      "orgao": "Água Branca",
-      "cnpj_orgao": "",
-      "municipio": "Água Branca",
-      "uf": "AL",
-      "modalidade": "",
+      "fonte": "pncp_search",
+      "id_externo": "01519467000105-1-000071/2026",
+      "titulo": "Edital nº PE-033/2026/2026",
+      "objeto": "“Contratação de empresa para a prestação de serviços de locação, montagem e  desmontagem de estruturas de palco, sistemas de sonorização e iluminação, com apoio  técnico-operacional, bem como para a contratação de bandas locais e regionais para  apresentações artísticas durante as festividades comemorativas do aniversário de  emancipação política do Município de São Luís do Piauí/PI, conforme as especificações e  condições estabelecidas no Termo de Referência",
+      "orgao": "MUNICIPIO DE SAO LUIS DO PIAUI",
+      "cnpj_orgao": "01519467000105",
+      "municipio": "São Luis do Piauí",
+      "uf": "PI",
+      "modalidade": "Pregão - Eletrônico",
       "amparo_legal": "",
       "valor_estimado": null,
-      "data_publicacao": "2026-11-25",
+      "data_publicacao": "2026-11-26T16:06:17.582900317",
       "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-11-25/1f6091a87b642150aff0f51dc276b526979750cf.pdf",
+      "data_limite": "2026-12-10T07:30",
+      "link": "https://pncp.gov.br/compras/01519467000105/2026/71",
       "link_origem": "",
-      "score": 16,
-      "categoria": "INEXIGIBILIDADE_ART74",
+      "score": 12,
+      "categoria": "EVENTO_MUNICIPAL",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
         ],
         "B": [
+          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
           "\\bfestividade(s)?\\b"
         ],
         "C": [],
-        "NEG": []
-      },
-      "trecho": "Publicado por:\nMarlon Ferreira da Silva\n\n\nCódigo Identificador:0F506E5C\n\n\nESTADO DE ALAGOAS\nPREFEITURA MUNICIPAL DE BELÉM\n\nCOMISSÃO PERMANENTE DE LICITAÇÃO\nEXTRATO DE CONTRATO\n\nEXTRATO  DE  CONTRATO  POR  INEXIGIBILIDADE  DE\nLICITAÇÃO\nPROCESSO: 11120002/2026.\nINEXIGIBILIDADE DE LICITAÇÃO n.º 030/2026.\nOBJETO: contratação mediante inexigibilidade para show musical\ndo artista FABINHO TESTADO, que se apresentará em 28/11/2026\nem  comemoração  às  Festividades  do  Povoado  Cabeça  Dantas  do\nMunicípio de Belém/AL.\nCONTRATANTE:  MUNICÍPIO  DE  BELÉM,  CNPJ/MF  n.°\n12.227.641/0001-62.\nCONTRATADA:  FT  SHOWS  LTDA  (FT  SHOWS),  CNPJ  n.º\n39.998.900/0001-05.\nVIGÊNCIA: O prazo de vigência da contratação é de",
-      "uid": "24671143d6da7694"
-    },
-    {
-      "fonte": "querido_diario",
-      "id_externo": "https://data.queridodiario.ok.org.br/2704708/2026-11-25/cf7e11e91bead9d9cb4bbadfa3c33bac.txt",
-      "titulo": "DOM Marechal Deodoro/AL 2026-11-25",
-      "objeto": "HOMOLOGA,  em  24  de\nnovembro  de  2026,  a  CONTRATAÇÃO  DIRETA  por\nINEXIGIBILIDADE  DE  LICITAÇÃO  nº  16/2026,  acolhendo  os\najsutes  e  adequações  estabelecidas  pelo  Parecer  Jurídico  da\nProcuradoria-Geral do Município, cujo objeto é a CONTRATAÇÃO\nDE  PROFISSIONAIS  DO  SETOR  ARTÍSTICO  –  CANTOR\nHEITOR SANTOS – PARA REALIZAÇÃO DE SHOW MUSICAL\nNO PÁTIO DE EVENTOS, CENTRO, EM COMEMORAÇÃO ÀS\nFESTIVIDADES ALUSIVAS À EMANCIPAÇÃO POLÍTICA DO\n\n\n\n\nwww.diariomunicipal.com.br/ama 30\n\n\n\nMUNICÍPIO DE NOVO LINO/AL (NOVO LINO FEST 2026), a ser\nformalizada  com  a  empresa  representante  exclusiva  HEITOR\nSANTOS PRODUÇÕES E EVENTOS LTDA.,  pessoa jurídica  de\ndireito privado inscrita no CNPJ sob",
-      "orgao": "Marechal Deodoro",
-      "cnpj_orgao": "",
-      "municipio": "Marechal Deodoro",
-      "uf": "AL",
-      "modalidade": "",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-25",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://data.queridodiario.ok.org.br/2700000/2026-11-25/1f6091a87b642150aff0f51dc276b526979750cf.pdf",
-      "link_origem": "",
-      "score": 16,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
-        ],
-        "B": [
-          "\\bfestividade(s)?\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "HOMOLOGA,  em  24  de\nnovembro  de  2026,  a  CONTRATAÇÃO  DIRETA  por\nINEXIGIBILIDADE  DE  LICITAÇÃO  nº  16/2026,  acolhendo  os\najsutes  e  adequações  estabelecidas  pelo  Parecer  Jurídico  da\nProcuradoria-Geral do Município, cujo objeto é a CONTRATAÇÃO\nDE  PROFISSIONAIS  DO  SETOR  ARTÍSTICO  –  CANTOR\nHEITOR SANTOS – PARA REALIZAÇÃO DE SHOW MUSICAL\nNO PÁTIO DE EVENTOS, CENTRO, EM COMEMORAÇÃO ÀS\nFESTIVIDADES ALUSIVAS À EMANCIPAÇÃO POLÍTICA DO\n\n\n\n\nwww.diariomunicipal.com.br/ama 30\n\n\n\nMUNICÍPIO DE NOVO LINO/AL (NOVO LINO FEST 2026), a ser\nformalizada  com  a  empresa  representante  exclusiva  HEITOR\nSANTOS PRODUÇÕES E EVENTOS LTDA.,  pessoa jurídica  de\ndireito privado inscrita no CNPJ sob",
-      "uid": "178e3009be2d1ac3"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "16444804000110-1-000085/2026",
-      "titulo": "Credenciamento 005/2026",
-      "objeto": "Credenciamento de artistas locais interessados em prestar serviços artísticos (músicos, grupos e bandas musicais locais), em eventos culturais promovidos ou apoiados pela gestão municipal, para atender as demandas do Município de Sobradinho/BA",
-      "orgao": "MUNICIPIO DE SOBRADINHO",
-      "cnpj_orgao": "16444804000110",
-      "municipio": "Sobradinho",
-      "uf": "BA",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 340000.0,
-      "data_publicacao": "2026-11-24T12:29:05",
-      "data_abertura": "2026-10-27T10:00:00",
-      "data_limite": "2027-10-27T10:00:00",
-      "link": "https://pncp.gov.br/app/editais/16444804000110/1/000085/2026",
-      "link_origem": "https://imcompras.org/informacoescomplementares.php?cod_processo=1066966",
-      "score": 52,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bbanda(s)? (musical|musicais|de baile|sertaneja|sertanejas)\\b",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
-          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)",
-          "\\bartista(s)? (local|locais|regional|regionais|nacional|nacionais|consagrado|consagrados)"
-        ],
-        "B": [
-          "\\bevento(s)? (cultural|culturais|festivo|festivos)\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "a8e7aff1895a6e9d"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "45547403000193-1-000111/2026",
-      "titulo": "Credenciamento 5/2026",
-      "objeto": "Seleção de projetos para celebração de termo de execução cultural com recursos da política nacional Aldir Blanc de fomento à cultura – PNAB (lei nº 14.399/2022)",
-      "orgao": "MUNICIPIO DE BASTOS",
-      "cnpj_orgao": "45547403000193",
-      "municipio": "Bastos",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 29580.0,
-      "data_publicacao": "2026-11-24T16:58:16",
-      "data_abertura": "2026-11-25T07:00:00",
-      "data_limite": "2026-12-02T23:59:00",
-      "link": "https://pncp.gov.br/app/editais/45547403000193/1/000111/2026",
-      "link_origem": "",
-      "score": 27,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "537e2a87cd8c28f7"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "45358249000101-1-001214/2026",
-      "titulo": "Credenciamento 812/2026",
-      "objeto": "Contratação da proponente LUIZA CAMPOS MARTINS, CPF: 450.294.098-40, para apresentação do projeto A melhor história do mundo!, selecionado e classificado no  edital do Chamamento Público 01/2025, para seleção de artistas, duplas e trios, e grupos artísticos, a ser realizada no projeto \"Natal 2026 de São Carlos\", a ser realizado dia 06/12/2026, às 10h na Praça do Mercado Municipal.",
-      "orgao": "MUNICIPIO DE SAO CARLOS",
-      "cnpj_orgao": "45358249000101",
-      "municipio": "São Carlos",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 1500.0,
-      "data_publicacao": "2026-11-24T13:37:15",
-      "data_abertura": "2026-11-24T13:34:00",
-      "data_limite": "2026-11-24T13:34:00",
-      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001214/2026",
-      "link_origem": "",
-      "score": 21,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
-        ],
-        "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "422f00c2872a63f3"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "45358249000101-1-001216/2026",
-      "titulo": "Credenciamento 813/2026",
-      "objeto": "Contratação do proponente FERNANDO RODRIGO DE ARAUJO BERNI, CPF: 038.693.606-40, para apresentação do projeto VEM PRETEXTAR COM A GENTE!, autoral, selecionado e classificado no Edital do Chamamento Público 01/2025, para seleção de artistas, duplas e trios e grupos artísticos, a ser realizada no projeto \"Natal 2026 de São Carlos\", a ser realizado dia 05/12/2026, às 19h na Praça do Mercado Municipal.",
-      "orgao": "MUNICIPIO DE SAO CARLOS",
-      "cnpj_orgao": "45358249000101",
-      "municipio": "São Carlos",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 6000.0,
-      "data_publicacao": "2026-11-24T16:31:48",
-      "data_abertura": "2026-11-24T16:30:00",
-      "data_limite": "2026-11-24T16:30:00",
-      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001216/2026",
-      "link_origem": "",
-      "score": 21,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
-        ],
-        "B": [],
-        "C": [
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "b2f804a3d0b84074"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "13743760000130-1-000146/2026",
-      "titulo": "Credenciamento 0002/2026",
-      "objeto": "EDITAL DE CHAMAMENTO PÚBLICO Nº 0002/2026 - OBJETO: Chamamento Público paraCREDENCIAMENTO de artistas, grupos, coletivos e agentes culturais para a execução de apresentações e açõesartístico-culturais no âmbito da Mostra Aldir Blanc de Cultura do Município de Itambé – BA, Edição 2026.",
-      "orgao": "MUNICIPIO DE ITAMBE",
-      "cnpj_orgao": "13743760000130",
-      "municipio": "Itambé",
-      "uf": "BA",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 72000.0,
-      "data_publicacao": "2026-11-25T09:33:44",
-      "data_abertura": "2026-11-25T14:00:01",
-      "data_limite": "2026-12-07T08:00:01",
-      "link": "https://pncp.gov.br/app/editais/13743760000130/1/000146/2026",
-      "link_origem": "",
-      "score": 18,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\baldir blanc\\b",
-          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
-        ],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "498bb9f36e939d46"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "44616474000138-1-000103/2026",
-      "titulo": "Credenciamento (40374) | 9-0/2026",
-      "objeto": "SOLICITAÇÃO DE CHAMADA PUBLICA, PARA SELELÇÃO DE PROJETOS PARA FIRMA TERMO D EEXECUÇAO CULTURAL COM RECURSOS DA POLITICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA PNAB (LEI N 14.399/2022), PARA MANUTENÇÃO DAS ATIVIDADES DA DIFUSAO CULTURAL",
-      "orgao": "FUNDO MUNICIPAL DE EDUCACAO DE GOIANDIRA - FME",
-      "cnpj_orgao": "44616474000138",
-      "municipio": "Goiandira",
-      "uf": "GO",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, II Credenciamento: na hipótese de contratação com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação.",
-      "valor_estimado": 48333.34,
-      "data_publicacao": "2026-11-24T16:20:05",
-      "data_abertura": "2026-11-09T08:00:00",
-      "data_limite": "2026-11-13T00:00:00",
-      "link": "https://pncp.gov.br/app/editais/44616474000138/1/000103/2026",
-      "link_origem": "",
-      "score": 17,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [],
-        "B": [],
-        "C": [
-          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
-          "\\baldir blanc\\b",
-          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
-        ],
         "NEG": [
-          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
+          "\\bmontagem e desmontagem\\b",
+          "\\bestrutura(s)? (metalica|metalicas|para eventos|de palco)\\b"
         ]
       },
       "trecho": "",
-      "uid": "4dcf2499bf808851"
+      "uid": "98472855a38c2bd2"
     },
     {
-      "fonte": "pncp",
-      "id_externo": "46634481000198-1-000269/2026",
-      "titulo": "Credenciamento 90013/2026",
-      "objeto": "Chamamento público para credenciamento de bandas",
-      "orgao": "MUNICIPIO DE PORTO FELIZ",
-      "cnpj_orgao": "46634481000198",
-      "municipio": "Porto Feliz",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 113508.32,
-      "data_publicacao": "2026-11-24T15:14:20",
-      "data_abertura": "2026-06-08T00:00:00",
-      "data_limite": "2026-06-08T09:00:00",
-      "link": "https://pncp.gov.br/app/editais/46634481000198/1/000269/2026",
+      "fonte": "pncp_search",
+      "id_externo": "00007914000184-1-000158/2026",
+      "titulo": "Aviso de Contratação Direta nº 341/2026",
+      "objeto": "Contratação de artista para realização de apresentação artístico-musical (show), com duração de 02 (duas) horas, no dia 12 de dezembro de 2026, para atender a necessidade do Município de Arenópolis-GO.",
+      "orgao": "MUNICIPIO DE ARENOPOLIS",
+      "cnpj_orgao": "00007914000184",
+      "municipio": "Arenópolis",
+      "uf": "GO",
+      "modalidade": "Dispensa",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-26T13:57:48.804198190",
+      "data_abertura": "",
+      "data_limite": "2026-12-02T17:00",
+      "link": "https://pncp.gov.br/compras/00007914000184/2026/158",
       "link_origem": "",
       "score": 12,
-      "categoria": "CREDENCIAMENTO_ART79",
+      "categoria": "OUTRO_ARTISTICO",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "c100aa47b5dd8d26"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "45358249000101-1-001223/2026",
-      "titulo": "Credenciamento 817/2026",
-      "objeto": "Contratação de serviços de atração artística circense ' POCKET SHOW\", do proponente Estação do Circo Produções Artísticas LTDA ME, selecionado através do Chamamento Público 01/2025,  para apresentação relativos a formatura das turmas do programa ACT E programa Familias Fortes, no dia 0 de dezembro de 2026, às 18h45 Local: Cemac – Centro .Municipal de Cultura e Artes de São Carlos, promovida pela SMFam - Secretaria Municipal das Famílias. Emenda parlamentar 126 do vereador André Rebello -protocolo 9504/25 - R$ 6.500,00 - Dados Bancários: Banco: Banco do Brasil. Agência: 0295-X conta: 114.840-0 (Código 507)",
-      "orgao": "MUNICIPIO DE SAO CARLOS",
-      "cnpj_orgao": "45358249000101",
-      "municipio": "São Carlos",
-      "uf": "SP",
-      "modalidade": "Credenciamento",
-      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
-      "valor_estimado": 6500.0,
-      "data_publicacao": "2026-11-25T14:55:11",
-      "data_abertura": "2026-11-25T14:54:00",
-      "data_limite": "2026-11-25T14:54:00",
-      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001223/2026",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "CREDENCIAMENTO_ART79",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\batrac(ao|oes) (artistica|artisticas|musical|musicais|nacional|nacionais|regional|regionais)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "527ddcaaa8ddc662"
+      "uid": "4f9de63ee9f123d8"
     }
   ]
 }
