@@ -1,34 +1,295 @@
 {
-  "gerado_em": "2026-11-28T03:08:42",
-  "total_brutos": 359,
-  "total_aprovados": 136,
-  "total_novos": 16,
+  "gerado_em": "2026-11-28T18:37:08",
+  "total_brutos": 978,
+  "total_aprovados": 147,
+  "total_novos": 15,
   "oportunidades": [
     {
       "fonte": "pncp",
-      "id_externo": "46422408000152-1-000653/2026",
-      "titulo": "Inexigibilidade 213/2026",
-      "objeto": "Contratação de proponente para realização de apresentações musicais ao vivo denominado “BANDA TOK SPECIAL”, inscritos no Chamamento Público 03/2025- Credenciamento de Artistas, Grupos Artísticos e Profissionais Técnicos de Cultura e Turismo.",
-      "orgao": "MUNICIPIO DE SANTA BARBARA D'OESTE",
-      "cnpj_orgao": "46422408000152",
-      "municipio": "Santa Bárbara d'Oeste",
-      "uf": "SP",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
-      "valor_estimado": 4800.0,
-      "data_publicacao": "2026-11-25T08:00:24",
-      "data_abertura": "",
+      "id_externo": "16444804000110-1-000087/2026",
+      "titulo": "Credenciamento 007/2026",
+      "objeto": "Credenciamento de pessoas jurídicas para o fornecimento de refeições completas e bebidas não alcoólicas destinadas à Confraternização Tradicional dos Vaqueiros, a ser realizada no dia 15 de novembro de 2026 (domingo), durante a programação do 22º Forró do Vaqueiro de Sobradinho/BA",
+      "orgao": "MUNICIPIO DE SOBRADINHO",
+      "cnpj_orgao": "16444804000110",
+      "municipio": "Sobradinho",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 145725.0,
+      "data_publicacao": "2026-11-27T10:22:19",
+      "data_abertura": "2026-11-12T10:00:00",
+      "data_limite": "2026-12-31T10:00:00",
+      "link": "https://pncp.gov.br/app/editais/16444804000110/1/000087/2026",
+      "link_origem": "https://imcompras.org/informacoescomplementares.php?cod_processo=5332574",
+      "score": 18,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": true,
+      "hits": {
+        "A": [
+          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "964c1fd1f3b9f048"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "76105634000170-1-000299/2026",
+      "titulo": "Credenciamento PRI 63/2026",
+      "objeto": "Chamamento Público 011/2026. Seleção de Entidades ou Coletivos Culturais para premiação de Pontos de Cultura, com base na Política Nacional de Cultura Viva (Lei nº 13.018/2014) e com recursos da Política Nacional Aldir Blanc de Fomento a Cultura (PNAB) - Lei  14.399/2022.",
+      "orgao": "MUNICIPIO DE COLOMBO",
+      "cnpj_orgao": "76105634000170",
+      "municipio": "Colombo",
+      "uf": "PR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 180000.0,
+      "data_publicacao": "2026-11-26T16:34:43",
+      "data_abertura": "2026-10-29T00:00:00",
       "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/46422408000152/1/000653/2026",
+      "link": "https://pncp.gov.br/app/editais/76105634000170/1/000299/2026",
       "link_origem": "",
       "score": 45,
-      "categoria": "INEXIGIBILIDADE_ART74",
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b",
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)",
+          "\\bpremiac(ao|oes)\\b.{0,40}\\b(cultur|artist|music)"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "3942dbc3a50ed952"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "13673314000105-1-000191/2026",
+      "titulo": "Credenciamento 015/2026/2026",
+      "objeto": "CREDENCIAMENTO DE PESSOAS FÍSICAS OU JURÍDICAS PARA PRESTAÇÃO DE SERVIÇOS ARTÍSTICOS E CULTURAIS, ABRANGENDO ARTISTAS AMADORES, INICIANTES, INDEPENDENTES, GRUPOS MUSICAIS, COLETIVOS ARTÍSTICOS E REPRESENTANTES DAS DIVERSAS MANIFESTAÇÕES CULTURAIS, PARA REALIZAÇÃO DE SHOWS, APRESENTAÇÕES MUSICAIS E ATIVIDADES CULTURAIS NOS EVENTOS PROMOVIDOS OU APOIADOS PELO MUNICÍPIO DE DOM BASÍLIO – BA, VISANDO À VALORIZAÇÃO DOS TALENTOS LOCAIS E REGIONAIS, AO INCENTIVO À PRODUÇÃO ARTÍSTICA E À DEMOCRATIZAÇÃO DO ACESSO ÀS OPORTUNIDADES DE PARTICIPAÇÃO CULTURAL, CONFORME CONDIÇÕES, SEGMENTOS, QUANTITATIVOS E VALORES ESTABELECIDOS NO EDITAL E SEUS ANEXOS.",
+      "orgao": "MUNICIPIO DE DOM BASILIO",
+      "cnpj_orgao": "13673314000105",
+      "municipio": "Dom Basílio",
+      "uf": "BA",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 78, I Credenciamento: processo administrativo de chamamento público em que a Administração Pública convoca interessados em prestar serviços ou fornecer bens para que, preenchidos os requisitos necessários, se credenciem no órgão ou na entidade para executar o objeto quando convocados",
+      "valor_estimado": 289400.0,
+      "data_publicacao": "2026-11-27T11:58:22",
+      "data_abertura": "2026-11-30T08:00:00",
+      "data_limite": "2027-11-30T12:00:00",
+      "link": "https://pncp.gov.br/app/editais/13673314000105/1/000191/2026",
+      "link_origem": "licitacao.dombasilio@hotmail.com ",
+      "score": 36,
+      "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
           "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
           "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b",
-          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)"
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "9e0f77d4a563bac6"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "76105634000170-1-000298/2026",
+      "titulo": "Credenciamento PRI 69/2026",
+      "objeto": "Chamamento Público 010/2026 - Credenciamento de Seleção de Projetos destinados a recebe Apoio Financeiro para produção Cultural nas diversas áreas de atuação, conforme previsão contida na Lei Complementar nº 14.399/2022, (Política Nacional Aldir Blanc de Fomento à Cultura (PNAB).",
+      "orgao": "MUNICIPIO DE COLOMBO",
+      "cnpj_orgao": "76105634000170",
+      "municipio": "Colombo",
+      "uf": "PR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 140500.0,
+      "data_publicacao": "2026-11-26T11:45:08",
+      "data_abertura": "2026-11-25T00:10:10",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/76105634000170/1/000298/2026",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "5cc06994072c9c94"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "45370707000128-1-000153/2026",
+      "titulo": "Credenciamento 006/2026",
+      "objeto": "Seleção de projetos culturais para receberem apoio financeiro com o objetivo de incentivar as diversas formas de manifestações culturais do município de Pitangueiras em atendimento à POLITICA NACIONAL ALDIR BLANC DE FOMENTO Á CULTURA - PNAB (LEI Nº 14.399/2022) em atendimento a Secretaria Municipal de Cultura, Esporte e Turismo.",
+      "orgao": "MUNICIPIO DE PITANGUEIRAS",
+      "cnpj_orgao": "45370707000128",
+      "municipio": "Pitangueiras",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 50000.0,
+      "data_publicacao": "2026-11-26T15:26:50",
+      "data_abertura": "2026-12-01T00:00:00",
+      "data_limite": "2026-12-07T23:59:59",
+      "link": "https://pncp.gov.br/app/editais/45370707000128/1/000153/2026",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "41ddd5f4e7b2f9ca"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "76105634000170-1-000302/2026",
+      "titulo": "Credenciamento PRI 67/2026",
+      "objeto": "Chamamento Público 010/2026 - Credenciamento de Seleção de Projetos destinados a recebe Apoio Financeiro para produção Cultural nas diversas áreas de atuação, conforme previsão contida na Lei Complementar nº 14.399/2022, (Política Nacional Aldir Blanc de Fomento à Cultura (PNAB).",
+      "orgao": "MUNICIPIO DE COLOMBO",
+      "cnpj_orgao": "76105634000170",
+      "municipio": "Colombo",
+      "uf": "PR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 480500.0,
+      "data_publicacao": "2026-11-27T08:04:23",
+      "data_abertura": "2026-11-16T00:11:11",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/76105634000170/1/000302/2026",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "6d11a897025fc16a"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "76105634000170-1-000303/2026",
+      "titulo": "Credenciamento PRI 64/2026",
+      "objeto": "CHAMAMENTO PÚBLICO Nº. 012/2026, cujo objeto é a seleção de 02 (dois) Projetos - TCC, que promovam o acesso da população aos bens e aos serviços culturais nos territórios e comunidades onde atuam, nos termos da Política Nacional de Cultura Viva (Lei nº 13.018/2014) e com recursos da Política Nacional Aldir Blanc de Fomento a Cultura (PNAB) - Lei 14.399/2022.",
+      "orgao": "MUNICIPIO DE COLOMBO",
+      "cnpj_orgao": "76105634000170",
+      "municipio": "Colombo",
+      "uf": "PR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 100000.0,
+      "data_publicacao": "2026-11-27T08:16:52",
+      "data_abertura": "2026-11-03T00:00:11",
+      "data_limite": "",
+      "link": "https://pncp.gov.br/app/editais/76105634000170/1/000303/2026",
+      "link_origem": "",
+      "score": 27,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [],
+        "B": [],
+        "C": [
+          "\\bpnab\\b|\\bpolitica nacional aldir blanc\\b",
+          "\\baldir blanc\\b",
+          "\\bedital de fomento\\b|\\bfomento (cultural|a cultura|as artes)\\b"
+        ],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "7803b063a3a13928"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "14899354000124-1-000007/2026",
+      "titulo": "Credenciamento 8/2026",
+      "objeto": "CREDENCIAMENTO DE ARTISTAS, GRUPOS E PROFISSIONAIS DE ARTE E CULTURA PARA A EVENTUAL PRESTAÇÃO DE SERVIÇOS ARTÍSTICOS E CULTURAIS, SOB DEMANDA, DE ACORDO COM AS NECESSIDADES INSTITUCIONAIS DO CONSELHO DE ARQUITETURA E URBANISMO DE RORAIMA.",
+      "orgao": "CONSELHO DE ARQUITETURA E URBANISMO DE RORAIMA CAU - RR",
+      "cnpj_orgao": "14899354000124",
+      "municipio": "Boa Vista",
+      "uf": "RR",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 53000.0,
+      "data_publicacao": "2026-11-27T15:39:34",
+      "data_abertura": "2026-11-27T18:00:00",
+      "data_limite": "2027-11-26T17:59:00",
+      "link": "https://pncp.gov.br/app/editais/14899354000124/1/000007/2026",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bcredenciamento (de |para )?(artistas?|musicos?|bandas?|artistico|cultural|de grupos)",
+          "\\bservico(s)? (artistico|artisticos|de sonorizacao artistica)"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "d8e2ddae79a125b3"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "45358249000101-1-001234/2026",
+      "titulo": "Credenciamento 828/2026",
+      "objeto": "Contratação do proponente VERIDIANA DO NASCIMENTO, as  para apresentação do  Projeto\r\nBRASILEIRÍSSIMA , as 19h, selecionado e classificado no Edital do Chamamento Público\r\n01/2025, para seleção de artistas, duplas e trios, e grupos artísticos, a ser realizada no projeto\r\n\"Natal 2026 de São Carlos\", a ser realizado dia 28/11/2026 na Praça do Mercado Municipal.",
+      "orgao": "MUNICIPIO DE SAO CARLOS",
+      "cnpj_orgao": "45358249000101",
+      "municipio": "São Carlos",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 5000.0,
+      "data_publicacao": "2026-11-27T13:17:05",
+      "data_abertura": "2026-11-27T13:15:00",
+      "data_limite": "2026-11-27T13:15:00",
+      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001234/2026",
+      "link_origem": "",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
         ],
         "B": [],
         "C": [
@@ -37,433 +298,58 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "f76a0cbb6b8ecf99"
+      "uid": "ea238ef223a35613"
     },
     {
       "fonte": "pncp",
-      "id_externo": "24859332000194-1-000809/2026",
-      "titulo": "Inexigibilidade 19388/2026",
-      "objeto": "CONTRATAÇÃO DE ARTÍSTA MUSICAL EDSON E HUDSON, PARA REALIZAÇÃO DE SHOW ARTÍSTICO DURANTE AS FESTIVIDADES DO \"ANIVERSÁRIO DO MUNICÍPIO DE CHAPADÃO DO CÉU 2027\", A SER REALIZADO NA MADRUGADA DO DIA 21 D",
-      "orgao": "MUNICIPIO DE CHAPADAO DO CEU",
-      "cnpj_orgao": "24859332000194",
-      "municipio": "Chapadão do Céu",
-      "uf": "GO",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 450000.0,
-      "data_publicacao": "2026-11-25T08:18:34",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/24859332000194/1/000809/2026",
+      "id_externo": "45358249000101-1-001236/2026",
+      "titulo": "Credenciamento 830/2026",
+      "objeto": "Contratação do proponente MYLENE CORCCI,   para apresentação do  Projeto\" Solo pra um recomeço \", as 10h, selecionado e classificado no Edital do Chamamento Público 01/2025, para seleção de artistas, duplas e trios, e grupos artísticos, a ser realizada no projeto \"Natal 2026 de São Carlos\", a ser realizado dia 12/12/2026 na Praça do Mercado Municipal.",
+      "orgao": "MUNICIPIO DE SAO CARLOS",
+      "cnpj_orgao": "45358249000101",
+      "municipio": "São Carlos",
+      "uf": "SP",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 900.0,
+      "data_publicacao": "2026-11-27T13:50:43",
+      "data_abertura": "2026-11-27T13:49:00",
+      "data_limite": "2026-11-27T13:49:00",
+      "link": "https://pncp.gov.br/app/editais/45358249000101/1/001236/2026",
       "link_origem": "",
-      "score": 44,
-      "categoria": "INEXIGIBILIDADE_ART74",
+      "score": 21,
+      "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
       "hits": {
         "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [
-          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
-          "\\bfestividade(s)?\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "82ac5f3fcc40ca5f"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "24859332000194-1-000810/2026",
-      "titulo": "Inexigibilidade 19131/2026",
-      "objeto": "CONTRATAÇÃO DE APRESENTAÇÃO ARTÍSTICA MUSICAL DA DUPLA CONSAGRADA BRUNINHO E DAVI, PARA REALIZAÇÃO DE SHOW ARTÍSTICO DURANTE AS FESTIVIDADES DO \"ANIVERSÁRIO DO MUNICÍPIO DE CHAPADÃO DO CÉU 2027\", A SE",
-      "orgao": "MUNICIPIO DE CHAPADAO DO CEU",
-      "cnpj_orgao": "24859332000194",
-      "municipio": "Chapadão do Céu",
-      "uf": "GO",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 160000.0,
-      "data_publicacao": "2026-11-25T08:25:10",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/24859332000194/1/000810/2026",
-      "link_origem": "",
-      "score": 44,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [
-          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
-          "\\bfestividade(s)?\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "45a614edbd81fb50"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "76977768000181-1-000220/2026",
-      "titulo": "Inexigibilidade PRI 58/2026",
-      "objeto": "Contratação da empresa Lucas Paes Landim 08424676963 para apresentação de show da banda PEGADA LP para o Festival de Carnaval 2027, que ocorrerá no dia 07 de fevereiro de 2027, ofertado a população de Paranavaí, por meio da Fundação Cultural de Paranavaí. Incluídas as despesas com cachê artístico, produção, equipe técnica, cenografia, efeitos especiais, transporte, hospedagem, alimentação (abastecimento de camarim), carregadores e tributos. Com o tempo de duração da apresentação de show de 02h00 (duas horas), conforme proposta apresentada.",
-      "orgao": "MUNICIPIO DE PARANAVAI",
-      "cnpj_orgao": "76977768000181",
-      "municipio": "Paranavaí",
-      "uf": "PR",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 25000.0,
-      "data_publicacao": "2026-11-25T08:19:22",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/76977768000181/1/000220/2026",
-      "link_origem": "",
-      "score": 42,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
-          "\\bcache(s)? (artistico|artisticos|de artista|musical)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [
-          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
-        ],
-        "C": [],
-        "NEG": [
-          "\\balimenta(cao|coes)\\b|\\bbuffet\\b|\\bcoffee break\\b|\\bagua mineral\\b|\\bmarmita\\b"
-        ]
-      },
-      "trecho": "",
-      "uid": "424a36942f80a14c"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "76977768000181-1-000221/2026",
-      "titulo": "Inexigibilidade PRI 59/2026",
-      "objeto": "Contratação da empresa Jeferson Milek para apresentação de show da banda VOX TURECK para o Festival de Carnaval 2027, que ocorrerá no dia 06 de fevereiro de 2027, ofertado a população de Paranavaí, por meio da Fundação Cultural de Paranavaí. Incluídas as despesas com cachê artístico, transporte, hospedagem e alimentação (abastecimento de camarim). Com o tempo de duração da apresentação de show de 03h00 (três horas), conforme proposta apresentada.",
-      "orgao": "MUNICIPIO DE PARANAVAI",
-      "cnpj_orgao": "76977768000181",
-      "municipio": "Paranavaí",
-      "uf": "PR",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 22200.0,
-      "data_publicacao": "2026-11-25T08:20:44",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/76977768000181/1/000221/2026",
-      "link_origem": "",
-      "score": 42,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b",
-          "\\bapresentacao de (show|banda|dupla|artista|cantor)",
-          "\\bcache(s)? (artistico|artisticos|de artista|musical)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [
-          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
-        ],
-        "C": [],
-        "NEG": [
-          "\\balimenta(cao|coes)\\b|\\bbuffet\\b|\\bcoffee break\\b|\\bagua mineral\\b|\\bmarmita\\b"
-        ]
-      },
-      "trecho": "",
-      "uid": "372bb76a0b07d796"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "08109126000100-1-000653/2026",
-      "titulo": "Inexigibilidade 350/2026",
-      "objeto": "Contratação da Banda Thierry, representada pela empresa 45.195.182 THIERRE AMILTON ALMEIDA SILVA, inscrita no CNPJ nº 45.195.182/0001-31, para realização de apresentação musical no dia 31 de outubro de 2026, durante o encerramento da Festa de São Francisco padroeiro da comunidade Mirador zona rural em Currais Novos/RN.",
-      "orgao": "MUNICIPIO DE CURRAIS NOVOS",
-      "cnpj_orgao": "08109126000100",
-      "municipio": "Currais Novos",
-      "uf": "RN",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 2000.0,
-      "data_publicacao": "2026-11-25T07:30:17",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/08109126000100/1/000653/2026",
-      "link_origem": "",
-      "score": 36,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\bempresario exclusivo\\b"
+          "\\bgrupo(s)? (musical|musicais|artistico|artisticos)\\b"
         ],
         "B": [],
-        "C": [],
+        "C": [
+          "\\bchamamento publico\\b.{0,60}\\b(cultur|artist|music)"
+        ],
         "NEG": []
       },
       "trecho": "",
-      "uid": "b7719a3edc27ab5a"
+      "uid": "802c0e2d40c5416b"
     },
     {
       "fonte": "pncp",
-      "id_externo": "83021881000154-1-000146/2026",
-      "titulo": "Inexigibilidade PRI 60/2026",
-      "objeto": "CONTRATAÇÃO DE APRESENTAÇÃO ARTÍSTICA DA BANDA GDO, PARA ANIMAÇÃO MUSICAL DO EVENTO SHOW DA VIRADA, A SER REALIZADO NO DIA 31 DE DEZEMBRO DE 2026, NO MÓDULO ESPORTIVO, NO MUNICÍPIO DE SAUDADES/SC.",
-      "orgao": "MUNICIPIO DE SAUDADES",
-      "cnpj_orgao": "83021881000154",
-      "municipio": "Saudades",
-      "uf": "SC",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 55000.0,
-      "data_publicacao": "2026-11-25T07:43:55",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/83021881000154/1/000146/2026",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "ab676f05b4a88d17"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "88489786000101-1-000218/2026",
-      "titulo": "Inexigibilidade 65/2026",
-      "objeto": "Contratação de apresentação artística de Guri de Uruguaiana, para a realização de 01 (uma) apresentação do espetáculo temático Natal do Guri de Uruguaiana, na abertura oficial do Natal na Capital Gaúcha do Fandango, que ocorrerá no dia 28 de novembro de 2026, na Praça XV de novembro. Maiores detalhes podem ser consultados no Termo de Referência e demais documentos que integram o processo nº 34498/2026, de Inexigibilidade de Licitação, formulados pela Secretaria responsável, no presente processo, a Secretaria Municipal de Desenvolvimento Econômico, Cultura, Turismo e Inovação - SMDECTI.",
-      "orgao": "MUNICIPIO DE SAO BORJA",
-      "cnpj_orgao": "88489786000101",
-      "municipio": "São Borja",
-      "uf": "RS",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 59560.0,
-      "data_publicacao": "2026-11-25T08:17:48",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/88489786000101/1/000218/2026",
-      "link_origem": "",
-      "score": 24,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "947c4945c351c44e"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "75845503000167-1-000113/2026",
-      "titulo": "Inexigibilidade 27/2026",
-      "objeto": "Contratação de empresa que detém representação e exclusividade de show musical com a dupla Mariana & Mateus, com duração de 1 (uma) hora e 30 (trinta) minutos, a ser realizado no dia 12 de dezembro de 2026, em comemoração ao 74º aniversário de emancipação política do Município de Centenário do Sul - Paraná, visando proporcionar entretenimento e lazer à população, bem como abrilhantar as festividades comemorativas do Município",
-      "orgao": "MUNICIPIO DE CENTENARIO DO SUL",
-      "cnpj_orgao": "75845503000167",
-      "municipio": "Centenário do Sul",
-      "uf": "PR",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 1º, § 2º As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser editada por ministro de Estado.",
-      "valor_estimado": 60000.0,
-      "data_publicacao": "2026-11-25T08:32:08",
-      "data_abertura": "2026-11-19T08:00:00",
-      "data_limite": "2026-11-20T09:00:00",
-      "link": "https://pncp.gov.br/app/editais/75845503000167/1/000113/2026",
-      "link_origem": "",
-      "score": 20,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
-        ],
-        "B": [
-          "\\baniversario (do |de |da )?(municipio|cidade|emancipacao)",
-          "\\bfestividade(s)?\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "da983ca5b164caea"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "77001311000108-1-000691/2026",
-      "titulo": "Inexigibilidade PRI 275/2026",
-      "objeto": " Contratação de apresentação da banda Europa Show, para compor a programação do 2º Réveillon de Castro, dia 31 de dezembro de 2026.",
-      "orgao": "MUNICIPIO DE CASTRO",
-      "cnpj_orgao": "77001311000108",
-      "municipio": "Castro",
-      "uf": "PR",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 85000.0,
-      "data_publicacao": "2026-11-25T07:33:26",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/77001311000108/1/000691/2026",
-      "link_origem": "",
-      "score": 16,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [
-          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
-        ],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "288a2ad2e28c1a7d"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "08109126000100-1-000654/2026",
-      "titulo": "Inexigibilidade 355/2026",
-      "objeto": "Contratação do artista Plástico Assis Costa, representado pela empresa  FRANCISCO DE ASSIS BATISTA DA COSTA, inscrita no CNPJ nº 48.280.067/0001-53, para a elaboração, confecção, revitalização, instalação, manutenção e desmontagem de peças decorativas e itens ornamentais do evento “Natal Luzes do Sertão 2026”.",
-      "orgao": "MUNICIPIO DE CURRAIS NOVOS",
-      "cnpj_orgao": "08109126000100",
-      "municipio": "Currais Novos",
-      "uf": "RN",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 180000.0,
-      "data_publicacao": "2026-11-25T07:49:06",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/08109126000100/1/000654/2026",
-      "link_origem": "",
-      "score": 14,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)",
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": [
-          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
-        ]
-      },
-      "trecho": "",
-      "uid": "4b98cb469c81780f"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "29115474000160-1-000792/2026",
-      "titulo": "Inexigibilidade 797/2026",
-      "objeto": "Contratação do artista LUCAS LISBOA COSTA para atender ao evento \"III Congresso de Gestão de Pessoas\", que será realizado na Câmara Municipal de Macaé, no dia 26 de novembro de 2026 às 08:30 horas.",
-      "orgao": "MUNICIPIO DE MACAE",
-      "cnpj_orgao": "29115474000160",
-      "municipio": "Macaé",
-      "uf": "RJ",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, IV Inexigibilidade de Licitação: objetos que devam ou possam ser contratados por meio de credenciamento",
-      "valor_estimado": 1500.0,
-      "data_publicacao": "2026-11-25T07:24:52",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/29115474000160/1/000792/2026",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bcontratac(ao|oes) (de |da |do )?(banda|artista|cantor|cantora|dupla|grupo musical|atracao|atracoes|show)"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "62c9fc9e379583c4"
-    },
-    {
-      "fonte": "pncp",
-      "id_externo": "27167311000104-1-000100/2026",
-      "titulo": "Inexigibilidade 000031/2026",
-      "objeto": "Contratação direta de show do artista Carlinhos Rocha para o Réveillon2027",
-      "orgao": "MUNICIPIO DE ECOPORANGA",
-      "cnpj_orgao": "27167311000104",
-      "municipio": "Ecoporanga",
-      "uf": "ES",
-      "modalidade": "Inexigibilidade",
-      "amparo_legal": "Lei 14.133/2021, Art. 74, II Inexigibilidade de Licitação: contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública",
-      "valor_estimado": 55000.0,
-      "data_publicacao": "2026-11-25T07:56:40",
-      "data_abertura": "",
-      "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/27167311000104/1/000100/2026",
-      "link_origem": "",
-      "score": 12,
-      "categoria": "INEXIGIBILIDADE_ART74",
-      "genero_alvo": false,
-      "hits": {
-        "A": [
-          "\\bempresario exclusivo\\b"
-        ],
-        "B": [],
-        "C": [],
-        "NEG": []
-      },
-      "trecho": "",
-      "uid": "98da34ee6884e5e0"
-    },
-    {
-      "fonte": "pncp_search",
       "id_externo": "04262432000121-1-000195/2026",
-      "titulo": "Edital de Chamamento Público nº 011/2026",
+      "titulo": "Credenciamento 011/2026",
       "objeto": "Credenciamento de interessados para a captação e seleção de cotas de patrocínio, por pessoas físicas e/ou jurídicas de direito privado, com ou sem fins lucrativos, visando o custeio parcial ou integral de atrações artísticas, premiações, equipamentos de Som e iluminação, estruturas de palcos, tendas e serviços necessários à realização do Réveillon e Carnaval de Coari – 2027, promovidos pela Secretaria Municipal de Cultura e Turismo, com direito de exibição de publicidade/merchandising em espaços e equipamentos públicos do município",
       "orgao": "MUNICIPIO DE COARI",
       "cnpj_orgao": "04262432000121",
       "municipio": "Coari",
       "uf": "AM",
       "modalidade": "Credenciamento",
-      "amparo_legal": "",
-      "valor_estimado": null,
-      "data_publicacao": "2026-11-27T17:05:32.996328325",
-      "data_abertura": "",
-      "data_limite": "2026-12-11T23:59",
-      "link": "https://pncp.gov.br/compras/04262432000121/2026/195",
-      "link_origem": "",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 8170000.0,
+      "data_publicacao": "2026-11-27T17:05:32",
+      "data_abertura": "2026-11-24T09:00:00",
+      "data_limite": "2026-12-11T23:59:00",
+      "link": "https://pncp.gov.br/app/editais/04262432000121/1/000195/2026",
+      "link_origem": "http://www.licitacoari.com.br",
       "score": 16,
       "categoria": "CREDENCIAMENTO_ART79",
       "genero_alvo": false,
@@ -478,69 +364,137 @@
         "NEG": []
       },
       "trecho": "",
-      "uid": "51fccf449f5ced5d"
+      "uid": "de02209b45602833"
     },
     {
       "fonte": "pncp",
-      "id_externo": "00697295007371-1-000160/2026",
-      "titulo": "Dispensa RDL0164/2026",
-      "objeto": "SERV MANUT FORRO-POLICODAJAS",
-      "orgao": "SECRETARIA DE ESTADO DA SAUDE - SUSAM",
-      "cnpj_orgao": "00697295007371",
-      "municipio": "Manaus",
-      "uf": "AM",
+      "id_externo": "18348730000143-1-000044/2026",
+      "titulo": "Credenciamento 09/2026",
+      "objeto": "Contratação de empresa para prestação de serviços de show artístico, oficinas culturais, pedagógicas, esportivas, fanfarras e preparação de ambientes para eventos, destinados a atender às necessidades de todas as Secretarias do Município de Virgem da Lapa/MG.",
+      "orgao": "MUNICIPIO DE VIRGEM DA LAPA",
+      "cnpj_orgao": "18348730000143",
+      "municipio": "Virgem da Lapa",
+      "uf": "MG",
+      "modalidade": "Credenciamento",
+      "amparo_legal": "Lei 14.133/2021, Art. 79, I Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "valor_estimado": 951985.41,
+      "data_publicacao": "2026-11-27T14:14:28",
+      "data_abertura": "2026-11-26T00:00:00",
+      "data_limite": "2027-11-26T23:59:59",
+      "link": "https://pncp.gov.br/app/editais/18348730000143/1/000044/2026",
+      "link_origem": "https://app2.licitardigital.com.br/pesquisa/120497",
+      "score": 12,
+      "categoria": "CREDENCIAMENTO_ART79",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [],
+        "C": [],
+        "NEG": []
+      },
+      "trecho": "",
+      "uid": "fc84b2c1e08d0801"
+    },
+    {
+      "fonte": "pncp_search",
+      "id_externo": "37226644000102-1-000143/2026",
+      "titulo": "Edital nº PR 34/2026",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO DE ESTRUTURA COMPLETA DESTINADA À REALIZAÇÃO DE SHOWS ARTÍSTICO-CULTURAIS NAS FESTIVIDADES DO RÉVEILLON 2026/2027 DO MUNICÍPIO DE NOVO HORIZONTE DO SUL/MS, NA PRAÇA DOS PODERES, NA VIRADA DE 31 DE DEZEMBRO DE 2026 PARA 1º DE JANEIRO DE 2027, COMPREENDENDO OS SERVIÇOS DE TRANSPORTE, MONTAGEM, OPERAÇÃO TÉCNICA E DESMONTAGEM, BEM COMO O FORNECIMENTO DE MATERIAIS, EQUIPAMENTOS, ESTRUTURAS, MÃO DE OBRA E DEMAIS ITENS NECESSÁRIOS À EXECUÇÃO DO OBJETO.",
+      "orgao": "MUNICIPIO DE NOVO HORIZONTE DO SUL",
+      "cnpj_orgao": "37226644000102",
+      "municipio": "Novo Horizonte do Sul",
+      "uf": "MS",
+      "modalidade": "Pregão - Presencial",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-27T15:31:41.603030953",
+      "data_abertura": "",
+      "data_limite": "2026-12-14T08:59",
+      "link": "https://pncp.gov.br/compras/37226644000102/2026/143",
+      "link_origem": "",
+      "score": 10,
+      "categoria": "EVENTO_MUNICIPAL",
+      "genero_alvo": false,
+      "hits": {
+        "A": [
+          "\\bshow(s)? (musical|musicais|artistico|artisticos|de|com)\\b"
+        ],
+        "B": [
+          "\\bfestividade(s)?\\b",
+          "\\bcarnaval\\b|\\breveillon\\b|\\bvirada do ano\\b"
+        ],
+        "C": [],
+        "NEG": [
+          "\\bmanutencao\\b|\\breforma\\b|\\bpavimentacao\\b|\\bobra(s)?\\b"
+        ]
+      },
+      "trecho": "",
+      "uid": "bc1a62c07eae5133"
+    },
+    {
+      "fonte": "pncp",
+      "id_externo": "01612150000119-1-000618/2026",
+      "titulo": "Dispensa 568/2026",
+      "objeto": "Apresentação musical na feira livre de Jumirim - edição de dezembro 2026",
+      "orgao": "MUNICIPIO DE JUMIRIM",
+      "cnpj_orgao": "01612150000119",
+      "municipio": "Jumirim",
+      "uf": "SP",
       "modalidade": "Dispensa",
       "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
-      "valor_estimado": 64900.0,
-      "data_publicacao": "2026-11-25T00:31:12",
+      "valor_estimado": 1370.0,
+      "data_publicacao": "2026-11-25T08:08:41",
       "data_abertura": "",
       "data_limite": "",
-      "link": "https://pncp.gov.br/app/editais/00697295007371/1/000160/2026",
-      "link_origem": "https://www.e-compras.am.gov.br/publico/licitacoes_detalhes.asp?ident=257340",
-      "score": 18,
+      "link": "https://pncp.gov.br/app/editais/01612150000119/1/000618/2026",
+      "link_origem": "",
+      "score": 12,
       "categoria": "DISPENSA",
-      "genero_alvo": true,
+      "genero_alvo": false,
       "hits": {
         "A": [
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "7dab60dadfd205fb"
+      "uid": "ed76f48faf2a006c"
     },
     {
-      "fonte": "pncp",
-      "id_externo": "00394502000144-1-017476/2026",
-      "titulo": "Dispensa 97/2026",
-      "objeto": "contratação de empresa especializada para o serviço de substituição do forro do  teto  do  rancho  do Navio-Patrulha  Guaíba,",
-      "orgao": "COMANDO DA MARINHA",
-      "cnpj_orgao": "00394502000144",
-      "municipio": "Natal",
-      "uf": "RN",
-      "modalidade": "Dispensa",
-      "amparo_legal": "Lei 14.133/2021, Art. 75, II Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
-      "valor_estimado": 60000.0,
-      "data_publicacao": "2026-11-25T06:54:19",
-      "data_abertura": "2026-11-25T08:00:00",
-      "data_limite": "2026-11-30T08:00:00",
-      "link": "https://pncp.gov.br/app/editais/00394502000144/1/017476/2026",
-      "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=78314106000972026",
-      "score": 18,
-      "categoria": "DISPENSA",
-      "genero_alvo": true,
+      "fonte": "pncp_search",
+      "id_externo": "18303214000100-1-000062/2026",
+      "titulo": "Edital nº 000036/2026",
+      "objeto": "Registro de preços para futura e eventual contratação de empresa especializada na prestação de serviços de apresentações artísticas e culturais e de locução, compreendendo bandas, cantores, DJs, grupos folclóricos, grupos carnavalescos e apresentações infantis, para atendimento aos eventos promovidos ou apoiados pelas secretarias municipais de Morro do Pilar/MG, conforme as especificações e condições estabelecidas na tabela abaixo.",
+      "orgao": "MUNICIPIO DE MORRO DO PILAR",
+      "cnpj_orgao": "18303214000100",
+      "municipio": "Morro do Pilar",
+      "uf": "MG",
+      "modalidade": "Pregão - Eletrônico",
+      "amparo_legal": "",
+      "valor_estimado": null,
+      "data_publicacao": "2026-11-27T10:59:51.265765012",
+      "data_abertura": "",
+      "data_limite": "2026-12-14T09:00",
+      "link": "https://pncp.gov.br/compras/18303214000100/2026/62",
+      "link_origem": "",
+      "score": 24,
+      "categoria": "OUTRO_ARTISTICO",
+      "genero_alvo": false,
       "hits": {
         "A": [
-          "\\b(sertanej|forro|piseiro|arrocha|moda de viola|musica de raiz)\\w*\\b"
+          "\\bapresentac(ao|oes) (artistica|artisticas|musical|musicais|de banda)",
+          "\\bservico(s)? de apresentac(ao|oes) (artistica|musical)"
         ],
         "B": [],
         "C": [],
         "NEG": []
       },
       "trecho": "",
-      "uid": "be4cb3ee8cec055a"
+      "uid": "957389382d46ab8e"
     }
   ]
 }
